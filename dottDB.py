@@ -2,11 +2,22 @@ import json
 import pandas as pd
 import sqlite3
 
-direccionDatosUnificados = "D:/Nano/repos/DottAPI/Excel/datos.xlsx"
+# Windows
+
+# direccionDatosUnificados = "D:/Nano/repos/DottAPI/Excel/datos.xlsx"
+# direccionAchivosJson = {
+#     "jsonDatos": "D:/Nano/repos/DottAPI/Excel/data.json",
+#     "jsonDolar": "D:/Nano/repos/DottAPI/Excel/dataDolar.json",
+#     "direccionDB":"D:/Nano/repos/DottAPI/Excel/productosDB.sqlite"
+# }
+
+# Linux
+
+direccionDatosUnificados = "datos.xlsx"
 direccionAchivosJson = {
-    "jsonDatos": "D:/Nano/repos/DottAPI/Excel/data.json",
-    "jsonDolar": "D:/Nano/repos/DottAPI/Excel/dataDolar.json",
-    "direccionDB":"D:/Nano/repos/DottAPI/Excel/productosDB.sqlite"
+    "jsonDatos": "/home/do0t/Documents/ChatGPT/Repo-Python-DB-DottAPI/data.json",
+    "jsonDolar": "/home/do0t/Documents/ChatGPT/Repo-Python-DB-DottAPI/dataDolar.json",
+    "direccionDB":"/home/do0t/Documents/ChatGPT/Repo-Python-DB-DottAPI/productosDB.sqlite"
 }
 
 # Lectura de datos desde el archivo Excel usando pandas
