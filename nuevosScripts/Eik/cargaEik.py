@@ -4,9 +4,23 @@ import json
 
 
 #Direccion archivos en Windows
-listadoEikon = 'Eik/Listado/listadoEik.xlsx'
-listadoCsv = 'Eik/Listado/listadoEik.csv'
-listadoJson = 'Eik/Json/listadoJson.json'
+# listadoEikon = 'Eik/Listado/listadoEik.xlsx'
+# listadoCsv = 'Eik/Listado/listadoEik.csv'
+# listadoJson = 'Eik/Json/listadoJson.json'
+
+
+#Direccion archivos en Linux
+listadoEikon = 'Repo-Python-DB-DottAPI/nuevosScripts/Eik/Listado/listadoEik.xlsx'
+listadoCsv = 'Repo-Python-DB-DottAPI/nuevosScripts/Eik/Listado/listadoEik.csv'
+listadoJson = 'Repo-Python-DB-DottAPI/nuevosScripts/Eik/Json/listadoJson.json'
+
+
+#direccion diccionarios
+#windows
+#diccionarios = 'Repo-Python-DB-DottAPI/nuevosScripts/diccionarios/diccionarios.json'
+#linux
+diccionarios = 'Repo-Python-DB-DottAPI/nuevosScripts/diccionarios/diccionarios.json'
+
 
 def convertirACSV():
     # Leer el archivo XLSX
@@ -21,93 +35,18 @@ def encontrar_valor(diccionario, clave):
         return diccionario[clave]
     else:
         return "No existe una categoria para este producto"
-    
-#Diccionario de Eikon
-diccionario = {
-    "ACCESORIOS":"accesorios",
-"ACCESORIOS PARA NOTEBOOK":"accesorios",
-"ACCESS POINT":"redes",
-"ADAPTADORES USB INALAMBRICOS":"redes",
-"ALL IN ONE":"pc",
-"AURICULARES":"auriculares",
-"AURICULARES BLUETOOTH":"auriculares",
-"BATERIAS":"accesorios",
-"CABLES":"cables",
-"CABLES AUDIO":"cables",
-"CABLES DE CORRIENTE":"cables",
-"CABLES HDMI":"cables",
-"CABLES USB":"cables",
-"CABLES VGA":"cables",
-"CABLES Y ADAPTADORES VARIOS":"cables",
-"CABLES Y CONECTORES UTP - RED":"cables",
-"CAMARAS WEB":"webcams",
-"CARD READER":"memorias",
-"CARTUCHOS EPSON ALTERNATIVOS":"impresion",
-"CARTUCHOS EPSON ORIGINALES":"impresion",
-"CARTUCHOS HP ALTERNATIVOS":"impresion",
-"CARTUCHOS HP ORIGINALES":"impresion",
-"CARTUCHOS KODAK ALTERNATIVOS":"impresion",
-"COMBO MOUSE+TECLADO INALAMBRICO":"teclados",
-"CONVERSORES":"accesorios",
-"CONVERTIDORES SMART":"accesorios",
-"COOLER FAN":"coolers",
-"DISCOS INTERNOS":"discos",
-"DISCOS INTERNOS SSD":"discos",
-"DISCOS RIGIDOS EXTERNOS":"discos",
-"ESTABILIZADORES DE TENSION":"electro",
-"FUENTES PARA MONITORES":"monitores",
-"FUENTES PARA NOTEBOOK":"notebooks",
-"FUENTES VARIAS":"fuentes",
-"GABINETES CON KIT":"gabinetes",
-"JOYSTICK/GAMEPAD/VOLANTES":"gamer",
-"MEMORIAS PARA COMPUTADORAS":"rams",
-"MEMORIAS PARA NOTEBOOK":"rams",
-"MESAS PARA COMPUTADORAS":"electro",
-"MICROPROCESADORES":"procesadores",
-"MONITORES":"monitores",
-"MONITORES OUTLET":"monitores",
-"MONITORES PARA EQUIPOS":"monitores",
-"MOTHERBOARD":"mother",
-"MOUSE":"mouse",
-"MOUSE GAMING":"mouse",
-"NOTEBOOK":"notebooks",
-"OUTLET":"accesorios",
-"PAD MOUSE":"mouse",
-"PARLANTES":"parlantes",
-"PARLANTES BLUETOOTH":"parlantes",
-"PARLANTES PORTATILES BLUETOOTH":"parlantes",
-"PEN DRIVE":"memorias",
-"PILAS":"accesorios",
-"PLACAS DE VIDEO":"vga",
-"PLACAS PCI INALAMBRICAS":"redes",
-"PRODUCTOS DE CONECTIVIDAD":"redes",
-"PRODUCTOS SABRENT":"redes",
-"RED NETWORK":"redes",
-"REPUESTOS":"accesorios",
-"ROUTER INALAMBRICO":"redes",
-"SILLAS NIBIO":"sillas",
-"SISTEMAS OPERATIVOS":"accesorios",
-"SOFTWARE":"accesorios",
-"SOPORTES":"soportes",
-"TABLETS LENOVO":"tablets",
-"TABLETS VARIAS":"tablets",
-"TARJETAS DE MEMORIA":"memorias",
-"TECLADOS":"teclados",
-"TECLADOS GAMER":"teclados",
-"TELEFONIA":"celulares",
-"TONER BROTHER ALTERNATIVOS":"impresion",
-"TONER HP ALTERNATIVOS":"impresion",
-"TONER HP ORIGINALES":"impresion",
-"TONER SAMSUNG ALTERNATIVOS":"impresion",
-"UNIDADES OPTICAS":"accesorios",
-"UPS":"electro",
-"VARIOS":"accesorios",
-"BROTHER":"impresion",
-"SOPORTES Y ACCESORIOS":"accesorios",
-"MICROFONOS":"microfonos",
-"PILAS Y CARGADORES":"electro",
-}
 
+
+def obtenerDiccionario(nombreDiccionario):
+    with open(diccionarios) as diccionariosOpen:
+        # Carga los datos del archivo en un diccionario
+        diccionariosJson = json.load(diccionariosOpen)
+
+    # Accede a los diccionarios individuales por su clave
+    diccionarioBuscado = diccionariosJson[''+nombreDiccionario]
+
+    # Ahora puedes trabajar con los diccionarios como desees
+    return diccionarioBuscado
 
 
 def crearJson():
@@ -132,7 +71,7 @@ def crearJson():
             # Crea un diccionario con los datos de cada registro
             registro = {
                 'detalle': descripcion,
-                'categoria': encontrar_valor(diccionario, categoria),
+                'categoria': encontrar_valor(obtenerDiccionario('eikon'), categoria),
                 'precioFinal': round(( float(precio) * 1.1),2)
             }
 

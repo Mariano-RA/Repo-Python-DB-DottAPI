@@ -4,9 +4,21 @@ import json
 
 
 #Direccion archivos en Windows
-listadoElit = 'Elit/Listado/listadoElit.xlsx'
-listadoCsv = 'Elit/Listado/listadoEik.csv'
-listadoJson = 'Elit/Json/listadoJson.json'
+# listadoElit = 'Elit/Listado/listadoElit.xlsx'
+# listadoCsv = 'Elit/Listado/listadoEik.csv'
+# listadoJson = 'Elit/Json/listadoJson.json'
+
+#Direccion archivos en Linux
+listadoElit = 'Repo-Python-DB-DottAPI/nuevosScripts/Elit/Listado/listadoElit.xlsx'
+listadoCsv = 'Repo-Python-DB-DottAPI/nuevosScripts/Elit/Listado/listadoEik.csv'
+listadoJson = 'Repo-Python-DB-DottAPI/nuevosScripts/Elit/Json/listadoJson.json'
+
+#direccion diccionarios
+#windows
+#diccionarios = 'Repo-Python-DB-DottAPI/nuevosScripts/diccionarios/diccionarios.json'
+#linux
+diccionarios = 'Repo-Python-DB-DottAPI/nuevosScripts/diccionarios/diccionarios.json'
+
 
 def convertirACSV():
     # Leer el archivo XLSX
@@ -22,66 +34,17 @@ def encontrar_valor(diccionario, clave):
     else:
         return "No existe una categoria para este producto"
     
-#Diccionario de Eikon
-diccionario = {
-    "Accesorios":"accesorios",
-"Accesorios Seguridad":"accesorios",
-"All In One":"pc",
-"Auriculares":"auriculares",
-"Botellas de Tinta":"impresion",
-"Cables":"cables",
-"Camaras IP":"camaras",
-"Camaras Web":"webcams",
-"Camaras Wifi":"camaras",
-"Cartuchos de Tinta":"impresion",
-"Cd":"accesorios",
-"Cintas":"impresion",
-"Coolers":"coolers",
-"Discos Externos":"discos",
-"Discos Externos SSD":"discos",
-"Discos Internos":"discos",
-"Discos Internos SSD":"discos",
-"Dvd":"accesorios",
-"Estabilizadores":"electro",
-"Fuentes":"fuentes",
-"Fundas":"accesorios",
-"Gabinetes":"gabinetes",
-"Impresoras de Sistema Continuo":"impresion",
-"Impresoras Inkjet":"impresion",
-"Impresoras Laser":"impresion",
-"Impresoras Multifunción":"impresion",
-"Memorias Flash":"memorias",
-"Memorias PC":"rams",
-"Microfonos":"microfonos",
-"Monitores":"monitores",
-"Motherboards":"mother",
-"Mouses":"mouse",
-"Notebooks Consumo":"notebooks",
-"Notebooks Corporativo":"notebooks",
-"Parlantes":"parlantes",
-"PC de Escritorio":"pc",
-"Pen Drive":"memorias",
-"Placas de Red":"redes",
-"Procesadores":"procesadores",
-"Protectores":"electro",
-"Resmas":"impresion",
-"Routers":"redes",
-"Sillas":"sillas",
-"Smart Home":"electro",
-"Soportes":"soportes",
-"Tabletas Digitalizadoras":"tablet",
-"Teclados":"teclados",
-"Toners":"impresion",
-"Ups":"electro",
-"Baterias":"accesorios",
-"Memorias Notebook":"accesorios",
-"Escaner":"impresion",
-"Volantes":"gamer",
-"Memorias Notebook":"rams",
-"Placas de Video":"vga",
-"Joysticks":"gamer",
-}
 
+def obtenerDiccionario(nombreDiccionario):
+    with open(diccionarios) as diccionariosOpen:
+        # Carga los datos del archivo en un diccionario
+        diccionariosJson = json.load(diccionariosOpen)
+
+    # Accede a los diccionarios individuales por su clave
+    diccionarioBuscado = diccionariosJson[''+nombreDiccionario]
+
+    # Ahora puedes trabajar con los diccionarios como desees
+    return diccionarioBuscado
 
 
 def crearJson():
@@ -108,7 +71,7 @@ def crearJson():
             # Crea un diccionario con los datos de cada registro
             registro = {
                 'detalle': descripcion,
-                'categoria': encontrar_valor(diccionario, categoria),
+                'categoria': encontrar_valor(obtenerDiccionario('elit'), categoria),
                 'precioFinal': round((float(precio) * (1 + (float(iva)+ float(ivaInterno))/100) * 1.1),2)
             }
 
