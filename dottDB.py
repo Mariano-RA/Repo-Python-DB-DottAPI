@@ -2,36 +2,48 @@ import json
 import pandas as pd
 import sqlite3
 
-# Windows
-
-# direccionDatosUnificados = "D:/Nano/repos/DottAPI/Excel/datos.xlsx"
+#Direccion linux
+# listadosJson = {
+#     "air": "/home/do0t/Documents/Proyectos-GIT/Repo-Python-DB-DottAPI/nuevosScripts/Air/Json/listadoAir.json",
+#     "eikon": "/home/do0t/Documents/Proyectos-GIT/Repo-Python-DB-DottAPI/nuevosScripts/Eik/Json/listadoJson.json",
+#     "elit": "/home/do0t/Documents/Proyectos-GIT/Repo-Python-DB-DottAPI/nuevosScripts/Elit/Json/listadoJson.json",
+#     "nb":"/home/do0t/Documents/Proyectos-GIT/Repo-Python-DB-DottAPI/nuevosScripts/Nb/Json/listadoJson.json",
+# }
+# resJson = "/home/do0t/Documents/Proyectos-GIT/Repo-Python-DB-DottAPI/listadoProductos.json"
 # direccionAchivosJson = {
-#     "jsonDatos": "D:/Nano/repos/DottAPI/Excel/data.json",
-#     "jsonDolar": "D:/Nano/repos/DottAPI/Excel/dataDolar.json",
-#     "direccionDB":"D:/Nano/repos/DottAPI/Excel/productosDB.sqlite"
+#     "jsonDolar": "/home/do0t/Documents/ChatGPT/Repo-Python-DB-DottAPI/dataDolar.json",
+#     "direccionDB":"/home/do0t/Documents/ChatGPT/Repo-Python-DB-DottAPI/productosDB.sqlite"
 # }
 
-# Linux
 
-direccionDatosUnificados = "datos.xlsx"
-direccionAchivosJson = {
-    "jsonDatos": "/home/do0t/Documents/ChatGPT/Repo-Python-DB-DottAPI/data.json",
-    "jsonDolar": "/home/do0t/Documents/ChatGPT/Repo-Python-DB-DottAPI/dataDolar.json",
-    "direccionDB":"/home/do0t/Documents/ChatGPT/Repo-Python-DB-DottAPI/productosDB.sqlite"
+#Direccion Windows
+listadosJson = {
+    "air": "nuevosScripts/Air/Json/listadoAir.json",
+    "eikon": "nuevosScripts/Eik/Json/listadoJson.json",
+    "elit": "nuevosScripts/Elit/Json/listadoJson.json",
+    "nb":"nuevosScripts/Nb/Json/listadoJson.json",
 }
 
-# Lectura de datos desde el archivo Excel usando pandas
-datos = pd.read_excel(direccionDatosUnificados, sheet_name="Productos")
-datosDolar  = pd.read_excel(direccionDatosUnificados, sheet_name="Dolares")
+direccionAchivosJson = {
+    "jsonDolar": "dataDolar.json",
+    "direccionDB":"productosDB.sqlite"
+}
 
-#Creo el archivo JSON y cargo los datos del excel
-jsonFIle = open(direccionAchivosJson['jsonDatos'], "w")
-jsonFIle.write(datos.to_json(orient='records'))
-jsonFIle.close()
+# Lectura del archivo JSON
+with open(listadosJson["air"]) as f:
+    listadoAir = json.load(f)
 
-jsonFIle = open(direccionAchivosJson['jsonDolar'], "w")
-jsonFIle.write(datosDolar.to_json(orient='records'))
-jsonFIle.close()
+    
+with open(listadosJson["eikon"]) as f:
+    listadoEik = json.load(f)
+
+with open(listadosJson["elit"]) as f:
+    listadoElit = json.load(f)
+
+with open(listadosJson["nb"]) as f:
+    listadoNb = json.load(f)
+
+listaProductos = listadoAir + listadoEik + listadoElit + listadoNb
 
 
 # Nombre de la tabla en la base de datos SQLite
@@ -44,31 +56,22 @@ conexion = sqlite3.connect(direccionAchivosJson['direccionDB'])
 # Creación de la tabla en la base de datos SQLite
 cursor = conexion.cursor()
 cursor.execute(f'DROP TABLE IF EXISTS {nombre_tabla}')
-cursor.execute(f'CREATE TABLE {nombre_tabla} (id integer PRIMARY KEY, proveedor text, producto text, categoria text DEFAULT "Sin categoria", precio float, precioEfectivo float, precioTarjeta float)')
+cursor.execute(f'CREATE TABLE {nombre_tabla} (id integer PRIMARY KEY AUTOINCREMENT, proveedor text, producto text, categoria text, precio float)')
 cursor.execute(f'DROP TABLE IF EXISTS {nombre_tabla_2}')
 cursor.execute(f'CREATE TABLE {nombre_tabla_2} (id integer PRIMARY KEY AUTOINCREMENT, precioDolar float, precioTarjeta float)')
 
-
-# Lectura del archivo JSON
-with open(direccionAchivosJson['jsonDatos']) as f:
-    datos = json.load(f)
 
 with open(direccionAchivosJson['jsonDolar']) as g:
     datos_dolar = json.load(g)
 
 # Almacenamiento de los datos en la base de datos SQLite
-for dato in datos:
-    if dato['categoria'] is None:       
-        if dato['categoria'] is None:   
-            dato["categoria"] = "Sin categoria"
-    if dato['precio'] is not None:
-        cursor.execute(f"INSERT INTO {nombre_tabla} (id, proveedor, producto, categoria, precio, precioEfectivo, precioTarjeta) VALUES (?, ?, ?,?, ?, ?, ?)", (dato['id'], dato['proveedor'], dato['producto'], dato['categoria'], dato['precio'], dato['precioEfectivo'], dato['precioTarjeta']))
+for dato in listaProductos:
+    if dato['precioFinal'] is not None:
+        cursor.execute(f"INSERT INTO {nombre_tabla} (proveedor, producto, categoria, precio) VALUES (?, ?,?, ?)", (dato['proveedor'], dato['detalle'], dato['categoria'], dato['precioFinal']))
 
 for dato in datos_dolar:
     cursor.execute(f"INSERT INTO {nombre_tabla_2} ( precioDolar, precioTarjeta) VALUES ( ?, ?)", (dato['precioDolar'], dato['precioTarjeta']))
 
-
-                   
 
 # Confirmación de los cambios y cierre de la conexión a la base de datos
 conexion.commit()
