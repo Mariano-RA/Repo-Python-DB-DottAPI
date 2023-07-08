@@ -2,12 +2,6 @@ import csv
 import json
 
 
-#Direccion archivos en Windows
-# listadoEikon = 'Eik/Listado/listadoEik.xlsx'
-# listadoCsv = 'Eik/Listado/listadoEik.csv'
-# listadoJson = 'Eik/Json/listadoJson.json'
-
-
 #Direccion archivos en Linux
 listadoCsv = 'Repo-Python-DB-DottAPI/nuevosScripts/Air/Listado/articulos.csv'
 listadoJson = 'Repo-Python-DB-DottAPI/nuevosScripts/Air/Json/listadoAir.json'
@@ -15,8 +9,6 @@ listadoJson = 'Repo-Python-DB-DottAPI/nuevosScripts/Air/Json/listadoAir.json'
 
 #direccion diccionarios
 #windows
-#diccionarios = 'Repo-Python-DB-DottAPI/nuevosScripts/diccionarios/diccionarios.json'
-#linux
 diccionarios = 'Repo-Python-DB-DottAPI/nuevosScripts/diccionarios/diccionarios.json'
 
 
@@ -43,7 +35,7 @@ def obtenerDiccionario(nombreDiccionario):
 
 def crearArchivoJson():
     # Abre el archivo CSV en modo lectura con la codificación adecuada
-    with open(listadoCsv, 'r',encoding='iso-8859-1') as file:
+    with open(listadoCsv, 'r') as file:
         # Crea un objeto lector CSV
         csv_reader = csv.reader(file, delimiter=',')
 

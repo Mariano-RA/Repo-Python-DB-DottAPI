@@ -1,19 +1,9 @@
 import csv
 import json
 
-#Direccion archivos en Windows
-# listadoCsv = 'Nb/Listado/listadoNB.csv'
-# listadoJson = 'Nb/Json/listadoJson.json'
-
-#Direccion archivos en Linux
+#Direccion archivos
 listadoCsv = 'Repo-Python-DB-DottAPI/nuevosScripts/Nb/Listado/listadoNB.csv'
 listadoJson = 'Repo-Python-DB-DottAPI/nuevosScripts/Nb/Json/listadoJson.json'
-
-
-#direccion diccionarios
-#windows
-#diccionarios = 'Repo-Python-DB-DottAPI/nuevosScripts/diccionarios/diccionarios.json'
-#linux
 diccionarios = 'Repo-Python-DB-DottAPI/nuevosScripts/diccionarios/diccionarios.json'
 
 def encontrar_valor(diccionario, clave):

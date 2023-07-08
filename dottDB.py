@@ -2,31 +2,18 @@ import json
 import pandas as pd
 import sqlite3
 
-#Direccion linux
-# listadosJson = {
-#     "air": "/home/do0t/Documents/Proyectos-GIT/Repo-Python-DB-DottAPI/nuevosScripts/Air/Json/listadoAir.json",
-#     "eikon": "/home/do0t/Documents/Proyectos-GIT/Repo-Python-DB-DottAPI/nuevosScripts/Eik/Json/listadoJson.json",
-#     "elit": "/home/do0t/Documents/Proyectos-GIT/Repo-Python-DB-DottAPI/nuevosScripts/Elit/Json/listadoJson.json",
-#     "nb":"/home/do0t/Documents/Proyectos-GIT/Repo-Python-DB-DottAPI/nuevosScripts/Nb/Json/listadoJson.json",
-# }
-# resJson = "/home/do0t/Documents/Proyectos-GIT/Repo-Python-DB-DottAPI/listadoProductos.json"
-# direccionAchivosJson = {
-#     "jsonDolar": "/home/do0t/Documents/ChatGPT/Repo-Python-DB-DottAPI/dataDolar.json",
-#     "direccionDB":"/home/do0t/Documents/ChatGPT/Repo-Python-DB-DottAPI/productosDB.sqlite"
-# }
-
 
 #Direccion Windows
 listadosJson = {
-    "air": "nuevosScripts/Air/Json/listadoAir.json",
-    "eikon": "nuevosScripts/Eik/Json/listadoJson.json",
-    "elit": "nuevosScripts/Elit/Json/listadoJson.json",
-    "nb":"nuevosScripts/Nb/Json/listadoJson.json",
+    "air": "Repo-Python-DB-DottAPI/nuevosScripts/Air/Json/listadoAir.json",
+    "eikon": "Repo-Python-DB-DottAPI/nuevosScripts/Eik/Json/listadoJson.json",
+    "elit": "Repo-Python-DB-DottAPI/nuevosScripts/Elit/Json/listadoJson.json",
+    "nb":"Repo-Python-DB-DottAPI/nuevosScripts/Nb/Json/listadoJson.json",
 }
 
 direccionAchivosJson = {
-    "jsonDolar": "dataDolar.json",
-    "direccionDB":"productosDB.sqlite"
+    "jsonDolar": "Repo-Python-DB-DottAPI/dataDolar.json",
+    "direccionDB":"Repo-Python-DB-DottAPI/productosDB.sqlite"
 }
 
 # Lectura del archivo JSON

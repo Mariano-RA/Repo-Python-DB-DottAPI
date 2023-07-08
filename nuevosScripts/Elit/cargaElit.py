@@ -3,20 +3,12 @@ import csv
 import json
 
 
-#Direccion archivos en Windows
-# listadoElit = 'Elit/Listado/listadoElit.xlsx'
-# listadoCsv = 'Elit/Listado/listadoEik.csv'
-# listadoJson = 'Elit/Json/listadoJson.json'
 
-#Direccion archivos en Linux
+#Direccion archivo
 listadoElit = 'Repo-Python-DB-DottAPI/nuevosScripts/Elit/Listado/listadoElit.xlsx'
 listadoCsv = 'Repo-Python-DB-DottAPI/nuevosScripts/Elit/Listado/listadoEik.csv'
 listadoJson = 'Repo-Python-DB-DottAPI/nuevosScripts/Elit/Json/listadoJson.json'
 
-#direccion diccionarios
-#windows
-#diccionarios = 'Repo-Python-DB-DottAPI/nuevosScripts/diccionarios/diccionarios.json'
-#linux
 diccionarios = 'Repo-Python-DB-DottAPI/nuevosScripts/diccionarios/diccionarios.json'
 
 
