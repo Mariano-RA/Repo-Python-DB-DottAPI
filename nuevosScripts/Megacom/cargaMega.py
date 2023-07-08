@@ -4,9 +4,9 @@ import json
 
 
 #Direccion archivos en Linux
-listadoInvid = "Repo-Python-DB-DottAPI/nuevosScripts/Invid/Listado/listadoInvid.xlsx"
-listadoCsv = 'Repo-Python-DB-DottAPI/nuevosScripts/Invid/Listado/listadoInvid.csv'
-listadoJson = 'Repo-Python-DB-DottAPI/nuevosScripts/Invid/Json/listadoJson.json'
+listadoInvid = "Repo-Python-DB-DottAPI/nuevosScripts/Megacom/Listado/listadoMega.xlsx"
+listadoCsv = 'Repo-Python-DB-DottAPI/nuevosScripts/Megacom/Listado/listadoMega.csv'
+listadoJson = 'Repo-Python-DB-DottAPI/nuevosScripts/Megacom/Json/listadoJson.json'
 diccionarios = 'Repo-Python-DB-DottAPI/nuevosScripts/diccionarios/diccionarios.json'
 
 def convertirACSV():
@@ -39,7 +39,7 @@ def obtenerDiccionario(nombreDiccionario):
 
 def crearJson():
     # Abre el archivo CSV en modo lectura con la codificación adecuada
-    with open(listadoCsv, 'r') as file:
+    with open(listadoCsv, 'r',encoding="utf-8") as file:
         # Crea un objeto lector CSV
         csv_reader = csv.reader(file, delimiter=',')
 
@@ -51,18 +51,18 @@ def crearJson():
         
         next(csv_reader)  # Ignora la primera fila de encabezados
         for row in csv_reader:
-            if(row[3] != "" and row[3] != "Nro. de Parte"):
+            if(row[3] != ""):
                 descripcion = row[1]
-                categoria = row[8]
-                precio = float (row[5])
-                iva = (1 + (float(row[6])/100)) * (1 + (float(row[7])/100))
+                categoria = row[6]
+                iva = row[4].replace("+", "").replace("%","")
+                precio = row[2].replace("U$s ", "")
                 
                 # Crea un diccionario con los datos de cada registro
                 registro = {
-                    'proveedor':"invid",
+                    "proveedor": "mega",
                     'detalle': descripcion,
-                    'categoria': encontrar_valor(obtenerDiccionario('invid'), categoria),
-                    'precioFinal': round((precio * iva * 1.1),2)
+                    'categoria': encontrar_valor(obtenerDiccionario('mega'), categoria),
+                    'precioFinal': round((float(precio) * (1 + (float(iva)/100)) * 1.1),2)
                 }
             
                 # Agrega el diccionario a la lista de datos

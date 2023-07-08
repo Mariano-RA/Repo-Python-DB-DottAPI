@@ -9,6 +9,8 @@ listadosJson = {
     "eikon": "Repo-Python-DB-DottAPI/nuevosScripts/Eik/Json/listadoJson.json",
     "elit": "Repo-Python-DB-DottAPI/nuevosScripts/Elit/Json/listadoJson.json",
     "nb":"Repo-Python-DB-DottAPI/nuevosScripts/Nb/Json/listadoJson.json",
+    "invid":"Repo-Python-DB-DottAPI/nuevosScripts/Invid/Json/listadoJson.json",
+    "mega":"Repo-Python-DB-DottAPI/nuevosScripts/Megacom/Json/listadoJson.json",
 }
 
 direccionAchivosJson = {
@@ -30,7 +32,13 @@ with open(listadosJson["elit"]) as f:
 with open(listadosJson["nb"]) as f:
     listadoNb = json.load(f)
 
-listaProductos = listadoAir + listadoEik + listadoElit + listadoNb
+with open(listadosJson["invid"]) as f:
+    lsitadoInvid = json.load(f)
+
+with open(listadosJson["mega"]) as f:
+    listadoMega = json.load(f)
+
+listaProductos = listadoAir + listadoEik + listadoElit + listadoNb + listadoMega + lsitadoInvid
 
 
 # Nombre de la tabla en la base de datos SQLite

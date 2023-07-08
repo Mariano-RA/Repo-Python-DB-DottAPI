@@ -1,0 +1,10 @@
+Cambiar el formato del excel a la version mas nueva
+
+
+Borrar las filas que no sirven y dejar la de la primera categoria de auriculares
+Verificar los espacios en blanco
+agregar la columna categoria y en la primer celda pegar la siguiente formula
+
+=SI(ESBLANCO(E3);""; SI( LARGO(B2)<2; A2;G2))
+
+
