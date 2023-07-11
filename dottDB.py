@@ -61,8 +61,8 @@ with open(direccionAchivosJson['jsonDolar']) as g:
 
 # Almacenamiento de los datos en la base de datos SQLite
 for dato in listaProductos:
-    if dato['precioFinal'] is not None:
-        cursor.execute(f"INSERT INTO {nombre_tabla} (proveedor, producto, categoria, precio) VALUES (?, ?,?, ?)", (dato['proveedor'], dato['detalle'], dato['categoria'], dato['precioFinal']))
+    if dato['precio'] is not None:
+        cursor.execute(f"INSERT INTO {nombre_tabla} (proveedor, producto, categoria, precio) VALUES (?, ?,?, ?)", (dato['proveedor'], dato['producto'], dato['categoria'], dato['precio']))
 
 for dato in datos_dolar:
     cursor.execute(f"INSERT INTO {nombre_tabla_2} ( precioDolar, precioTarjeta) VALUES ( ?, ?)", (dato['precioDolar'], dato['precioTarjeta']))

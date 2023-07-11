@@ -60,9 +60,9 @@ def crearJson():
                 # Crea un diccionario con los datos de cada registro
                 registro = {
                     'proveedor':"invid",
-                    'detalle': descripcion,
+                    'producto': descripcion,
                     'categoria': encontrar_valor(obtenerDiccionario('invid'), categoria),
-                    'precioFinal': round((precio * iva * 1.1),2)
+                    'precio': round((precio * iva * 1.1),2)
                 }
             
                 # Agrega el diccionario a la lista de datos
