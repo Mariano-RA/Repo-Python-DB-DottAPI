@@ -34,6 +34,7 @@ def obtenerDiccionario(nombreDiccionario):
 
 
 def crearArchivoJson():
+
     # Abre el archivo CSV en modo lectura con la codificación adecuada
     with open(listadoCsv, 'r') as file:
         # Crea un objeto lector CSV

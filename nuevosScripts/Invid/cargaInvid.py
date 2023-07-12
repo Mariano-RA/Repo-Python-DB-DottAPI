@@ -38,6 +38,7 @@ def obtenerDiccionario(nombreDiccionario):
 
 
 def crearJson():
+    convertirACSV()
     # Abre el archivo CSV en modo lectura con la codificación adecuada
     with open(listadoCsv, 'r') as file:
         # Crea un objeto lector CSV
@@ -75,5 +76,5 @@ def crearJson():
         json.dump(data, jf, ensure_ascii=False, indent=2)
 
 
-convertirACSV()
+
 crearJson()

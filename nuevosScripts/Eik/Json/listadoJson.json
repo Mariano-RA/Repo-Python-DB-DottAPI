@@ -1688,13 +1688,13 @@
   {
     "proveedor": "eikon",
     "producto": "DRUM ALTERNATIVO BROTHER DR1060 E-VIEW",
-    "categoria": "impresion",
+    "categoria": "Impresoras e Insumos",
     "precio": 18
   },
   {
     "proveedor": "eikon",
     "producto": "TONER ALTERNATIVO BROTHER TN1060 E-VIEW",
-    "categoria": "impresion",
+    "categoria": "Impresoras e Insumos",
     "precio": 12
   },
   {
@@ -1856,19 +1856,19 @@
   {
     "proveedor": "eikon",
     "producto": "MEMORIA MICROSD 128 GB CLASE 10 CANVAS SELECT PLUS KINGSTON",
-    "categoria": "Almacenamiento Portati",
+    "categoria": "Almacenamiento Portatil",
     "precio": 23
   },
   {
     "proveedor": "eikon",
     "producto": "MEMORIA MICROSD 32 GB CLASE 10 CANVAS SELECT PLUS KINGSTON C/ADAPTER ",
-    "categoria": "Almacenamiento Portati",
+    "categoria": "Almacenamiento Portatil",
     "precio": 11
   },
   {
     "proveedor": "eikon",
     "producto": "MEMORIA MICROSD 64 GB CLASE 10 CANVAS SELECT PLUS KINGSTON C/ADAPTER",
-    "categoria": "Almacenamiento Portati",
+    "categoria": "Almacenamiento Portatil",
     "precio": 15
   },
   {
@@ -2288,7 +2288,7 @@
   {
     "proveedor": "eikon",
     "producto": "SERVICIO TECNICO DE CONFIGURACION WIN 10 PRO",
-    "categoria": "accesorios",
+    "categoria": "Accesorios",
     "precio": 136
   },
   {
