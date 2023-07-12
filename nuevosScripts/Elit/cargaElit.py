@@ -65,7 +65,7 @@ def crearJson():
                 'proveedor': 'elit',
                 'producto': descripcion,
                 'categoria': encontrar_valor(obtenerDiccionario('elit'), categoria),
-                'precio': round((float(precio) * (1 + (float(iva)+ float(ivaInterno))/100) * 1.1),2)
+                'precio': round((float(precio) * (1 + (float(iva)+ float(ivaInterno))/100) * 1.1))
             }
 
             

@@ -4,14 +4,14 @@ import json
 
 
 #Direccion archivos en Linux
-listadoInvid = "Repo-Python-DB-DottAPI/nuevosScripts/Invid/Listado/listadoInvid.xlsx"
-listadoCsv = 'Repo-Python-DB-DottAPI/nuevosScripts/Invid/Listado/listadoInvid.csv'
-listadoJson = 'Repo-Python-DB-DottAPI/nuevosScripts/Invid/Json/listadoJson.json'
+listadoHdc = "Repo-Python-DB-DottAPI/nuevosScripts/hdc/Listado/listadoHdc.xlsx"
+listadoCsv = 'Repo-Python-DB-DottAPI/nuevosScripts/hdc/Listado/listadoHdc.csv'
+listadoJson = 'Repo-Python-DB-DottAPI/nuevosScripts/hdc/Json/listadoJson.json'
 diccionarios = 'Repo-Python-DB-DottAPI/nuevosScripts/diccionarios/diccionarios.json'
 
 def convertirACSV():
     # Leer el archivo XLSX
-    df = pd.read_excel(listadoInvid)
+    df = pd.read_excel(listadoHdc)
     # Guardar como CSV
     df.to_csv(listadoCsv, index=False)
 
@@ -35,38 +35,57 @@ def obtenerDiccionario(nombreDiccionario):
     # Ahora puedes trabajar con los diccionarios como desees
     return diccionarioBuscado
 
+def obtenerTipoIva(clave):
+    # Diccionario con tipo de IVA
+    tipoIva = {
+        "002-I.V.A. 10.5 %": 10.5,
+        "001-I.V.A. 21 %" : 21,
+        "005-Impuestos Internos":21
+    }
+
+    if clave in tipoIva:
+        return tipoIva[clave]
+    
+
+
 
 
 def crearJson():
     # Abre el archivo CSV en modo lectura con la codificación adecuada
-    with open(listadoCsv, 'r') as file:
+    with open(listadoCsv, 'r',encoding="utf-8") as file:
         # Crea un objeto lector CSV
         csv_reader = csv.reader(file, delimiter=',')
 
         # Crea una lista para almacenar los datos
         data = []
 
+        
 
         # Lee cada fila del archivo CSV (ignorando la primera fila de encabezados)
         
         next(csv_reader)  # Ignora la primera fila de encabezados
+        
         for row in csv_reader:
-            if(row[3] != "" and row[3] != "Nro. de Parte"):
-                descripcion = row[1]
-                categoria = row[8]
-                precio = float (row[5])
-                iva = (1 + (float(row[6])/100)) * (1 + (float(row[7])/100))
+            if row[7]:
+                descripcion = row[5]
+                if row[3]:
+                    categoria = row[3]
+                else:
+                    categoria = row[2]
+                precio = row[7]
+                iva = obtenerTipoIva(row[8])
+
                 
                 # Crea un diccionario con los datos de cada registro
                 registro = {
-                    'proveedor':"invid",
+                    "proveedor": "hdc",
                     'producto': descripcion,
-                    'categoria': encontrar_valor(obtenerDiccionario('invid'), categoria),
-                    'precio': round((precio * iva * 1.1))
+                    'categoria': encontrar_valor(obtenerDiccionario('hdc'),categoria),
+                    'precio': round(float(precio)* (1+float(iva)/100) * 1.1)
+                    
                 }
             
                 # Agrega el diccionario a la lista de datos
-
                 
                 data.append(registro)
 

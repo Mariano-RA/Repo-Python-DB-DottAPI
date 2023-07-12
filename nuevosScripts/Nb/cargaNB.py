@@ -49,7 +49,7 @@ def crearJson():
                 'proveedor': 'nb',
                 'producto': descripcion,
                 'categoria': encontrar_valor(obtenerDiccionario('nb'), categoria),
-                'precio': round( (float(precio) * 1.1),2)
+                'precio': round( (float(precio) * 1.1))
             }
 
             

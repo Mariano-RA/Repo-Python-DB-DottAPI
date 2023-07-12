@@ -62,7 +62,7 @@ def crearJson():
                     "proveedor": "mega",
                     'producto': descripcion,
                     'categoria': encontrar_valor(obtenerDiccionario('mega'), categoria),
-                    'precio': round((float(precio) * (1 + (float(iva)/100)) * 1.1),2)
+                    'precio': round((float(precio) * (1 + (float(iva)/100)) * 1.1))
                 }
             
                 # Agrega el diccionario a la lista de datos

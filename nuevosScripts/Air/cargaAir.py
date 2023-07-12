@@ -58,7 +58,7 @@ def crearArchivoJson():
                 'proveedor':'air',
                 'producto': descripcion,
                 'categoria': encontrar_valor(obtenerDiccionario('air'), rubro),
-                'precio': round( (float(precio) * (1 + (float(iva)/100)) * 1.1),2)
+                'precio': round( (float(precio) * (1 + (float(iva)/100)) * 1.1))
             }
 
             # Agrega el diccionario a la lista de datos

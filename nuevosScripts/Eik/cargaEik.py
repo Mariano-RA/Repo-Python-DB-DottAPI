@@ -62,7 +62,7 @@ def crearJson():
                 'proveedor': 'eikon',
                 'producto': descripcion,
                 'categoria': encontrar_valor(obtenerDiccionario('eikon'), categoria),
-                'precio': round(( float(precio) * 1.1),2)
+                'precio': round(( float(precio) * 1.1))
             }
 
             # Agrega el diccionario a la lista de datos
