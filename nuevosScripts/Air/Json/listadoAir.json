@@ -31,6 +31,18 @@
   },
   {
     "proveedor": "air",
+    "producto": "ACCESS POINT Aruba Instant On AP11 (RW) HPE",
+    "categoria": "Conectividad",
+    "precio": 182
+  },
+  {
+    "proveedor": "air",
+    "producto": "ACCESS POINT Aruba Instant On AP15 (RW) HPE",
+    "categoria": "Conectividad",
+    "precio": 310
+  },
+  {
+    "proveedor": "air",
     "producto": "ACCESS POINT Aruba Instant On AP22 (RW) HPE",
     "categoria": "Conectividad",
     "precio": 328
@@ -145,12 +157,6 @@
   },
   {
     "proveedor": "air",
-    "producto": "AIO 24 CX INTEL 4+32G FULLHD TEC+MOU  W10",
-    "categoria": "Computadoras",
-    "precio": 657
-  },
-  {
-    "proveedor": "air",
     "producto": "AIO 24 DELL OPTIPLEX 5400 I5-12500 8 256GB UBUNTU",
     "categoria": "Computadoras",
     "precio": 2193
@@ -175,12 +181,6 @@
   },
   {
     "proveedor": "air",
-    "producto": "AIRE ACOND NOBLEX 5200W FRIO-CALOR",
-    "categoria": "Electro",
-    "precio": 1218
-  },
-  {
-    "proveedor": "air",
     "producto": "AIRE ACOND PHILCO 3550W INVERTER FRIO-CALOR",
     "categoria": "Electro",
     "precio": 1028
@@ -189,7 +189,7 @@
     "proveedor": "air",
     "producto": "AIRE ACOND RCA 2600W FRIO/CALOR",
     "categoria": "Electro",
-    "precio": 689
+    "precio": 657
   },
   {
     "proveedor": "air",
@@ -445,6 +445,12 @@
   },
   {
     "proveedor": "air",
+    "producto": "APC NetBotz Rack Monitor 250",
+    "categoria": "Electro",
+    "precio": 1915
+  },
+  {
+    "proveedor": "air",
     "producto": "APC NetShelter SX 42U/48U Baying Trim Kit Black",
     "categoria": "Electro",
     "precio": 114
@@ -694,12 +700,6 @@
     "producto": "AURICULAR INALAMBRICO FOXBOX BOOST GO NEGRO",
     "categoria": "Auriculares",
     "precio": 20
-  },
-  {
-    "proveedor": "air",
-    "producto": "AURICULARES  HONOR CHOICE EARBUDS X WHITE",
-    "categoria": "Auriculares",
-    "precio": 65
   },
   {
     "proveedor": "air",
@@ -1045,12 +1045,6 @@
   },
   {
     "proveedor": "air",
-    "producto": "AURICULARES PHILIPS TAUE101BK/00",
-    "categoria": "Auriculares",
-    "precio": 12
-  },
-  {
-    "proveedor": "air",
     "producto": "AURICULARES PRIMUS HDSR ARCUS 90T 3.5MM BLACK",
     "categoria": "Auriculares",
     "precio": 32
@@ -1273,12 +1267,6 @@
   },
   {
     "proveedor": "air",
-    "producto": "BATERIA APC EASY SRV 72V  2KVA AND 3KVA RACKEABLE",
-    "categoria": "Electro",
-    "precio": 1478
-  },
-  {
-    "proveedor": "air",
     "producto": "BATERIA APC EASY SRV 72V  2KVA AND 3KVA TORRE",
     "categoria": "Electro",
     "precio": 1305
@@ -1377,13 +1365,13 @@
     "proveedor": "air",
     "producto": "BATIDORA DE MANO 2801 ROJA - STICK MIXER 2801 RED",
     "categoria": "Electro",
-    "precio": 185
+    "precio": 140
   },
   {
     "proveedor": "air",
     "producto": "BATIDORA DE MANO 2803 ROJA - STICK MIXER 2803 RED",
     "categoria": "Electro",
-    "precio": 132
+    "precio": 130
   },
   {
     "proveedor": "air",
@@ -1413,13 +1401,13 @@
     "proveedor": "air",
     "producto": "BATIDORA DE MANO SL-HM5035",
     "categoria": "Electro",
-    "precio": 89
+    "precio": 53
   },
   {
     "proveedor": "air",
     "producto": "BATIDORA DE MANO SMARTLIFE SL-HM1035 (PN)",
     "categoria": "Electro",
-    "precio": 46
+    "precio": 42
   },
   {
     "proveedor": "air",
@@ -1579,18 +1567,6 @@
   },
   {
     "proveedor": "air",
-    "producto": "BOTELLA EPSON T544420-AL AMARILLO P/3110/3210/3250",
-    "categoria": "Impresoras e Insumos",
-    "precio": 20
-  },
-  {
-    "proveedor": "air",
-    "producto": "BOTELLA EPSON T554120-AL NEGRO PIGMEN P/L8160/8180",
-    "categoria": "Impresoras e Insumos",
-    "precio": 37
-  },
-  {
-    "proveedor": "air",
     "producto": "BOTELLA EPSON T555120-AL NEGRO FOTO P/L8160/L8180",
     "categoria": "Impresoras e Insumos",
     "precio": 37
@@ -1636,12 +1612,6 @@
     "producto": "BOTELLA EPSON T664420-AL AMARILLO P/L355/380/395",
     "categoria": "Impresoras e Insumos",
     "precio": 20
-  },
-  {
-    "proveedor": "air",
-    "producto": "BOTELLA EPSON T673220-AL CYAN P/L800/805/1800",
-    "categoria": "Impresoras e Insumos",
-    "precio": 22
   },
   {
     "proveedor": "air",
@@ -1893,7 +1863,7 @@
     "proveedor": "air",
     "producto": "CABLE HDMI FLEX FOXBOX 1.5M NEGRO",
     "categoria": "Cables y Adaptadores",
-    "precio": 7
+    "precio": 6
   },
   {
     "proveedor": "air",
@@ -2253,7 +2223,7 @@
     "proveedor": "air",
     "producto": "CAJONERO 2740 P/ESCRITORIO C/LLAVE NEGRO/HAYA",
     "categoria": "Electro",
-    "precio": 10
+    "precio": 9
   },
   {
     "proveedor": "air",
@@ -3385,27 +3355,33 @@
   },
   {
     "proveedor": "air",
+    "producto": "CELULAR MOTOROLA E13  2GB+64GB SABAG LITE",
+    "categoria": "Telefonia",
+    "precio": 187
+  },
+  {
+    "proveedor": "air",
     "producto": "CELULAR MOTOROLA E22 3GB + 32GB BLACK",
     "categoria": "Telefonia",
-    "precio": 214
+    "precio": 199
   },
   {
     "proveedor": "air",
     "producto": "CELULAR MOTOROLA E22 3GB + 32GB NIAGARA",
     "categoria": "Telefonia",
-    "precio": 214
+    "precio": 207
   },
   {
     "proveedor": "air",
     "producto": "CELULAR MOTOROLA E32 4GB+64GB MOTO GRAVITY GREY",
     "categoria": "Telefonia",
-    "precio": 279
+    "precio": 246
   },
   {
     "proveedor": "air",
     "producto": "CELULAR MOTOROLA E32 4GB+64GB MOTO HYPER SILVER",
     "categoria": "Telefonia",
-    "precio": 276
+    "precio": 246
   },
   {
     "proveedor": "air",
@@ -3423,25 +3399,31 @@
     "proveedor": "air",
     "producto": "CELULAR MOTOROLA G32 4GB+128 GB DOVE GREY",
     "categoria": "Telefonia",
-    "precio": 339
+    "precio": 302
   },
   {
     "proveedor": "air",
     "producto": "CELULAR MOTOROLA G32 4GB+128 GB FLEENCE GOLD",
     "categoria": "Telefonia",
-    "precio": 339
+    "precio": 302
   },
   {
     "proveedor": "air",
     "producto": "CELULAR MOTOROLA G32 4GB+128 GB SOFT SILVER",
     "categoria": "Telefonia",
-    "precio": 339
+    "precio": 302
+  },
+  {
+    "proveedor": "air",
+    "producto": "CELULAR MOTOROLA G32 4GB+128GB CRISTAL BLANCO",
+    "categoria": "Telefonia",
+    "precio": 302
   },
   {
     "proveedor": "air",
     "producto": "CELULAR MOTOROLA G41 4GB+128 GB METEORITE BLACK",
     "categoria": "Telefonia",
-    "precio": 375
+    "precio": 269
   },
   {
     "proveedor": "air",
@@ -3477,19 +3459,25 @@
     "proveedor": "air",
     "producto": "CELULAR MOTOROLA MOTO EDGE 30 FUSION 12GB+256GB BL",
     "categoria": "Telefonia",
-    "precio": 957
+    "precio": 771
   },
   {
     "proveedor": "air",
     "producto": "CELULAR MOTOROLA MOTO EDGE 30 NEO 8GB+128GB PURPER",
     "categoria": "Telefonia",
-    "precio": 664
+    "precio": 590
+  },
+  {
+    "proveedor": "air",
+    "producto": "CELULAR MOTOROLA MOTO G42 4GB+128 HAWAII OLED",
+    "categoria": "Telefonia",
+    "precio": 333
   },
   {
     "proveedor": "air",
     "producto": "CELULAR MOTOROLA MOTO G42 4GB+128 ROSA METALICO",
     "categoria": "Telefonia",
-    "precio": 342
+    "precio": 333
   },
   {
     "proveedor": "air",
@@ -3586,18 +3574,6 @@
     "producto": "CELULAR SAMSUNG GALAXY S20 FE 6GB-128GB CLOUD NAVY",
     "categoria": "Telefonia",
     "precio": 819
-  },
-  {
-    "proveedor": "air",
-    "producto": "CELULAR SAMSUNG GALAXY S21 FE 6GB-128GB GRAPHITE",
-    "categoria": "Telefonia",
-    "precio": 1039
-  },
-  {
-    "proveedor": "air",
-    "producto": "CELULAR SAMSUNG GALAXY S22 ULTRA 12GB-256GB BLACK",
-    "categoria": "Telefonia",
-    "precio": 1579
   },
   {
     "proveedor": "air",
@@ -3795,7 +3771,7 @@
     "proveedor": "air",
     "producto": "CELULAR XIAOMI POCO M3 4GB + 128GB POWER BLACK",
     "categoria": "Telefonia",
-    "precio": 421
+    "precio": 400
   },
   {
     "proveedor": "air",
@@ -3825,7 +3801,7 @@
     "proveedor": "air",
     "producto": "CELULAR XIAOMI POCO M4 PRO 5G 6GB+128 CAJA ROTA",
     "categoria": "Telefonia",
-    "precio": 467
+    "precio": 456
   },
   {
     "proveedor": "air",
@@ -3921,19 +3897,19 @@
     "proveedor": "air",
     "producto": "CELULAR XIAOMI REDMI 10C 4GB + 64GB GRAPHITE GREY",
     "categoria": "Telefonia",
-    "precio": 337
+    "precio": 327
   },
   {
     "proveedor": "air",
     "producto": "CELULAR XIAOMI REDMI 10C 4GB + 64GB GRAPHITE GREY",
     "categoria": "Telefonia",
-    "precio": 337
+    "precio": 327
   },
   {
     "proveedor": "air",
     "producto": "CELULAR XIAOMI REDMI 10C 4GB + 64GB OCEAN BLUE",
     "categoria": "Telefonia",
-    "precio": 337
+    "precio": 327
   },
   {
     "proveedor": "air",
@@ -3994,12 +3970,6 @@
     "producto": "CELULAR XIAOMI REDMI NOTE 10 5G 4GB +128GB A.GREEN",
     "categoria": "Telefonia",
     "precio": 410
-  },
-  {
-    "proveedor": "air",
-    "producto": "CELULAR XIAOMI REDMI NOTE 10 PRO 8GB + 128G BRONCE",
-    "categoria": "Telefonia",
-    "precio": 569
   },
   {
     "proveedor": "air",
@@ -4609,6 +4579,12 @@
   },
   {
     "proveedor": "air",
+    "producto": "CPU COOLER INTEL FNHTSNKASY BXTSRS1 OEM S1700",
+    "categoria": "Refrigeracion",
+    "precio": 25
+  },
+  {
+    "proveedor": "air",
     "producto": "CPU COOLER INTEL PERFORMANCE ALUMINUM FAN S1200",
     "categoria": "Refrigeracion",
     "precio": 8
@@ -4987,12 +4963,6 @@
   },
   {
     "proveedor": "air",
-    "producto": "DDR4 16GB HPE 2Rx8 PC4-2933Y-R Smart Kit",
-    "categoria": "Memorias RAM",
-    "precio": 891
-  },
-  {
-    "proveedor": "air",
     "producto": "DDR4 16GB KINGSTON 2666MHZ CL19 KVR 16GBITS",
     "categoria": "Memorias RAM",
     "precio": 101
@@ -5233,6 +5203,12 @@
   },
   {
     "proveedor": "air",
+    "producto": "DELL BOSS Controller Card, Blade, CK",
+    "categoria": "Discos",
+    "precio": 132
+  },
+  {
+    "proveedor": "air",
     "producto": "DELL BOSS S2 Cables for R750xs and R550",
     "categoria": "Discos",
     "precio": 69
@@ -5335,12 +5311,6 @@
   },
   {
     "proveedor": "air",
-    "producto": "DRIVE HPE MSL LTO-9 45000 SAS Drive Upgrade Kit",
-    "categoria": "Accesorios",
-    "precio": 8223
-  },
-  {
-    "proveedor": "air",
     "producto": "DRIVE U DISK FRIVER P/MINI PC SIRIUS",
     "categoria": "Electro",
     "precio": 40
@@ -5439,7 +5409,7 @@
     "proveedor": "air",
     "producto": "EPSON CUTTER P/PLOTTER T3170/T3170X/F570",
     "categoria": "Accesorios",
-    "precio": 200
+    "precio": 171
   },
   {
     "proveedor": "air",
@@ -5461,9 +5431,15 @@
   },
   {
     "proveedor": "air",
+    "producto": "EPSON TMT20IIIL-002 ETHERNET TERMICA C/AUTOCUTTER",
+    "categoria": "Electro",
+    "precio": 221
+  },
+  {
+    "proveedor": "air",
     "producto": "EPSON TMU 220B-653 SERIAL RS232 AUTOCUTTER NEGRA",
     "categoria": "Impresoras e Insumos",
-    "precio": 375
+    "precio": 394
   },
   {
     "proveedor": "air",
@@ -6153,12 +6129,6 @@
     "proveedor": "air",
     "producto": "FUENTE 550W PERFORMANCE SATA*4 BOX",
     "categoria": "Fuentes",
-    "precio": 27
-  },
-  {
-    "proveedor": "air",
-    "producto": "FUENTE 550W PERFORMANCE SATA*4 BOX",
-    "categoria": "Fuentes",
     "precio": 34
   },
   {
@@ -6379,7 +6349,7 @@
   },
   {
     "proveedor": "air",
-    "producto": "FUNDA P/NB 14/15` BAGS BUSINESS SIMIL NEOP NEGRO",
+    "producto": "FUNDA P/NB 14/15 BAGS BUSINESS SIMIL NEOP NEGRO",
     "categoria": "Accesorios",
     "precio": 21
   },
@@ -6520,12 +6490,6 @@
     "producto": "GAB GAMEMAX CYCLOPS BG FAN ARGB M-ATX",
     "categoria": "Gabinetes",
     "precio": 133
-  },
-  {
-    "proveedor": "air",
-    "producto": "GAB GAMEMAX FORTRESS TG MID-TOWER ATX FAN X 3",
-    "categoria": "Gabinetes",
-    "precio": 115
   },
   {
     "proveedor": "air",
@@ -6817,6 +6781,12 @@
   },
   {
     "proveedor": "air",
+    "producto": "HD 2 TB TOSHIBA S-ATA III 7200 64MB",
+    "categoria": "Discos",
+    "precio": 107
+  },
+  {
+    "proveedor": "air",
     "producto": "HD 2TB PORTABLE SEAGATE EXPANSION  BLACK 3.0 2.5`",
     "categoria": "Almacenamiento Portatil",
     "precio": 163
@@ -6943,21 +6913,9 @@
   },
   {
     "proveedor": "air",
-    "producto": "HD 8TB WESTERN DIGITAL PURPLE 3.5 SATA 5400 256MB",
-    "categoria": "Discos",
-    "precio": 595
-  },
-  {
-    "proveedor": "air",
     "producto": "HD SAS DELL 1.2TB 12GBPS 512N 3.5IN HOT-PLUG",
     "categoria": "Discos",
     "precio": 1273
-  },
-  {
-    "proveedor": "air",
-    "producto": "HD SAS DELL 2.4TB 10K ISE 12GBPS 2.5IN HOT PLUG CK",
-    "categoria": "Discos",
-    "precio": 796
   },
   {
     "proveedor": "air",
@@ -7045,12 +7003,6 @@
   },
   {
     "proveedor": "air",
-    "producto": "HD SATA DELL 4TB 7.2 RPM 6GBPS 3.5IN  HOT PLUG",
-    "categoria": "Discos",
-    "precio": 1022
-  },
-  {
-    "proveedor": "air",
     "producto": "HD SATA DELL 8TB 7.2K RPM 6GBPS 512E 3.5IN HOTPLUG",
     "categoria": "Discos",
     "precio": 1098
@@ -7125,7 +7077,7 @@
     "proveedor": "air",
     "producto": "HELADERA SAMSUNG  RT44A6640B1 BLACK",
     "categoria": "Electro",
-    "precio": 1697
+    "precio": 1489
   },
   {
     "proveedor": "air",
@@ -7891,12 +7843,6 @@
   },
   {
     "proveedor": "air",
-    "producto": "HPE DL385 Gen10+ v2 AMD EPYC 7313 Kit",
-    "categoria": "Procesadores",
-    "precio": 2291
-  },
-  {
-    "proveedor": "air",
     "producto": "HPE Gen10 Plus TPM BR Module Kit",
     "categoria": "Accesorios",
     "precio": 140
@@ -7904,12 +7850,6 @@
   {
     "proveedor": "air",
     "producto": "HPE LTO-5 Ultrium RW Bar Code Label Pack X 100",
-    "categoria": "Accesorios",
-    "precio": 99
-  },
-  {
-    "proveedor": "air",
-    "producto": "HPE LTO-8 30TB RW Bar Code Label Pack X 100",
     "categoria": "Accesorios",
     "precio": 99
   },
@@ -8512,12 +8452,6 @@
     "producto": "IMPRESORA TERMICA PORTATIL BROTHER  PJ723 + TRAFO",
     "categoria": "Electro",
     "precio": 823
-  },
-  {
-    "proveedor": "air",
-    "producto": "INK EPSON L810 PHOTO IMP CD/DVD SIST TINTA CONT",
-    "categoria": "Impresoras e Insumos",
-    "precio": 907
   },
   {
     "proveedor": "air",
@@ -9151,12 +9085,6 @@
   },
   {
     "proveedor": "air",
-    "producto": "LECTOR HONEYWELL 1470G USB 1D/2D-QR-PDF417 C/BASE",
-    "categoria": "Electro",
-    "precio": 236
-  },
-  {
-    "proveedor": "air",
     "producto": "Lenovo ThinkServer 1U 4-Post Slide Rail Kit RD350",
     "categoria": "Accesorios",
     "precio": 190
@@ -9385,6 +9313,30 @@
   },
   {
     "proveedor": "air",
+    "producto": "LN BROTHER HL-1200 21PPM (I)",
+    "categoria": "Impresoras e Insumos",
+    "precio": 297
+  },
+  {
+    "proveedor": "air",
+    "producto": "LN BROTHER HL-1200 21PPM + TONER TN-1060",
+    "categoria": "Impresoras e Insumos",
+    "precio": 352
+  },
+  {
+    "proveedor": "air",
+    "producto": "LN BROTHER HL-1212W 21PPM WIFI (I)",
+    "categoria": "Impresoras e Insumos",
+    "precio": 371
+  },
+  {
+    "proveedor": "air",
+    "producto": "LN BROTHER HL-1212W 21PPM WIFI (I) + TONER TN-1060",
+    "categoria": "Impresoras e Insumos",
+    "precio": 427
+  },
+  {
+    "proveedor": "air",
     "producto": "LN BROTHER HL-L2360DW 32PPM WIFI DUPLEX",
     "categoria": "Impresoras e Insumos",
     "precio": 490
@@ -9447,7 +9399,7 @@
     "proveedor": "air",
     "producto": "MALETIN P/ NB 15 BAGS CORDURA NEGRO",
     "categoria": "Accesorios",
-    "precio": 61
+    "precio": 60
   },
   {
     "proveedor": "air",
@@ -9979,12 +9931,6 @@
   },
   {
     "proveedor": "air",
-    "producto": "MEMORIA DELL 16GB UPGRADE 2Rx8 DDR4 UDIMM 2666MH",
-    "categoria": "Memorias RAM",
-    "precio": 782
-  },
-  {
-    "proveedor": "air",
     "producto": "MEMORIA DELL 32GB UPGRADE 2RX8 DDR4 RDIMM 3200MHZ",
     "categoria": "Memorias RAM",
     "precio": 1509
@@ -10027,6 +9973,12 @@
   },
   {
     "proveedor": "air",
+    "producto": "MF BROTHER DCP-T720DW 30/26PPM SIST CONTINUO",
+    "categoria": "Impresoras e Insumos",
+    "precio": 750
+  },
+  {
+    "proveedor": "air",
     "producto": "MF BROTHER DCP-T720DW 30/26PPM SIST CONTINUO (I)",
     "categoria": "Impresoras e Insumos",
     "precio": 740
@@ -10063,12 +10015,6 @@
   },
   {
     "proveedor": "air",
-    "producto": "MFL BROTHER DCP-1617NW 21PPM (CAJA DAÑADA)",
-    "categoria": "Impresoras e Insumos",
-    "precio": 678
-  },
-  {
-    "proveedor": "air",
     "producto": "MFL BROTHER DCP-1617NW 21PPM WIFI",
     "categoria": "Impresoras e Insumos",
     "precio": 760
@@ -10078,6 +10024,18 @@
     "producto": "MFL BROTHER DCP-1617NW 21PPM WIFI (I)",
     "categoria": "Impresoras e Insumos",
     "precio": 760
+  },
+  {
+    "proveedor": "air",
+    "producto": "MFL BROTHER DCP-L2540DW 30PPM WIFI DUPLEX",
+    "categoria": "Impresoras e Insumos",
+    "precio": 914
+  },
+  {
+    "proveedor": "air",
+    "producto": "MFL BROTHER DCP-L2540DW 30PPM WIFI DUPLEX + TONER",
+    "categoria": "Impresoras e Insumos",
+    "precio": 1009
   },
   {
     "proveedor": "air",
@@ -10101,19 +10059,19 @@
     "proveedor": "air",
     "producto": "MICRO SD 128GB SANDISK ULTRA CLASE 10",
     "categoria": "Almacenamiento Portatil",
-    "precio": 32
+    "precio": 30
   },
   {
     "proveedor": "air",
     "producto": "MICRO SD 32GB SANDISK ULTRA CLASE 10",
     "categoria": "Almacenamiento Portatil",
-    "precio": 14
+    "precio": 12
   },
   {
     "proveedor": "air",
     "producto": "MICRO SD 64GB SANDISK ULTRA CLASE 10",
     "categoria": "Almacenamiento Portatil",
-    "precio": 18
+    "precio": 13
   },
   {
     "proveedor": "air",
@@ -10549,12 +10507,6 @@
   },
   {
     "proveedor": "air",
-    "producto": "MONITOR 27 ASUS VG27VQ CURVO GAMING 165HZ  AUDIO",
-    "categoria": "Monitores",
-    "precio": 551
-  },
-  {
-    "proveedor": "air",
     "producto": "MONITOR 27 CX GAMER HDMI 144HZ/165HZ",
     "categoria": "Monitores",
     "precio": 346
@@ -10759,7 +10711,7 @@
   },
   {
     "proveedor": "air",
-    "producto": "MOUSE HP QY777AA OPTICO NEGRO",
+    "producto": "MOUSE HP QY777AA OPTICO USB NEGRO",
     "categoria": "Mouses",
     "precio": 17
   },
@@ -10909,15 +10861,9 @@
   },
   {
     "proveedor": "air",
-    "producto": "MURAL GLC SOHO 19`    6U-500 Desarmado",
+    "producto": "MURAL GLC SOHO 19    6U-500 Desarmado\"",
     "categoria": "Cables y Adaptadores",
     "precio": 203
-  },
-  {
-    "proveedor": "air",
-    "producto": "MURAL GLC SOHO 19`    9U-500 Desarmado",
-    "categoria": "Cables y Adaptadores",
-    "precio": 237
   },
   {
     "proveedor": "air",
@@ -10942,6 +10888,12 @@
     "producto": "NB ASUS 14 I3-1005G1 8GB 256GB PCIE W11H",
     "categoria": "Notebooks",
     "precio": 958
+  },
+  {
+    "proveedor": "air",
+    "producto": "NB ASUS 14 I5-1035G1 8GB 256GB PCIE W11H",
+    "categoria": "Notebooks",
+    "precio": 1366
   },
   {
     "proveedor": "air",
@@ -11026,12 +10978,6 @@
     "producto": "NB ASUS 15.6 i5-10300H 16GB 512GB PCIE GTX1650 W11",
     "categoria": "Notebooks",
     "precio": 1882
-  },
-  {
-    "proveedor": "air",
-    "producto": "NB ASUS 15.6 i5-11300H 16GB 512GB SSD PCIE RTX3050",
-    "categoria": "Notebooks",
-    "precio": 2242
   },
   {
     "proveedor": "air",
@@ -11151,7 +11097,7 @@
     "proveedor": "air",
     "producto": "NB CX 14 ULTRASLIM LUMINA B847+SSD240+4G (EXPO)",
     "categoria": "Notebooks",
-    "precio": 453
+    "precio": 438
   },
   {
     "proveedor": "air",
@@ -11223,7 +11169,7 @@
     "proveedor": "air",
     "producto": "NB CX 15.6 INTEL I7+SSD240G+8G+DVDRW+VGA (PIXEL)",
     "categoria": "Notebooks",
-    "precio": 1346
+    "precio": 1256
   },
   {
     "proveedor": "air",
@@ -11425,12 +11371,6 @@
   },
   {
     "proveedor": "air",
-    "producto": "NB LENOVO 14 T14 I5  16G SSD512 W11PRO (L)",
-    "categoria": "Notebooks",
-    "precio": 3569
-  },
-  {
-    "proveedor": "air",
     "producto": "NB LENOVO 14 T14 I5- 1235U 16G SSD512 W11PRO 3YOS",
     "categoria": "Notebooks",
     "precio": 3815
@@ -11446,12 +11386,6 @@
     "producto": "NB LENOVO 14 V14 I3-1115G4 8GB SSD256 GTIA1CI",
     "categoria": "Notebooks",
     "precio": 1077
-  },
-  {
-    "proveedor": "air",
-    "producto": "NB LENOVO 15.6 E15 I5 16GB SSD512 W11 (L)",
-    "categoria": "Notebooks",
-    "precio": 2100
   },
   {
     "proveedor": "air",
@@ -11479,12 +11413,6 @@
   },
   {
     "proveedor": "air",
-    "producto": "NB LENOVO 15.6 V15 I5-1135G7 16GB SSD256 GTIA1OS",
-    "categoria": "Notebooks",
-    "precio": 1840
-  },
-  {
-    "proveedor": "air",
     "producto": "NB LENOVO 15.6 V15 I5-1135G7 16GB SSD512 GTIA1OS",
     "categoria": "Notebooks",
     "precio": 1848
@@ -11497,9 +11425,21 @@
   },
   {
     "proveedor": "air",
+    "producto": "NB LENOVO 15.6 V15 I5-1235U 8GB SSD512 GTIA1OS",
+    "categoria": "Notebooks",
+    "precio": 1909
+  },
+  {
+    "proveedor": "air",
     "producto": "NB LENOVO 15.6 V15 I7-1165G7 8GB SSD256G GTIA1OS",
     "categoria": "Notebooks",
     "precio": 1997
+  },
+  {
+    "proveedor": "air",
+    "producto": "NB LENOVO 15.6 V15 I7-1255U 8GB SSD512GB GTIA1OS",
+    "categoria": "Notebooks",
+    "precio": 2224
   },
   {
     "proveedor": "air",
@@ -11871,7 +11811,7 @@
     "proveedor": "air",
     "producto": "PARLANTE PHILIPS PARTY BASS+BLUETOOTH TANX100/77",
     "categoria": "Parlantes",
-    "precio": 201
+    "precio": 156
   },
   {
     "proveedor": "air",
@@ -11926,6 +11866,12 @@
     "producto": "PARLANTES GENIUS SP-HF 380BT WOOD USB/BLUETHOOTH",
     "categoria": "Parlantes",
     "precio": 48
+  },
+  {
+    "proveedor": "air",
+    "producto": "PARLANTES GENIUS SP-HF500A BLACK 220V",
+    "categoria": "Parlantes",
+    "precio": 84
   },
   {
     "proveedor": "air",
@@ -12013,12 +11959,6 @@
   },
   {
     "proveedor": "air",
-    "producto": "PATCHCORD FURUKAWA FO OM4 LC/LC-UPC 3.0M-LSZH ACQ",
-    "categoria": "Cables y Adaptadores",
-    "precio": 60
-  },
-  {
-    "proveedor": "air",
     "producto": "PATCHCORD FURUKAWA MULTILAN  CAT.5E - 1.5M NG",
     "categoria": "Cables y Adaptadores",
     "precio": 8
@@ -12099,7 +12039,7 @@
     "proveedor": "air",
     "producto": "PAVA ELECTRICA OSTER KT4970W  ACERO BLANCA",
     "categoria": "Electro",
-    "precio": 68
+    "precio": 61
   },
   {
     "proveedor": "air",
@@ -12153,7 +12093,7 @@
     "proveedor": "air",
     "producto": "PC AIR INTEL  CELERON G5925 COMETLAKE",
     "categoria": "Computadoras",
-    "precio": 512
+    "precio": 551
   },
   {
     "proveedor": "air",
@@ -12238,12 +12178,6 @@
     "producto": "PC AIR INTEL CORE I7 11700KF  ROCKETLAKE",
     "categoria": "Computadoras",
     "precio": 2334
-  },
-  {
-    "proveedor": "air",
-    "producto": "PC CX AMD RYZEN 3 3200G+8G+SSD240 (GIGA)",
-    "categoria": "Computadoras",
-    "precio": 641
   },
   {
     "proveedor": "air",
@@ -12361,12 +12295,6 @@
   },
   {
     "proveedor": "air",
-    "producto": "PC CX INTEL I5 10400+16G+SSD240G+2T (GIGA)",
-    "categoria": "Computadoras",
-    "precio": 1181
-  },
-  {
-    "proveedor": "air",
     "producto": "PC CX INTEL I5 10400+8G+SSD240 (ASUS)",
     "categoria": "Computadoras",
     "precio": 963
@@ -12376,12 +12304,6 @@
     "producto": "PC CX INTEL I5 10400+8G+SSD240 (MSI)",
     "categoria": "Computadoras",
     "precio": 899
-  },
-  {
-    "proveedor": "air",
-    "producto": "PC CX INTEL I5 10400+8G+SSD480 (ASUS)",
-    "categoria": "Computadoras",
-    "precio": 985
   },
   {
     "proveedor": "air",
@@ -12415,6 +12337,12 @@
   },
   {
     "proveedor": "air",
+    "producto": "PC CX MINI VENUS INTEL I3+500G+4G",
+    "categoria": "Computadoras",
+    "precio": 801
+  },
+  {
+    "proveedor": "air",
     "producto": "PC DELL VOSTRO SFF 3681 I3-10100 4G 1T W10P (EXPO)",
     "categoria": "Computadoras",
     "precio": 1040
@@ -12445,9 +12373,33 @@
   },
   {
     "proveedor": "air",
+    "producto": "PC GAMEMAX AMD RYZEN 5 5600G + TEC -MOUSE REGALO",
+    "categoria": "Computadoras",
+    "precio": 1112
+  },
+  {
+    "proveedor": "air",
+    "producto": "PC GAMEMAX AMD RYZEN 5 5600G +TEC-MOUSE REGALO",
+    "categoria": "Computadoras",
+    "precio": 1107
+  },
+  {
+    "proveedor": "air",
+    "producto": "PC GAMEMAX AMD RYZEN 5 5600G+16G+SD500+600W (GIGA)",
+    "categoria": "Computadoras",
+    "precio": 1107
+  },
+  {
+    "proveedor": "air",
     "producto": "PC GAMEMAX AMD RYZEN 5 5600G+16G+SSD500+600W",
     "categoria": "Computadoras",
     "precio": 1112
+  },
+  {
+    "proveedor": "air",
+    "producto": "PC GAMEMAX AMD RYZEN 7 5700G + TEC-MOUSE REGALO",
+    "categoria": "Computadoras",
+    "precio": 1273
   },
   {
     "proveedor": "air",
@@ -12517,6 +12469,12 @@
   },
   {
     "proveedor": "air",
+    "producto": "PC PERFORMANCE AMD RYZEN 5 5600G+8G+SSD240G (MSI)",
+    "categoria": "Computadoras",
+    "precio": 860
+  },
+  {
+    "proveedor": "air",
     "producto": "PC PERFORMANCE AMD RYZEN 5 5600G+8G+SSD480 (ECS)",
     "categoria": "Computadoras",
     "precio": 1084
@@ -12532,6 +12490,12 @@
     "producto": "PC PERFORMANCE AMD RYZEN 7 4750G+8G+SSD480 (ECS)",
     "categoria": "Computadoras",
     "precio": 1040
+  },
+  {
+    "proveedor": "air",
+    "producto": "PC PERFORMANCE AMD RYZEN 7 5700G+8G+SSD240G (MSI)",
+    "categoria": "Computadoras",
+    "precio": 1022
   },
   {
     "proveedor": "air",
@@ -12730,12 +12694,6 @@
     "producto": "PLACA TV AVERMEDIA AVERTV CARDBUS PRO SINTONIZ NB",
     "categoria": "Accesorios",
     "precio": 32
-  },
-  {
-    "proveedor": "air",
-    "producto": "PLANCHA A VAPOR OSTER IRON 5905 GREEN",
-    "categoria": "Electro",
-    "precio": 69
   },
   {
     "proveedor": "air",
@@ -13003,6 +12961,18 @@
   },
   {
     "proveedor": "air",
+    "producto": "RACK GABITEL EVO3 19` 20U  800MM C/PUERTA (N)",
+    "categoria": "Accesorios",
+    "precio": 1359
+  },
+  {
+    "proveedor": "air",
+    "producto": "RACK GABITEL EVO3 19` 31U  800MM C/PTA (N)",
+    "categoria": "Accesorios",
+    "precio": 1788
+  },
+  {
+    "proveedor": "air",
     "producto": "RACK GABITEL EVO3 19` 40U  800MM C/PTA (N)",
     "categoria": "Accesorios",
     "precio": 1975
@@ -13030,12 +13000,6 @@
     "producto": "RAID 5 UPGRADE IBM M5100 512MB Cache/RAID 5",
     "categoria": "Accesorios",
     "precio": 87
-  },
-  {
-    "proveedor": "air",
-    "producto": "RECEPTOR AUDIO BLUETOOTH 2.1 THONET FLUG 10 MTS",
-    "categoria": "Parlantes",
-    "precio": 46
   },
   {
     "proveedor": "air",
@@ -13341,7 +13305,7 @@
     "proveedor": "air",
     "producto": "SCANNER KODAK FEED ROLLER KIT P/E1000",
     "categoria": "Impresoras e Insumos",
-    "precio": 116
+    "precio": 97
   },
   {
     "proveedor": "air",
@@ -13483,12 +13447,6 @@
   },
   {
     "proveedor": "air",
-    "producto": "Server HPE DL360 G10+ 4310 12C 32G MR416i-a 8SFF",
-    "categoria": "Conectividad",
-    "precio": 7743
-  },
-  {
-    "proveedor": "air",
     "producto": "Server HPE DL360 G10+ 4314 16C 32G MR416i-a 8SFF",
     "categoria": "Conectividad",
     "precio": 10163
@@ -13570,18 +13528,6 @@
     "producto": "SMART WATCH HAYLOU GS LS09A BLACK",
     "categoria": "Smartwatch",
     "precio": 49
-  },
-  {
-    "proveedor": "air",
-    "producto": "SMART WATCH HAYLOU GST LITE LS13 BLACK",
-    "categoria": "Smartwatch",
-    "precio": 43
-  },
-  {
-    "proveedor": "air",
-    "producto": "SMART WATCH HAYLOU GST LITE LS13 BLACK",
-    "categoria": "Smartwatch",
-    "precio": 43
   },
   {
     "proveedor": "air",
@@ -13749,7 +13695,7 @@
     "proveedor": "air",
     "producto": "SOBRE AIR CAJA X500",
     "categoria": "Impresoras e Insumos",
-    "precio": 5
+    "precio": 4
   },
   {
     "proveedor": "air",
@@ -13965,13 +13911,13 @@
     "proveedor": "air",
     "producto": "SOPORTE TV/MON EXTENSIBLE PARED INTELAID 23-55\"\"",
     "categoria": "Accesorios",
-    "precio": 53
+    "precio": 68
   },
   {
     "proveedor": "air",
-    "producto": "SOPORTE TV/MON EXTENSIBLE PARED INTELAID 23`-55`",
+    "producto": "SOPORTE TV/MON EXTENSIBLE PARED INTELAID 23-55\"\"",
     "categoria": "Accesorios",
-    "precio": 68
+    "precio": 53
   },
   {
     "proveedor": "air",
@@ -14012,12 +13958,6 @@
   {
     "proveedor": "air",
     "producto": "SOPORTE TV/MON INCLINABLE PARED INTELAID 23-42\"\"",
-    "categoria": "Accesorios",
-    "precio": 37
-  },
-  {
-    "proveedor": "air",
-    "producto": "SOPORTE TV/MON INCLINABLE PARED INTELAID 32`-55`",
     "categoria": "Accesorios",
     "precio": 37
   },
@@ -14089,6 +14029,12 @@
   },
   {
     "proveedor": "air",
+    "producto": "SSD 240GB KINGSTON HYPERX SAVAGE SATAIII 2.5",
+    "categoria": "Discos",
+    "precio": 99
+  },
+  {
+    "proveedor": "air",
     "producto": "SSD 240GB MSI SPATIUM S270 SATA 6.0GB/S",
     "categoria": "Discos",
     "precio": 47
@@ -14155,6 +14101,12 @@
   },
   {
     "proveedor": "air",
+    "producto": "SSD 960GB HPE SATA MU LFF LPC DS SSD",
+    "categoria": "Discos",
+    "precio": 1049
+  },
+  {
+    "proveedor": "air",
     "producto": "SSD 960GB HPE SATA MU SFF MV",
     "categoria": "Discos",
     "precio": 1333
@@ -14169,7 +14121,7 @@
     "proveedor": "air",
     "producto": "SSD M.2 240GB WESTERN DIGITAL GREEN 545MB/S",
     "categoria": "Discos",
-    "precio": 51
+    "precio": 58
   },
   {
     "proveedor": "air",
@@ -14215,12 +14167,6 @@
   },
   {
     "proveedor": "air",
-    "producto": "SSD M.2 NVME 1TB HIKVISION E3000",
-    "categoria": "Discos",
-    "precio": 135
-  },
-  {
-    "proveedor": "air",
     "producto": "SSD M.2 NVME 1TB KINGSTON NV2",
     "categoria": "Discos",
     "precio": 194
@@ -14236,12 +14182,6 @@
     "producto": "SSD M.2 NVME 1TB WESTERN DIGITAL BLUE SN 570",
     "categoria": "Discos",
     "precio": 179
-  },
-  {
-    "proveedor": "air",
-    "producto": "SSD M.2 NVME 256GB ADATA LEGEND 700",
-    "categoria": "Discos",
-    "precio": 43
   },
   {
     "proveedor": "air",
@@ -14359,6 +14299,12 @@
   },
   {
     "proveedor": "air",
+    "producto": "Switch  8P Aruba Instant On 1830 8G Switch",
+    "categoria": "Accesorios",
+    "precio": 186
+  },
+  {
+    "proveedor": "air",
     "producto": "Switch 12P Aruba Instant On 1960 12XGT 4SFP+",
     "categoria": "Accesorios",
     "precio": 2527
@@ -14374,6 +14320,18 @@
     "producto": "Switch 24P Aruba 6100 4SFP+",
     "categoria": "Accesorios",
     "precio": 1972
+  },
+  {
+    "proveedor": "air",
+    "producto": "Switch 24P Aruba 6200F 4SFP+",
+    "categoria": "Accesorios",
+    "precio": 3444
+  },
+  {
+    "proveedor": "air",
+    "producto": "Switch 24P Aruba Instant On 1430 24G",
+    "categoria": "Accesorios",
+    "precio": 273
   },
   {
     "proveedor": "air",
@@ -14395,27 +14353,15 @@
   },
   {
     "proveedor": "air",
-    "producto": "Switch 24P Aruba Instant On 1960 24G 2SFP+2 10XGT",
-    "categoria": "Accesorios",
-    "precio": 1137
-  },
-  {
-    "proveedor": "air",
-    "producto": "Switch 24P Aruba Instant On 1960 24G 370W 2SFP+ 2X",
-    "categoria": "Accesorios",
-    "precio": 1643
-  },
-  {
-    "proveedor": "air",
-    "producto": "Switch 48P Aruba Instant On 1830 48G 4SFP",
-    "categoria": "Accesorios",
-    "precio": 717
-  },
-  {
-    "proveedor": "air",
     "producto": "SWITCH 48P Aruba Instant On 1930 48G 4SFP+",
     "categoria": "Accesorios",
     "precio": 820
+  },
+  {
+    "proveedor": "air",
+    "producto": "SWITCH 48P HPE OfficeConnect 1950-48G-2SFP+-2XGTL3",
+    "categoria": "Accesorios",
+    "precio": 1785
   },
   {
     "proveedor": "air",
@@ -14464,6 +14410,12 @@
     "producto": "TABLET 7 ALCATEL 1T BLACK 1GB+16GB",
     "categoria": "Tablets",
     "precio": 99
+  },
+  {
+    "proveedor": "air",
+    "producto": "TABLET 7 AMAZON ALEXA 7 1G+16G BLACK - 2018",
+    "categoria": "Tablets",
+    "precio": 92
   },
   {
     "proveedor": "air",
@@ -15279,7 +15231,13 @@
     "proveedor": "air",
     "producto": "TV 39 SMART RCA ANDROID DIGITAL HD C39AND",
     "categoria": "Electro",
-    "precio": 380
+    "precio": 366
+  },
+  {
+    "proveedor": "air",
+    "producto": "TV 40 SMART RCA ANDROID S40AND",
+    "categoria": "Electro",
+    "precio": 349
   },
   {
     "proveedor": "air",
@@ -15403,12 +15361,6 @@
   },
   {
     "proveedor": "air",
-    "producto": "TV 65 SMART TCL UHD GOOGLE L65P735",
-    "categoria": "Electro",
-    "precio": 1112
-  },
-  {
-    "proveedor": "air",
     "producto": "TV 70 SMART PHILIPS 4K UHD ANDROID 70PUD7906/77",
     "categoria": "Electro",
     "precio": 1348
@@ -15423,13 +15375,13 @@
     "proveedor": "air",
     "producto": "TV STICK XIAOMI MI TV ANDROID 9.0 HDMI FHDSINTRAFO",
     "categoria": "Electro",
-    "precio": 112
+    "precio": 108
   },
   {
     "proveedor": "air",
     "producto": "TV STICK XIAOMI MI TV ANDROID 9.0 HDMI FHDSINTRAFO",
     "categoria": "Electro",
-    "precio": 112
+    "precio": 108
   },
   {
     "proveedor": "air",
@@ -15553,12 +15505,6 @@
   },
   {
     "proveedor": "air",
-    "producto": "UPS APC BACK EASY BV 1000VA (CAJA ROTA)",
-    "categoria": "Electro",
-    "precio": 248
-  },
-  {
-    "proveedor": "air",
     "producto": "UPS APC BACK EASY BV 500VA",
     "categoria": "Electro",
     "precio": 141
@@ -15613,6 +15559,12 @@
   },
   {
     "proveedor": "air",
+    "producto": "UPS APC GALAXY VS 40KVA N+1 BAT INT 5 STRINGS",
+    "categoria": "Electro",
+    "precio": 50862
+  },
+  {
+    "proveedor": "air",
     "producto": "UPS APC ONLINE EASY SRV 10000VA/220V",
     "categoria": "Electro",
     "precio": 5673
@@ -15652,12 +15604,6 @@
     "producto": "UPS APC ONLINE EASY SRV 3000VA/230V EXPAND (2CAJAS",
     "categoria": "Electro",
     "precio": 2228
-  },
-  {
-    "proveedor": "air",
-    "producto": "UPS APC ONLINE EASY SRV 3000VA/230V R-EXP (4CAJAS)",
-    "categoria": "Electro",
-    "precio": 3185
   },
   {
     "proveedor": "air",
@@ -15892,12 +15838,6 @@
     "producto": "VGA 16GB RX 6800 XT MSI GAMING Z TRIO 16G",
     "categoria": "Placas de video",
     "precio": 1668
-  },
-  {
-    "proveedor": "air",
-    "producto": "VGA 16GB RX 6900 XT MSI GAMING Z TRIO 16G",
-    "categoria": "Placas de video",
-    "precio": 1830
   },
   {
     "proveedor": "air",
@@ -16189,27 +16129,21 @@
   },
   {
     "proveedor": "air",
-    "producto": "WIN SERVER CAL HPE 2022 5USR CAL WW LTU",
+    "producto": "WIN SERVER CAL 2022 HPE 5 USER CAL WW LTU",
     "categoria": "Accesorios",
     "precio": 323
+  },
+  {
+    "proveedor": "air",
+    "producto": "WIN SERVER DC 2022 HPE (16-Core) ROK AMS SW",
+    "categoria": "Accesorios",
+    "precio": 6173
   },
   {
     "proveedor": "air",
     "producto": "WIN SERVER HPE 2019 DC ADD LIC (16-Core) AMS",
     "categoria": "Accesorios",
     "precio": 6387
-  },
-  {
-    "proveedor": "air",
-    "producto": "WIN SERVER HPE 2022 DC (16-Core) ROK AMS SW",
-    "categoria": "Accesorios",
-    "precio": 6173
-  },
-  {
-    "proveedor": "air",
-    "producto": "WIN SERVER HPE 2022 Essentials ROK AMS SW",
-    "categoria": "Accesorios",
-    "precio": 474
   },
   {
     "proveedor": "air",

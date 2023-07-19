@@ -4,10 +4,16 @@ import json
 
 
 #Direccion archivos en Linux
-listadoHdc = "Repo-Python-DB-DottAPI/nuevosScripts/hdc/Listado/listadoHdc.xlsx"
-listadoCsv = 'Repo-Python-DB-DottAPI/nuevosScripts/hdc/Listado/listadoHdc.csv'
-listadoJson = 'Repo-Python-DB-DottAPI/nuevosScripts/hdc/Json/listadoJson.json'
-diccionarios = 'Repo-Python-DB-DottAPI/nuevosScripts/diccionarios/diccionarios.json'
+# listadoHdc = "Repo-Python-DB-DottAPI/nuevosScripts/hdc/Listado/listadoHdc.xlsx"
+# listadoCsv = 'Repo-Python-DB-DottAPI/nuevosScripts/hdc/Listado/listadoHdc.csv'
+# listadoJson = 'Repo-Python-DB-DottAPI/nuevosScripts/hdc/Json/listadoJson.json'
+# diccionarios = 'Repo-Python-DB-DottAPI/nuevosScripts/diccionarios/diccionarios.json'
+
+#Direccion archivos en Linux
+listadoHdc = "nuevosScripts/hdc/Listado/listadoHdc.xlsx"
+listadoCsv = 'nuevosScripts/hdc/Listado/listadoHdc.csv'
+listadoJson = 'nuevosScripts/hdc/Json/listadoJson.json'
+diccionarios = 'nuevosScripts/diccionarios/diccionarios.json'
 
 def convertirACSV():
     # Leer el archivo XLSX
@@ -17,9 +23,14 @@ def convertirACSV():
 
 
 def encontrar_valor(diccionario, clave):
+    
     if clave in diccionario:
-        return diccionario[clave]
+            return diccionario[clave]
     else:
+        if(clave == "Baterías"):                    
+            return diccionario["Baterias"]
+        if(clave == "Parlante Portátil"):                 
+            return diccionario["Parlante Portatil"]
         return "No existe una categoria para este producto"
  
 
@@ -76,7 +87,6 @@ def crearJson():
                     categoria = row[2]
                 precio = row[7]
                 iva = obtenerTipoIva(row[8])
-
                 
                 # Crea un diccionario con los datos de cada registro
                 registro = {

@@ -37,15 +37,9 @@
   },
   {
     "proveedor": "elit",
-    "producto": "Cartucho de Tinta EPSON 196 Amarillo",
-    "categoria": "Impresoras e Insumos",
-    "precio": 25
-  },
-  {
-    "proveedor": "elit",
     "producto": "Disco Externo HDD WESTERN DIGITAL Elements 1TB USB 3.0 Tipo A Negro",
     "categoria": "Almacenamiento Portatil",
-    "precio": 167
+    "precio": 163
   },
   {
     "proveedor": "elit",
@@ -73,12 +67,6 @@
   },
   {
     "proveedor": "elit",
-    "producto": "Mouse c/Cable LOGITECH M90 Negro",
-    "categoria": "Mouses",
-    "precio": 11
-  },
-  {
-    "proveedor": "elit",
     "producto": "DVD-R 4.7GB 8X. Torre de 100 unidades",
     "categoria": "Accesorios",
     "precio": 33
@@ -93,7 +81,7 @@
     "proveedor": "elit",
     "producto": "Disco Interno HDD WESTERN DIGITAL Purple 1TB 3.5\" SATA 3.0 5400rpm",
     "categoria": "Discos",
-    "precio": 121
+    "precio": 118
   },
   {
     "proveedor": "elit",
@@ -105,37 +93,13 @@
     "proveedor": "elit",
     "producto": "Disco Externo HDD WESTERN DIGITAL Elements 2TB USB 3.0 Tipo A Negro",
     "categoria": "Almacenamiento Portatil",
-    "precio": 218
+    "precio": 212
   },
   {
     "proveedor": "elit",
     "producto": "Gabinete M-ATX KIT T M C/ Fuente 500W sin parlante",
     "categoria": "Gabinetes",
     "precio": 95
-  },
-  {
-    "proveedor": "elit",
-    "producto": "Mouse Inalámbrico LOGITECH M170 Plateado",
-    "categoria": "Mouses",
-    "precio": 22
-  },
-  {
-    "proveedor": "elit",
-    "producto": "Mouse Inalámbrico LOGITECH M170 Azul",
-    "categoria": "Mouses",
-    "precio": 22
-  },
-  {
-    "proveedor": "elit",
-    "producto": "Mouse Inalámbrico LOGITECH M170 Rojo",
-    "categoria": "Mouses",
-    "precio": 22
-  },
-  {
-    "proveedor": "elit",
-    "producto": "Teclado Inalámbrico LOGITECH MK235 Negro",
-    "categoria": "Teclados",
-    "precio": 52
   },
   {
     "proveedor": "elit",
@@ -154,6 +118,12 @@
     "producto": "Mouse Inalámbrico M280 Negro",
     "categoria": "Mouses",
     "precio": 34
+  },
+  {
+    "proveedor": "elit",
+    "producto": "Auricular LOGITECH H390 Negro",
+    "categoria": "Auriculares",
+    "precio": 105
   },
   {
     "proveedor": "elit",
@@ -177,13 +147,7 @@
     "proveedor": "elit",
     "producto": "Disco Interno SSD KINGSTON A400 240GB 2.5\" SATA 3.0  500MB/s",
     "categoria": "Discos",
-    "precio": 57
-  },
-  {
-    "proveedor": "elit",
-    "producto": "Mouse Inalámbrico LOGITECH M170 Negro",
-    "categoria": "Mouses",
-    "precio": 22
+    "precio": 49
   },
   {
     "proveedor": "elit",
@@ -217,12 +181,6 @@
   },
   {
     "proveedor": "elit",
-    "producto": "Mouse Inalámbrico LOGITECH G305 Negro",
-    "categoria": "Mouses",
-    "precio": 85
-  },
-  {
-    "proveedor": "elit",
     "producto": "Mouse c/cable XTECH XTM-710 Negro",
     "categoria": "Mouses",
     "precio": 17
@@ -231,13 +189,7 @@
     "proveedor": "elit",
     "producto": "Disco Interno SSD CRUCIAL BX500 240GB 2.5\" SATA 3.0  540MB/s",
     "categoria": "Discos",
-    "precio": 50
-  },
-  {
-    "proveedor": "elit",
-    "producto": "Procesador Ryzen 3 3200G AM4 c/Radeon Vega 8",
-    "categoria": "Procesadores",
-    "precio": 240
+    "precio": 47
   },
   {
     "proveedor": "elit",
@@ -345,7 +297,7 @@
     "proveedor": "elit",
     "producto": "Tarjeta de Memoria KINGSTON Select Plus MicroSDXC 64GB UHS-I U1 V10 A1",
     "categoria": "Almacenamiento Portatil",
-    "precio": 15
+    "precio": 14
   },
   {
     "proveedor": "elit",
@@ -459,7 +411,7 @@
     "proveedor": "elit",
     "producto": "Procesador INTEL Core i5-10400 2.90GHz LGA1200 DDR4",
     "categoria": "Procesadores",
-    "precio": 442
+    "precio": 385
   },
   {
     "proveedor": "elit",
@@ -477,7 +429,7 @@
     "proveedor": "elit",
     "producto": "Auricular GENIUS HS-610 Rojo",
     "categoria": "Auriculares",
-    "precio": 58
+    "precio": 31
   },
   {
     "proveedor": "elit",
@@ -567,7 +519,7 @@
     "proveedor": "elit",
     "producto": "Memoria Ram SODIMM KINGSTON KVR 8GB DDR4 2666MHz CL19 1.20V Single Negro",
     "categoria": "Memorias RAM",
-    "precio": 58
+    "precio": 55
   },
   {
     "proveedor": "elit",
@@ -579,13 +531,13 @@
     "proveedor": "elit",
     "producto": "Procesador AMD Ryzen 5 5600X 3.80GHz AM4 DDR4",
     "categoria": "Procesadores",
-    "precio": 600
+    "precio": 506
   },
   {
     "proveedor": "elit",
     "producto": "Memoria Ram UDIMM KINGSTON KVR 8GB DDR4 2666MHz CL19 1.20V Single Negro",
     "categoria": "Memorias RAM",
-    "precio": 56
+    "precio": 53
   },
   {
     "proveedor": "elit",
@@ -627,13 +579,13 @@
     "proveedor": "elit",
     "producto": "Fuente GIGABYTE P750GM 750W 80 Plus Gold ATX Modular",
     "categoria": "Fuentes",
-    "precio": 198
+    "precio": 194
   },
   {
     "proveedor": "elit",
     "producto": "Pen Drive KINGSTON Exodia 32GB USB 3.2 Gen 1 Tipo A Negro",
     "categoria": "Almacenamiento Portatil",
-    "precio": 11
+    "precio": 9
   },
   {
     "proveedor": "elit",
@@ -669,13 +621,7 @@
     "proveedor": "elit",
     "producto": "Disco Interno SSD CRUCIAL BX500 1TB 2.5\" SATA 3.0  540MB/s",
     "categoria": "Discos",
-    "precio": 135
-  },
-  {
-    "proveedor": "elit",
-    "producto": "Procesador INTEL Core i5-11400 2.60GHz LGA1200 DDR4",
-    "categoria": "Procesadores",
-    "precio": 490
+    "precio": 124
   },
   {
     "proveedor": "elit",
@@ -687,13 +633,13 @@
     "proveedor": "elit",
     "producto": "Memoria Ram UDIMM CRUCIAL Basics 8GB DDR4 2666MHz CL17 1.20V Single Verde",
     "categoria": "Memorias RAM",
-    "precio": 44
+    "precio": 43
   },
   {
     "proveedor": "elit",
     "producto": "Disco Interno SSD WESTERN DIGITAL SN350 480GB M.2 NVMe PCIe 3.0  2400MB/s",
     "categoria": "Discos",
-    "precio": 97
+    "precio": 84
   },
   {
     "proveedor": "elit",
@@ -705,13 +651,13 @@
     "proveedor": "elit",
     "producto": "Procesador INTEL Core i3-10105 3.70GHz LGA1200 DDR4",
     "categoria": "Procesadores",
-    "precio": 326
+    "precio": 308
   },
   {
     "proveedor": "elit",
     "producto": "Procesador INTEL Core i3-10105F 3.70GHz LGA1200 DDR4",
     "categoria": "Procesadores",
-    "precio": 188
+    "precio": 160
   },
   {
     "proveedor": "elit",
@@ -724,12 +670,6 @@
     "producto": "Mouse Inalámbrico LOGITECH GPRO X Superlight Blanco",
     "categoria": "Mouses",
     "precio": 266
-  },
-  {
-    "proveedor": "elit",
-    "producto": "Mouse MSI Clutch GM 20 ELITE",
-    "categoria": "Mouses",
-    "precio": 38
   },
   {
     "proveedor": "elit",
@@ -757,6 +697,12 @@
   },
   {
     "proveedor": "elit",
+    "producto": "PC LENOVO ThinkCentre M60e Intel Core i5-1035G1 8GB DDR4-2666MHz 256GB SSD Free DOS",
+    "categoria": "Computadoras",
+    "precio": 1439
+  },
+  {
+    "proveedor": "elit",
     "producto": "Liquid Cooler THERMALTAKE Pacific C240 Soft Tube Kit ARGB",
     "categoria": "Refrigeracion",
     "precio": 451
@@ -777,13 +723,13 @@
     "proveedor": "elit",
     "producto": "Memoria Ram UDIMM KINGSTON Fury Beast 8GB DDR4 3200MHz CL16 1.35V Single Negro",
     "categoria": "Memorias RAM",
-    "precio": 43
+    "precio": 59
   },
   {
     "proveedor": "elit",
     "producto": "Memoria Ram UDIMM KINGSTON Fury Beast 8GB DDR4 2666MHz CL16 1.20V Single Negro",
     "categoria": "Memorias RAM",
-    "precio": 41
+    "precio": 56
   },
   {
     "proveedor": "elit",
@@ -795,19 +741,19 @@
     "proveedor": "elit",
     "producto": "Fuente GIGABYTE P1000GM 1000W 80 Plus Gold ATX Modular",
     "categoria": "Fuentes",
-    "precio": 333
+    "precio": 327
   },
   {
     "proveedor": "elit",
     "producto": "Procesador AMD Ryzen 5 5600G 3.90GHz AM4 DDR4",
     "categoria": "Procesadores",
-    "precio": 431
+    "precio": 378
   },
   {
     "proveedor": "elit",
     "producto": "Procesador AMD Ryzen 7 5700G 3.80GHz AM4 DDR4",
     "categoria": "Procesadores",
-    "precio": 586
+    "precio": 544
   },
   {
     "proveedor": "elit",
@@ -831,19 +777,13 @@
     "proveedor": "elit",
     "producto": "Memoria Ram UDIMM KINGSTON Fury Beast 8GB DDR4 3200MHz CL16 1.35V Single Negro RGB",
     "categoria": "Memorias RAM",
-    "precio": 72
+    "precio": 67
   },
   {
     "proveedor": "elit",
     "producto": "Memoria Ram UDIMM KINGSTON Fury Renegade 8GB DDR4 3200MHz CL16 1.35V Single Negro RGB",
     "categoria": "Memorias RAM",
     "precio": 85
-  },
-  {
-    "proveedor": "elit",
-    "producto": "Memoria Ram UDIMM KINGSTON Fury Renegade 8GB DDR4 3600MHz CL16 1.35V Single Negro RGB",
-    "categoria": "Memorias RAM",
-    "precio": 92
   },
   {
     "proveedor": "elit",
@@ -877,27 +817,27 @@
   },
   {
     "proveedor": "elit",
+    "producto": "Impresora Epson Multifunción L3250 EcoTank",
+    "categoria": "Impresoras e Insumos",
+    "precio": 830
+  },
+  {
+    "proveedor": "elit",
+    "producto": "Impresora LaserJet Enterprise M611dn",
+    "categoria": "Impresoras e Insumos",
+    "precio": 2283
+  },
+  {
+    "proveedor": "elit",
     "producto": "Kit de Soporte Lenovo ThinkCentre Tiny II",
     "categoria": "Accesorios",
     "precio": 35
   },
   {
     "proveedor": "elit",
-    "producto": "Memoria Ram UDIMM KINGSTON Fury Beast 16GB DDR4 3200MHz CL16 1.35V Single Negro",
-    "categoria": "Memorias RAM",
-    "precio": 113
-  },
-  {
-    "proveedor": "elit",
     "producto": "Memoria Ram UDIMM KINGSTON Fury Beast 16GB DDR4 3200MHz CL16 1.35V Single Negro RGB",
     "categoria": "Memorias RAM",
     "precio": 125
-  },
-  {
-    "proveedor": "elit",
-    "producto": "Botella de Tinta EPSON 555 Negro",
-    "categoria": "Impresoras e Insumos",
-    "precio": 35
   },
   {
     "proveedor": "elit",
@@ -949,21 +889,15 @@
   },
   {
     "proveedor": "elit",
-    "producto": "Impresora Pantum P2509W Laser Monocromatica",
-    "categoria": "Impresoras e Insumos",
-    "precio": 262
-  },
-  {
-    "proveedor": "elit",
     "producto": "Disco Interno HDD WESTERN DIGITAL Purple 2TB 3.5\" SATA 3.0 5400rpm",
     "categoria": "Discos",
-    "precio": 158
+    "precio": 155
   },
   {
     "proveedor": "elit",
     "producto": "Procesador INTEL Core i5-12400 2.50GHz LGA1700 DDR4/DDR5",
     "categoria": "Procesadores",
-    "precio": 595
+    "precio": 538
   },
   {
     "proveedor": "elit",
@@ -976,6 +910,12 @@
     "producto": "Notebook LENOVO IdeaPad Flex 5 14\" AMD Ryzen 3 5300U 8GB DDR4-3200Mhz AMD Radeon Graphics 256GB SSD Windows 11 Home",
     "categoria": "Notebooks",
     "precio": 1414
+  },
+  {
+    "proveedor": "elit",
+    "producto": "Notebook LENOVO ThinkBook 15 G2 ITL 15\" Intel Core i5-1135G7 8GB DD4-3200Mhz Intel Iris Xe 256GB SSD -",
+    "categoria": "Notebooks",
+    "precio": 2125
   },
   {
     "proveedor": "elit",
@@ -1004,25 +944,25 @@
   {
     "proveedor": "elit",
     "producto": "Mouse Pad LOGITECH M Grafito",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Auriculares",
     "precio": 32
   },
   {
     "proveedor": "elit",
     "producto": "Mouse Pad LOGITECH M Rosa",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Auriculares",
     "precio": 32
   },
   {
     "proveedor": "elit",
     "producto": "Mouse Pad LOGITECH M Azul",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Auriculares",
     "precio": 32
   },
   {
     "proveedor": "elit",
     "producto": "Mouse Pad LOGITECH XL Lavanda",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Auriculares",
     "precio": 69
   },
   {
@@ -1035,7 +975,7 @@
     "proveedor": "elit",
     "producto": "Memoria Ram UDIMM CRUCIAL Basics 16GB DDR4 2666MHz CL17 1.20V Single Verde",
     "categoria": "Memorias RAM",
-    "precio": 98
+    "precio": 91
   },
   {
     "proveedor": "elit",
@@ -1047,13 +987,13 @@
     "proveedor": "elit",
     "producto": "Motherboard GIGABYTE H610M S2H Ultra Durable LGA1700 DDR4",
     "categoria": "Motherboards",
-    "precio": 269
+    "precio": 256
   },
   {
     "proveedor": "elit",
     "producto": "Motherboard GIGABYTE H610M H Ultra Durable LGA1700 DDR4",
     "categoria": "Motherboards",
-    "precio": 257
+    "precio": 245
   },
   {
     "proveedor": "elit",
@@ -1095,7 +1035,7 @@
     "proveedor": "elit",
     "producto": "Disco Interno SSD WESTERN DIGITAL SN350 1TB M.2 NVMe PCIe 3.0  3200MB/s",
     "categoria": "Discos",
-    "precio": 167
+    "precio": 144
   },
   {
     "proveedor": "elit",
@@ -1125,7 +1065,7 @@
     "proveedor": "elit",
     "producto": "Procesador INTEL Core i7-12700 1.60GHz LGA1700 DDR4/DDR5",
     "categoria": "Procesadores",
-    "precio": 1107
+    "precio": 1083
   },
   {
     "proveedor": "elit",
@@ -1138,6 +1078,12 @@
     "producto": "Fuente COOLER MASTER Cable 24 Pines ATX p/Adaptador CM",
     "categoria": "Fuentes",
     "precio": 3
+  },
+  {
+    "proveedor": "elit",
+    "producto": "Notebook LENOVO ThinkBook 15 G2 ITL 15\" Intel Core i7-1165G7 8GB DD4-3200Mhz Intel Iris Xe 256GB SSD -",
+    "categoria": "Notebooks",
+    "precio": 2381
   },
   {
     "proveedor": "elit",
@@ -1179,19 +1125,19 @@
     "proveedor": "elit",
     "producto": "Disco Interno SSD WESTERN DIGITAL Green 240GB 2.5\" SATA 3.0  545MB/s",
     "categoria": "Discos",
-    "precio": 55
+    "precio": 53
   },
   {
     "proveedor": "elit",
     "producto": "Memoria Ram SODIMM KINGSTON KVR 8GB DDR4 3200MHz CL22 1.20V Single Negro",
     "categoria": "Memorias RAM",
-    "precio": 57
+    "precio": 53
   },
   {
     "proveedor": "elit",
     "producto": "Procesador INTEL Core i3-12100 3.30GHz LGA1700 DDR4/DDR5",
     "categoria": "Procesadores",
-    "precio": 420
+    "precio": 411
   },
   {
     "proveedor": "elit",
@@ -1255,12 +1201,6 @@
   },
   {
     "proveedor": "elit",
-    "producto": "Monitor LENOVO D22e-20 FHD 21.45\"",
-    "categoria": "Monitores",
-    "precio": 172
-  },
-  {
-    "proveedor": "elit",
     "producto": "Fuente COOLER MASTER MWE V2 1050W 80 Plus Gold ATX Modular",
     "categoria": "Fuentes",
     "precio": 309
@@ -1269,7 +1209,7 @@
     "proveedor": "elit",
     "producto": "Disco Interno SSD WESTERN DIGITAL Green 480GB 2.5\" SATA 3.0  545MB/s",
     "categoria": "Discos",
-    "precio": 90
+    "precio": 80
   },
   {
     "proveedor": "elit",
@@ -1305,13 +1245,13 @@
     "proveedor": "elit",
     "producto": "Memoria Ram UDIMM KINGSTON KVR 8GB DDR4 3200MHz CL22 1.20V Single Negro",
     "categoria": "Memorias RAM",
-    "precio": 59
+    "precio": 53
   },
   {
     "proveedor": "elit",
     "producto": "Disco Interno SSD CRUCIAL P3 500GB M.2 NVMe PCIe 3.0  3500MB/s",
     "categoria": "Discos",
-    "precio": 100
+    "precio": 98
   },
   {
     "proveedor": "elit",
@@ -1323,7 +1263,7 @@
     "proveedor": "elit",
     "producto": "Motherboard GIGABYTE X570S AORUS ELITE AM4 DDR4",
     "categoria": "Motherboards",
-    "precio": 555
+    "precio": 537
   },
   {
     "proveedor": "elit",
@@ -1347,13 +1287,13 @@
     "proveedor": "elit",
     "producto": "Fuente THERMALTAKE TOUGHPOWER GF1 850W 80 Plus Gold ATX Modular",
     "categoria": "Fuentes",
-    "precio": 224
+    "precio": 215
   },
   {
     "proveedor": "elit",
     "producto": "Fuente THERMALTAKE TOUGHPOWER GF1 750W 80 Plus Gold ATX Modular",
     "categoria": "Fuentes",
-    "precio": 186
+    "precio": 177
   },
   {
     "proveedor": "elit",
@@ -1425,7 +1365,7 @@
     "proveedor": "elit",
     "producto": "Disco Interno SSD CRUCIAL BX500 500GB 2.5\" SATA 3.0  550MB/s",
     "categoria": "Discos",
-    "precio": 76
+    "precio": 74
   },
   {
     "proveedor": "elit",
@@ -1447,9 +1387,9 @@
   },
   {
     "proveedor": "elit",
-    "producto": "Monitor HP M24f FHD",
+    "producto": "Monitor HP M24fw FHD",
     "categoria": "Monitores",
-    "precio": 295
+    "precio": 296
   },
   {
     "proveedor": "elit",
@@ -1465,21 +1405,9 @@
   },
   {
     "proveedor": "elit",
-    "producto": "Gabinete The Tower 500 Negro  C/ Vidrio Templado",
-    "categoria": "Gabinetes",
-    "precio": 274
-  },
-  {
-    "proveedor": "elit",
     "producto": "Gabinete The Tower 500 Blanco C/ Vidrio Templado",
     "categoria": "Gabinetes",
     "precio": 286
-  },
-  {
-    "proveedor": "elit",
-    "producto": "Impresora HP LaserJet Pro 4003dw",
-    "categoria": "Impresoras e Insumos",
-    "precio": 701
   },
   {
     "proveedor": "elit",
@@ -1503,7 +1431,7 @@
     "proveedor": "elit",
     "producto": "Motherboard (AM4) GIGABYTE X570SI AORUS PRO AX",
     "categoria": "Motherboards",
-    "precio": 643
+    "precio": 622
   },
   {
     "proveedor": "elit",
@@ -1522,6 +1450,12 @@
     "producto": "Funda Bags Tablet 10\" Neoprene London",
     "categoria": "Accesorios",
     "precio": 12
+  },
+  {
+    "proveedor": "elit",
+    "producto": "Escaner HP ScanJet Pro 2600 f1",
+    "categoria": "Impresoras e Insumos",
+    "precio": 562
   },
   {
     "proveedor": "elit",
@@ -1555,24 +1489,6 @@
   },
   {
     "proveedor": "elit",
-    "producto": "Mouse Inalámbrico Logitech M170 Rosa",
-    "categoria": "Mouses",
-    "precio": 22
-  },
-  {
-    "proveedor": "elit",
-    "producto": "Mouse Inalámbrico Logitech M170 Azul/Gris",
-    "categoria": "Mouses",
-    "precio": 22
-  },
-  {
-    "proveedor": "elit",
-    "producto": "Mouse Inalámbrico Logitech M170 Blanco",
-    "categoria": "Mouses",
-    "precio": 22
-  },
-  {
-    "proveedor": "elit",
     "producto": "Mouse Gaming Logitech G502 X Negro",
     "categoria": "Mouses",
     "precio": 187
@@ -1599,18 +1515,24 @@
     "proveedor": "elit",
     "producto": "Disco duro portatil 1TB 3.0 Expansion Portable",
     "categoria": "Almacenamiento Portatil",
-    "precio": 131
+    "precio": 138
   },
   {
     "proveedor": "elit",
     "producto": "Disco duro portatil 2TB 3.0 Expansion Portable",
     "categoria": "Almacenamiento Portatil",
-    "precio": 180
+    "precio": 176
   },
   {
     "proveedor": "elit",
     "producto": "Procesador Core i3-13100 QCore 3.40GHz 12MB 1700",
     "categoria": "Procesadores",
     "precio": 441
+  },
+  {
+    "proveedor": "elit",
+    "producto": "Notebook Lenovo L15, R7 16GB 512SSD FreeDos",
+    "categoria": "Notebooks",
+    "precio": 2291
   }
 ]

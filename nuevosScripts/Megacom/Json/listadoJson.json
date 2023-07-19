@@ -121,141 +121,87 @@
   },
   {
     "proveedor": "mega",
-    "producto": "DDR3 02Gb 1333 1.50v KINGSTON KVR13N9S6/2",
-    "categoria": "Memorias RAM",
-    "precio": 20
-  },
-  {
-    "proveedor": "mega",
-    "producto": "DDR3 04GB 1600 1.50V GOLDEN 740617083200",
-    "categoria": "Memorias RAM",
-    "precio": 43
-  },
-  {
-    "proveedor": "mega",
-    "producto": "DDR3 04Gb 1600 1.50v MARKVISION K4GBD3-1600",
-    "categoria": "Memorias RAM",
-    "precio": 43
-  },
-  {
-    "proveedor": "mega",
-    "producto": "DDR3 08Gb 1600 1.50v CORSAIR CMV8GX3M1A1600C11",
-    "categoria": "Memorias RAM",
-    "precio": 101
-  },
-  {
-    "proveedor": "mega",
-    "producto": "DDR4 04Gb 2133 1.20v CRUCIAL CT4G4DFS8213",
-    "categoria": "Memorias RAM",
-    "precio": 39
-  },
-  {
-    "proveedor": "mega",
-    "producto": "DDR4 04Gb 2400 1.20v CRUCIAL CT4G4DFS824A",
-    "categoria": "Memorias RAM",
-    "precio": 61
-  },
-  {
-    "proveedor": "mega",
-    "producto": "DDR4 04Gb 2400 1.20v KINGSTON KVR24N17S6-4",
-    "categoria": "Memorias RAM",
-    "precio": 38
-  },
-  {
-    "proveedor": "mega",
-    "producto": "DDR4 04Gb 2400 1.20v MARKVISION K4GBD4-2400",
-    "categoria": "Memorias RAM",
-    "precio": 47
-  },
-  {
-    "proveedor": "mega",
-    "producto": "DDR4 04Gb 2400 1.20v MEMOX MXD4424",
-    "categoria": "Memorias RAM",
-    "precio": 51
-  },
-  {
-    "proveedor": "mega",
-    "producto": "DDR4 04Gb 2400 1.20v MUSHKIN MES4U240HF",
+    "producto": " DDR3 04gb 1333 1.35V Corsair  Value ",
     "categoria": "Memorias RAM",
     "precio": 53
   },
   {
     "proveedor": "mega",
-    "producto": "DDR4 04Gb 2400 1.20v PATRIOT PSD44G240041",
+    "producto": " DDR3 08gb 1600  1.35V Markvision  BULK",
     "categoria": "Memorias RAM",
-    "precio": 34
+    "precio": 52
   },
   {
     "proveedor": "mega",
-    "producto": "DDR4 04Gb 2400 1.20v PCBOX D4PBX",
-    "categoria": "Memorias RAM",
-    "precio": 46
-  },
-  {
-    "proveedor": "mega",
-    "producto": "DDR4 04Gb 2666 1.20v CRUCIAL CT4G4DFS8266",
+    "producto": " DDR4 04gb 2400 1.20V Corsair Value",
     "categoria": "Memorias RAM",
     "precio": 35
   },
   {
     "proveedor": "mega",
-    "producto": "DDR4 04Gb 2666 1.20v KINGSTON KVR26N19S6/4",
+    "producto": "DDR3 04gb 1600 1.35V Markvision  BULK",
     "categoria": "Memorias RAM",
-    "precio": 47
+    "precio": 35
   },
   {
     "proveedor": "mega",
-    "producto": "DDR4 04Gb 2666 1.20v MARKVISION K4GBD4-2666",
+    "producto": "DDR3 04gb 1600 Corsair Value",
     "categoria": "Memorias RAM",
-    "precio": 39
+    "precio": 53
   },
   {
     "proveedor": "mega",
-    "producto": "DDR4 04Gb 2666 1.20v NEOFORZA NMUD440D82-2666EA00",
+    "producto": "DDR3 08gb 1333 1.5V Corsair  Value",
+    "categoria": "Memorias RAM",
+    "precio": 86
+  },
+  {
+    "proveedor": "mega",
+    "producto": "DDR4 04Gb 2400 1.20V Markvision BULK",
+    "categoria": "Memorias RAM",
+    "precio": 48
+  },
+  {
+    "proveedor": "mega",
+    "producto": "DDR4 04Gb 2666 1.20V Corsair  Value ",
+    "categoria": "Memorias RAM",
+    "precio": 38
+  },
+  {
+    "proveedor": "mega",
+    "producto": "DDR4 04Gb 2666 1.20V HIKVISION ",
     "categoria": "Memorias RAM",
     "precio": 42
   },
   {
     "proveedor": "mega",
-    "producto": "DDR4 04Gb 2666 1.20v PATRIOT PSD44G266681",
+    "producto": "DDR4 04Gb 2666 1.20V Kingston FURY BEAST",
     "categoria": "Memorias RAM",
-    "precio": 41
+    "precio": 54
   },
   {
     "proveedor": "mega",
-    "producto": "DDR4 04Gb 3200 1.20v KINGSTON HX432C16FB3/8 HyperX",
+    "producto": "DDR4 04GB 2666 1.20V Markvision  BULK",
     "categoria": "Memorias RAM",
-    "precio": 85
-  },
-  {
-    "proveedor": "mega",
-    "producto": "DDR4 08Gb 2133 1.20v KINGSTON HXF HX421C14FB/8",
-    "categoria": "Memorias RAM",
-    "precio": 142
-  },
-  {
-    "proveedor": "mega",
-    "producto": "DDR4 08Gb 2133 1.20v KINGSTON KVR21N15S8/8",
-    "categoria": "Memorias RAM",
-    "precio": 144
+    "precio": 47
   },
   {
     "proveedor": "mega",
     "producto": "DDR4 08Gb 2400 1.20v CRUCIAL Ballistix BLS8G4D240F",
     "categoria": "Memorias RAM",
-    "precio": 59
+    "precio": 60
   },
   {
     "proveedor": "mega",
     "producto": "DDR4 08Gb 2400 1.20v KINGSTON KVR24N17S8-8",
     "categoria": "Memorias RAM",
-    "precio": 62
+    "precio": 60
   },
   {
     "proveedor": "mega",
     "producto": "DDR4 08Gb 2400 1.20v MARKVISION K8GBD4-2400",
     "categoria": "Memorias RAM",
-    "precio": 85
+    "precio": 62
   },
   {
     "proveedor": "mega",
@@ -267,43 +213,49 @@
     "proveedor": "mega",
     "producto": "DDR4 08Gb 2400 1.20v PATRIOT PSD44G240081",
     "categoria": "Memorias RAM",
-    "precio": 93
+    "precio": 62
   },
   {
     "proveedor": "mega",
     "producto": "DDR4 08GB 2666 1.20V CORSAIR CMK8GX4M1A2666C16",
     "categoria": "Memorias RAM",
-    "precio": 60
+    "precio": 77
   },
   {
     "proveedor": "mega",
     "producto": "DDR4 08GB 2666 1.20v CRUCIAL CT8G4DFS8266",
     "categoria": "Memorias RAM",
-    "precio": 56
+    "precio": 60
   },
   {
     "proveedor": "mega",
     "producto": "DDR4 08Gb 2666 1.20v KINGSTON KVR26N19S6/8",
     "categoria": "Memorias RAM",
-    "precio": 80
+    "precio": 60
   },
   {
     "proveedor": "mega",
     "producto": "DDR4 08Gb 2666 1.20v LEXAR LD4AU008G-R2666G",
     "categoria": "Memorias RAM",
-    "precio": 74
+    "precio": 60
   },
   {
     "proveedor": "mega",
-    "producto": "DDR4 08Gb 2666 1.20v NEOFORZA NMUD480E82-2666EA00",
+    "producto": "DDR4 08Gb 3000 1.35VCorsairVengeance LPX Bl",
     "categoria": "Memorias RAM",
-    "precio": 68
+    "precio": 74
   },
   {
     "proveedor": "mega",
     "producto": "DDR4 08Gb 3200 1.20v KINGSTON HX432C16FB3A/8 Hyper",
     "categoria": "Memorias RAM",
     "precio": 102
+  },
+  {
+    "proveedor": "mega",
+    "producto": "DDR4 08Gb 3200 1.35V Markvision  BULK",
+    "categoria": "Memorias RAM",
+    "precio": 71
   },
   {
     "proveedor": "mega",
@@ -315,31 +267,25 @@
     "proveedor": "mega",
     "producto": "DDR4 16Gb 2400 1.20v CORSAIR CMV16GX4M1A2400C16",
     "categoria": "Memorias RAM",
-    "precio": 163
+    "precio": 146
   },
   {
     "proveedor": "mega",
     "producto": "DDR4 16Gb 2400 1.20v CRUCIAL BLS16G4D26BFSC",
     "categoria": "Memorias RAM",
-    "precio": 164
+    "precio": 146
   },
   {
     "proveedor": "mega",
     "producto": "DDR4 16Gb 2400 1.20v MARKVISION K16GBD4-2400",
     "categoria": "Memorias RAM",
-    "precio": 113
-  },
-  {
-    "proveedor": "mega",
-    "producto": "DDR4 16Gb 2400 1.20v MUSHKIN MBA4U240FFFF16",
-    "categoria": "Memorias RAM",
-    "precio": 164
+    "precio": 136
   },
   {
     "proveedor": "mega",
     "producto": "DDR4 16Gb 2666 1.20v KINGSTON KF426C16BB1 16",
     "categoria": "Memorias RAM",
-    "precio": 122
+    "precio": 105
   },
   {
     "proveedor": "mega",
@@ -393,55 +339,67 @@
     "proveedor": "mega",
     "producto": "Sodimm DDR3 04Gb 1333 1.35v CORSAIR CMSO4GX3M1C133",
     "categoria": "Memorias RAM",
-    "precio": 41
+    "precio": 56
   },
   {
     "proveedor": "mega",
     "producto": "Sodimm DDR3 04Gb 1333 1.35v ICOLAX SD3413",
     "categoria": "Memorias RAM",
-    "precio": 45
+    "precio": 56
   },
   {
     "proveedor": "mega",
     "producto": "Sodimm DDR3 04Gb 1333 1.50v NOVATECH SD3413",
     "categoria": "Memorias RAM",
-    "precio": 40
+    "precio": 56
   },
   {
     "proveedor": "mega",
     "producto": "Sodimm DDR3 04Gb 1600 1.50V GOLDEN MEMORY GM16",
     "categoria": "Memorias RAM",
-    "precio": 41
+    "precio": 56
   },
   {
     "proveedor": "mega",
     "producto": "Sodimm DDR3 04Gb 1600 1.50v TRANSCEND 713218-4826",
     "categoria": "Memorias RAM",
-    "precio": 40
+    "precio": 56
   },
   {
     "proveedor": "mega",
     "producto": "Sodimm DDR3 08Gb 1600 1.35v CORSAIR CMSO8GX3M1C160",
     "categoria": "Memorias RAM",
-    "precio": 79
+    "precio": 98
   },
   {
     "proveedor": "mega",
     "producto": "Sodimm DDR3 08Gb 1600 1.35v ICOLAX SD3415",
     "categoria": "Memorias RAM",
-    "precio": 70
+    "precio": 98
+  },
+  {
+    "proveedor": "mega",
+    "producto": "Sodimm DDR4 04Gb 2400 1.20V Markvision  ",
+    "categoria": "Memorias RAM",
+    "precio": 48
   },
   {
     "proveedor": "mega",
     "producto": "Sodimm DDR4 08Gb 2400 1.20v MARKVISION K8GBD4-2400",
     "categoria": "Memorias RAM",
-    "precio": 55
+    "precio": 62
   },
   {
     "proveedor": "mega",
     "producto": "Sodimm DDR4 08Gb 2666 1.20v KINGSTON KVR26S19S8/8",
     "categoria": "Memorias RAM",
-    "precio": 66
+    "precio": 108
+  },
+  {
+    "proveedor": "mega",
+    "producto": "Sodimm DDR4 16gb  2400 1.20VMarkvision ",
+    "categoria": "Memorias RAM",
+    "precio": 136
   },
   {
     "proveedor": "mega",
@@ -1106,25 +1064,25 @@
   {
     "proveedor": "mega",
     "producto": "Radio Reloj ELLROY DDB300 Despertador",
-    "categoria": "Electro",
+    "categoria": "Parlantes",
     "precio": 11
   },
   {
     "proveedor": "mega",
     "producto": "Radio STROMBERG C RA-P01 Analogica",
-    "categoria": "Electro",
+    "categoria": "Parlantes",
     "precio": 4
   },
   {
     "proveedor": "mega",
     "producto": "Reproductor CD STROMBERG C BB-27",
-    "categoria": "Electro",
+    "categoria": "Parlantes",
     "precio": 100
   },
   {
     "proveedor": "mega",
     "producto": "Reproductor S/CD STROMBERG C DS-17",
-    "categoria": "Electro",
+    "categoria": "Parlantes",
     "precio": 73
   },
   {
@@ -1628,19 +1586,19 @@
   {
     "proveedor": "mega",
     "producto": "Stereo C6 HDC 3011 USB SD 25WX4",
-    "categoria": "Electro",
+    "categoria": "Parlantes",
     "precio": 54
   },
   {
     "proveedor": "mega",
     "producto": "Stereo ELECTROLAND ORGT USB SD BT 50WX4",
-    "categoria": "Electro",
+    "categoria": "Parlantes",
     "precio": 55
   },
   {
     "proveedor": "mega",
     "producto": "Stereo STROMBERG CARLSON SC-6001",
-    "categoria": "Electro",
+    "categoria": "Parlantes",
     "precio": 74
   },
   {
@@ -2030,397 +1988,397 @@
   {
     "proveedor": "mega",
     "producto": "Red PCI ENCORE ENLGA-1320 10/100/1000",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 14
   },
   {
     "proveedor": "mega",
     "producto": "Red PCI NOGA NG-8139D 10/100",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 7
   },
   {
     "proveedor": "mega",
     "producto": "Red PCI TP-LINK TF-3200 10/100",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 10
   },
   {
     "proveedor": "mega",
     "producto": "Red PCI TP-LINK TF-3239DL 10/100",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 11
   },
   {
     "proveedor": "mega",
     "producto": "Red PCI TP-LINK TG-3469 Gigabit 10/100/1000 ",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 15
   },
   {
     "proveedor": "mega",
     "producto": "Red PCI WIFI ECORE ENLWI-N3 150Mbps",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 4
   },
   {
     "proveedor": "mega",
     "producto": "Red PCI WIFI TP-LINK TL-WN350GD",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 19
   },
   {
     "proveedor": "mega",
     "producto": "Red PCI WIFI TP-LINK TL-WN353GD",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 17
   },
   {
     "proveedor": "mega",
     "producto": "Red PCI WIFI TP-LINK TL-WN651G",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 30
   },
   {
     "proveedor": "mega",
     "producto": "Red PCI WIFI TP-LINK TL-WN751ND",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 19
   },
   {
     "proveedor": "mega",
     "producto": "Red PCI WIFI TP-LINK TL-WN851N",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 31
   },
   {
     "proveedor": "mega",
     "producto": "Red PCI WIFI TP-LINK TL-WN851ND",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 31
   },
   {
     "proveedor": "mega",
     "producto": "Red PCI WIFI TP-LINK TL-WN951ND",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 47
   },
   {
     "proveedor": "mega",
     "producto": "Red PCI-E 2.0 INTEL I340 E1G44HTBLK",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 226
   },
   {
     "proveedor": "mega",
     "producto": "Red PCI-E ENCORE ENEGA-1320 Gigabit 10/100/1000",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 13
   },
   {
     "proveedor": "mega",
     "producto": "Red PCI-E NETMAK NM-E723 Gigabit 10/100/1000",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 16
   },
   {
     "proveedor": "mega",
     "producto": "Red PCI-E TP-LINK TG-3468 Gigabit 10/100/1000",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 22
   },
   {
     "proveedor": "mega",
     "producto": "Red PCI-E WIFI TP-LINK TL-WN781ND",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 31
   },
   {
     "proveedor": "mega",
     "producto": "Red PCI-E WIFI TP-LINK TL-WN881ND",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 22
   },
   {
     "proveedor": "mega",
     "producto": "Red PCMCIA 10/100 ENCORE ENP832-TX-PC",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 27
   },
   {
     "proveedor": "mega",
     "producto": "Red PCMCIA WIFI ENCORE ENPWI-G",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 28
   },
   {
     "proveedor": "mega",
     "producto": "Red USB WIFI  COMFAST CF-WU810N 150 Mbps",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 7
   },
   {
     "proveedor": "mega",
     "producto": "Red USB WIFI COMFAST CF-758F 650 Mbps",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 23
   },
   {
     "proveedor": "mega",
     "producto": "Red USB WIFI KANJI KWUSB300 300 Mbps",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 9
   },
   {
     "proveedor": "mega",
     "producto": "Red USB WIFI KOZUMI K-1500UDN 150 Mbps",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 18
   },
   {
     "proveedor": "mega",
     "producto": "Red USB WIFI KOZUMI K-1500UN 150 Mbps",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 15
   },
   {
     "proveedor": "mega",
     "producto": "RED USB WIFI MERCUSYS MU6H D BAND AC650\t",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 30
   },
   {
     "proveedor": "mega",
     "producto": "RED USB WIFI MERCUSYS MW150US 150 MBPS",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 15
   },
   {
     "proveedor": "mega",
     "producto": "RED USB WIFI MERCUSYS MW300UH 300 MBPS 2ANT",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 26
   },
   {
     "proveedor": "mega",
     "producto": "RED USB WIFI MERCUSYS MW300UM 300 MBPS",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 20
   },
   {
     "proveedor": "mega",
     "producto": "Red USB WIFI NISUTA NSWIU153N",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 11
   },
   {
     "proveedor": "mega",
     "producto": "Red USB WIFI TOTOLINK N150USB",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 12
   },
   {
     "proveedor": "mega",
     "producto": "Red USB WIFI TP-LINK Archer T2U AC600 D Band ",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 46
   },
   {
     "proveedor": "mega",
     "producto": "RED USB WIFI TP-LINK ARCHER T2UB NANO AC600 D",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 44
   },
   {
     "proveedor": "mega",
     "producto": "RED USB WIFI TP-LINK ARCHER T3U AC1300 D BAND",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 55
   },
   {
     "proveedor": "mega",
     "producto": "RED USB WIFI TP-LINK ARCHER T3U NANO AC1300",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 51
   },
   {
     "proveedor": "mega",
     "producto": "RED USB WIFI TP-LINK ARCHER T3U PLUS AC1300 D",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 67
   },
   {
     "proveedor": "mega",
     "producto": "RED USB WIFI TP-LINK ARCHER T4U AC1300 D BAND",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 77
   },
   {
     "proveedor": "mega",
     "producto": "RED USB WIFI TP-LINK ARCHER T4U PLUS AC1300 D",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 95
   },
   {
     "proveedor": "mega",
     "producto": "RED USB WIFI TP-LINK ARCHER T9UH P.AC1900 D B",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 93
   },
   {
     "proveedor": "mega",
     "producto": "RED USB WIFI TP-LINK ARCHER TX20U PLUS D BAND",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 86
   },
   {
     "proveedor": "mega",
     "producto": "Red USB WIFI TP-LINK TL-WN422G 54 Mbps",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 19
   },
   {
     "proveedor": "mega",
     "producto": "Red USB WIFI TP-LINK TL-WN721N 150 Mbps",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 22
   },
   {
     "proveedor": "mega",
     "producto": "Red USB WIFI TP-LINK TL-WN722N 150 Mbps",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 36
   },
   {
     "proveedor": "mega",
     "producto": "Red USB WIFI TP-LINK TL-WN723N 150 Mbps",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 12
   },
   {
     "proveedor": "mega",
     "producto": "Red USB WIFI TP-LINK TL-WN725N 150 Mbps",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 30
   },
   {
     "proveedor": "mega",
     "producto": "Red USB WIFI TP-LINK TL-WN727N 150 Mbps",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 17
   },
   {
     "proveedor": "mega",
     "producto": "Red USB WIFI TP-LINK TL-WN8200ND 300 Mbps",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 55
   },
   {
     "proveedor": "mega",
     "producto": "Red USB WIFI TP-LINK TL-WN821N 300 Mbps",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 31
   },
   {
     "proveedor": "mega",
     "producto": "Red USB WIFI TP-LINK TL-WN822N 300 Mbps",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 47
   },
   {
     "proveedor": "mega",
     "producto": "Red USB WIFI TP-LINK TL-WN823N 300 Mbps",
-    "categoria": "Conectividad",
+    "categoria": "Cables y Adaptadores",
     "precio": 37
   },
   {
     "proveedor": "mega",
     "producto": "Antena int ENCORE ENAT-SO4",
-    "categoria": "Accesorios",
+    "categoria": "Conectividad",
     "precio": 23
   },
   {
     "proveedor": "mega",
     "producto": "Antena TP-LINK TL-ANT2405C",
-    "categoria": "Accesorios",
+    "categoria": "Conectividad",
     "precio": 8
   },
   {
     "proveedor": "mega",
     "producto": "Antena TP-LINK TL-ANT2405CL 5DBI IND OME",
-    "categoria": "Accesorios",
+    "categoria": "Conectividad",
     "precio": 8
   },
   {
     "proveedor": "mega",
     "producto": "Antena TP-LINK TL-ANT2406A",
-    "categoria": "Accesorios",
+    "categoria": "Conectividad",
     "precio": 21
   },
   {
     "proveedor": "mega",
     "producto": "Antena TP-LINK TL-ANT2408C",
-    "categoria": "Accesorios",
+    "categoria": "Conectividad",
     "precio": 25
   },
   {
     "proveedor": "mega",
     "producto": "Antena TP-LINK TL-ANT2408CL",
-    "categoria": "Accesorios",
+    "categoria": "Conectividad",
     "precio": 11
   },
   {
     "proveedor": "mega",
     "producto": "Antena TP-LINK TL-ANT2409A Indoor",
-    "categoria": "Accesorios",
+    "categoria": "Conectividad",
     "precio": 30
   },
   {
     "proveedor": "mega",
     "producto": "Antena TP-LINK TL-ANT2409B Outdoor",
-    "categoria": "Accesorios",
+    "categoria": "Conectividad",
     "precio": 40
   },
   {
     "proveedor": "mega",
     "producto": "Antena TP-LINK TL-ANT2412D Omni 12 DBI",
-    "categoria": "Accesorios",
+    "categoria": "Conectividad",
     "precio": 49
   },
   {
     "proveedor": "mega",
     "producto": "Antena TP-LINK TL-ANT2414A YAGI 14 DBI",
-    "categoria": "Accesorios",
+    "categoria": "Conectividad",
     "precio": 90
   },
   {
     "proveedor": "mega",
     "producto": "Antena TP-LINK TL-ANT2414B Outdoor 14dbi",
-    "categoria": "Accesorios",
+    "categoria": "Conectividad",
     "precio": 90
   },
   {
     "proveedor": "mega",
     "producto": "Antena TP-LINK TL-ANT2424B Parabolica",
-    "categoria": "Accesorios",
+    "categoria": "Conectividad",
     "precio": 51
   },
   {
     "proveedor": "mega",
     "producto": "Cable TP-LINK TL-ANT24EC3S para Antenas",
-    "categoria": "Accesorios",
+    "categoria": "Conectividad",
     "precio": 15
   },
   {
     "proveedor": "mega",
     "producto": "Cable TP-LINK TL-ANT24EC5S para antenas",
-    "categoria": "Accesorios",
+    "categoria": "Conectividad",
     "precio": 19
   },
   {
     "proveedor": "mega",
     "producto": "Cable TP-LINK TL-ANT24EC6N para Antenas",
-    "categoria": "Accesorios",
+    "categoria": "Conectividad",
     "precio": 39
   },
   {
@@ -2762,7 +2720,7 @@
   {
     "proveedor": "mega",
     "producto": "Print Server TP-LINK TL-PS310U (USB - MFP)",
-    "categoria": "Impresoras e Insumos",
+    "categoria": "Conectividad",
     "precio": 59
   },
   {
@@ -3278,19 +3236,19 @@
   {
     "proveedor": "mega",
     "producto": "Conjunto LEXMARK 40X2280",
-    "categoria": "Accesorios",
+    "categoria": "Impresoras e Insumos",
     "precio": 103
   },
   {
     "proveedor": "mega",
     "producto": "Contadora de Billetes DAEWOO CBD1",
-    "categoria": "Accesorios",
+    "categoria": "Impresoras e Insumos",
     "precio": 186
   },
   {
     "proveedor": "mega",
     "producto": "Correa HP C4706-60082 para Ploter HP",
-    "categoria": "Accesorios",
+    "categoria": "Impresoras e Insumos",
     "precio": 64
   },
   {
@@ -3446,97 +3404,97 @@
   {
     "proveedor": "mega",
     "producto": "Adaptador CCTV BNC M - Bornera H MILEC BNCBOR",
-    "categoria": "Accesorios",
+    "categoria": "Conectividad",
     "precio": 1
   },
   {
     "proveedor": "mega",
     "producto": "Adaptador CCTV DC H - Bornera H MILEC DCHBORN",
-    "categoria": "Accesorios",
+    "categoria": "Conectividad",
     "precio": 1
   },
   {
     "proveedor": "mega",
     "producto": "Adaptador CCTV DC M - Bornera H MILEC DCMBORN",
-    "categoria": "Accesorios",
+    "categoria": "Conectividad",
     "precio": 1
   },
   {
     "proveedor": "mega",
     "producto": "Cable CCTV 20M BNC Video Alim PLEX CPBNC20",
-    "categoria": "Accesorios",
+    "categoria": "Conectividad",
     "precio": 12
   },
   {
     "proveedor": "mega",
     "producto": "Cable CCTV 30M BNC Video Alim PCBOX CBNC30",
-    "categoria": "Accesorios",
+    "categoria": "Conectividad",
     "precio": 14
   },
   {
     "proveedor": "mega",
     "producto": "Cable CCTV Splitter Alim 4 Sal MILEC CCTVSP4",
-    "categoria": "Accesorios",
+    "categoria": "Conectividad",
     "precio": 3
   },
   {
     "proveedor": "mega",
     "producto": "Cable CCTV Splitter Alim 8 Sal MILEC CCTVSP8",
-    "categoria": "Accesorios",
+    "categoria": "Conectividad",
     "precio": 7
   },
   {
     "proveedor": "mega",
     "producto": "Control Biometrico ANVIZ EP300",
-    "categoria": "Accesorios",
+    "categoria": "Conectividad",
     "precio": 238
   },
   {
     "proveedor": "mega",
     "producto": "Control Biometrico HIKVISION DS-KIT8003MF",
-    "categoria": "Accesorios",
+    "categoria": "Conectividad",
     "precio": 125
   },
   {
     "proveedor": "mega",
     "producto": "Fuente Switching 12V 01.0A 2.1mm PLEX 12D1",
-    "categoria": "Accesorios",
+    "categoria": "Conectividad",
     "precio": 9
   },
   {
     "proveedor": "mega",
     "producto": "Fuente Switching 12V 02.0A 2.1mm PLEX 12D2",
-    "categoria": "Accesorios",
+    "categoria": "Conectividad",
     "precio": 7
   },
   {
     "proveedor": "mega",
     "producto": "Fuente Switching 12V 03.0A 2.1mm PLEX 12D3",
-    "categoria": "Accesorios",
+    "categoria": "Conectividad",
     "precio": 33
   },
   {
     "proveedor": "mega",
     "producto": "Housing CCTV Ext MILEC CCTVH1",
-    "categoria": "Accesorios",
+    "categoria": "Conectividad",
     "precio": 41
   },
   {
     "proveedor": "mega",
     "producto": "Microfono CCTV PLEX PX-MIC Mini",
-    "categoria": "Accesorios",
+    "categoria": "Conectividad",
     "precio": 15
   },
   {
     "proveedor": "mega",
     "producto": "Par de Balunes MILEC RA-VB1 Pasivo Video y Bornera",
-    "categoria": "Accesorios",
+    "categoria": "Conectividad",
     "precio": 6
   },
   {
     "proveedor": "mega",
     "producto": "Par de Balunes NETQUALITY BALRJ Vid Ali RJ45",
-    "categoria": "Accesorios",
+    "categoria": "Conectividad",
     "precio": 11
   },
   {
@@ -3656,55 +3614,55 @@
   {
     "proveedor": "mega",
     "producto": "Linterna IMODO Moon Mini Led ( Llavero )",
-    "categoria": "Electro",
+    "categoria": "Auriculares",
     "precio": 4
   },
   {
     "proveedor": "mega",
     "producto": "MP3 CAR NOGA NG-26",
-    "categoria": "Electro",
+    "categoria": "Auriculares",
     "precio": 17
   },
   {
     "proveedor": "mega",
     "producto": "MP3 CAR NOGA NG-27 Bluetooth",
-    "categoria": "Electro",
+    "categoria": "Auriculares",
     "precio": 26
   },
   {
     "proveedor": "mega",
     "producto": "MP3 CAR NOGANET NG-25",
-    "categoria": "Electro",
+    "categoria": "Auriculares",
     "precio": 16
   },
   {
     "proveedor": "mega",
     "producto": "Receptor Auto SUONO RS1 Bluetooth FM MP3",
-    "categoria": "Electro",
+    "categoria": "Auriculares",
     "precio": 11
   },
   {
     "proveedor": "mega",
     "producto": "Receptor Auto SUONO RS2 Bluetooth FM MP3 MSD",
-    "categoria": "Electro",
+    "categoria": "Auriculares",
     "precio": 12
   },
   {
     "proveedor": "mega",
     "producto": "Reproductor MP3 0 Gb MILEC KMP3CP (Bat-LCD)",
-    "categoria": "Electro",
+    "categoria": "Auriculares",
     "precio": 27
   },
   {
     "proveedor": "mega",
     "producto": "Vincha MP3 MILEC SPORTMP3 0Gb",
-    "categoria": "Electro",
+    "categoria": "Auriculares",
     "precio": 8
   },
   {
     "proveedor": "mega",
     "producto": "Reproductor MP5 4 Gb S. CARLSON MP5015 (BAT)",
-    "categoria": "Electro",
+    "categoria": "Auriculares",
     "precio": 78
   },
   {
@@ -3932,13 +3890,13 @@
   {
     "proveedor": "mega",
     "producto": "Zapatilla Electrica 5T 220V 1.5M C/C SICILIA ZAP10",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Estabilizadores y UPS",
     "precio": 9
   },
   {
     "proveedor": "mega",
     "producto": "Zapatilla Electrica 5T 220V 3.0M C/C NOGA ZN53",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Estabilizadores y UPS",
     "precio": 9
   },
   {
@@ -4094,67 +4052,67 @@
   {
     "proveedor": "mega",
     "producto": "Microfono Cableado MOON M59 CARDIOID",
-    "categoria": "Microfonos",
+    "categoria": "Accesorios",
     "precio": 26
   },
   {
     "proveedor": "mega",
     "producto": "Microfono Cableado NOGA NG-H300",
-    "categoria": "Microfonos",
+    "categoria": "Accesorios",
     "precio": 12
   },
   {
     "proveedor": "mega",
     "producto": "Microfono Cableado NOGA NG-MI120C",
-    "categoria": "Microfonos",
+    "categoria": "Accesorios",
     "precio": 9
   },
   {
     "proveedor": "mega",
     "producto": "Microfono Cableado NOGA NG-MI208",
-    "categoria": "Microfonos",
+    "categoria": "Accesorios",
     "precio": 9
   },
   {
     "proveedor": "mega",
     "producto": "Microfono Clip Corbatero MILEC MMICC1",
-    "categoria": "Microfonos",
+    "categoria": "Accesorios",
     "precio": 9
   },
   {
     "proveedor": "mega",
     "producto": "Microfono Clip Corbatero PARQUER AR-01",
-    "categoria": "Microfonos",
+    "categoria": "Accesorios",
     "precio": 12
   },
   {
     "proveedor": "mega",
     "producto": "Microfono con Pie NETMAK NET21",
-    "categoria": "Microfonos",
+    "categoria": "Accesorios",
     "precio": 11
   },
   {
     "proveedor": "mega",
     "producto": "Microfono con Pie ZOOM TMMIC9805",
-    "categoria": "Microfonos",
+    "categoria": "Accesorios",
     "precio": 25
   },
   {
     "proveedor": "mega",
     "producto": "Microfono Conferencia AMITOSAI MTS-ONMIMIC",
-    "categoria": "Microfonos",
+    "categoria": "Accesorios",
     "precio": 111
   },
   {
     "proveedor": "mega",
     "producto": "Microfono Inalambrico UHF TECSHOW WMX-310 C/R",
-    "categoria": "Microfonos",
+    "categoria": "Accesorios",
     "precio": 74
   },
   {
     "proveedor": "mega",
     "producto": "Microfono Inalambrico WVNGR WG-308E ",
-    "categoria": "Microfonos",
+    "categoria": "Accesorios",
     "precio": 22
   },
   {
@@ -4250,775 +4208,775 @@
   {
     "proveedor": "mega",
     "producto": "Adaptador NOGA MICROSD A USB CR-1020",
-    "categoria": "Almacenamiento Portatil",
+    "categoria": "Accesorios",
     "precio": 5
   },
   {
     "proveedor": "mega",
     "producto": "Lector Mem EXT USB MILEC MSDUSBCEL Para Celular",
-    "categoria": "Almacenamiento Portatil",
+    "categoria": "Accesorios",
     "precio": 7
   },
   {
     "proveedor": "mega",
     "producto": "Lector Mem EXT USB NOGA CR-231",
-    "categoria": "Almacenamiento Portatil",
+    "categoria": "Accesorios",
     "precio": 7
   },
   {
     "proveedor": "mega",
     "producto": "Lector Mem EXT USB NOGA CR-5043",
-    "categoria": "Almacenamiento Portatil",
+    "categoria": "Accesorios",
     "precio": 21
   },
   {
     "proveedor": "mega",
     "producto": "Lector Mem EXT USB NOMAR KS420 MicroSD",
-    "categoria": "Almacenamiento Portatil",
+    "categoria": "Accesorios",
     "precio": 2
   },
   {
     "proveedor": "mega",
     "producto": "Lector Mem EXT USB NOMAR KS421 SD MicroSD MS M2",
-    "categoria": "Almacenamiento Portatil",
+    "categoria": "Accesorios",
     "precio": 4
   },
   {
     "proveedor": "mega",
     "producto": "Lector Mem Int NOGA CR-325 3 1/2",
-    "categoria": "Almacenamiento Portatil",
+    "categoria": "Accesorios",
     "precio": 6
   },
   {
     "proveedor": "mega",
     "producto": "Lector Memorias USB NOGA CR-519 (43 EN 1)",
-    "categoria": "Almacenamiento Portatil",
+    "categoria": "Accesorios",
     "precio": 8
   },
   {
     "proveedor": "mega",
     "producto": "Lector Memorias USB NOGA LY-001",
-    "categoria": "Almacenamiento Portatil",
+    "categoria": "Accesorios",
     "precio": 4
   },
   {
     "proveedor": "mega",
     "producto": "Auricular BKT 205BL Blanco On Ear",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 6
   },
   {
     "proveedor": "mega",
     "producto": "Auricular BKT 205NG Negro On Ear",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 6
   },
   {
     "proveedor": "mega",
     "producto": "Auricular BKT H710 USB Gamer On Ear Mic",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 52
   },
   {
     "proveedor": "mega",
     "producto": "Auricular BKT PC-900 On Ear Mic",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 8
   },
   {
     "proveedor": "mega",
     "producto": "Auricular BT IN NOGA NG-BT326 Sport",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 14
   },
   {
     "proveedor": "mega",
     "producto": "Auricular BT ON c/Mic JBL JBLT510BTBLKAM",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 79
   },
   {
     "proveedor": "mega",
     "producto": "Auricular BT ON c/Mic NOGA NG-A26BT",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 21
   },
   {
     "proveedor": "mega",
     "producto": "Auricular BT ON c/Mic NOGA NG-A423BT",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 19
   },
   {
     "proveedor": "mega",
     "producto": "Auricular BT ON c/Mic NOGA NG-A428BT",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 21
   },
   {
     "proveedor": "mega",
     "producto": "Auricular BT ON c/Mic NOGA NG-BT409",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 22
   },
   {
     "proveedor": "mega",
     "producto": "Auricular BT ON Noga NG- A26",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 9
   },
   {
     "proveedor": "mega",
     "producto": "Auricular BT SANTECH ST-HP BT07 BT/SD/FM",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 32
   },
   {
     "proveedor": "mega",
     "producto": "Auricular BT SANTECH ST-HP BT22 BT/SD/FM",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 32
   },
   {
     "proveedor": "mega",
     "producto": "Auricular C/Microfono GENIUS HS-G600V",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 43
   },
   {
     "proveedor": "mega",
     "producto": "Auricular Cabezal Operador ELGIN F02-1NSRJ",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 45
   },
   {
     "proveedor": "mega",
     "producto": "Auricular Gamer ON C/Mic BKT H75 PC",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 30
   },
   {
     "proveedor": "mega",
     "producto": "Auricular Gamer ON C/Mic BKT H91 PC",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 36
   },
   {
     "proveedor": "mega",
     "producto": "Auricular Gamer ON C/Mic NOGA ST-8104BL",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 19
   },
   {
     "proveedor": "mega",
     "producto": "Auricular Gamer ON C/Mic NOGA ST-8104RJ",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 19
   },
   {
     "proveedor": "mega",
     "producto": "Auricular GENIUS HS- G600V On Ear Mic",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 26
   },
   {
     "proveedor": "mega",
     "producto": "Auricular GENIUS HS-02B On Ear Mic",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 11
   },
   {
     "proveedor": "mega",
     "producto": "Auricular GLOBAL EPE 020 On Ear",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 8
   },
   {
     "proveedor": "mega",
     "producto": "Auricular GLOBAL EPEBL016B BT SD FM",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 31
   },
   {
     "proveedor": "mega",
     "producto": "Auricular IN BT FUKUOKA INP-I12GREEN",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 19
   },
   {
     "proveedor": "mega",
     "producto": "Auricular IN BT FUKUOKA INP-I12PINK",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 19
   },
   {
     "proveedor": "mega",
     "producto": "Auricular IN BT HAYLOU GT1",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 29
   },
   {
     "proveedor": "mega",
     "producto": "Auricular IN BT SKYWAY HBQ-19",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 11
   },
   {
     "proveedor": "mega",
     "producto": "Auricular IN BT SKYWAY HBQ-K05",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 25
   },
   {
     "proveedor": "mega",
     "producto": "Auricular IN BT SKYWAY I7S",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 20
   },
   {
     "proveedor": "mega",
     "producto": "Auricular IN BT SONY WF-XB700",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 97
   },
   {
     "proveedor": "mega",
     "producto": "Auricular IN BT Sports V4.1",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 6
   },
   {
     "proveedor": "mega",
     "producto": "Auricular IN BT XIAOMI AirDots S TWSEJ04LS",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 38
   },
   {
     "proveedor": "mega",
     "producto": "Auricular IN C/Mic KEEKA D-02",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 4
   },
   {
     "proveedor": "mega",
     "producto": "Auricular IN C/Mic KEEKA EE-63",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 4
   },
   {
     "proveedor": "mega",
     "producto": "Auricular IN C/Mic KEEKA EE-66",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 4
   },
   {
     "proveedor": "mega",
     "producto": "Auricular IN C/Mic Lovely Me L-18",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 5
   },
   {
     "proveedor": "mega",
     "producto": "Auricular IN C/Mic Lovely Me L-50",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 7
   },
   {
     "proveedor": "mega",
     "producto": "Auricular IN INOVA AUR-040A Azul",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 2
   },
   {
     "proveedor": "mega",
     "producto": "Auricular IN INOVA AUR-040N Negro",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 2
   },
   {
     "proveedor": "mega",
     "producto": "Auricular IN INOVA AUR-040R Rojo",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 2
   },
   {
     "proveedor": "mega",
     "producto": "Auricular IN INOVA AUR-040S Rosa",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 2
   },
   {
     "proveedor": "mega",
     "producto": "Auricular IN KEEKA D01 G",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 4
   },
   {
     "proveedor": "mega",
     "producto": "Auricular IN KEEKA D01 N ",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 4
   },
   {
     "proveedor": "mega",
     "producto": "Auricular IN MILEC Blaze BL-EP27 Deportivo Nuca",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 13
   },
   {
     "proveedor": "mega",
     "producto": "Auricular IN ML INOVA AUR-033A Azul",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 3
   },
   {
     "proveedor": "mega",
     "producto": "Auricular IN ML INOVA AUR-033B Blanco",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 3
   },
   {
     "proveedor": "mega",
     "producto": "Auricular IN ML INOVA AUR-033N Negro",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 3
   },
   {
     "proveedor": "mega",
     "producto": "Auricular IN ML INOVA AUR-033R Rojo",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 3
   },
   {
     "proveedor": "mega",
     "producto": "Auricular IN ML INOVA AUR-033S Rosa",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 3
   },
   {
     "proveedor": "mega",
     "producto": "Auricular In ML JBLC50HIBLK",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 24
   },
   {
     "proveedor": "mega",
     "producto": "Auricular In ML JBLC50HIWHT",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 24
   },
   {
     "proveedor": "mega",
     "producto": "Auricular In ML JBLT110BLK",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 23
   },
   {
     "proveedor": "mega",
     "producto": "Auricular In ML JBLT110BLU",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 23
   },
   {
     "proveedor": "mega",
     "producto": "Auricular In ML JBLT110RED",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 23
   },
   {
     "proveedor": "mega",
     "producto": "Auricular In ML JBLT110WHT",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 23
   },
   {
     "proveedor": "mega",
     "producto": "Auricular IN ML Sony Ericsson HPM-70",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 5
   },
   {
     "proveedor": "mega",
     "producto": "Auricular IN Sony MDR- Q140",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 9
   },
   {
     "proveedor": "mega",
     "producto": "Auricular Inalambrico HYPERX HX-HSCF-BK AM",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 203
   },
   {
     "proveedor": "mega",
     "producto": "Auricular INOVA AUR-040B Blanco In Ear",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 2
   },
   {
     "proveedor": "mega",
     "producto": "Auricular JBL T450 White On Ear Mic",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 63
   },
   {
     "proveedor": "mega",
     "producto": "Auricular KANJI SHIMA SH1 Negro On Ear",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 15
   },
   {
     "proveedor": "mega",
     "producto": "Auricular KANJI SHIMA SH2 Blanco On Ear",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 15
   },
   {
     "proveedor": "mega",
     "producto": "Auricular KEEKA A2 On Ear ",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 4
   },
   {
     "proveedor": "mega",
     "producto": "Auricular KEEKA A6 Cat On Ear",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 4
   },
   {
     "proveedor": "mega",
     "producto": "Auricular KEEKA EE-56 In Ear c/Mic",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 4
   },
   {
     "proveedor": "mega",
     "producto": "Auricular KEEKA EE-62 In Ear c/Mic",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 4
   },
   {
     "proveedor": "mega",
     "producto": "Auricular KEEKA H-4 In Ear c/Mic",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 4
   },
   {
     "proveedor": "mega",
     "producto": "Auricular KEEKA KE-700 On Ear Mic",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 4
   },
   {
     "proveedor": "mega",
     "producto": "Auricular KEEKA Mic-105 IN C/Mic ",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 4
   },
   {
     "proveedor": "mega",
     "producto": "Auricular KEEKA U9 On Ear Mic",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 4
   },
   {
     "proveedor": "mega",
     "producto": "Auricular KEEKA Y-6 On Ear",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 4
   },
   {
     "proveedor": "mega",
     "producto": "Auricular LOGITECH H390 On Ear Mic",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 136
   },
   {
     "proveedor": "mega",
     "producto": "Auricular LOVELY ME Y-2 On Ear Mic",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 8
   },
   {
     "proveedor": "mega",
     "producto": "Auricular MAXELL ST-2000 Studio On Ear",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 22
   },
   {
     "proveedor": "mega",
     "producto": "Auricular MILEC MLSHS1 Bluetooth All In One",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 22
   },
   {
     "proveedor": "mega",
     "producto": "Auricular ML IN KEEKA EE-32",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 6
   },
   {
     "proveedor": "mega",
     "producto": "Auricular ML IN KEEKA EE-41",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 3
   },
   {
     "proveedor": "mega",
     "producto": "Auricular ML IN KEEKA EE-47",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 3
   },
   {
     "proveedor": "mega",
     "producto": "Auricular ML IN KEEKA EE-54",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 3
   },
   {
     "proveedor": "mega",
     "producto": "Auricular ML IN KEEKA EE-55",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 6
   },
   {
     "proveedor": "mega",
     "producto": "Auricular ML IN KOSMO KAM35",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 3
   },
   {
     "proveedor": "mega",
     "producto": "Auricular ML IN NOGA NG-1008PL (PLA",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 9
   },
   {
     "proveedor": "mega",
     "producto": "Auricular ML IN NOGA NG-1008VR",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 9
   },
   {
     "proveedor": "mega",
     "producto": "Auricular ML IN TECNOCEL AIEMLB",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 2
   },
   {
     "proveedor": "mega",
     "producto": "Auricular ML IN TECNOCEL AIEMLN",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 2
   },
   {
     "proveedor": "mega",
     "producto": "Auricular ML ON NOBLEX HP330W Blanco ",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 25
   },
   {
     "proveedor": "mega",
     "producto": "Auricular ML ON Noga NG- 355",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 19
   },
   {
     "proveedor": "mega",
     "producto": "Auricular ML ON OVERTECH Icon 1",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 17
   },
   {
     "proveedor": "mega",
     "producto": "Auricular ML ON OVERTECH Neo 29",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 5
   },
   {
     "proveedor": "mega",
     "producto": "Auricular MOON MA2760PCMU USB On Ear Mic",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 51
   },
   {
     "proveedor": "mega",
     "producto": "Auricular MOW MW- 6004 In Ear Bluetooth",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 14
   },
   {
     "proveedor": "mega",
     "producto": "Auricular MOW MW- ROXY On Ear",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 15
   },
   {
     "proveedor": "mega",
     "producto": "Auricular MOW MW- SPRING Mix On Ear Mic",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 19
   },
   {
     "proveedor": "mega",
     "producto": "Auricular NAXIDO MIC-NAX On Ear Mic",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 13
   },
   {
     "proveedor": "mega",
     "producto": "Auricular NETMAK NM-VENGER USB On Ear Mic Gamer",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 36
   },
   {
     "proveedor": "mega",
     "producto": "Auricular NOBLEX HP77WS Blanco On Ear",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 30
   },
   {
     "proveedor": "mega",
     "producto": "Auricular NOGA In Ear Bluetooth",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 7
   },
   {
     "proveedor": "mega",
     "producto": "Auricular NOGA MIC-119 On Ear Mic",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 6
   },
   {
     "proveedor": "mega",
     "producto": "Auricular NOGA NG-902 Azul On Ear",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 13
   },
   {
     "proveedor": "mega",
     "producto": "Auricular NOGA NG-BT323 Sport In Ear Blortooth",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 17
   },
   {
     "proveedor": "mega",
     "producto": "Auricular NOGA NG-BT469 On Ear Bluetooth",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 26
   },
   {
     "proveedor": "mega",
     "producto": "Auricular NOGA NGV-400AM On Ear Mic",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 14
   },
   {
     "proveedor": "mega",
     "producto": "Auricular NOGA NGV-400BL On Ear Mic",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 14
   },
   {
     "proveedor": "mega",
     "producto": "Auricular NOGA NGV-400RJ On Ear Mic",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 14
   },
   {
     "proveedor": "mega",
     "producto": "Auricular NOGA ST-8104AZ Vincha c/Mic",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 19
   },
   {
     "proveedor": "mega",
     "producto": "Auricular ONLY WH-530 On Ear Mic",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 19
   },
   {
     "proveedor": "mega",
     "producto": "Auricular OVERTECH Solo 50N ( Orejera )",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 11
   },
   {
     "proveedor": "mega",
     "producto": "Auricular PANASONIC RP-DJS400AEG Verde On Ear",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 45
   },
   {
     "proveedor": "mega",
     "producto": "Auricular PANASONIC RP-DJS400AER Rosa On Ear",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 45
   },
   {
     "proveedor": "mega",
     "producto": "Auricular PHILIPS SHB4205 In Ear Bluetooth",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 23
   },
   {
     "proveedor": "mega",
     "producto": "Auricular PHILIPS SHL5205PP/10 On Ear",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 39
   },
   {
     "proveedor": "mega",
     "producto": "Auricular PHILIPS SHO9565BK/10 On Ear",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 89
   },
   {
     "proveedor": "mega",
     "producto": "Auricular SONY MDR-PQ2 PIIQ On Ear",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 28
   },
   {
     "proveedor": "mega",
     "producto": "Auricular SONY MDR-PQ3 PIIQ On Ear",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 14
   },
   {
     "proveedor": "mega",
     "producto": "Auricular SONY MDR-XB200 Azul On Ear",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 30
   },
   {
     "proveedor": "mega",
     "producto": "Auricular SONY MDR-XB200 Rosa On Ear",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 30
   },
   {
     "proveedor": "mega",
     "producto": "Auricular SONY MDR-XB400 Rosa On Ear",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 29
   },
   {
     "proveedor": "mega",
     "producto": "Auricular SONY MDR-ZX100 R Negro On Ear",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 34
   },
   {
     "proveedor": "mega",
     "producto": "Auricular THERMALTAKE Cronos  On Ear Mic Gamer",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 119
   },
   {
     "proveedor": "mega",
     "producto": "Auricular Vincha MILEC Sport MP3 0GB In Ear",
-    "categoria": "Auriculares",
+    "categoria": "Accesorios",
     "precio": 13
   },
   {
@@ -5228,241 +5186,241 @@
   {
     "proveedor": "mega",
     "producto": "Cable Alargue USB 2.0 M-H 05.0M SKYWAY",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 13
   },
   {
     "proveedor": "mega",
     "producto": "Cable Patch Cord Cat5 01.0 Mts NISUTA PA10",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 2
   },
   {
     "proveedor": "mega",
     "producto": "Cable Patch Cord Cat5 01.5 Mts NISUTA PA15",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 3
   },
   {
     "proveedor": "mega",
     "producto": "Cable Patch Cord Cat5 02.0 Mts FURUKAWA Neg",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 8
   },
   {
     "proveedor": "mega",
     "producto": "Cable Patch Cord Cat5 02.0 Mts SKYWAY PC2",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 2
   },
   {
     "proveedor": "mega",
     "producto": "Cable Patch Cord Cat5 03.0 Mts SKYWAY PC3",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 2
   },
   {
     "proveedor": "mega",
     "producto": "Cable Patch Cord Cat5 05.0 Mts MILEC CK-5M",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 4
   },
   {
     "proveedor": "mega",
     "producto": "Cable Patch Cord Cat5 10.0 Mts SKYWAY",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 10
   },
   {
     "proveedor": "mega",
     "producto": "Cable Patch Cord Cat6 00.5 Mts FURUKAWA 35123100",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 9
   },
   {
     "proveedor": "mega",
     "producto": "Cable Patch Cord Cat6 00.5 Mts KELYX CPCC6K05",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 2
   },
   {
     "proveedor": "mega",
     "producto": "Cable Patch Cord Cat6 01.0 Mts FURUKAWA 35123101",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 12
   },
   {
     "proveedor": "mega",
     "producto": "Cable Patch Cord Cat6 01.0 Mts KELYX CPCC6K01",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 2
   },
   {
     "proveedor": "mega",
     "producto": "Cable Patch Cord Cat6 01.0 Mts NISUTA NSCUT61",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 4
   },
   {
     "proveedor": "mega",
     "producto": "Cable Patch Cord Cat6 01.5 Mts FURUKAWA 35123102",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 12
   },
   {
     "proveedor": "mega",
     "producto": "Cable Patch Cord Cat6 02.0 Mts INTELLINET I8269",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 11
   },
   {
     "proveedor": "mega",
     "producto": "Cable Patch Cord Cat6 02.0 Mts KELYX CPCC6K02",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 3
   },
   {
     "proveedor": "mega",
     "producto": "Cable Patch Cord Cat6 02.5 Mts FURUKAWA AZUL",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 9
   },
   {
     "proveedor": "mega",
     "producto": "Cable Telefono NOGA CTEL 100 Mts Plano Crema",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 29
   },
   {
     "proveedor": "mega",
     "producto": "Cable UTP Cat5 Exterior 001M EPUYEN EP305ECT",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 1
   },
   {
     "proveedor": "mega",
     "producto": "Cable UTP Cat5 Exterior 100M NETMAK NU5E",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 40
   },
   {
     "proveedor": "mega",
     "producto": "Cable UTP Cat5 Exterior 305M FURUKAWA 23200110",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 533
   },
   {
     "proveedor": "mega",
     "producto": "Cable UTP Cat5 Exterior 305M NET QUIALITY",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 106
   },
   {
     "proveedor": "mega",
     "producto": "Cable UTP Cat5 Exterior 305M NOGA C-788",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 121
   },
   {
     "proveedor": "mega",
     "producto": "Cable UTP Cat5 Exterior 305M OPTIFIBER OFUTPC5EXT",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 81
   },
   {
     "proveedor": "mega",
     "producto": "Cable UTP Cat5 Interior 001M 1V KELYX UKI5",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 0
   },
   {
     "proveedor": "mega",
     "producto": "Cable UTP Cat5 interior 001M FURUKAWA 23200115",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 475
   },
   {
     "proveedor": "mega",
     "producto": "Cable UTP Cat5 interior 001M KOLKE KC-105",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 0
   },
   {
     "proveedor": "mega",
     "producto": "Cable UTP Cat5 interior 001M NETMAK NM-R01",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 0
   },
   {
     "proveedor": "mega",
     "producto": "Cable UTP Cat5 interior 001M SKYWAY SK-UTP305",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 0
   },
   {
     "proveedor": "mega",
     "producto": "Cable UTP Cat5 Interior 100M ANYBYTE M957132",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 32
   },
   {
     "proveedor": "mega",
     "producto": "Cable UTP Cat5 Interior 100M NETMAK NU5I",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 44
   },
   {
     "proveedor": "mega",
     "producto": "Cable UTP Cat5 Interior 305M DITRON DIT5E",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 106
   },
   {
     "proveedor": "mega",
     "producto": "Cable UTP Cat5 Interior 305M KANJI KJ CAT5E",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 100
   },
   {
     "proveedor": "mega",
     "producto": "Cable UTP Cat5 interior 305M SIERA OP13640-4",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 101
   },
   {
     "proveedor": "mega",
     "producto": "Cable UTP CAT6 Exterior 001M FKW 23400045",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 1
   },
   {
     "proveedor": "mega",
     "producto": "Cable UTP Cat6 Exterior 001M KELYX UKE6",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 1
   },
   {
     "proveedor": "mega",
     "producto": "Cable UTP Cat6 Exterior 305M KANJI KJ CAT6E",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 130
   },
   {
     "proveedor": "mega",
     "producto": "Cable UTP Cat6 Interior 001M MILEC UTP6I",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 0
   },
   {
     "proveedor": "mega",
     "producto": "Cable UTP Cat6 Interior 100M NETMAK NU6I",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 51
   },
   {
     "proveedor": "mega",
     "producto": "Cable UTP Cat6 Interior 305M NOGA NG-UTP3",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 144
   },
   {
@@ -6398,199 +6356,199 @@
   {
     "proveedor": "mega",
     "producto": "Adaptador SATA 20 PINS 24 PINS MILEX 20A24P",
-    "categoria": "Estabilizadores y UPS",
+    "categoria": "Cables y Adaptadores",
     "precio": 6
   },
   {
     "proveedor": "mega",
     "producto": "Cable Adaptador Alime SATA MOLEX MILEC SATA40",
-    "categoria": "Estabilizadores y UPS",
+    "categoria": "Cables y Adaptadores",
     "precio": 2
   },
   {
     "proveedor": "mega",
     "producto": "Cable Adaptador Molex H a 2 SATA H NETMAK NM-C07",
-    "categoria": "Estabilizadores y UPS",
+    "categoria": "Cables y Adaptadores",
     "precio": 2
   },
   {
     "proveedor": "mega",
     "producto": "Cable Alim 220-CPU H 01.8M NOGA INTER220",
-    "categoria": "Estabilizadores y UPS",
+    "categoria": "Cables y Adaptadores",
     "precio": 5
   },
   {
     "proveedor": "mega",
     "producto": "Cable Alim 220v-CPU M 01.8M NISUTA CPOMON",
-    "categoria": "Estabilizadores y UPS",
+    "categoria": "Cables y Adaptadores",
     "precio": 6
   },
   {
     "proveedor": "mega",
     "producto": "Cable Alim 220v-Tipo8 MILEC ALT8",
-    "categoria": "Estabilizadores y UPS",
+    "categoria": "Cables y Adaptadores",
     "precio": 3
   },
   {
     "proveedor": "mega",
     "producto": "Cable Alim 220v-Trebol 02.0M NETMAK NM-C46",
-    "categoria": "Estabilizadores y UPS",
+    "categoria": "Cables y Adaptadores",
     "precio": 5
   },
   {
     "proveedor": "mega",
     "producto": "Cable NOMAR NTK01 Cargador Ntbk 8 Plug 1.5M/10w",
-    "categoria": "Estabilizadores y UPS",
+    "categoria": "Cables y Adaptadores",
     "precio": 9
   },
   {
     "proveedor": "mega",
     "producto": "Cable Data Switch ( VGA, TEC Y MOUSE )",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Cables y Adaptadores",
     "precio": 7
   },
   {
     "proveedor": "mega",
     "producto": "Cable IDE 80 HILOS",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Cables y Adaptadores",
     "precio": 2
   },
   {
     "proveedor": "mega",
     "producto": "Cable KVM TRENDNET TK-CU06 Data Switch",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Cables y Adaptadores",
     "precio": 45
   },
   {
     "proveedor": "mega",
     "producto": "Cable SATA Datos ",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Cables y Adaptadores",
     "precio": 2
   },
   {
     "proveedor": "mega",
     "producto": "Cable Serie DB25 M - DB9 H MILEC 10714",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Cables y Adaptadores",
     "precio": 8
   },
   {
     "proveedor": "mega",
     "producto": "Cable Serie DB9H - DB9H 01.5M MILEC DB9HDB9H",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Cables y Adaptadores",
     "precio": 19
   },
   {
     "proveedor": "mega",
     "producto": "Cable USB M - DB9H Serie XTECH XTC-319",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Cables y Adaptadores",
     "precio": 16
   },
   {
     "proveedor": "mega",
     "producto": "Cable Audio 3.5M - 2 Jack 3.5H NOGANET A-1825",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 2
   },
   {
     "proveedor": "mega",
     "producto": "Cable Audio 3.5M - 2 RCA M 2.0M NOGA AC-273",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 2
   },
   {
     "proveedor": "mega",
     "producto": "Cable Audio 3.5M - 2 RCA M 2.0M SKYWAY SK-AC27",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 2
   },
   {
     "proveedor": "mega",
     "producto": "Cable Audio 3.5M - 3.5M 1.0M SKYWAY SK-AUX",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 1
   },
   {
     "proveedor": "mega",
     "producto": "Cable Audio 3.5M - 3.5M 1.8M NOGA AC-7810",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 1
   },
   {
     "proveedor": "mega",
     "producto": "Cable Audio 3.5M - 3.5M 1.8M NOGA AC-7818",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 2
   },
   {
     "proveedor": "mega",
     "producto": "Cable Audio 3.5M - 3.5M 3.0M NOGA AC-7830",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 2
   },
   {
     "proveedor": "mega",
     "producto": "Cable Audio 3.5M - Jack 3.5H 1.8M NOGA AC561",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 2
   },
   {
     "proveedor": "mega",
     "producto": "Cable Audio 3.5M - Jack 3.5H 3.0M NOGA AC563",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 3
   },
   {
     "proveedor": "mega",
     "producto": "Cable Audio 3.5M - Jack 3.5H 5.0M NOGA AC565",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 4
   },
   {
     "proveedor": "mega",
     "producto": "Cable Audio SKYWAY PS4A 1 JACK 3.5 H - 2 PLUG 3.5M",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 4
   },
   {
     "proveedor": "mega",
     "producto": "Cable Audio SKYWAY PS4B 2 JACK 3.5 H - 1 PLUG 3.5M",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 3
   },
   {
     "proveedor": "mega",
     "producto": "Cable Audio-Video NOGA EMP-1066 RCA 100M",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 56
   },
   {
     "proveedor": "mega",
     "producto": "Cable Lightn 30P M - Jack 3.5 H SKYWAY L30M35H",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 14
   },
   {
     "proveedor": "mega",
     "producto": "Cable NOGA RCA-4MB AUDIO 2 RCA A 2 RC",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 5
   },
   {
     "proveedor": "mega",
     "producto": "Cable NOGA RCA-7MB AUDIO 2 RCA A 2 RCA 7 M",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 6
   },
   {
     "proveedor": "mega",
     "producto": "Cable SPEAKON M - Plug 6.5 M 10.0M MILEC CMSK10",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 24
   },
   {
     "proveedor": "mega",
     "producto": "Receptor Audio Bluetooth KANJI KJ-AC65",
-    "categoria": "Electro",
+    "categoria": "Cables y Adaptadores",
     "precio": 5
   },
   {
@@ -7064,7 +7022,7 @@
   {
     "proveedor": "mega",
     "producto": "Lapicera Tinta Invisible LED UV MILEC LAPUB",
-    "categoria": "Electro",
+    "categoria": "Impresoras e Insumos",
     "precio": 6
   },
   {
@@ -9866,139 +9824,139 @@
   {
     "proveedor": "mega",
     "producto": "Cargador 012V-MINIUSB MILEC MC12 5V 1A 5PINS GPS",
-    "categoria": "Accesorios",
+    "categoria": "Electro",
     "precio": 10
   },
   {
     "proveedor": "mega",
     "producto": "Funda NOGA PARA GPS",
-    "categoria": "Accesorios",
+    "categoria": "Electro",
     "precio": 7
   },
   {
     "proveedor": "mega",
     "producto": "GPS GARMIN NUVI SOPORTE MANUBRIO",
-    "categoria": "Accesorios",
+    "categoria": "Electro",
     "precio": 16
   },
   {
     "proveedor": "mega",
     "producto": "GPS GARMIN eTrex 10",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Electro",
     "precio": 584
   },
   {
     "proveedor": "mega",
     "producto": "GPS GARMIN eTrex 20",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Electro",
     "precio": 643
   },
   {
     "proveedor": "mega",
     "producto": "Case 5.25 SATA + IDE A USB NOGA UB4PS",
-    "categoria": "Accesorios",
+    "categoria": "Almacenamiento Portatil",
     "precio": 44
   },
   {
     "proveedor": "mega",
     "producto": "Control Biometrico N2M 3NS-POS-TA040",
-    "categoria": "Accesorios",
+    "categoria": "Almacenamiento Portatil",
     "precio": 71
   },
   {
     "proveedor": "mega",
     "producto": "Digitalizador Firma TOPAZ T-S460-HSB-R",
-    "categoria": "Accesorios",
+    "categoria": "Almacenamiento Portatil",
     "precio": 247
   },
   {
     "proveedor": "mega",
     "producto": "Grabadora BLU-RAY SATA Int LG BH16NS40",
-    "categoria": "Accesorios",
+    "categoria": "Almacenamiento Portatil",
     "precio": 207
   },
   {
     "proveedor": "mega",
     "producto": "Grabadora BLU-RAY USB EXT ASUS SBW-06D2XU",
-    "categoria": "Accesorios",
+    "categoria": "Almacenamiento Portatil",
     "precio": 290
   },
   {
     "proveedor": "mega",
     "producto": "Grabadora DVD SATA Int LG DC471LGE26",
-    "categoria": "Accesorios",
+    "categoria": "Almacenamiento Portatil",
     "precio": 21
   },
   {
     "proveedor": "mega",
     "producto": "Grabadora DVD SATA Int LITEON IHAS124-14",
-    "categoria": "Accesorios",
+    "categoria": "Almacenamiento Portatil",
     "precio": 23
   },
   {
     "proveedor": "mega",
     "producto": "Grabadora DVD SATA Int SAMSUNG SH-224BB",
-    "categoria": "Accesorios",
+    "categoria": "Almacenamiento Portatil",
     "precio": 26
   },
   {
     "proveedor": "mega",
     "producto": "Grabadora DVD SATA Int SLIM",
-    "categoria": "Accesorios",
+    "categoria": "Almacenamiento Portatil",
     "precio": 66
   },
   {
     "proveedor": "mega",
     "producto": "Grabadora DVD USB 3.0 Ext MILEC DVDRWUSB30",
-    "categoria": "Accesorios",
+    "categoria": "Almacenamiento Portatil",
     "precio": 38
   },
   {
     "proveedor": "mega",
     "producto": "Grabadora DVD USB EXT LITEON EBAU108",
-    "categoria": "Accesorios",
+    "categoria": "Almacenamiento Portatil",
     "precio": 68
   },
   {
     "proveedor": "mega",
     "producto": "Grabadora DVD+BLU-RAY SATA Int LITEON IHES208",
-    "categoria": "Accesorios",
+    "categoria": "Almacenamiento Portatil",
     "precio": 139
   },
   {
     "proveedor": "mega",
     "producto": "Lec Cod de Barra 1D USB SP DUAITEK X-9300S",
-    "categoria": "Accesorios",
+    "categoria": "Almacenamiento Portatil",
     "precio": 53
   },
   {
     "proveedor": "mega",
     "producto": "Lec Cod de Barra 1D USB SP GADNIC SC6-01",
-    "categoria": "Accesorios",
+    "categoria": "Almacenamiento Portatil",
     "precio": 69
   },
   {
     "proveedor": "mega",
     "producto": "Lec Cod de Barra 1D USB SP NETMAK NM-LC401",
-    "categoria": "Accesorios",
+    "categoria": "Almacenamiento Portatil",
     "precio": 110
   },
   {
     "proveedor": "mega",
     "producto": "Lec Cod de Barra 1D WIFI SP NICTOM YHD-8200W",
-    "categoria": "Accesorios",
+    "categoria": "Almacenamiento Portatil",
     "precio": 104
   },
   {
     "proveedor": "mega",
     "producto": "Lector Cod de Barra NISUTA NSLC930W",
-    "categoria": "Accesorios",
+    "categoria": "Almacenamiento Portatil",
     "precio": 231
   },
   {
     "proveedor": "mega",
     "producto": "Puntero Laser Inalambrico MILEC M400",
-    "categoria": "Accesorios",
+    "categoria": "Almacenamiento Portatil",
     "precio": 21
   },
   {
@@ -11984,139 +11942,139 @@
   {
     "proveedor": "mega",
     "producto": "Capturadora de Video 1080P GALGA A5D-26D5-06",
-    "categoria": "Gamer",
+    "categoria": "Accesorios",
     "precio": 39
   },
   {
     "proveedor": "mega",
     "producto": "Cargador USB-012V NOGA 2USB-12V 1000 MA",
-    "categoria": "Gamer",
+    "categoria": "Accesorios",
     "precio": 14
   },
   {
     "proveedor": "mega",
     "producto": "Placa  PCI-E 2 MILEC PCIERAID SATA3 RAID 6Mb/Seg",
-    "categoria": "Gamer",
+    "categoria": "Accesorios",
     "precio": 53
   },
   {
     "proveedor": "mega",
     "producto": "Placa PCI  2 Serie + 1 LPT ENCORE ENL-PC2S1P",
-    "categoria": "Gamer",
+    "categoria": "Accesorios",
     "precio": 30
   },
   {
     "proveedor": "mega",
     "producto": "Placa PCI - 4 USB ENCORE ENLUSB2-5PCI-BR",
-    "categoria": "Gamer",
+    "categoria": "Accesorios",
     "precio": 6
   },
   {
     "proveedor": "mega",
     "producto": "Placa PCI - 5 USB 2.0 KANJI KJPV5PCI",
-    "categoria": "Gamer",
+    "categoria": "Accesorios",
     "precio": 16
   },
   {
     "proveedor": "mega",
     "producto": "Placa PCI 1 Serie + 1 LPT NOGA KW-222-2N",
-    "categoria": "Gamer",
+    "categoria": "Accesorios",
     "precio": 24
   },
   {
     "proveedor": "mega",
     "producto": "Placa PCI 1 Serie MANHATTAN 158206",
-    "categoria": "Gamer",
+    "categoria": "Accesorios",
     "precio": 27
   },
   {
     "proveedor": "mega",
     "producto": "Placa PCI 2 Serie + 1 LPT KANJI KJPV2S1P",
-    "categoria": "Gamer",
+    "categoria": "Accesorios",
     "precio": 25
   },
   {
     "proveedor": "mega",
     "producto": "Placa PCI 2 Serie MANHATTAN 158213",
-    "categoria": "Gamer",
+    "categoria": "Accesorios",
     "precio": 41
   },
   {
     "proveedor": "mega",
     "producto": "Placa PCI 2 Serie NOGA KW-239",
-    "categoria": "Gamer",
+    "categoria": "Accesorios",
     "precio": 21
   },
   {
     "proveedor": "mega",
     "producto": "Placa PCI FIREWARE IEEE 1394 NOGA KW-1582",
-    "categoria": "Gamer",
+    "categoria": "Accesorios",
     "precio": 16
   },
   {
     "proveedor": "mega",
     "producto": "Placa PCI MANHATTAN 158220 1 Paralelo",
-    "categoria": "Gamer",
+    "categoria": "Accesorios",
     "precio": 37
   },
   {
     "proveedor": "mega",
     "producto": "Placa PCI NOGA KW-220 1 Paralelo",
-    "categoria": "Gamer",
+    "categoria": "Accesorios",
     "precio": 19
   },
   {
     "proveedor": "mega",
     "producto": "Placa PCI NOGA KW-430 2SATA - 1IDE - 1 ESA",
-    "categoria": "Gamer",
+    "categoria": "Accesorios",
     "precio": 23
   },
   {
     "proveedor": "mega",
     "producto": "Placa PCI-E 1 Serie + 1 LPT BKT 960726",
-    "categoria": "Gamer",
+    "categoria": "Accesorios",
     "precio": 48
   },
   {
     "proveedor": "mega",
     "producto": "Placa PCI-E NOGA USB-304 4 USB 3.0",
-    "categoria": "Gamer",
+    "categoria": "Accesorios",
     "precio": 29
   },
   {
     "proveedor": "mega",
     "producto": "Puntero Laser Inalambrico LOGITECH R400 910-001354",
-    "categoria": "Gamer",
+    "categoria": "Accesorios",
     "precio": 52
   },
   {
     "proveedor": "mega",
     "producto": "Puntero Laser Inalambrico LOGITECH R500 910-005333",
-    "categoria": "Gamer",
+    "categoria": "Accesorios",
     "precio": 55
   },
   {
     "proveedor": "mega",
     "producto": "Stream Deck 15B ELGATO 10GAA9901",
-    "categoria": "Gamer",
+    "categoria": "Accesorios",
     "precio": 270
   },
   {
     "proveedor": "mega",
     "producto": "Stream Deck ELGATO Mini 6 Botones 10GAI9901",
-    "categoria": "Gamer",
+    "categoria": "Accesorios",
     "precio": 182
   },
   {
     "proveedor": "mega",
     "producto": "USB Bluetooth KOUSB KO-USMO KO-UBT",
-    "categoria": "Gamer",
+    "categoria": "Accesorios",
     "precio": 10
   },
   {
     "proveedor": "mega",
     "producto": "USB Bluetooth NOGA ES-869",
-    "categoria": "Gamer",
+    "categoria": "Accesorios",
     "precio": 6
   },
   {
@@ -12157,6 +12115,12 @@
   },
   {
     "proveedor": "mega",
+    "producto": "Mouse Gamer INAL. Logitech G502X Plus Gaming White",
+    "categoria": "Mouses",
+    "precio": 355
+  },
+  {
+    "proveedor": "mega",
     "producto": "Mouse Gamer USB BKT M14",
     "categoria": "Mouses",
     "precio": 13
@@ -12183,13 +12147,49 @@
     "proveedor": "mega",
     "producto": "Mouse Gamer USB GENIUS X-G200",
     "categoria": "Mouses",
-    "precio": 22
+    "precio": 23
+  },
+  {
+    "proveedor": "mega",
+    "producto": "Mouse Gamer USB Logitech  G502",
+    "categoria": "Mouses",
+    "precio": 196
+  },
+  {
+    "proveedor": "mega",
+    "producto": "Mouse Gamer USB Logitech G203 Gaming Lightsync Blu",
+    "categoria": "Mouses",
+    "precio": 89
   },
   {
     "proveedor": "mega",
     "producto": "Mouse Gamer USB LOGITECH G203 Lightsync Black",
     "categoria": "Mouses",
-    "precio": 43
+    "precio": 99
+  },
+  {
+    "proveedor": "mega",
+    "producto": "Mouse Gamer USB Logitech G300S Optical Gaming",
+    "categoria": "Mouses",
+    "precio": 90
+  },
+  {
+    "proveedor": "mega",
+    "producto": "Mouse Gamer USB Logitech G403 Hero Gaming ",
+    "categoria": "Mouses",
+    "precio": 156
+  },
+  {
+    "proveedor": "mega",
+    "producto": "Mouse Gamer USB Logitech G502X Gaming Black",
+    "categoria": "Mouses",
+    "precio": 252
+  },
+  {
+    "proveedor": "mega",
+    "producto": "Mouse Gamer USB Logitech G502X Gaming White",
+    "categoria": "Mouses",
+    "precio": 252
   },
   {
     "proveedor": "mega",
@@ -12499,18 +12499,6 @@
   },
   {
     "proveedor": "mega",
-    "producto": "Teclado Gamer USB GENIUS Scorpion K220",
-    "categoria": "Mouses",
-    "precio": 22
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Teclado Gamer USB GENIUS Scorpion K8",
-    "categoria": "Mouses",
-    "precio": 36
-  },
-  {
-    "proveedor": "mega",
     "producto": "Trackball USB FELLOWES 99928",
     "categoria": "Mouses",
     "precio": 33
@@ -12518,49 +12506,49 @@
   {
     "proveedor": "mega",
     "producto": "Adaptador Fuente ATX 24 Pins H - Molex MILEC AF2 M",
-    "categoria": "Placas de video",
+    "categoria": "Computadoras",
     "precio": 20
   },
   {
     "proveedor": "mega",
     "producto": "Cable Fuente 8 a 2 (6+2) MILEC CF8-6+2 Mineria",
-    "categoria": "Placas de video",
+    "categoria": "Computadoras",
     "precio": 17
   },
   {
     "proveedor": "mega",
     "producto": "Placa PCI-E - 4USB3.0 Riser Int MILEC PCIE4USBINT",
-    "categoria": "Placas de video",
+    "categoria": "Computadoras",
     "precio": 58
   },
   {
     "proveedor": "mega",
     "producto": "Rig Mineria Aluminio MILEC RIG162 6GPU",
-    "categoria": "Placas de video",
+    "categoria": "Computadoras",
     "precio": 74
   },
   {
     "proveedor": "mega",
     "producto": "Rig Mineria Aluminio MILEC RIG242 4GPU",
-    "categoria": "Placas de video",
+    "categoria": "Computadoras",
     "precio": 50
   },
   {
     "proveedor": "mega",
     "producto": "Rig Mineria MILEC 6x RX 580 186Mh/s",
-    "categoria": "Placas de video",
+    "categoria": "Computadoras",
     "precio": 3853
   },
   {
     "proveedor": "mega",
     "producto": "Rig Mineria MILEC 6x RX 6800 379Mh/s",
-    "categoria": "Placas de video",
+    "categoria": "Computadoras",
     "precio": 9339
   },
   {
     "proveedor": "mega",
     "producto": "Riser Mineria MILEC RISM14",
-    "categoria": "Placas de video",
+    "categoria": "Computadoras",
     "precio": 17
   },
   {
@@ -12640,6 +12628,18 @@
     "producto": "Teclado Gamer USB GENIUS Scorpion K215",
     "categoria": "Teclados",
     "precio": 22
+  },
+  {
+    "proveedor": "mega",
+    "producto": "Teclado Gamer USB GENIUS Scorpion K220",
+    "categoria": "Teclados",
+    "precio": 22
+  },
+  {
+    "proveedor": "mega",
+    "producto": "Teclado Gamer USB GENIUS Scorpion K8",
+    "categoria": "Teclados",
+    "precio": 36
   },
   {
     "proveedor": "mega",
@@ -13766,85 +13766,85 @@
   {
     "proveedor": "mega",
     "producto": "Lampara LED GLOBAL A60TE271 12W-120W 3000k 960L A6",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Electro",
     "precio": 2
   },
   {
     "proveedor": "mega",
     "producto": "Lampara LED GLOBAL A60TE272 12W-120W 6500K 96",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Electro",
     "precio": 2
   },
   {
     "proveedor": "mega",
     "producto": "Lampara LED GLOBAL A60ZBE27 09W-100W 3000k 720L A6",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Electro",
     "precio": 2
   },
   {
     "proveedor": "mega",
     "producto": "Lampara LED GLOBAL A60ZBE28 09W-100W 6500k 720L A6",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Electro",
     "precio": 2
   },
   {
     "proveedor": "mega",
     "producto": "Lampara LED GLOBAL A60ZE271 07W-060W 3000k 560L A6",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Electro",
     "precio": 2
   },
   {
     "proveedor": "mega",
     "producto": "Lampara LED GLOBAL A60ZE272 07W-060W 6500k 560L A6",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Electro",
     "precio": 2
   },
   {
     "proveedor": "mega",
     "producto": "Lampara LED PCBOX AR111-09W-012V-CAL-0720LM-G",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Electro",
     "precio": 69
   },
   {
     "proveedor": "mega",
     "producto": "Lampara RCA LUZ CALIDA 15W LTS15WC",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Electro",
     "precio": 5
   },
   {
     "proveedor": "mega",
     "producto": "Lampara RCA LUZ CALIDA 20W LTS20WC",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Electro",
     "precio": 5
   },
   {
     "proveedor": "mega",
     "producto": "Lampara RCA LUZ FRIA 15W LTS15WF",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Electro",
     "precio": 5
   },
   {
     "proveedor": "mega",
     "producto": "Lampara RCA LUZ FRIA 20W LT3U20WF",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Electro",
     "precio": 4
   },
   {
     "proveedor": "mega",
     "producto": "Lampara RCA LUZ FRIA 20W LTS20WF",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Electro",
     "precio": 5
   },
   {
     "proveedor": "mega",
     "producto": "Linterna LED Recargable NISUTA NS-LI1W",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Electro",
     "precio": 28
   },
   {
     "proveedor": "mega",
     "producto": "Tira de Led 5M MILEC L5EBC Ext Bla Cal",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Electro",
     "precio": 18
   },
   {
@@ -14089,12 +14089,6 @@
   },
   {
     "proveedor": "mega",
-    "producto": "Chop Adventure STANLEY Verde",
-    "categoria": "Electro",
-    "precio": 42
-  },
-  {
-    "proveedor": "mega",
     "producto": "Exprimidor de Citricos ATMA EX8225E",
     "categoria": "Electro",
     "precio": 36
@@ -14191,36 +14185,6 @@
   },
   {
     "proveedor": "mega",
-    "producto": "Termo STANLEY 1 Lts Blanco Replica",
-    "categoria": "Electro",
-    "precio": 48
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Termo STANLEY 1 Lts Negro Replica",
-    "categoria": "Electro",
-    "precio": 48
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Termo STANLEY 1 Lts Rosa Replica",
-    "categoria": "Electro",
-    "precio": 48
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Termo STANLEY 1 Lts Verde Replica",
-    "categoria": "Electro",
-    "precio": 48
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Termo STANLEY 1,3 Lts Blanco Replica",
-    "categoria": "Electro",
-    "precio": 55
-  },
-  {
-    "proveedor": "mega",
     "producto": "Tostadora Electrica 2u HITACHI HTO-P100AR",
     "categoria": "Electro",
     "precio": 34
@@ -14294,146 +14258,218 @@
   {
     "proveedor": "mega",
     "producto": "Aspiradora C/B 02.5 Lts 1600w ATMA AS8904E",
-    "categoria": "Accesorios",
+    "categoria": "Electro",
     "precio": 166
   },
   {
     "proveedor": "mega",
     "producto": "Aspiradora C/B 02.5 Lts 1600w ATMA AS8913E",
-    "categoria": "Accesorios",
+    "categoria": "Electro",
     "precio": 173
   },
   {
     "proveedor": "mega",
     "producto": "Aspiradora C/B 02.5 Lts 1600w SMARTLIFE SL-VC16BAG",
-    "categoria": "Accesorios",
+    "categoria": "Electro",
     "precio": 148
   },
   {
     "proveedor": "mega",
     "producto": "Aspiradora de Auto 12V BIXLER BEB-16A",
-    "categoria": "Accesorios",
+    "categoria": "Electro",
     "precio": 5
   },
   {
     "proveedor": "mega",
     "producto": "Aspiradora de Auto BLACK & DECKER AV1250 0.5 Lts",
-    "categoria": "Accesorios",
+    "categoria": "Electro",
     "precio": 57
   },
   {
     "proveedor": "mega",
     "producto": "Aspiradora de Auto YELMO AS-3207 12V",
-    "categoria": "Accesorios",
+    "categoria": "Electro",
     "precio": 37
   },
   {
     "proveedor": "mega",
     "producto": "Aspiradora Inalambrica BLACK & DECKER  NW4860SPT",
-    "categoria": "Accesorios",
+    "categoria": "Electro",
     "precio": 70
   },
   {
     "proveedor": "mega",
     "producto": "Aspiradora Inalambrica BLACK & DECKER CHV7202SPT",
-    "categoria": "Accesorios",
+    "categoria": "Electro",
     "precio": 77
   },
   {
     "proveedor": "mega",
     "producto": "Aspiradora S/B 01.0 Lts 1200w ULTRACOMB AS-4206",
-    "categoria": "Accesorios",
+    "categoria": "Electro",
     "precio": 86
   },
   {
     "proveedor": "mega",
     "producto": "Aspiradora S/B 01.5 Lts 2000w SAMSUNG VC20CCNMABC/",
-    "categoria": "Accesorios",
+    "categoria": "Electro",
     "precio": 162
   },
   {
     "proveedor": "mega",
     "producto": "Aspiradora S/B 02.5LTts 2000W B&D VCBD8530-AR",
-    "categoria": "Accesorios",
+    "categoria": "Electro",
     "precio": 208
   },
   {
     "proveedor": "mega",
     "producto": "Aspiradora S/B 03.0 Lts 1800W SMARTLIFE SL-VC1",
-    "categoria": "Accesorios",
+    "categoria": "Electro",
     "precio": 168
   },
   {
     "proveedor": "mega",
     "producto": "Lava Vajillas 8 Cubiertos ATMA LVJ080_E",
-    "categoria": "Accesorios",
+    "categoria": "Electro",
     "precio": 455
   },
   {
     "proveedor": "mega",
     "producto": "Lavarropas C/S 5.0Kg CODINI Silent 4051",
-    "categoria": "Accesorios",
+    "categoria": "Electro",
     "precio": 195
   },
   {
     "proveedor": "mega",
     "producto": "Lavasecarropas Aut C/F 09.0 Kgs ATMA LVS5410B",
-    "categoria": "Accesorios",
+    "categoria": "Electro",
     "precio": 1197
   },
   {
     "proveedor": "mega",
     "producto": "Plancha a Vapor ANTARTIDA ANP-1600",
-    "categoria": "Accesorios",
+    "categoria": "Electro",
     "precio": 32
   },
   {
     "proveedor": "mega",
     "producto": "Plancha a Vapor ULTRACOMB PL-4107N",
-    "categoria": "Accesorios",
+    "categoria": "Electro",
     "precio": 31
   },
   {
     "proveedor": "mega",
     "producto": "Plancha a Vapor ULTRACOMB PL-4108N",
-    "categoria": "Accesorios",
+    "categoria": "Electro",
     "precio": 31
   },
   {
     "proveedor": "mega",
     "producto": "Plancha ATMA PS1212E",
-    "categoria": "Accesorios",
+    "categoria": "Electro",
     "precio": 38
   },
   {
     "proveedor": "mega",
     "producto": "Plancha Seca TOWER T-102 1000w",
-    "categoria": "Accesorios",
+    "categoria": "Electro",
     "precio": 30
   },
   {
     "proveedor": "mega",
     "producto": "Secarropas 5.5 Kgs KOH-I-NOOR C-755 Vision",
-    "categoria": "Accesorios",
+    "categoria": "Electro",
     "precio": 126
   },
   {
     "proveedor": "mega",
     "producto": "Secarropas 6.2 Kgs LUMER SLPVC62 PVC Blanco",
-    "categoria": "Accesorios",
+    "categoria": "Electro",
     "precio": 94
   },
   {
     "proveedor": "mega",
     "producto": "Secarropas 6.3 KGS PHILCO SC-PH60B BLANCO",
-    "categoria": "Accesorios",
+    "categoria": "Electro",
     "precio": 197
   },
   {
     "proveedor": "mega",
     "producto": "Secarropas 6.5 Kgs CODINI AD-61",
-    "categoria": "Accesorios",
+    "categoria": "Electro",
     "precio": 142
+  },
+  {
+    "proveedor": "mega",
+    "producto": "Termo STANLEY 1 Lts Azul Replica",
+    "categoria": "Electro",
+    "precio": 46
+  },
+  {
+    "proveedor": "mega",
+    "producto": "Termo STANLEY 1 Lts Blanco Replica",
+    "categoria": "Electro",
+    "precio": 46
+  },
+  {
+    "proveedor": "mega",
+    "producto": "Termo STANLEY 1 Lts Negro Replica",
+    "categoria": "Electro",
+    "precio": 46
+  },
+  {
+    "proveedor": "mega",
+    "producto": "Termo STANLEY 1 Lts Rojo Replica",
+    "categoria": "Electro",
+    "precio": 46
+  },
+  {
+    "proveedor": "mega",
+    "producto": "Termo STANLEY 1 Lts Rosa Replica",
+    "categoria": "Electro",
+    "precio": 46
+  },
+  {
+    "proveedor": "mega",
+    "producto": "Termo STANLEY 1 Lts Verde Replica",
+    "categoria": "Electro",
+    "precio": 46
+  },
+  {
+    "proveedor": "mega",
+    "producto": "Termo STANLEY 1,3 Lts Azul Replica",
+    "categoria": "Electro",
+    "precio": 57
+  },
+  {
+    "proveedor": "mega",
+    "producto": "Termo STANLEY 1,3 Lts Blanco Replica",
+    "categoria": "Electro",
+    "precio": 57
+  },
+  {
+    "proveedor": "mega",
+    "producto": "Termo STANLEY 1,3 Lts Negro Replica",
+    "categoria": "Electro",
+    "precio": 57
+  },
+  {
+    "proveedor": "mega",
+    "producto": "Termo STANLEY 1,3 Lts Rojo Replica",
+    "categoria": "Electro",
+    "precio": 57
+  },
+  {
+    "proveedor": "mega",
+    "producto": "Termo STANLEY 1,3 Lts Rosa Replica",
+    "categoria": "Electro",
+    "precio": 57
+  },
+  {
+    "proveedor": "mega",
+    "producto": "Termo STANLEY 1,3 Lts Verde Replica",
+    "categoria": "Electro",
+    "precio": 57
   },
   {
     "proveedor": "mega",
@@ -14714,19 +14750,19 @@
   {
     "proveedor": "mega",
     "producto": "Silla Plastica Apilable Bca GOLDEN LIFE Bisto",
-    "categoria": "Sillas",
+    "categoria": "Electro",
     "precio": 13
   },
   {
     "proveedor": "mega",
     "producto": "Silla Plastica QUALITY PLASTIC ZAFIRO-N",
-    "categoria": "Sillas",
+    "categoria": "Electro",
     "precio": 82
   },
   {
     "proveedor": "mega",
     "producto": "Tandem 4 Sillas Plasticas AMOBLANDOTE TAD4",
-    "categoria": "Sillas",
+    "categoria": "Electro",
     "precio": 129
   },
   {
@@ -14960,19 +14996,19 @@
   {
     "proveedor": "mega",
     "producto": "Telefono IP GRANDSTREAM GXP1610",
-    "categoria": "Conectividad",
+    "categoria": "Telefonia",
     "precio": 89
   },
   {
     "proveedor": "mega",
     "producto": "Teléfono SKYPE USB TOPCOM WEBTALKER 210",
-    "categoria": "Conectividad",
+    "categoria": "Telefonia",
     "precio": 12
   },
   {
     "proveedor": "mega",
     "producto": "Teléfono SKYPE USB TOPCOM WEBTALKER 211",
-    "categoria": "Conectividad",
+    "categoria": "Telefonia",
     "precio": 12
   },
   {
@@ -15032,283 +15068,283 @@
   {
     "proveedor": "mega",
     "producto": "Bolso 15 NOTEBOOK MANHATTAN 438797 INNSBRUCK",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 151
   },
   {
     "proveedor": "mega",
     "producto": "Bolso Notebook 15 BAGCHERRY MBN11",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 45
   },
   {
     "proveedor": "mega",
     "producto": "Bolso Notebook MANHATTAN 15",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 73
   },
   {
     "proveedor": "mega",
     "producto": "Bolso Notebook MANHATTAN 15",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 73
   },
   {
     "proveedor": "mega",
     "producto": "Bolso Notebook MANHATTAN 15",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 75
   },
   {
     "proveedor": "mega",
     "producto": "Bolso Notebook MANHATTAN 15.4",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 40
   },
   {
     "proveedor": "mega",
     "producto": "Bolso Notebook MANHATTAN 15.4",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 32
   },
   {
     "proveedor": "mega",
     "producto": "Bolso Notebook MANHATTAN 15.4",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 110
   },
   {
     "proveedor": "mega",
     "producto": "Bolso Notebook MANHATTAN 17",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 44
   },
   {
     "proveedor": "mega",
     "producto": "Bolso Notebook MANHATTAN 17",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 166
   },
   {
     "proveedor": "mega",
     "producto": "Bolso Notebook MANHATTAN 17",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 143
   },
   {
     "proveedor": "mega",
     "producto": "Bolso Notebook MANHATTAN 17",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 25
   },
   {
     "proveedor": "mega",
     "producto": "Maletin 12p DCELL 16150 Free",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 39
   },
   {
     "proveedor": "mega",
     "producto": "Maletin 15 ZOM ZM-120B",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 48
   },
   {
     "proveedor": "mega",
     "producto": "Maletin 15p DCELL 16151 Free",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 48
   },
   {
     "proveedor": "mega",
     "producto": "Maletin 15p DCELL 16153 Business Eco",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 42
   },
   {
     "proveedor": "mega",
     "producto": "Maletin 16p CDTEK POR10 Tela Dura, Manija y Correa",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 46
   },
   {
     "proveedor": "mega",
     "producto": "Maletin 16p CDTEK POR20 Tela Dura, Manija y Correa",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 46
   },
   {
     "proveedor": "mega",
     "producto": "Maletin 16p CDTEK POR30 Tela Dura, Manija y Correa",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 46
   },
   {
     "proveedor": "mega",
     "producto": "Maletin 16p CDTEK POR40 Tela Dura, Manija y Correa",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 46
   },
   {
     "proveedor": "mega",
     "producto": "Mochila EVERLAST 09889 Runing Neg-Gri 10 Lts",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 19
   },
   {
     "proveedor": "mega",
     "producto": "Mochila EVERLAST 09889 Runing Roj-Gri 10 Lts",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 19
   },
   {
     "proveedor": "mega",
     "producto": "Mochila EVERLAST 10366 Runing Ama-Gri 10 Lts",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 19
   },
   {
     "proveedor": "mega",
     "producto": "Mochila EVERLAST 10366 Runing Roj-Neg 10 Lts",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 19
   },
   {
     "proveedor": "mega",
     "producto": "Mochila EVERLAST 19643AZ Azu 23 Lts",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 24
   },
   {
     "proveedor": "mega",
     "producto": "Mochila EVERLAST 19643GR Gri  23 Lts",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 24
   },
   {
     "proveedor": "mega",
     "producto": "Mochila EVERLAST 19643RO Roj  23 Lts",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 24
   },
   {
     "proveedor": "mega",
     "producto": "Mochila EVERLAST 20075 Runing Azu 13 Lts ",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 26
   },
   {
     "proveedor": "mega",
     "producto": "Mochila EVERLAST 20075 Runing Fuc 13 Lts",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 26
   },
   {
     "proveedor": "mega",
     "producto": "Mochila EVERLAST 20076 Runing Gri 13 Lts",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 26
   },
   {
     "proveedor": "mega",
     "producto": "Mochila EVERLAST 20076 Runing Neg 13 Lts",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 26
   },
   {
     "proveedor": "mega",
     "producto": "Mochila EVERLAST 20077 Runing Ama 16 Lts",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 26
   },
   {
     "proveedor": "mega",
     "producto": "Mochila EVERLAST 20077 Runing Gri 16 Lts",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 26
   },
   {
     "proveedor": "mega",
     "producto": "Mochila EVERLAST 20079 Runing Azu 13 Lts",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 26
   },
   {
     "proveedor": "mega",
     "producto": "Mochila EVERLAST 20079 Runing Neg 13 Lts",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 26
   },
   {
     "proveedor": "mega",
     "producto": "Mochila INSIDER 20224A Azul Camuflado 35 Lts",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 37
   },
   {
     "proveedor": "mega",
     "producto": "Mochila INSIDER 20224G Gris Camuflado 35 Lts",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 37
   },
   {
     "proveedor": "mega",
     "producto": "Mochila INSIDER 20224V Verde Camuflado 35 Lts",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 37
   },
   {
     "proveedor": "mega",
     "producto": "Mochila MANHATTAN 957194 (NEG/BCA/AZU 10-17)",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 45
   },
   {
     "proveedor": "mega",
     "producto": "Mochila PEYTON 7996AZ Azul",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 44
   },
   {
     "proveedor": "mega",
     "producto": "Mochila PEYTON 7996GR Gris",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 44
   },
   {
     "proveedor": "mega",
     "producto": "Mochila PEYTON 7996RO Roja",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 44
   },
   {
     "proveedor": "mega",
     "producto": "Mochila Solar EXO Energy S1",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 74
   },
   {
     "proveedor": "mega",
     "producto": "Mochila SWISS GEAR JBR035AZU Azul USB",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 33
   },
   {
     "proveedor": "mega",
     "producto": "Mochila SWISS GEAR JBR035GRI Gris USB",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 33
   },
   {
     "proveedor": "mega",
     "producto": "Morral 15 RBCBAGS RBC15",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 45
   },
   {
     "proveedor": "mega",
     "producto": "Morral 15 RELAX RBN15",
-    "categoria": "Electro",
+    "categoria": "Accesorios",
     "precio": 49
   },
   {
@@ -15382,6 +15418,12 @@
     "producto": "NOT 15 ACER A515-54-56YQ i5-10210U 8GB 256GB W10 ",
     "categoria": "Notebooks",
     "precio": 1443
+  },
+  {
+    "proveedor": "mega",
+    "producto": "NOT 15 ACER A515-54-593D i5-10210U 8GB 240GB W10",
+    "categoria": "Notebooks",
+    "precio": 1305
   },
   {
     "proveedor": "mega",
@@ -17929,153 +17971,57 @@
   },
   {
     "proveedor": "mega",
-    "producto": "Celular APPLE iPhone 11 128Gb Black  \t",
+    "producto": "Celular APPLE IPHONE 11 64GB  BLACK",
     "categoria": "Telefonia",
-    "precio": 1395
+    "precio": 1253
   },
   {
     "proveedor": "mega",
-    "producto": "Celular APPLE iPhone 11 128Gb White ",
+    "producto": "CELULAR APPLE IPHONE 128GB 11 BLACK",
     "categoria": "Telefonia",
-    "precio": 1395
+    "precio": 1349
   },
   {
     "proveedor": "mega",
-    "producto": "Celular APPLE iPhone 11 64Gb  \t",
+    "producto": "Celular APPLE IPHONE 13 128GB  ",
     "categoria": "Telefonia",
-    "precio": 1295
+    "precio": 1831
   },
   {
     "proveedor": "mega",
-    "producto": "Celular APPLE iPhone 13 128Gb Blue\t",
+    "producto": "Celular APPLE IPHONE 13 MINI 128GB  ",
     "categoria": "Telefonia",
-    "precio": 1917
+    "precio": 1763
   },
   {
     "proveedor": "mega",
-    "producto": "Celular APPLE iPhone 13 128Gb Blue\t",
+    "producto": "Celular APPLE IPHONE 14 128GB  ",
     "categoria": "Telefonia",
-    "precio": 1917
+    "precio": 2072
   },
   {
     "proveedor": "mega",
-    "producto": "Celular APPLE iPhone 13 128Gb Midnlight",
+    "producto": "Celular APPLE IPHONE 14 PRO 128GB  ",
     "categoria": "Telefonia",
-    "precio": 1917
+    "precio": 2675
   },
   {
     "proveedor": "mega",
-    "producto": "Celular APPLE iPhone 13 128Gb Starlight\t",
+    "producto": "Celular APPLE IPHONE 14 PRO MAX 128GB  ",
     "categoria": "Telefonia",
-    "precio": 1917
+    "precio": 2916
   },
   {
     "proveedor": "mega",
-    "producto": "Celular APPLE iPhone 13 Mini 128Gb Midnight ",
+    "producto": "Celular APPLE IPHONE 14 PRO MAX 256GB  ",
     "categoria": "Telefonia",
-    "precio": 1842
+    "precio": 3157
   },
   {
     "proveedor": "mega",
-    "producto": "Celular APPLE iPhone 13 Mini 128Gb Starlight  ",
+    "producto": "Celular APPLE IPHONE 14PRO  256GB   ",
     "categoria": "Telefonia",
-    "precio": 1842
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Celular APPLE iPhone 14 128Gb Blue",
-    "categoria": "Telefonia",
-    "precio": 2191
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Celular APPLE iPhone 14 128Gb Midnight",
-    "categoria": "Telefonia",
-    "precio": 2191
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Celular APPLE iPhone 14 128Gb Purple\t",
-    "categoria": "Telefonia",
-    "precio": 2372
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Celular APPLE iPhone 14 128Gb Starlight\t",
-    "categoria": "Telefonia",
-    "precio": 2191
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Celular APPLE iPhone 14 Pro 128Gb Gold ",
-    "categoria": "Telefonia",
-    "precio": 2788
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Celular APPLE iPhone 14 Pro 256Gb Black",
-    "categoria": "Telefonia",
-    "precio": 3037
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Celular APPLE iPhone 14 Pro 256Gb Gold",
-    "categoria": "Telefonia",
-    "precio": 3037
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Celular APPLE iPhone 14 Pro 256Gb Purple\t",
-    "categoria": "Telefonia",
-    "precio": 3037
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Celular APPLE iPhone 14 Pro 256Gb Silver",
-    "categoria": "Telefonia",
-    "precio": 3037
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Celular APPLE iPhone 14 Pro Max 128Gb Black ",
-    "categoria": "Telefonia",
-    "precio": 3037
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Celular APPLE iPhone 14 Pro Max 128Gb Gold ",
-    "categoria": "Telefonia",
-    "precio": 3037
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Celular APPLE iPhone 14 Pro Max 128Gb Silver ",
-    "categoria": "Telefonia",
-    "precio": 3037
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Celular APPLE iPhone 14 Pro Max 256Gb Black ",
-    "categoria": "Telefonia",
-    "precio": 3286
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Celular APPLE iPhone 14 Pro Max 256Gb Gold ",
-    "categoria": "Telefonia",
-    "precio": 3286
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Celular APPLE iPhone 14 Pro Max 256Gb Purple ",
-    "categoria": "Telefonia",
-    "precio": 3286
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Celular APPLE iPhone 14 Pro Max 256Gb Silver ",
-    "categoria": "Telefonia",
-    "precio": 3286
+    "precio": 2916
   },
   {
     "proveedor": "mega",
@@ -18109,75 +18055,81 @@
   },
   {
     "proveedor": "mega",
-    "producto": "Celular MOTOROLA Moto C 8Gb XT1756",
+    "producto": "Celular MOTOROLA Moto E13 2+64GB",
     "categoria": "Telefonia",
-    "precio": 268
+    "precio": 202
   },
   {
     "proveedor": "mega",
     "producto": "Celular MOTOROLA Moto E22 3Gb 32Gb",
     "categoria": "Telefonia",
-    "precio": 221
+    "precio": 206
+  },
+  {
+    "proveedor": "mega",
+    "producto": "Celular MOTOROLA Moto E32 4+64GB\t",
+    "categoria": "Telefonia",
+    "precio": 273
   },
   {
     "proveedor": "mega",
     "producto": "Celular MOTOROLA Moto Edge 30 Fusion 12Gb 256Gb",
     "categoria": "Telefonia",
-    "precio": 964
+    "precio": 979
   },
   {
     "proveedor": "mega",
     "producto": "Celular MOTOROLA Moto Edge 30 Neo 8Gb 128Gb",
     "categoria": "Telefonia",
-    "precio": 607
+    "precio": 598
   },
   {
     "proveedor": "mega",
     "producto": "Celular MOTOROLA Moto Edge 30 Ultra 12Gb 256Gb",
     "categoria": "Telefonia",
-    "precio": 1421
+    "precio": 1400
+  },
+  {
+    "proveedor": "mega",
+    "producto": "Celular MOTOROLA Moto G13 4+64GB",
+    "categoria": "Telefonia",
+    "precio": 287
   },
   {
     "proveedor": "mega",
     "producto": "Celular MOTOROLA Moto G13 SE 4Gb 128Gb",
     "categoria": "Telefonia",
-    "precio": 317
+    "precio": 298
   },
   {
     "proveedor": "mega",
     "producto": "Celular MOTOROLA Moto G22 4Gb 128Gb",
     "categoria": "Telefonia",
-    "precio": 352
+    "precio": 319
+  },
+  {
+    "proveedor": "mega",
+    "producto": "Celular MOTOROLA Moto G23 4+128GB",
+    "categoria": "Telefonia",
+    "precio": 303
   },
   {
     "proveedor": "mega",
     "producto": "Celular MOTOROLA Moto G32 4Gb 128Gb",
     "categoria": "Telefonia",
-    "precio": 334
+    "precio": 336
   },
   {
     "proveedor": "mega",
     "producto": "Celular MOTOROLA Moto G42 4Gb 128Gb",
     "categoria": "Telefonia",
-    "precio": 374
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Celular MOTOROLA Moto G5 Plus 2Gb 32Gb XT1631",
-    "categoria": "Telefonia",
-    "precio": 358
+    "precio": 348
   },
   {
     "proveedor": "mega",
     "producto": "Celular MOTOROLA Moto G72 6Gb 128Gb",
     "categoria": "Telefonia",
-    "precio": 561
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Celular MOTOROLA Moto X2 XT1098",
-    "categoria": "Telefonia",
-    "precio": 210
+    "precio": 505
   },
   {
     "proveedor": "mega",
@@ -18199,33 +18151,51 @@
   },
   {
     "proveedor": "mega",
+    "producto": "Celular SAMSUNG A14 4/128B - ",
+    "categoria": "Telefonia",
+    "precio": 363
+  },
+  {
+    "proveedor": "mega",
+    "producto": "Celular SAMSUNG A24 6/128GB - ",
+    "categoria": "Telefonia",
+    "precio": 482
+  },
+  {
+    "proveedor": "mega",
+    "producto": "Celular SAMSUNG A34 128GB -  5G ",
+    "categoria": "Telefonia",
+    "precio": 620
+  },
+  {
+    "proveedor": "mega",
+    "producto": "Celular SAMSUNG A54 128GB - 5G\t",
+    "categoria": "Telefonia",
+    "precio": 780
+  },
+  {
+    "proveedor": "mega",
+    "producto": "Celular SAMSUNG A54 256GB\t",
+    "categoria": "Telefonia",
+    "precio": 872
+  },
+  {
+    "proveedor": "mega",
     "producto": "Celular SAMSUNG Galaxy A04 4Gb 128Gb",
     "categoria": "Telefonia",
-    "precio": 291
+    "precio": 301
   },
   {
     "proveedor": "mega",
     "producto": "Celular SAMSUNG Galaxy A04 4Gb 64Gb",
     "categoria": "Telefonia",
-    "precio": 258
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Celular SAMSUNG Galaxy A04E 3Gb 32Gb",
-    "categoria": "Telefonia",
-    "precio": 221
+    "precio": 270
   },
   {
     "proveedor": "mega",
     "producto": "Celular SAMSUNG Galaxy A04E 3Gb 64Gb   ",
     "categoria": "Telefonia",
-    "precio": 230
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Celular SAMSUNG Galaxy A23 4Gb 128Gb ",
-    "categoria": "Telefonia",
-    "precio": 420
+    "precio": 232
   },
   {
     "proveedor": "mega",
@@ -18235,45 +18205,21 @@
   },
   {
     "proveedor": "mega",
-    "producto": "Celular SAMSUNG Galaxy A3 1Gb 16Gb",
-    "categoria": "Telefonia",
-    "precio": 223
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Celular SAMSUNG Galaxy A5 2Gb 16Gb",
-    "categoria": "Telefonia",
-    "precio": 242
-  },
-  {
-    "proveedor": "mega",
     "producto": "Celular SAMSUNG Galaxy S20 FE 5G 6Gb 128Gb",
     "categoria": "Telefonia",
-    "precio": 775
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Celular SAMSUNG Galaxy S21 FE 5G 6Gb 128Gb",
-    "categoria": "Telefonia",
-    "precio": 922
+    "precio": 1010
   },
   {
     "proveedor": "mega",
     "producto": "Celular SAMSUNG Galaxy S22 8Gb 128Gb",
     "categoria": "Telefonia",
-    "precio": 1163
+    "precio": 1079
   },
   {
     "proveedor": "mega",
-    "producto": "Celular SAMSUNG Galaxy Z FLIPP 4 8Gb 128Gb\t",
+    "producto": "Celular SAMSUNG S23 8+256GB",
     "categoria": "Telefonia",
-    "precio": 1204
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Celular SAMSUNG Galaxy Z FLIPP 4 8Gb 256GB",
-    "categoria": "Telefonia",
-    "precio": 1280
+    "precio": 1519
   },
   {
     "proveedor": "mega",
@@ -18283,45 +18229,45 @@
   },
   {
     "proveedor": "mega",
+    "producto": "Celular XIAOMI 12T 8GB/256GB 5G",
+    "categoria": "Telefonia",
+    "precio": 1169
+  },
+  {
+    "proveedor": "mega",
+    "producto": "Celular XIAOMI 12X 8GB/128GB - 5G ",
+    "categoria": "Telefonia",
+    "precio": 1181
+  },
+  {
+    "proveedor": "mega",
+    "producto": "Celular XIAOMI 13 LITE 8GB/256GB  -5G",
+    "categoria": "Telefonia",
+    "precio": 1012
+  },
+  {
+    "proveedor": "mega",
     "producto": "Celular XIAOMI Note 11 Lite NE 8Gb 128Gb 5G",
     "categoria": "Telefonia",
-    "precio": 730
+    "precio": 699
   },
   {
     "proveedor": "mega",
     "producto": "Celular XIAOMI Note 11 Pro 6Gb 128Gb 5G",
     "categoria": "Telefonia",
-    "precio": 692
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Celular XIAOMI Note 11 Pro 8Gb 128Gb 5G",
-    "categoria": "Telefonia",
-    "precio": 742
+    "precio": 663
   },
   {
     "proveedor": "mega",
     "producto": "Celular XIAOMI Note 11 Pro Plus 6Gb 128Gb 5G\t",
     "categoria": "Telefonia",
-    "precio": 767
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Celular XIAOMI Note 11 Pro Plus 8Gb 256Gb 5G",
-    "categoria": "Telefonia",
-    "precio": 830
+    "precio": 735
   },
   {
     "proveedor": "mega",
     "producto": "Celular XIAOMI Note 11S 6Gb 64Gb",
     "categoria": "Telefonia",
-    "precio": 503
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Celular XIAOMI Note 11S 8Gb 128Gb LTE\t",
-    "categoria": "Telefonia",
-    "precio": 553
+    "precio": 482
   },
   {
     "proveedor": "mega",
@@ -18333,180 +18279,150 @@
     "proveedor": "mega",
     "producto": "Celular XIAOMI Note 12 4Gb 128Gb",
     "categoria": "Telefonia",
-    "precio": 440
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Celular XIAOMI Note 12 8Gb 256Gb 5G ",
-    "categoria": "Telefonia",
-    "precio": 1245
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Celular XIAOMI Note 12 Lite 8Gb /256Gb 5G",
-    "categoria": "Telefonia",
-    "precio": 1006
+    "precio": 446
   },
   {
     "proveedor": "mega",
     "producto": "Celular XIAOMI Note 12 Lite 8Gb 128Gb",
     "categoria": "Telefonia",
-    "precio": 906
+    "precio": 867
   },
   {
     "proveedor": "mega",
-    "producto": "Celular XIAOMI Note 12 Pro 6Gb 128Gb",
+    "producto": "Celular XIAOMI NOTE 12 PRO 6GB/128GB -5G  ",
     "categoria": "Telefonia",
-    "precio": 730
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Celular XIAOMI Note 12 Pro 8Gb 128Gb 5G\t",
-    "categoria": "Telefonia",
-    "precio": 805
+    "precio": 735
   },
   {
     "proveedor": "mega",
     "producto": "Celular XIAOMI PocoHome X5 8Gb 256Gb 5G",
     "categoria": "Telefonia",
-    "precio": 679
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Celular XIAOMI PocoPhone X5 6Gb 128Gb 5G",
-    "categoria": "Telefonia",
-    "precio": 604
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Celular XIAOMI Redmi 9A 2Gb 32Gb",
-    "categoria": "Telefonia",
-    "precio": 338
+    "precio": 651
   },
   {
     "proveedor": "mega",
     "producto": "Alfomba de Bailse para PS2 NOGA NGX-800",
-    "categoria": "Accesorios",
+    "categoria": "Gamer",
     "precio": 22
   },
   {
     "proveedor": "mega",
     "producto": "Memoria SONY PS2 16 MB",
-    "categoria": "Accesorios",
+    "categoria": "Gamer",
     "precio": 22
   },
   {
     "proveedor": "mega",
     "producto": "PS2 Cable Extension PS2 NOGA NG-2001",
-    "categoria": "Accesorios",
+    "categoria": "Gamer",
     "precio": 4
   },
   {
     "proveedor": "mega",
     "producto": "PS3 Accesorio Move Palo de Golf MILEC PS3P",
-    "categoria": "Accesorios",
+    "categoria": "Gamer",
     "precio": 5
   },
   {
     "proveedor": "mega",
     "producto": "PS3 Accesorio Move Raqueta MILEC PS3R",
-    "categoria": "Accesorios",
+    "categoria": "Gamer",
     "precio": 4
   },
   {
     "proveedor": "mega",
     "producto": "PS3 Camara SONY PlsyStation Eye",
-    "categoria": "Accesorios",
+    "categoria": "Gamer",
     "precio": 107
   },
   {
     "proveedor": "mega",
     "producto": "Rifle de Asalto LEVELUP REBEL Machinegun",
-    "categoria": "Accesorios",
+    "categoria": "Gamer",
     "precio": 31
   },
   {
     "proveedor": "mega",
     "producto": "Cargador XBOX Kit Charge And Play CHXBOX",
-    "categoria": "Accesorios",
+    "categoria": "Gamer",
     "precio": 28
   },
   {
     "proveedor": "mega",
     "producto": "Sensor KINECT XBOX360 MICROSOFT",
-    "categoria": "Accesorios",
+    "categoria": "Gamer",
     "precio": 73
   },
   {
     "proveedor": "mega",
     "producto": "Silla Gamer EURO SO-1902 Reclinable",
-    "categoria": "Sillas",
+    "categoria": "Gamer",
     "precio": 229
   },
   {
     "proveedor": "mega",
     "producto": "Silla Gamer MILEC SGAM1 Amarilla",
-    "categoria": "Sillas",
+    "categoria": "Gamer",
     "precio": 229
   },
   {
     "proveedor": "mega",
     "producto": "Silla Gamer MILEC SGAM2 Roja",
-    "categoria": "Sillas",
+    "categoria": "Gamer",
     "precio": 229
   },
   {
     "proveedor": "mega",
     "producto": "Silla Gamer MILEC SGAM3 Roja",
-    "categoria": "Sillas",
+    "categoria": "Gamer",
     "precio": 229
   },
   {
     "proveedor": "mega",
     "producto": "Silla Gamer MILEC SGAM5 Naranja",
-    "categoria": "Sillas",
+    "categoria": "Gamer",
     "precio": 229
   },
   {
     "proveedor": "mega",
     "producto": "Silla Gamer MILEC SGAM5 Negra",
-    "categoria": "Sillas",
+    "categoria": "Gamer",
     "precio": 229
   },
   {
     "proveedor": "mega",
     "producto": "Silla Gamer PANTER Monster CG01A Neg Azu",
-    "categoria": "Sillas",
+    "categoria": "Gamer",
     "precio": 229
   },
   {
     "proveedor": "mega",
     "producto": "Silla Gamer PANTER Monster CG01G Neg Gri",
-    "categoria": "Sillas",
+    "categoria": "Gamer",
     "precio": 229
   },
   {
     "proveedor": "mega",
     "producto": "Silla Gamer PANTER Monster CG01R Neg Roj",
-    "categoria": "Sillas",
+    "categoria": "Gamer",
     "precio": 229
   },
   {
     "proveedor": "mega",
     "producto": "Silla Gamer PANTER Monster CG01V Neg Ver",
-    "categoria": "Sillas",
+    "categoria": "Gamer",
     "precio": 229
   },
   {
     "proveedor": "mega",
     "producto": "Silla Gamer STARWAY WL-01-RJ Roja",
-    "categoria": "Sillas",
+    "categoria": "Gamer",
     "precio": 294
   },
   {
     "proveedor": "mega",
     "producto": "Sillon Ejecutivo MESH S01",
-    "categoria": "Sillas",
+    "categoria": "Gamer",
     "precio": 202
   },
   {
@@ -18548,55 +18464,55 @@
   {
     "proveedor": "mega",
     "producto": "Joystick NINTENDO WII REMOTE",
-    "categoria": "Accesorios",
+    "categoria": "Gamer",
     "precio": 83
   },
   {
     "proveedor": "mega",
     "producto": "Joystick WII NUNCHUCK",
-    "categoria": "Accesorios",
+    "categoria": "Gamer",
     "precio": 41
   },
   {
     "proveedor": "mega",
     "producto": "WII Bateria Recargable NOGA NG-1031L",
-    "categoria": "Accesorios",
+    "categoria": "Gamer",
     "precio": 9
   },
   {
     "proveedor": "mega",
     "producto": "WII Guantes de Box NOGA NG-1027Q",
-    "categoria": "Accesorios",
+    "categoria": "Gamer",
     "precio": 12
   },
   {
     "proveedor": "mega",
     "producto": "WII Kit Deportivo 25 EN 1",
-    "categoria": "Accesorios",
+    "categoria": "Gamer",
     "precio": 33
   },
   {
     "proveedor": "mega",
     "producto": "WII Kit Deportivo 40 EN 1",
-    "categoria": "Accesorios",
+    "categoria": "Gamer",
     "precio": 40
   },
   {
     "proveedor": "mega",
     "producto": "WII Kit Deportivo NOGA NG-1020P",
-    "categoria": "Accesorios",
+    "categoria": "Gamer",
     "precio": 10
   },
   {
     "proveedor": "mega",
     "producto": "WII Paletas de Ping Pong NOGA NG-1054",
-    "categoria": "Accesorios",
+    "categoria": "Gamer",
     "precio": 12
   },
   {
     "proveedor": "mega",
     "producto": "WII Pistola Laser NOGA NG-1002D",
-    "categoria": "Accesorios",
+    "categoria": "Gamer",
     "precio": 8
   },
   {
@@ -18620,37 +18536,37 @@
   {
     "proveedor": "mega",
     "producto": "Guitarra GTC GUI-PS668 INALAMBRICA PS2",
-    "categoria": "Electro",
+    "categoria": "Gamer",
     "precio": 24
   },
   {
     "proveedor": "mega",
     "producto": "Guitarra NOGA NG-1104WD PS2 ",
-    "categoria": "Electro",
+    "categoria": "Gamer",
     "precio": 37
   },
   {
     "proveedor": "mega",
     "producto": "Guitarra NOGA NG-1104WL INAMALBRICA PS2",
-    "categoria": "Electro",
+    "categoria": "Gamer",
     "precio": 45
   },
   {
     "proveedor": "mega",
     "producto": "Guitarra NOGA NG-3012C PS3",
-    "categoria": "Electro",
+    "categoria": "Gamer",
     "precio": 52
   },
   {
     "proveedor": "mega",
     "producto": "Guitarra PERFORMANCE TP-PSII 668B PS2",
-    "categoria": "Electro",
+    "categoria": "Gamer",
     "precio": 27
   },
   {
     "proveedor": "mega",
     "producto": "Guitarra TTG-102 INALAMBRICA PS2",
-    "categoria": "Electro",
+    "categoria": "Gamer",
     "precio": 36
   },
   {

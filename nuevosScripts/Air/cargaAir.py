@@ -2,14 +2,15 @@ import csv
 import json
 
 
-#Direccion archivos en Linux
-listadoCsv = 'Repo-Python-DB-DottAPI/nuevosScripts/Air/Listado/articulos.csv'
-listadoJson = 'Repo-Python-DB-DottAPI/nuevosScripts/Air/Json/listadoAir.json'
+#Direccion archivos
+# listadoCsv = 'Repo-Python-DB-DottAPI/nuevosScripts/Air/Listado/articulos.csv'
+# listadoJson = 'Repo-Python-DB-DottAPI/nuevosScripts/Air/Json/listadoAir.json'
+# diccionarios = 'Repo-Python-DB-DottAPI/nuevosScripts/diccionarios/diccionarios.json'
 
-
-#direccion diccionarios
-#windows
-diccionarios = 'Repo-Python-DB-DottAPI/nuevosScripts/diccionarios/diccionarios.json'
+#Direccion archivos
+listadoCsv = 'nuevosScripts/Air/Listado/articulos.csv'
+listadoJson = 'nuevosScripts/Air/Json/listadoAir.json'
+diccionarios = 'nuevosScripts/diccionarios/diccionarios.json'
 
 
 
@@ -48,22 +49,25 @@ def crearArchivoJson():
         # Lee cada fila del archivo CSV (ignorando la primera fila de encabezados)
         next(csv_reader)  # Ignora la primera fila de encabezados
         for row in csv_reader:
-            descripcion = row[1]
-            rubro = row[10]
-            iva = row[4]
-            precio = row[2]
-            
 
-            # Crea un diccionario con los datos de cada registro
-            registro = {
-                'proveedor':'air',
-                'producto': descripcion,
-                'categoria': encontrar_valor(obtenerDiccionario('air'), rubro),
-                'precio': round( (float(precio) * (1 + (float(iva)/100)) * 1.1))
-            }
+            if(row[2] != "A"):
 
-            # Agrega el diccionario a la lista de datos
-            data.append(registro)
+                descripcion = row[1]
+                rubro = row[10]
+                iva = row[4]
+                precio = row[2]
+
+
+                # Crea un diccionario con los datos de cada registro
+                registro = {
+                    'proveedor':'air',
+                    'producto': descripcion,
+                    'categoria': encontrar_valor(obtenerDiccionario('air'), rubro),
+                    'precio': round( (float(precio) * (1 + (float(iva)/100)) * 1.1))
+                }
+
+                # Agrega el diccionario a la lista de datos
+                data.append(registro)
 
     # Convierte la lista de datos a formato JSON
     # json_data = json.dumps(data, indent=4)

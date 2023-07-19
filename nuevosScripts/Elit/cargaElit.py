@@ -5,11 +5,18 @@ import json
 
 
 #Direccion archivo
-listadoElit = 'Repo-Python-DB-DottAPI/nuevosScripts/Elit/Listado/listadoElit.xlsx'
-listadoCsv = 'Repo-Python-DB-DottAPI/nuevosScripts/Elit/Listado/listadoEik.csv'
-listadoJson = 'Repo-Python-DB-DottAPI/nuevosScripts/Elit/Json/listadoJson.json'
+# listadoElit = 'Repo-Python-DB-DottAPI/nuevosScripts/Elit/Listado/listadoElit.xlsx'
+# listadoCsv = 'Repo-Python-DB-DottAPI/nuevosScripts/Elit/Listado/listadoEik.csv'
+# listadoJson = 'Repo-Python-DB-DottAPI/nuevosScripts/Elit/Json/listadoJson.json'
 
-diccionarios = 'Repo-Python-DB-DottAPI/nuevosScripts/diccionarios/diccionarios.json'
+# diccionarios = 'Repo-Python-DB-DottAPI/nuevosScripts/diccionarios/diccionarios.json'
+
+#Direccion archivo
+listadoElit = 'nuevosScripts/Elit/Listado/listadoElit.xlsx'
+listadoCsv = 'nuevosScripts/Elit/Listado/listadoEik.csv'
+listadoJson = 'nuevosScripts/Elit/Json/listadoJson.json'
+
+diccionarios = 'nuevosScripts/diccionarios/diccionarios.json'
 
 
 def convertirACSV():

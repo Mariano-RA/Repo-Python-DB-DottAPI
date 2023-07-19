@@ -3,21 +3,36 @@ import pandas as pd
 import sqlite3
 
 
+#Direccion Windows
+# listadosJson = {
+#     "air": "Repo-Python-DB-DottAPI/nuevosScripts/Air/Json/listadoAir.json",
+#     "eikon": "Repo-Python-DB-DottAPI/nuevosScripts/Eik/Json/listadoJson.json",
+#     "elit": "Repo-Python-DB-DottAPI/nuevosScripts/Elit/Json/listadoJson.json",
+#     "nb":"Repo-Python-DB-DottAPI/nuevosScripts/Nb/Json/listadoJson.json",
+#     "invid":"Repo-Python-DB-DottAPI/nuevosScripts/Invid/Json/listadoJson.json",
+#     "mega":"Repo-Python-DB-DottAPI/nuevosScripts/Megacom/Json/listadoJson.json",
+#     "hdc":"Repo-Python-DB-DottAPI/nuevosScripts/Hdc/Json/listadoJson.json",
+# }
+
+# direccionAchivosJson = {
+#     "jsonDolar": "Repo-Python-DB-DottAPI/dataDolar.json",
+#     "direccionDB":"Repo-Python-DB-DottAPI/productosDB.sqlite"
+# }
 
 #Direccion Windows
 listadosJson = {
-    "air": "Repo-Python-DB-DottAPI/nuevosScripts/Air/Json/listadoAir.json",
-    "eikon": "Repo-Python-DB-DottAPI/nuevosScripts/Eik/Json/listadoJson.json",
-    "elit": "Repo-Python-DB-DottAPI/nuevosScripts/Elit/Json/listadoJson.json",
-    "nb":"Repo-Python-DB-DottAPI/nuevosScripts/Nb/Json/listadoJson.json",
-    "invid":"Repo-Python-DB-DottAPI/nuevosScripts/Invid/Json/listadoJson.json",
-    "mega":"Repo-Python-DB-DottAPI/nuevosScripts/Megacom/Json/listadoJson.json",
-    "hdc":"Repo-Python-DB-DottAPI/nuevosScripts/Hdc/Json/listadoJson.json",
+    "air": "nuevosScripts/Air/Json/listadoAir.json",
+    "eikon": "nuevosScripts/Eik/Json/listadoJson.json",
+    "elit": "nuevosScripts/Elit/Json/listadoJson.json",
+    "nb":"nuevosScripts/Nb/Json/listadoJson.json",
+    "invid":"nuevosScripts/Invid/Json/listadoJson.json",
+    "mega":"nuevosScripts/Megacom/Json/listadoJson.json",
+    "hdc":"nuevosScripts/Hdc/Json/listadoJson.json",
 }
 
 direccionAchivosJson = {
-    "jsonDolar": "Repo-Python-DB-DottAPI/dataDolar.json",
-    "direccionDB":"Repo-Python-DB-DottAPI/productosDB.sqlite"
+    "jsonDolar": "dataDolar.json",
+    "direccionDB":"productosDB.sqlite"
 }
 
 # Lectura del archivo JSON

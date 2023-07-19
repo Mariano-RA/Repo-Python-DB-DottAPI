@@ -7,3 +7,4 @@ agregar la columna categoria y en la primer celda pegar la siguiente formula
 =SI(ESBLANCO(E3);""; SI( LARGO(B2)<2; A2;G2))
 
 
+=IF(AND(ISBLANK(B3), ISBLANK(B4)),CONCAT(A3," - ",A4),IF(ISBLANK(E5),"",IF(LEN(B4)<2, CONCAT(LEFT(G3, FIND(" - ", G3) - 1)," - ",A4),G4)))

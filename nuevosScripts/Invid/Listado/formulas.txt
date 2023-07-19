@@ -5,8 +5,10 @@ Verificar los espacios en blanco
 agregar la columna categoria y en la primer celda pegar la siguiente formula
 
 =SI(LARGO(H3)<2;""; SI(Y(LARGO(A1)<2; LARGO(C1)<2); B1;I1))
+=IF(LEN(H3)<2,"", IF(AND(LEN(A1)<2, LEN(C1)<2), B1,I1))
 
 Para el resto de celdas pegar la siguiente
 
 =SI(LARGO(H4)<2;""; SI(Y(LARGO(A2)<2; LARGO(C2)<2); B2;I3))
+=IF(LEN(H4)<2,"",IF(AND(LEN(A2)<2,LEN(C2)<2),B2,I3))
 

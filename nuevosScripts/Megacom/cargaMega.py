@@ -4,10 +4,16 @@ import json
 
 
 #Direccion archivos en Linux
-listadoInvid = "Repo-Python-DB-DottAPI/nuevosScripts/Megacom/Listado/listadoMega.xlsx"
-listadoCsv = 'Repo-Python-DB-DottAPI/nuevosScripts/Megacom/Listado/listadoMega.csv'
-listadoJson = 'Repo-Python-DB-DottAPI/nuevosScripts/Megacom/Json/listadoJson.json'
-diccionarios = 'Repo-Python-DB-DottAPI/nuevosScripts/diccionarios/diccionarios.json'
+# listadoInvid = "Repo-Python-DB-DottAPI/nuevosScripts/Megacom/Listado/listadoMega.xlsx"
+# listadoCsv = 'Repo-Python-DB-DottAPI/nuevosScripts/Megacom/Listado/listadoMega.csv'
+# listadoJson = 'Repo-Python-DB-DottAPI/nuevosScripts/Megacom/Json/listadoJson.json'
+# diccionarios = 'Repo-Python-DB-DottAPI/nuevosScripts/diccionarios/diccionarios.json'
+
+#Direccion archivos en windows
+listadoInvid = "nuevosScripts/Megacom/Listado/listadoMega.xlsx"
+listadoCsv = 'nuevosScripts/Megacom/Listado/listadoMega.csv'
+listadoJson = 'nuevosScripts/Megacom/Json/listadoJson.json'
+diccionarios = 'nuevosScripts/diccionarios/diccionarios.json'
 
 def convertirACSV():
     # Leer el archivo XLSX
@@ -20,7 +26,14 @@ def encontrar_valor(diccionario, clave):
     if clave in diccionario:
         return diccionario[clave]
     else:
-        return "No existe una categoria para este producto"
+        if(clave == "ESTABILIZADORES - UPS - Zapatillas Eléctricas"):
+            return diccionario["ESTABILIZADORES - UPS - Zapatillas Electricas"]
+        elif(clave == "GPS - De Exploración"):
+            return diccionario["GPS - De Exploracion"]
+        elif(clave == "TV - Iluminación"):
+            return diccionario["TV - Iluminacion"]
+        else:
+            return "No existe una categoria para este producto"
  
 
     

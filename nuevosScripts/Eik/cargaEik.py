@@ -2,13 +2,17 @@ import pandas as pd
 import csv
 import json
 
-
+#Direccion archivos
+# listadoEikon = 'Repo-Python-DB-DottAPI/nuevosScripts/Eik/Listado/listadoEik.xlsx'
+# listadoCsv = 'Repo-Python-DB-DottAPI/nuevosScripts/Eik/Listado/listadoEik.csv'
+# listadoJson = 'Repo-Python-DB-DottAPI/nuevosScripts/Eik/Json/listadoJson.json'
+# diccionarios = 'Repo-Python-DB-DottAPI/nuevosScripts/diccionarios/diccionarios.json'
 
 #Direccion archivos
-listadoEikon = 'Repo-Python-DB-DottAPI/nuevosScripts/Eik/Listado/listadoEik.xlsx'
-listadoCsv = 'Repo-Python-DB-DottAPI/nuevosScripts/Eik/Listado/listadoEik.csv'
-listadoJson = 'Repo-Python-DB-DottAPI/nuevosScripts/Eik/Json/listadoJson.json'
-diccionarios = 'Repo-Python-DB-DottAPI/nuevosScripts/diccionarios/diccionarios.json'
+listadoEikon = 'nuevosScripts/Eik/Listado/listadoEik.xlsx'
+listadoCsv = 'nuevosScripts/Eik/Listado/listadoEik.csv'
+listadoJson = 'nuevosScripts/Eik/Json/listadoJson.json'
+diccionarios = 'nuevosScripts/diccionarios/diccionarios.json'
 
 
 def convertirACSV():
@@ -54,9 +58,11 @@ def crearJson():
         # Lee cada fila del archivo CSV (ignorando la primera fila de encabezados)
         next(csv_reader)  # Ignora la primera fila de encabezados
         for row in csv_reader:
+
             descripcion = row[1]
             categoria = row[6]
             precio = row[3]
+            
             
 
             # Crea un diccionario con los datos de cada registro
@@ -65,6 +71,7 @@ def crearJson():
                 'producto': descripcion,
                 'categoria': encontrar_valor(obtenerDiccionario('eikon'), categoria),
                 'precio': round(( float(precio) * 1.1))
+                
             }
 
             # Agrega el diccionario a la lista de datos

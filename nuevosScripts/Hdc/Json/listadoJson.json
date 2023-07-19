@@ -61,6 +61,12 @@
   },
   {
     "proveedor": "hdc",
+    "producto": "E-READER 6\" AMAZON KINDLE (2022)  16GB WIFI DENIM",
+    "categoria": "Electro",
+    "precio": 231
+  },
+  {
+    "proveedor": "hdc",
     "producto": "AMAZON FIRE TV STICK LITE (SIN TRAFO y PILAS)",
     "categoria": "Electro",
     "precio": 86
@@ -889,21 +895,15 @@
   },
   {
     "proveedor": "hdc",
-    "producto": "AURICULAR BT JBL VIBE BUDS TRUE WIRELESS BLACK",
-    "categoria": "Auriculares",
-    "precio": 78
-  },
-  {
-    "proveedor": "hdc",
-    "producto": "AURICULAR BT JBL W100 TRUE WIRELESS BLACK",
-    "categoria": "Auriculares",
-    "precio": 95
-  },
-  {
-    "proveedor": "hdc",
     "producto": "AURICULAR BT JBL W100 TRUE WIRELESS SILVER",
     "categoria": "Auriculares",
     "precio": 95
+  },
+  {
+    "proveedor": "hdc",
+    "producto": "AURICULAR BT JBL VIBE 100 TRUE WIRELESS BLACK",
+    "categoria": "Auriculares",
+    "precio": 78
   },
   {
     "proveedor": "hdc",
@@ -998,7 +998,7 @@
   {
     "proveedor": "hdc",
     "producto": "BATERÍA KAISE 12V 5AMP",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Accesorios",
     "precio": 20
   },
   {
@@ -1424,49 +1424,49 @@
   {
     "proveedor": "hdc",
     "producto": "PARLANTE BT MATRIX MINIBASS SILVER",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Parlantes",
     "precio": 69
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE BT MATRIX MINI BOOM NEGRO POWER BANK SD AUX",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Parlantes",
     "precio": 96
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE BT MATRIX MINI BOOM ROJO POWER BANK SD AUX",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Parlantes",
     "precio": 96
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE BT MATRIX BLAST AZUL",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Parlantes",
     "precio": 147
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE BT MATRIX BLAST GRIS",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Parlantes",
     "precio": 147
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE BT MATRIX BLAST ROJO",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Parlantes",
     "precio": 147
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE BT MATRIX SOUND BASS NEGRO",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Parlantes",
     "precio": 117
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE BT MATRIX SOUND BASS ROJO",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Parlantes",
     "precio": 117
   },
   {
@@ -1604,37 +1604,37 @@
   {
     "proveedor": "hdc",
     "producto": "PARLANTE PORTÁTIL NEGRO MOONKI SOUND MO-L2077BT",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Parlantes",
     "precio": 72
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE PORTÁTIL ROJO MOONKI SOUND MO-L2077BT/Y170PLUS",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Parlantes",
     "precio": 72
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE PORTÁTIL CAMUFLADO MOONKI SOUND MO-L2077BT/Y170PLUS",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Parlantes",
     "precio": 72
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE PORTÁTIL NEGRO MOONKI SOUND MO-L2077BT-V2",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Parlantes",
     "precio": 71
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE PORTÁTIL NEGRO MOONKI SOUND IPX6 MO-L208BT",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Parlantes",
     "precio": 74
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE PORTÁTIL NEGRO MOONKI SOUND MO-R88BT",
-    "categoria": "No existe una categoria para este producto",
+    "categoria": "Parlantes",
     "precio": 48
   },
   {
@@ -1696,18 +1696,6 @@
     "producto": "PARLANTE BT NAKAMICHI CUBEBOX 5W IPX7 RED",
     "categoria": "Parlantes",
     "precio": 49
-  },
-  {
-    "proveedor": "hdc",
-    "producto": "PARLANTE BT NAKAMICHI PUNCH AZUL",
-    "categoria": "Parlantes",
-    "precio": 215
-  },
-  {
-    "proveedor": "hdc",
-    "producto": "PARLANTE BT NAKAMICHI PUNCH ROJO",
-    "categoria": "Parlantes",
-    "precio": 215
   },
   {
     "proveedor": "hdc",
@@ -2026,12 +2014,6 @@
     "producto": "UNIDAD SSD M.2 PNY CS3040 1TB NVMe CON DISIPADOR M280CS3040-1TB-Rb",
     "categoria": "Discos",
     "precio": 485
-  },
-  {
-    "proveedor": "hdc",
-    "producto": "UNIDAD SSD M.2 PNY CS1031 256G NVMe OEM",
-    "categoria": "Discos",
-    "precio": 85
   },
   {
     "proveedor": "hdc",
