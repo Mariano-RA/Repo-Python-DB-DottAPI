@@ -3,14 +3,14 @@ import json
 
 
 #Direccion archivos
-# listadoCsv = 'Repo-Python-DB-DottAPI/nuevosScripts/Air/Listado/articulos.csv'
-# listadoJson = 'Repo-Python-DB-DottAPI/nuevosScripts/Air/Json/listadoAir.json'
-# diccionarios = 'Repo-Python-DB-DottAPI/nuevosScripts/diccionarios/diccionarios.json'
+listadoCsv = 'Repo-Python-DB-DottAPI/nuevosScripts/Air/Listado/articulos.csv'
+listadoJson = 'Repo-Python-DB-DottAPI/nuevosScripts/Air/Json/listadoAir.json'
+diccionarios = 'Repo-Python-DB-DottAPI/nuevosScripts/diccionarios/diccionarios.json'
 
 #Direccion archivos
-listadoCsv = 'nuevosScripts/Air/Listado/articulos.csv'
-listadoJson = 'nuevosScripts/Air/Json/listadoAir.json'
-diccionarios = 'nuevosScripts/diccionarios/diccionarios.json'
+# listadoCsv = 'nuevosScripts/Air/Listado/articulos.csv'
+# listadoJson = 'nuevosScripts/Air/Json/listadoAir.json'
+# diccionarios = 'nuevosScripts/diccionarios/diccionarios.json'
 
 
 

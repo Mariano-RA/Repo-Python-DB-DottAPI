@@ -4,16 +4,16 @@ import json
 
 
 #Direccion archivos en Linux
-# listadoInvid = "Repo-Python-DB-DottAPI/nuevosScripts/Invid/Listado/listadoInvid.xlsx"
-# listadoCsv = 'Repo-Python-DB-DottAPI/nuevosScripts/Invid/Listado/listadoInvid.csv'
-# listadoJson = 'Repo-Python-DB-DottAPI/nuevosScripts/Invid/Json/listadoJson.json'
-# diccionarios = 'Repo-Python-DB-DottAPI/nuevosScripts/diccionarios/diccionarios.json'
+listadoInvid = "Repo-Python-DB-DottAPI/nuevosScripts/Invid/Listado/listadoInvid.xlsx"
+listadoCsv = 'Repo-Python-DB-DottAPI/nuevosScripts/Invid/Listado/listadoInvid.csv'
+listadoJson = 'Repo-Python-DB-DottAPI/nuevosScripts/Invid/Json/listadoJson.json'
+diccionarios = 'Repo-Python-DB-DottAPI/nuevosScripts/diccionarios/diccionarios.json'
 
 #Direccion archivos en Linux
-listadoInvid = "nuevosScripts/Invid/Listado/listadoInvid.xlsx"
-listadoCsv = 'nuevosScripts/Invid/Listado/listadoInvid.csv'
-listadoJson = 'nuevosScripts/Invid/Json/listadoJson.json'
-diccionarios = 'nuevosScripts/diccionarios/diccionarios.json'
+# listadoInvid = "nuevosScripts/Invid/Listado/listadoInvid.xlsx"
+# listadoCsv = 'nuevosScripts/Invid/Listado/listadoInvid.csv'
+# listadoJson = 'nuevosScripts/Invid/Json/listadoJson.json'
+# diccionarios = 'nuevosScripts/diccionarios/diccionarios.json'
 
 def convertirACSV():
     # Leer el archivo XLSX

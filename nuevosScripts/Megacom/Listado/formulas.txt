@@ -4,7 +4,6 @@ Borrar las filas que no sirven y dejar la de la primera categoria de auriculares
 Verificar los espacios en blanco
 agregar la columna categoria y en la primer celda pegar la siguiente formula
 
-=SI(ESBLANCO(E3);""; SI( LARGO(B2)<2; A2;G2))
-
+=SI(Y(ESBLANCO(B1); ESBLANCO(B2));CONCAT(A1;" - ";A2);SI(ESBLANCO(E3);"";SI(LARGO(B2)<2; CONCAT(IZQUIERDA(G1; ENCONTRAR(" - "; G1) - 1);" - ";A2);G2)))
 
 =IF(AND(ISBLANK(B3), ISBLANK(B4)),CONCAT(A3," - ",A4),IF(ISBLANK(E5),"",IF(LEN(B4)<2, CONCAT(LEFT(G3, FIND(" - ", G3) - 1)," - ",A4),G4)))

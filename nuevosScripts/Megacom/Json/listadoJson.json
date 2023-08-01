@@ -109,9 +109,9 @@
   },
   {
     "proveedor": "mega",
-    "producto": "PC INTEL Core I7 10700 8Gb SSD240Gb",
+    "producto": "PC INTEL Core I7 10700 16Gb SSD240Gb",
     "categoria": "Computadoras",
-    "precio": 1433
+    "precio": 1351
   },
   {
     "proveedor": "mega",
@@ -145,6 +145,12 @@
   },
   {
     "proveedor": "mega",
+    "producto": "DDR3 04Gb 1600 1.50v SAMSUNG M378B5173QH0-CK0",
+    "categoria": "Memorias RAM",
+    "precio": 35
+  },
+  {
+    "proveedor": "mega",
     "producto": "DDR3 04gb 1600 Corsair Value",
     "categoria": "Memorias RAM",
     "precio": 53
@@ -157,6 +163,12 @@
   },
   {
     "proveedor": "mega",
+    "producto": "DDR4 04GB 2400 1.20V KINGSTON KVR24N17S6/4",
+    "categoria": "Memorias RAM",
+    "precio": 37
+  },
+  {
+    "proveedor": "mega",
     "producto": "DDR4 04Gb 2400 1.20V Markvision BULK",
     "categoria": "Memorias RAM",
     "precio": 48
@@ -166,6 +178,12 @@
     "producto": "DDR4 04Gb 2666 1.20V Corsair  Value ",
     "categoria": "Memorias RAM",
     "precio": 38
+  },
+  {
+    "proveedor": "mega",
+    "producto": "DDR4 04GB 2666 1.20V CORSAIR MV4GX4M1A2666C18",
+    "categoria": "Memorias RAM",
+    "precio": 37
   },
   {
     "proveedor": "mega",
@@ -184,6 +202,12 @@
     "producto": "DDR4 04GB 2666 1.20V Markvision  BULK",
     "categoria": "Memorias RAM",
     "precio": 47
+  },
+  {
+    "proveedor": "mega",
+    "producto": "DDR4 04GB 2666 1.20V PATRIOT PSD44G266681",
+    "categoria": "Memorias RAM",
+    "precio": 37
   },
   {
     "proveedor": "mega",
@@ -4449,7 +4473,7 @@
     "proveedor": "mega",
     "producto": "Auricular IN BT XIAOMI AirDots S TWSEJ04LS",
     "categoria": "Accesorios",
-    "precio": 38
+    "precio": 37
   },
   {
     "proveedor": "mega",
@@ -7569,49 +7593,49 @@
     "proveedor": "mega",
     "producto": "Cart HP 010 C4844A Negro",
     "categoria": "Impresoras e Insumos",
-    "precio": 117
+    "precio": 500
   },
   {
     "proveedor": "mega",
     "producto": "Cart HP 011 C4810A Negro",
     "categoria": "Impresoras e Insumos",
-    "precio": 78
+    "precio": 565
   },
   {
     "proveedor": "mega",
     "producto": "Cart HP 011 C4811A Cyan",
     "categoria": "Impresoras e Insumos",
-    "precio": 78
+    "precio": 467
   },
   {
     "proveedor": "mega",
     "producto": "Cart HP 011 C4812A Magenta",
     "categoria": "Impresoras e Insumos",
-    "precio": 78
+    "precio": 468
   },
   {
     "proveedor": "mega",
     "producto": "Cart HP 011 C4813A Amarillo",
     "categoria": "Impresoras e Insumos",
-    "precio": 78
+    "precio": 467
   },
   {
     "proveedor": "mega",
     "producto": "Cart HP 011 C4836A Cia p/ 1000-1200-2200-2230",
     "categoria": "Impresoras e Insumos",
-    "precio": 65
+    "precio": 300
   },
   {
     "proveedor": "mega",
     "producto": "Cart HP 011 C4837A Mag p/ 1000-1200-2200-2230",
     "categoria": "Impresoras e Insumos",
-    "precio": 65
+    "precio": 296
   },
   {
     "proveedor": "mega",
     "producto": "Cart HP 011 C4838A Ama p/ 1000-1200-2200-2230",
     "categoria": "Impresoras e Insumos",
-    "precio": 65
+    "precio": 296
   },
   {
     "proveedor": "mega",
@@ -8061,19 +8085,19 @@
     "proveedor": "mega",
     "producto": "DRUM ALT BROTHER DR 510 400 6000",
     "categoria": "Impresoras e Insumos",
-    "precio": 18
+    "precio": 20
   },
   {
     "proveedor": "mega",
     "producto": "Drum Alt BROTHER DR1050 DR1060 TECNOLIV",
     "categoria": "Impresoras e Insumos",
-    "precio": 36
+    "precio": 30
   },
   {
     "proveedor": "mega",
     "producto": "Drum Alt BROTHER DR2340 GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 49
+    "precio": 32
   },
   {
     "proveedor": "mega",
@@ -8085,25 +8109,25 @@
     "proveedor": "mega",
     "producto": "Drum Alt BROTHER DR360 GLOBAL ",
     "categoria": "Impresoras e Insumos",
-    "precio": 29
+    "precio": 27
   },
   {
     "proveedor": "mega",
     "producto": "Drum Alt BROTHER DR420 GLOBAL ",
     "categoria": "Impresoras e Insumos",
-    "precio": 43
+    "precio": 23
   },
   {
     "proveedor": "mega",
     "producto": "Drum Alt BROTHER DR620 G&G ",
     "categoria": "Impresoras e Insumos",
-    "precio": 26
+    "precio": 32
   },
   {
     "proveedor": "mega",
     "producto": "Drum Alt BROTHER DR720 G&G",
     "categoria": "Impresoras e Insumos",
-    "precio": 33
+    "precio": 32
   },
   {
     "proveedor": "mega",
@@ -8115,97 +8139,97 @@
     "proveedor": "mega",
     "producto": "Drum Alt HP 126 CE314A Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 31
+    "precio": 34
   },
   {
     "proveedor": "mega",
     "producto": "Drum Alt HP CF219A con Chip GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 37
+    "precio": 35
   },
   {
     "proveedor": "mega",
     "producto": "Drum Alt HP CF232A con Chip GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 35
+    "precio": 32
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt BROTHER TN1050 TN1060 Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 17
+    "precio": 15
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt BROTHER TN110 TN115 TN130 TN135 Ama GLOB",
     "categoria": "Impresoras e Insumos",
-    "precio": 34
+    "precio": 32
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt BROTHER TN110 TN115 TN130 TN135 Cia GLOB",
     "categoria": "Impresoras e Insumos",
-    "precio": 34
+    "precio": 32
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt BROTHER TN110 TN115 TN130 TN135 Mag GLOB",
     "categoria": "Impresoras e Insumos",
-    "precio": 34
+    "precio": 32
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt BROTHER TN110 TN115 TN130 TN135 Neg GLOB",
     "categoria": "Impresoras e Insumos",
-    "precio": 34
+    "precio": 32
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt BROTHER TN225C Cia GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 22
+    "precio": 32
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt BROTHER TN225M Mag GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 22
+    "precio": 32
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt BROTHER TN225Y Ama GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 22
+    "precio": 32
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt BROTHER TN2370 TN660 Neg MGN",
     "categoria": "Impresoras e Insumos",
-    "precio": 28
+    "precio": 32
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt BROTHER TN315M Mag GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 38
+    "precio": 31
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt BROTHER TN315Y Ama GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 30
+    "precio": 31
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt BROTHER TN3479 Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 66
+    "precio": 36
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt BROTHER TN3499 Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 53
+    "precio": 40
   },
   {
     "proveedor": "mega",
@@ -8223,121 +8247,121 @@
     "proveedor": "mega",
     "producto": "Toner Alt BROTHER TN410 TN450 Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 20
+    "precio": 21
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt BROTHER TN580 TN620 TN650 Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 33
+    "precio": 32
   },
   {
     "proveedor": "mega",
     "producto": "TONER ALT E LEXMARK 12A8305 6K",
     "categoria": "Impresoras e Insumos",
-    "precio": 17
+    "precio": 19
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt HP 048A CF248A Neg Con Chip GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 33
+    "precio": 31
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt HP 078A CE278A Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 25
+    "precio": 27
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt HP 105A W1105A Neg c/Chip GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 42
+    "precio": 62
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt HP 105A W1105A Neg s/Chip GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 33
+    "precio": 32
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt HP 124A Q6000A Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 59
+    "precio": 57
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt HP 124A Q6001A Cia GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 39
+    "precio": 30
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt HP 124A Q6002A Ama GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 25
+    "precio": 28
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt HP 124A Q6003A Mag GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 25
+    "precio": 28
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt HP 204A CF510A Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 36
+    "precio": 40
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt HP 204A CF511A Cia GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 36
+    "precio": 40
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt HP 204A CF512A Mag GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 36
+    "precio": 40
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt HP 204A CF513A Ama GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 36
+    "precio": 40
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt HP 650 CE270A Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 112
+    "precio": 119
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt HP 650 CE271A Cia GLOBAL ",
     "categoria": "Impresoras e Insumos",
-    "precio": 112
+    "precio": 119
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt HP 650 CE272A Mag GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 112
+    "precio": 119
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt HP 650 CE273A Ama GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 112
+    "precio": 119
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt HP C4182X Neg GTC",
     "categoria": "Impresoras e Insumos",
-    "precio": 88
+    "precio": 94
   },
   {
     "proveedor": "mega",
@@ -8433,19 +8457,19 @@
     "proveedor": "mega",
     "producto": "Toner Alt HP CE400X CE250X 507X Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 57
+    "precio": 55
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt HP CE401A CE251A 507A Cia GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 33
+    "precio": 32
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt HP CE402A CE252A 507A Ama GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 33
+    "precio": 32
   },
   {
     "proveedor": "mega",
@@ -8457,271 +8481,271 @@
     "proveedor": "mega",
     "producto": "Toner Alt HP CF217A Neg Con Chip GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 30
+    "precio": 29
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt HP CF217A Neg Sin Chip GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 30
+    "precio": 29
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt HP CF226A Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 30
+    "precio": 31
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt HP CF226X Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 36
+    "precio": 40
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt HP CF230A Neg C/Chip GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 21
+    "precio": 28
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt HP CF237A Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 185
+    "precio": 197
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt HP CF279A Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 20
+    "precio": 24
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt HP CF280A CE505A Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 16
+    "precio": 24
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt HP CF280X CE505X Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 33
+    "precio": 31
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt HP CF281A Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 34
+    "precio": 76
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt HP CF281X Neg Global",
     "categoria": "Impresoras e Insumos",
-    "precio": 110
+    "precio": 106
   },
   {
     "proveedor": "mega",
     "producto": "Toner ALT HP CF289A Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 33
+    "precio": 213
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt HP CF410A Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 64
+    "precio": 62
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt HP CF411A Cia GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 64
+    "precio": 69
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt HP CF412A Ama GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 64
+    "precio": 69
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt HP Q2612A Neg ASSEEL",
     "categoria": "Impresoras e Insumos",
-    "precio": 26
+    "precio": 25
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt HP Q2612A Neg GNEISS",
     "categoria": "Impresoras e Insumos",
-    "precio": 26
+    "precio": 25
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt HP Q2613A Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 26
+    "precio": 28
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt HP Q5942A Neg ",
     "categoria": "Impresoras e Insumos",
-    "precio": 85
+    "precio": 110
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt HP Q5949A Q7553A Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 33
+    "precio": 30
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt HP Q6511A Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 43
+    "precio": 95
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt HP Q7551A Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 42
+    "precio": 46
   },
   {
     "proveedor": "mega",
     "producto": "TONER ALT LEXMARK 10S0063 10S0150 E210 2.5K -",
     "categoria": "Impresoras e Insumos",
-    "precio": 24
+    "precio": 26
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt LEXMARK E460X11L Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 44
+    "precio": 48
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt LEXMARK X203A11G Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 32
+    "precio": 44
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt OKI 44574701 44574708 Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 17
+    "precio": 36
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt RICOH 407823 Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 34
+    "precio": 33
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt SAMSUNG CLT-C406S Cia GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 24
+    "precio": 25
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt SAMSUNG CLT-K406S Neg GNEIS",
     "categoria": "Impresoras e Insumos",
-    "precio": 24
+    "precio": 25
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt SAMSUNG CLT-M406S Mag GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 24
+    "precio": 25
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt SAMSUNG CLT-Y406S AMA GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 24
+    "precio": 25
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt SAMSUNG ML-1630A Neg GTC ",
     "categoria": "Impresoras e Insumos",
-    "precio": 18
+    "precio": 19
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt SAMSUNG MLT-2250D5 Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 14
+    "precio": 13
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt SAMSUNG MLT-D101S Neg EVERTEC",
     "categoria": "Impresoras e Insumos",
-    "precio": 28
+    "precio": 30
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt SAMSUNG MLT-D101S Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 28
+    "precio": 30
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt SAMSUNG MLT-D103L Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 29
+    "precio": 30
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt SAMSUNG MLT-D104S Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 31
+    "precio": 32
   },
   {
     "proveedor": "mega",
     "producto": "Toner ALT SAMSUNG MLT-D109S Neg",
     "categoria": "Impresoras e Insumos",
-    "precio": 31
+    "precio": 32
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt SAMSUNG MLT-D111S Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 28
+    "precio": 22
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt SAMSUNG MLT-D205E GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 29
+    "precio": 31
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt SAMSUNG MLT-D205L GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 46
+    "precio": 60
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt XEROX 106R01414 Neg GLOBAL Phaser 3435",
     "categoria": "Impresoras e Insumos",
-    "precio": 20
+    "precio": 24
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt XEROX 106R01531 Neg GLOBAL Phaser 3550",
     "categoria": "Impresoras e Insumos",
-    "precio": 94
+    "precio": 101
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt XEROX 106R02306 Neg GLOBAL Phaser 3320 ",
     "categoria": "Impresoras e Insumos",
-    "precio": 35
+    "precio": 69
   },
   {
     "proveedor": "mega",
     "producto": "TONER ALT XEROX 106R02312",
     "categoria": "Impresoras e Insumos",
-    "precio": 20
+    "precio": 22
   },
   {
     "proveedor": "mega",
@@ -8739,25 +8763,25 @@
     "proveedor": "mega",
     "producto": "TONER ALT XEROX 106R02778",
     "categoria": "Impresoras e Insumos",
-    "precio": 34
+    "precio": 32
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt XEROX 108R00909 Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 39
+    "precio": 42
   },
   {
     "proveedor": "mega",
     "producto": "TONER ALT XEROX 109R00746 109R00747 5K - GLOB",
     "categoria": "Impresoras e Insumos",
-    "precio": 30
+    "precio": 29
   },
   {
     "proveedor": "mega",
     "producto": "Xerox 106R02310 5k - Global Electronics (",
     "categoria": "Impresoras e Insumos",
-    "precio": 50
+    "precio": 55
   },
   {
     "proveedor": "mega",
@@ -9159,25 +9183,25 @@
     "proveedor": "mega",
     "producto": "Cart Alt BROTHER LC79 Ama GREENJET ",
     "categoria": "Impresoras e Insumos",
-    "precio": 13
+    "precio": 14
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt BROTHER LC79 Cia GREENJET ",
     "categoria": "Impresoras e Insumos",
-    "precio": 13
+    "precio": 14
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt BROTHER LC79 Mag GREENJET ",
     "categoria": "Impresoras e Insumos",
-    "precio": 13
+    "precio": 14
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt BROTHER LC79 Neg GREENJET",
     "categoria": "Impresoras e Insumos",
-    "precio": 13
+    "precio": 14
   },
   {
     "proveedor": "mega",
@@ -9189,7 +9213,7 @@
     "proveedor": "mega",
     "producto": "Cart Alt EPSON 040 T040120 Neg GTC",
     "categoria": "Impresoras e Insumos",
-    "precio": 1
+    "precio": 2
   },
   {
     "proveedor": "mega",
@@ -9249,49 +9273,49 @@
     "proveedor": "mega",
     "producto": "Cart Alt EPSON 063 T063120 Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 4
+    "precio": 7
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt EPSON 063 T063220 CIA GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 4
+    "precio": 7
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt EPSON 063 T063320 MAG GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 4
+    "precio": 7
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt EPSON 063 T063420 AMA GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 4
+    "precio": 7
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt EPSON 073 T073120 Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 6
+    "precio": 7
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt EPSON 073 T073220 CIA GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 6
+    "precio": 7
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt EPSON 073 T073320 MAG GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 6
+    "precio": 7
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt EPSON 073 T073420 AMA GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 6
+    "precio": 7
   },
   {
     "proveedor": "mega",
@@ -9339,199 +9363,199 @@
     "proveedor": "mega",
     "producto": "Cart Alt EPSON 133 T133220 Cia GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 3
+    "precio": 4
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt EPSON 133 T133320 MAG GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 3
+    "precio": 4
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt EPSON 133 T133420 AMA GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 3
+    "precio": 4
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt EPSON 135 T135120 Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 3
+    "precio": 4
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt EPSON 136 T136126 Neg EVERTEC",
     "categoria": "Impresoras e Insumos",
-    "precio": 6
+    "precio": 7
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt EPSON 140 T140120 Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 1
+    "precio": 4
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt EPSON 140 T140220 Cia GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 1
+    "precio": 4
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt EPSON 140 T140320 Mag GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 1
+    "precio": 4
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt EPSON 140 T140420 Ama GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 2
+    "precio": 4
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt EPSON 195 T195220 CIA GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 6
+    "precio": 9
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt EPSON 195 T195320 MAG GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 6
+    "precio": 9
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt EPSON 195 T195420 AMA GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 6
+    "precio": 9
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt EPSON 196 T196220 Cia GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 6
+    "precio": 9
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt EPSON 196 T196320 Mag GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 6
+    "precio": 9
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt EPSON 196 T196420 AMA GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 6
+    "precio": 9
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt EPSON 197 T197120 Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 6
+    "precio": 9
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt EPSON 206 T206120 Neg GG",
     "categoria": "Impresoras e Insumos",
-    "precio": 8
+    "precio": 24
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt EPSON 206 T206220 Cia GG",
     "categoria": "Impresoras e Insumos",
-    "precio": 8
+    "precio": 24
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt EPSON 206 T206320 Mag GG",
     "categoria": "Impresoras e Insumos",
-    "precio": 8
+    "precio": 24
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt EPSON 206 T206420 Ama GG",
     "categoria": "Impresoras e Insumos",
-    "precio": 8
+    "precio": 24
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt EPSON 296 T296220 Cia GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 13
+    "precio": 14
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt EPSON 296 T296320 Mag GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 13
+    "precio": 14
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt EPSON 296 T296420 Ama GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 13
+    "precio": 14
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt EPSON 297 T297120 Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 13
+    "precio": 14
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt HP 015 C6615A Neg GTC",
     "categoria": "Impresoras e Insumos",
-    "precio": 29
+    "precio": 27
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt HP 022XL C9352CL Col GG",
     "categoria": "Impresoras e Insumos",
-    "precio": 38
+    "precio": 36
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt HP 025 51625A Color GTC ",
     "categoria": "Impresoras e Insumos",
-    "precio": 11
+    "precio": 12
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt HP 028 C8728A Tricolor GREENJET ",
     "categoria": "Impresoras e Insumos",
-    "precio": 37
+    "precio": 36
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt HP 049 51649A Color GTC ",
     "categoria": "Impresoras e Insumos",
-    "precio": 9
+    "precio": 11
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt HP 056 C6656A Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 39
+    "precio": 41
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt HP 057 C6657A Col GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 36
+    "precio": 39
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt HP 074XL CB336WL Negro GREENJET ",
     "categoria": "Impresoras e Insumos",
-    "precio": 26
+    "precio": 27
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt HP 075XL CB338WL Color GREENJET ",
     "categoria": "Impresoras e Insumos",
-    "precio": 40
+    "precio": 36
   },
   {
     "proveedor": "mega",
@@ -9543,19 +9567,19 @@
     "proveedor": "mega",
     "producto": "Cart Alt HP 093 C9361WL Col GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 69
+    "precio": 73
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt HP 094 C8765WL Negro GTC ",
     "categoria": "Impresoras e Insumos",
-    "precio": 33
+    "precio": 35
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt HP 095 C8766WL Color  GTC",
     "categoria": "Impresoras e Insumos",
-    "precio": 33
+    "precio": 36
   },
   {
     "proveedor": "mega",
@@ -9573,31 +9597,31 @@
     "proveedor": "mega",
     "producto": "Cart Alt HP 098 C9364WL Neg GTC",
     "categoria": "Impresoras e Insumos",
-    "precio": 37
+    "precio": 36
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt HP 122XL CH563HL Neg EVERTEC",
     "categoria": "Impresoras e Insumos",
-    "precio": 55
+    "precio": 81
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt HP 122XL CH564HL Tricolor EVERTEC",
     "categoria": "Impresoras e Insumos",
-    "precio": 38
+    "precio": 56
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt HP 122XL CH564HL Tricolor TECNOVIBE",
     "categoria": "Impresoras e Insumos",
-    "precio": 38
+    "precio": 56
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt HP 564XL CB322WN Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 2
+    "precio": 3
   },
   {
     "proveedor": "mega",
@@ -9609,7 +9633,7 @@
     "proveedor": "mega",
     "producto": "Cart Alt HP 662XL CZ106AL Col GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 45
+    "precio": 35
   },
   {
     "proveedor": "mega",
@@ -9621,7 +9645,7 @@
     "proveedor": "mega",
     "producto": "Cart Alt HP 664XL F6V31AL Neg GNEISS",
     "categoria": "Impresoras e Insumos",
-    "precio": 64
+    "precio": 61
   },
   {
     "proveedor": "mega",
@@ -9651,97 +9675,91 @@
     "proveedor": "mega",
     "producto": "Cart Alt HP 675XL CN690AL Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 47
+    "precio": 50
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt HP 675XL CN691AL Col GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 43
+    "precio": 45
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt HP 711 CZ130A Cia GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 19
+    "precio": 20
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt HP 711 CZ131A Mag GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 19
+    "precio": 20
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt HP 711 CZ132A Ama GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 19
+    "precio": 20
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt HP 711 CZ133A Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 19
+    "precio": 21
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt HP 901 CC656AL Tricolor GREENJET ",
     "categoria": "Impresoras e Insumos",
-    "precio": 37
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Cart Alt HP 920 CD975AL Amarillo GREENJET ",
-    "categoria": "Impresoras e Insumos",
-    "precio": 19
+    "precio": 36
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt HP 932XL CN053AL Neg GLOBAL ",
     "categoria": "Impresoras e Insumos",
-    "precio": 5
+    "precio": 6
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt HP 933XL CN054AL Cia GLOBAL ",
     "categoria": "Impresoras e Insumos",
-    "precio": 10
+    "precio": 6
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt HP 933XL CN055AL Mag GLOBAL ",
     "categoria": "Impresoras e Insumos",
-    "precio": 10
+    "precio": 6
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt HP 933XL CN056AL Ama GLOBAL ",
     "categoria": "Impresoras e Insumos",
-    "precio": 10
+    "precio": 6
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt HP 950XL CN045AL Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 21
+    "precio": 26
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt HP 951XL CN046AL Cia GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 21
+    "precio": 26
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt HP 951XL CN047AL Mag GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 21
+    "precio": 26
   },
   {
     "proveedor": "mega",
     "producto": "Cart Alt HP 951XL CN048AL Ama GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 21
+    "precio": 26
   },
   {
     "proveedor": "mega",
@@ -10509,181 +10527,139 @@
     "proveedor": "mega",
     "producto": "Disco 3.5 SATA 1 Tb SEAGATE ST1000DM010",
     "categoria": "Discos",
-    "precio": 116
+    "precio": 164
   },
   {
     "proveedor": "mega",
     "producto": "Disco 3.5 SATA 1 Tb TOSHIBA DT01ACA",
     "categoria": "Discos",
-    "precio": 116
+    "precio": 164
   },
   {
     "proveedor": "mega",
     "producto": "Disco 3.5 SATA 1 Tb WD Blue WD10EZEX",
     "categoria": "Discos",
-    "precio": 116
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Disco 3.5 SATA 2 Tb HITACHI HUA722020ALA33",
-    "categoria": "Discos",
-    "precio": 99
+    "precio": 166
   },
   {
     "proveedor": "mega",
     "producto": "Disco 3.5 SATA 2 Tb SEAGATE BARRACU",
     "categoria": "Discos",
-    "precio": 126
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Disco 3.5 SATA 2 Tb SEAGATE ST2000VN004",
-    "categoria": "Discos",
-    "precio": 97
+    "precio": 208
   },
   {
     "proveedor": "mega",
     "producto": "Disco 3.5 SATA 2 Tb TOSHIBA DT01ACA100",
     "categoria": "Discos",
-    "precio": 156
+    "precio": 208
   },
   {
     "proveedor": "mega",
     "producto": "Disco 3.5 SATA 2 Tb WD PURPLE WD20P",
     "categoria": "Discos",
-    "precio": 141
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Disco 3.5 SATA 2 Tb WD RED WD20EFRX",
-    "categoria": "Discos",
-    "precio": 175
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Disco 3.5 SATA 3 Tb SEAGATE BARRACU",
-    "categoria": "Discos",
-    "precio": 172
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Disco 3.5 SATA 3 Tb WD Purple WD30PURX",
-    "categoria": "Discos",
-    "precio": 172
+    "precio": 204
   },
   {
     "proveedor": "mega",
     "producto": "Disco 3.5 SATA 4 Tb SEAGATE BARRACUDA",
     "categoria": "Discos",
-    "precio": 358
+    "precio": 356
   },
   {
     "proveedor": "mega",
-    "producto": "Disco 3.5 SATA 4 Tb SEAGATE SKYHAWK ST4000VX0",
+    "producto": "Disco SSD 120GB KINGDIAN SATA 2.5 ",
     "categoria": "Discos",
-    "precio": 358
+    "precio": 40
   },
   {
     "proveedor": "mega",
-    "producto": "Disco 3.5 SATA 4 Tb WD Purple WD40PURX",
+    "producto": "Disco SSD 120GB PATRIOT 2.5",
     "categoria": "Discos",
-    "precio": 358
+    "precio": 39
   },
   {
     "proveedor": "mega",
-    "producto": "Disco 3.5 SATA 8 Tb WD Purple WD84PURZ",
+    "producto": "Disco SSD 128GB PATRIOT 2.5",
     "categoria": "Discos",
-    "precio": 521
+    "precio": 48
   },
   {
     "proveedor": "mega",
-    "producto": "Disco SSD 1 Tb HIKVISION E100 SATA",
+    "producto": "Disco SSD 1TB PATRIOT 2.5",
     "categoria": "Discos",
-    "precio": 178
+    "precio": 199
   },
   {
     "proveedor": "mega",
-    "producto": "Disco SSD 120 Gb MARKVISION MVSD120G25-A1",
-    "categoria": "Discos",
-    "precio": 59
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Disco SSD 120 Gb MARKVISION SATA INTERNO BULK",
+    "producto": "Disco SSD 240GB KINGDIAN SATA 2.5 ",
     "categoria": "Discos",
     "precio": 59
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Disco SSD 240 GB KINGSTON SA400S37/240G",
-    "categoria": "Discos",
-    "precio": 84
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Disco SSD 240 Gb MARKVISION MVSD240G25-A1",
-    "categoria": "Discos",
-    "precio": 72
   },
   {
     "proveedor": "mega",
     "producto": "Disco SSD 256 GB HIKVISION E100 SATA",
     "categoria": "Discos",
-    "precio": 72
+    "precio": 63
   },
   {
     "proveedor": "mega",
-    "producto": "Disco SSD 480 Gb KINGSTON A400 SATA INTERNO 7",
+    "producto": "Disco SSD 256GB PATRIOT 2.5",
     "categoria": "Discos",
-    "precio": 118
+    "precio": 58
+  },
+  {
+    "proveedor": "mega",
+    "producto": "Disco SSD 2TB KINGDIAN SATA 2.5 ",
+    "categoria": "Discos",
+    "precio": 289
   },
   {
     "proveedor": "mega",
     "producto": "Disco SSD 480 Gb MARKVISION SATA INTERNO BULK",
     "categoria": "Discos",
-    "precio": 109
+    "precio": 92
   },
   {
     "proveedor": "mega",
-    "producto": "Disco SSD 512 Gb HIKVISION E100 SATA",
+    "producto": "Disco SSD 480GB KINGDIAN SATA 2.5 ",
     "categoria": "Discos",
-    "precio": 109
+    "precio": 102
   },
   {
     "proveedor": "mega",
-    "producto": "Disco SSD 960 GB KINGSTON SA400S37/960G",
+    "producto": "Disco SSD 480GB PATRIOT 2.5",
     "categoria": "Discos",
-    "precio": 203
+    "precio": 123
   },
   {
     "proveedor": "mega",
-    "producto": "Disco SSD 960 Gb MARKVISION SATA INTERNO BULK",
+    "producto": "Disco SSD 512GB PATRIOT 2.5",
     "categoria": "Discos",
-    "precio": 136
+    "precio": 122
   },
   {
     "proveedor": "mega",
     "producto": "Disco SSD M.2 1 Tb KINGSTON SNV2S NVME PCIE",
     "categoria": "Discos",
-    "precio": 225
+    "precio": 193
   },
   {
     "proveedor": "mega",
     "producto": "Disco SSD M.2 128 Gb GIGABYTE PCIE 4X NVME",
     "categoria": "Discos",
-    "precio": 49
+    "precio": 60
   },
   {
     "proveedor": "mega",
     "producto": "Disco SSD M.2 250 Gb KINGSTON SNV2S NVME PCIE",
     "categoria": "Discos",
-    "precio": 94
+    "precio": 103
   },
   {
     "proveedor": "mega",
     "producto": "Disco SSD M.2 512 Gb HIKVISION G64000E NVME GE",
     "categoria": "Discos",
-    "precio": 235
+    "precio": 90
   },
   {
     "proveedor": "mega",
@@ -11080,6 +11056,12 @@
     "producto": "Gabinete GIGABYTE C200G Mid-Tower TG ATX Black",
     "categoria": "Gabinetes",
     "precio": 308
+  },
+  {
+    "proveedor": "mega",
+    "producto": "Gabinete KIT KANJI KJ-9311 (G/F/T/P/M) Negro",
+    "categoria": "Gabinetes",
+    "precio": 105
   },
   {
     "proveedor": "mega",
@@ -11655,121 +11637,109 @@
     "proveedor": "mega",
     "producto": "Micro AMD AM4 Ryzen 3 3200G",
     "categoria": "Procesadores",
-    "precio": 339
+    "precio": 363
   },
   {
     "proveedor": "mega",
     "producto": "Micro AMD AM4 Ryzen 3 4100SV",
     "categoria": "Procesadores",
-    "precio": 276
+    "precio": 296
   },
   {
     "proveedor": "mega",
     "producto": "Micro AMD AM4 Ryzen 5 3600SV",
     "categoria": "Procesadores",
-    "precio": 586
+    "precio": 486
   },
   {
     "proveedor": "mega",
     "producto": "Micro AMD AM4 Ryzen 5 4600G",
     "categoria": "Procesadores",
-    "precio": 414
+    "precio": 442
   },
   {
     "proveedor": "mega",
     "producto": "Micro AMD AM4 Ryzen 5 5600G CV",
     "categoria": "Procesadores",
-    "precio": 617
+    "precio": 660
   },
   {
     "proveedor": "mega",
     "producto": "Micro AMD AM4 Ryzen 5 5600X SV",
     "categoria": "Procesadores",
-    "precio": 619
+    "precio": 663
   },
   {
     "proveedor": "mega",
     "producto": "Micro AMD AM4 Ryzen 7 5700G",
     "categoria": "Procesadores",
-    "precio": 849
+    "precio": 910
   },
   {
     "proveedor": "mega",
-    "producto": "Micro AMD AM4 Ryzen 7 5700X SV SC",
+    "producto": "Micro AMD AM5 Ryzen 5 7600 C/V C/C",
     "categoria": "Procesadores",
-    "precio": 1323
+    "precio": 690
   },
   {
     "proveedor": "mega",
-    "producto": "Micro AMD AM5 Ryzen 5 7600",
+    "producto": "Micro AMD AM5 Ryzen 9 7950X C/V S/C",
     "categoria": "Procesadores",
-    "precio": 644
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Micro AMD AM5 Ryzen 9 7900X3D CV SC",
-    "categoria": "Procesadores",
-    "precio": 2598
+    "precio": 2048
   },
   {
     "proveedor": "mega",
     "producto": "Micro INTEL 1200 Celeron G5900 CV",
     "categoria": "Procesadores",
-    "precio": 168
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Micro INTEL 1200 Celeron G6900 CV",
-    "categoria": "Procesadores",
-    "precio": 260
+    "precio": 159
   },
   {
     "proveedor": "mega",
     "producto": "Micro INTEL 1200 Core I3 10105 Comet Lake ",
     "categoria": "Procesadores",
-    "precio": 609
+    "precio": 467
   },
   {
     "proveedor": "mega",
     "producto": "Micro INTEL 1200 Core I3 10105F SV CometLake ",
     "categoria": "Procesadores",
-    "precio": 338
+    "precio": 287
   },
   {
     "proveedor": "mega",
     "producto": "Micro INTEL 1200 Core I5 10400 CometLake ",
     "categoria": "Procesadores",
-    "precio": 785
+    "precio": 493
   },
   {
     "proveedor": "mega",
     "producto": "Micro INTEL 1200 Core I5 10400F SV Comet Lake ",
     "categoria": "Procesadores",
-    "precio": 686
+    "precio": 523
   },
   {
     "proveedor": "mega",
     "producto": "Micro INTEL 1200 Core I5 11400 Rocket Lake ",
     "categoria": "Procesadores",
-    "precio": 505
+    "precio": 711
   },
   {
     "proveedor": "mega",
     "producto": "Micro INTEL 1200 Core I7 10700 Comet Lake ",
     "categoria": "Procesadores",
-    "precio": 1699
+    "precio": 846
   },
   {
     "proveedor": "mega",
     "producto": "Micro INTEL 1200 Core I7 10700F SV Comet Lake ",
     "categoria": "Procesadores",
-    "precio": 1509
+    "precio": 813
   },
   {
     "proveedor": "mega",
     "producto": "Micro INTEL 1200 Core i7 11700 Rocket Lake",
     "categoria": "Procesadores",
-    "precio": 876
+    "precio": 1157
   },
   {
     "proveedor": "mega",
@@ -11787,7 +11757,7 @@
     "proveedor": "mega",
     "producto": "Micro INTEL 1700 Core I5 13400 CV Raptor Lake",
     "categoria": "Procesadores",
-    "precio": 683
+    "precio": 732
   },
   {
     "proveedor": "mega",
@@ -11848,6 +11818,12 @@
     "producto": "Mother INTEL 1200  MSI B560M PRO-VDH",
     "categoria": "Motherboards",
     "precio": 410
+  },
+  {
+    "proveedor": "mega",
+    "producto": "Mother INTEL 1200 ASUS Prime H510M-K R2.0",
+    "categoria": "Motherboards",
+    "precio": 289
   },
   {
     "proveedor": "mega",
