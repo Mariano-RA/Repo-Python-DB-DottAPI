@@ -39,7 +39,7 @@
     "proveedor": "mega",
     "producto": "PC AMD A6 7480 4Gb SSD120Gb",
     "categoria": "Computadoras",
-    "precio": 444
+    "precio": 475
   },
   {
     "proveedor": "mega",
@@ -140,12 +140,6 @@
   {
     "proveedor": "mega",
     "producto": "DDR3 04gb 1600 1.35V Markvision  BULK",
-    "categoria": "Memorias RAM",
-    "precio": 35
-  },
-  {
-    "proveedor": "mega",
-    "producto": "DDR3 04Gb 1600 1.50v SAMSUNG M378B5173QH0-CK0",
     "categoria": "Memorias RAM",
     "precio": 35
   },
@@ -310,54 +304,6 @@
     "producto": "DDR4 16Gb 2666 1.20v KINGSTON KF426C16BB1 16",
     "categoria": "Memorias RAM",
     "precio": 105
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Mem DDR1 00.5Gb 400 1.80v AVANT (512 Mb)",
-    "categoria": "Memorias RAM",
-    "precio": 21
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Mem DDR1 01.0Gb 0400 1.80v AVANT",
-    "categoria": "Memorias RAM",
-    "precio": 39
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Mem DDR2 01Gb 0800 1.80v NOVATECH",
-    "categoria": "Memorias RAM",
-    "precio": 12
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Mem DDR2 02Gb 0800 1.80v AVANT DDR2-2GB",
-    "categoria": "Memorias RAM",
-    "precio": 20
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Sodimm DDR1 0.5Gb 0400 1.50v SUPERTALENT",
-    "categoria": "Memorias RAM",
-    "precio": 33
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Sodimm DDR1 01Gb 0400 1.50v KINGSTON",
-    "categoria": "Memorias RAM",
-    "precio": 41
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Sodimm DDR2 01Gb 0800 1.80v KINGSTON KVR800D2S6-1G",
-    "categoria": "Memorias RAM",
-    "precio": 11
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Sodimm DDR2 02Gb 0800 1.80v ELPIDA EBE21UE8ACUA-8G",
-    "categoria": "Memorias RAM",
-    "precio": 40
   },
   {
     "proveedor": "mega",
@@ -1084,12 +1030,6 @@
     "producto": "Binocular OLYMPUS DPCI ROAMER 8X21",
     "categoria": "Electro",
     "precio": 105
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Radio Reloj ELLROY DDB300 Despertador",
-    "categoria": "Parlantes",
-    "precio": 11
   },
   {
     "proveedor": "mega",
@@ -2140,12 +2080,6 @@
     "producto": "Red USB WIFI  COMFAST CF-WU810N 150 Mbps",
     "categoria": "Cables y Adaptadores",
     "precio": 7
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Red USB WIFI COMFAST CF-758F 650 Mbps",
-    "categoria": "Cables y Adaptadores",
-    "precio": 23
   },
   {
     "proveedor": "mega",
@@ -10531,12 +10465,6 @@
   },
   {
     "proveedor": "mega",
-    "producto": "Disco 3.5 SATA 1 Tb TOSHIBA DT01ACA",
-    "categoria": "Discos",
-    "precio": 164
-  },
-  {
-    "proveedor": "mega",
     "producto": "Disco 3.5 SATA 1 Tb WD Blue WD10EZEX",
     "categoria": "Discos",
     "precio": 166
@@ -10549,39 +10477,21 @@
   },
   {
     "proveedor": "mega",
-    "producto": "Disco 3.5 SATA 2 Tb TOSHIBA DT01ACA100",
-    "categoria": "Discos",
-    "precio": 208
-  },
-  {
-    "proveedor": "mega",
     "producto": "Disco 3.5 SATA 2 Tb WD PURPLE WD20P",
     "categoria": "Discos",
     "precio": 204
   },
   {
     "proveedor": "mega",
-    "producto": "Disco 3.5 SATA 4 Tb SEAGATE BARRACUDA",
-    "categoria": "Discos",
-    "precio": 356
-  },
-  {
-    "proveedor": "mega",
     "producto": "Disco SSD 120GB KINGDIAN SATA 2.5 ",
     "categoria": "Discos",
-    "precio": 40
+    "precio": 53
   },
   {
     "proveedor": "mega",
     "producto": "Disco SSD 120GB PATRIOT 2.5",
     "categoria": "Discos",
-    "precio": 39
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Disco SSD 128GB PATRIOT 2.5",
-    "categoria": "Discos",
-    "precio": 48
+    "precio": 53
   },
   {
     "proveedor": "mega",
@@ -10593,25 +10503,19 @@
     "proveedor": "mega",
     "producto": "Disco SSD 240GB KINGDIAN SATA 2.5 ",
     "categoria": "Discos",
-    "precio": 59
+    "precio": 62
   },
   {
     "proveedor": "mega",
     "producto": "Disco SSD 256 GB HIKVISION E100 SATA",
     "categoria": "Discos",
-    "precio": 63
+    "precio": 80
   },
   {
     "proveedor": "mega",
     "producto": "Disco SSD 256GB PATRIOT 2.5",
     "categoria": "Discos",
-    "precio": 58
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Disco SSD 2TB KINGDIAN SATA 2.5 ",
-    "categoria": "Discos",
-    "precio": 289
+    "precio": 80
   },
   {
     "proveedor": "mega",
@@ -10621,21 +10525,9 @@
   },
   {
     "proveedor": "mega",
-    "producto": "Disco SSD 480GB KINGDIAN SATA 2.5 ",
-    "categoria": "Discos",
-    "precio": 102
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Disco SSD 480GB PATRIOT 2.5",
-    "categoria": "Discos",
-    "precio": 123
-  },
-  {
-    "proveedor": "mega",
     "producto": "Disco SSD 512GB PATRIOT 2.5",
     "categoria": "Discos",
-    "precio": 122
+    "precio": 115
   },
   {
     "proveedor": "mega",
@@ -10653,31 +10545,37 @@
     "proveedor": "mega",
     "producto": "Disco SSD M.2 250 Gb KINGSTON SNV2S NVME PCIE",
     "categoria": "Discos",
-    "precio": 103
+    "precio": 122
   },
   {
     "proveedor": "mega",
     "producto": "Disco SSD M.2 512 Gb HIKVISION G64000E NVME GE",
     "categoria": "Discos",
-    "precio": 90
+    "precio": 115
   },
   {
     "proveedor": "mega",
     "producto": "Disco USB 1 Tb TOSHIBA Canvio HDTB410XK3AA",
     "categoria": "Discos",
-    "precio": 184
+    "precio": 220
   },
   {
     "proveedor": "mega",
     "producto": "Disco USB 2 Tb TOSHIBA Canvio HDTB420XK3AA",
     "categoria": "Discos",
-    "precio": 232
+    "precio": 176
   },
   {
     "proveedor": "mega",
     "producto": "Disco USB 4 Tb SEAGATE STEA4000400",
     "categoria": "Discos",
-    "precio": 372
+    "precio": 465
+  },
+  {
+    "proveedor": "mega",
+    "producto": "Disco USB 5TB SEAGATE3.0 EXPANSION BLACK",
+    "categoria": "Discos",
+    "precio": 546
   },
   {
     "proveedor": "mega",
@@ -11637,55 +11535,55 @@
     "proveedor": "mega",
     "producto": "Micro AMD AM4 Ryzen 3 3200G",
     "categoria": "Procesadores",
-    "precio": 363
+    "precio": 357
   },
   {
     "proveedor": "mega",
     "producto": "Micro AMD AM4 Ryzen 3 4100SV",
     "categoria": "Procesadores",
-    "precio": 296
+    "precio": 420
   },
   {
     "proveedor": "mega",
     "producto": "Micro AMD AM4 Ryzen 5 3600SV",
     "categoria": "Procesadores",
-    "precio": 486
+    "precio": 586
   },
   {
     "proveedor": "mega",
     "producto": "Micro AMD AM4 Ryzen 5 4600G",
     "categoria": "Procesadores",
-    "precio": 442
+    "precio": 512
   },
   {
     "proveedor": "mega",
     "producto": "Micro AMD AM4 Ryzen 5 5600G CV",
     "categoria": "Procesadores",
-    "precio": 660
+    "precio": 786
   },
   {
     "proveedor": "mega",
     "producto": "Micro AMD AM4 Ryzen 5 5600X SV",
     "categoria": "Procesadores",
-    "precio": 663
+    "precio": 954
   },
   {
     "proveedor": "mega",
     "producto": "Micro AMD AM4 Ryzen 7 5700G",
     "categoria": "Procesadores",
-    "precio": 910
+    "precio": 915
   },
   {
     "proveedor": "mega",
     "producto": "Micro AMD AM5 Ryzen 5 7600 C/V C/C",
     "categoria": "Procesadores",
-    "precio": 690
+    "precio": 1021
   },
   {
     "proveedor": "mega",
     "producto": "Micro AMD AM5 Ryzen 9 7950X C/V S/C",
     "categoria": "Procesadores",
-    "precio": 2048
+    "precio": 3294
   },
   {
     "proveedor": "mega",
@@ -11709,7 +11607,7 @@
     "proveedor": "mega",
     "producto": "Micro INTEL 1200 Core I5 10400 CometLake ",
     "categoria": "Procesadores",
-    "precio": 493
+    "precio": 678
   },
   {
     "proveedor": "mega",
@@ -11727,13 +11625,13 @@
     "proveedor": "mega",
     "producto": "Micro INTEL 1200 Core I7 10700 Comet Lake ",
     "categoria": "Procesadores",
-    "precio": 846
+    "precio": 992
   },
   {
     "proveedor": "mega",
     "producto": "Micro INTEL 1200 Core I7 10700F SV Comet Lake ",
     "categoria": "Procesadores",
-    "precio": 813
+    "precio": 1045
   },
   {
     "proveedor": "mega",
@@ -11745,55 +11643,49 @@
     "proveedor": "mega",
     "producto": "Micro INTEL 1700 Core I5 12400 CV Alder Lake",
     "categoria": "Procesadores",
-    "precio": 1273
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Micro INTEL 1700 Core I5 12400F SV Alder Lake",
-    "categoria": "Procesadores",
-    "precio": 1062
+    "precio": 1028
   },
   {
     "proveedor": "mega",
     "producto": "Micro INTEL 1700 Core I5 13400 CV Raptor Lake",
     "categoria": "Procesadores",
-    "precio": 732
+    "precio": 1082
   },
   {
     "proveedor": "mega",
     "producto": "Micro INTEL 1700 Core I7 12700 CV Alder Lake",
     "categoria": "Procesadores",
-    "precio": 2301
+    "precio": 1593
   },
   {
     "proveedor": "mega",
-    "producto": "Micro INTEL 1700 Core I7 12700K SC Alder Lake",
-    "categoria": "Procesadores",
-    "precio": 2478
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Mother  AMD AM4 GIGABYTE B550M DSH3 AC DDR4",
+    "producto": "Mother AMD AM4 GIGABYTE A520M K V2 DDR4  ",
     "categoria": "Motherboards",
-    "precio": 502
+    "precio": 295
   },
   {
     "proveedor": "mega",
     "producto": "Mother AMD AM4 GIGABYTE B450M DS3H V2 1.0",
     "categoria": "Motherboards",
-    "precio": 360
+    "precio": 320
   },
   {
     "proveedor": "mega",
-    "producto": "Mother AMD AM4 GIGABYTE B550 AORUS ELITE V",
+    "producto": "Mother AMD AM4 MSI A320M-A PRO  DDR4 ",
     "categoria": "Motherboards",
-    "precio": 578
+    "precio": 248
   },
   {
     "proveedor": "mega",
-    "producto": "Mother AMD AM4 GIGABYTE B550 AORUS PRO AC ",
+    "producto": "Mother AMD AM4 MSI A520M-A PRO  DDR4",
     "categoria": "Motherboards",
-    "precio": 827
+    "precio": 293
+  },
+  {
+    "proveedor": "mega",
+    "producto": "Mother AMD AM4 MSI B450M-A PRO MAX  DDR4 ",
+    "categoria": "Motherboards",
+    "precio": 319
   },
   {
     "proveedor": "mega",
@@ -11815,105 +11707,45 @@
   },
   {
     "proveedor": "mega",
-    "producto": "Mother INTEL 1200  MSI B560M PRO-VDH",
-    "categoria": "Motherboards",
-    "precio": 410
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Mother INTEL 1200 ASUS Prime H510M-K R2.0",
-    "categoria": "Motherboards",
-    "precio": 289
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Mother INTEL 1200 GIGABYTE  B560M AORUS PRO AX",
-    "categoria": "Motherboards",
-    "precio": 678
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Mother INTEL 1200 GIGABYTE  B560M AORUS PRO DDR4",
-    "categoria": "Motherboards",
-    "precio": 543
-  },
-  {
-    "proveedor": "mega",
     "producto": "Mother INTEL 1200 GIGABYTE  H510M H 1.0",
     "categoria": "Motherboards",
-    "precio": 340
+    "precio": 316
   },
   {
     "proveedor": "mega",
     "producto": "Mother INTEL 1200 GIGABYTE  H510M S2H V2",
     "categoria": "Motherboards",
-    "precio": 346
+    "precio": 323
   },
   {
     "proveedor": "mega",
-    "producto": "Mother INTEL 1200 GIGABYTE  Z590 UD AC DDR4",
+    "producto": "Mother INTEL 1200 GIGABYTE H470M H  DDR4 ",
     "categoria": "Motherboards",
-    "precio": 673
+    "precio": 305
   },
   {
     "proveedor": "mega",
-    "producto": "Mother INTEL 1200 GIGABYTE B560 AORUS PRO AX",
+    "producto": "Mother INTEL 1200 MSI B560M PRO-E DDR4 ",
     "categoria": "Motherboards",
-    "precio": 709
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Mother INTEL 1200 MSI H410M-B PRO",
-    "categoria": "Motherboards",
-    "precio": 313
+    "precio": 305
   },
   {
     "proveedor": "mega",
     "producto": "Mother INTEL 1200 MSI H510M PRO-E",
     "categoria": "Motherboards",
-    "precio": 331
+    "precio": 307
   },
   {
     "proveedor": "mega",
     "producto": "Mother INTEL 1338 GIGABYTE  N5105I H",
     "categoria": "Motherboards",
-    "precio": 408
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Mother INTEL 1700 GIGABYTE  B660 DDR4",
-    "categoria": "Motherboards",
-    "precio": 648
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Mother INTEL 1700 GIGABYTE  B660M AORUS PRO DDR4",
-    "categoria": "Motherboards",
-    "precio": 632
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Mother INTEL 1700 GIGABYTE  B660M DS3H AX DDR4",
-    "categoria": "Motherboards",
-    "precio": 563
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Mother INTEL 1700 GIGABYTE H610M  S2H DDR4 1.3",
-    "categoria": "Motherboards",
-    "precio": 404
+    "precio": 363
   },
   {
     "proveedor": "mega",
     "producto": "Mother INTEL 1700 GIGABYTE H610M H DDR4 1.2",
     "categoria": "Motherboards",
-    "precio": 384
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Mother INTEL 1700 GIGABYTE Z690 UD DDR4 1.1",
-    "categoria": "Motherboards",
-    "precio": 904
+    "precio": 341
   },
   {
     "proveedor": "mega",
@@ -14881,12 +14713,6 @@
   },
   {
     "proveedor": "mega",
-    "producto": "Telefono PANATEL 9030 Negro",
-    "categoria": "Telefonia",
-    "precio": 14
-  },
-  {
-    "proveedor": "mega",
     "producto": "Telefono POSANTEL KTX-242 Blanco",
     "categoria": "Telefonia",
     "precio": 18
@@ -15363,7 +15189,7 @@
     "proveedor": "mega",
     "producto": "NOT 14 XPLODE XPC164 N3050 6GB 64GB W10",
     "categoria": "Notebooks",
-    "precio": 500
+    "precio": 558
   },
   {
     "proveedor": "mega",
@@ -15568,6 +15394,12 @@
     "producto": "NOT 15 CX CX23104PXNB I7 8GB 240GB DVD",
     "categoria": "Notebooks",
     "precio": 2396
+  },
+  {
+    "proveedor": "mega",
+    "producto": "NOT 15 CX CX26000W N3350 4Gb 64Gb W10",
+    "categoria": "Notebooks",
+    "precio": 613
   },
   {
     "proveedor": "mega",

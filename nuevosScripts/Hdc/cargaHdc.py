@@ -4,16 +4,16 @@ import json
 
 
 #Direccion archivos en Linux
-# listadoHdc = "Repo-Python-DB-DottAPI/nuevosScripts/hdc/Listado/listadoHdc.xlsx"
-# listadoCsv = 'Repo-Python-DB-DottAPI/nuevosScripts/hdc/Listado/listadoHdc.csv'
-# listadoJson = 'Repo-Python-DB-DottAPI/nuevosScripts/hdc/Json/listadoJson.json'
-# diccionarios = 'Repo-Python-DB-DottAPI/nuevosScripts/diccionarios/diccionarios.json'
+listadoHdc = "Repo-Python-DB-DottAPI/nuevosScripts/hdc/Listado/listadoHdc.xlsx"
+listadoCsv = 'Repo-Python-DB-DottAPI/nuevosScripts/hdc/Listado/listadoHdc.csv'
+listadoJson = 'Repo-Python-DB-DottAPI/nuevosScripts/hdc/Json/listadoJson.json'
+diccionarios = 'Repo-Python-DB-DottAPI/nuevosScripts/diccionarios/diccionarios.json'
 
 #Direccion archivos en Linux
-listadoHdc = "nuevosScripts/hdc/Listado/listadoHdc.xlsx"
-listadoCsv = 'nuevosScripts/hdc/Listado/listadoHdc.csv'
-listadoJson = 'nuevosScripts/hdc/Json/listadoJson.json'
-diccionarios = 'nuevosScripts/diccionarios/diccionarios.json'
+# listadoHdc = "nuevosScripts/hdc/Listado/listadoHdc.xlsx"
+# listadoCsv = 'nuevosScripts/hdc/Listado/listadoHdc.csv'
+# listadoJson = 'nuevosScripts/hdc/Json/listadoJson.json'
+# diccionarios = 'nuevosScripts/diccionarios/diccionarios.json'
 
 def convertirACSV():
     # Leer el archivo XLSX

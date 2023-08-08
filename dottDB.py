@@ -16,6 +16,7 @@ listadosJson = {
 
 direccionAchivosJson = {
     "jsonDolar": "Repo-Python-DB-DottAPI/dataDolar.json",
+    "jsonCuotas": "Repo-Python-DB-DottAPI/dataTarjeta.json",
     "direccionDB":"Repo-Python-DB-DottAPI/productosDB.sqlite"
 }
 
@@ -62,20 +63,28 @@ listaProductos = listadoAir + listadoEik + listadoElit + listadoNb + listadoMega
 # Nombre de la tabla en la base de datos SQLite
 nombre_tabla = 'Productos'
 nombre_tabla_2 = 'Dolares'
+nombre_tabla_3 = 'Cuotas'
 
 # Conexión a la base de datos SQLite
 conexion = sqlite3.connect(direccionAchivosJson['direccionDB'])
 
 # Creación de la tabla en la base de datos SQLite
 cursor = conexion.cursor()
+
 cursor.execute(f'DROP TABLE IF EXISTS {nombre_tabla}')
 cursor.execute(f'CREATE TABLE {nombre_tabla} (id integer PRIMARY KEY AUTOINCREMENT, proveedor text, producto text, categoria text, precio float)')
+
 cursor.execute(f'DROP TABLE IF EXISTS {nombre_tabla_2}')
-cursor.execute(f'CREATE TABLE {nombre_tabla_2} (id integer PRIMARY KEY AUTOINCREMENT, precioDolar float, precioTarjeta float)')
+cursor.execute(f'CREATE TABLE {nombre_tabla_2} (id integer PRIMARY KEY AUTOINCREMENT, precioDolar float)')
+
+cursor.execute(f'DROP TABLE IF EXISTS {nombre_tabla_3}')
+cursor.execute(f'CREATE TABLE {nombre_tabla_3} (id integer PRIMARY KEY, valorTarjeta float)')
 
 
 with open(direccionAchivosJson['jsonDolar']) as g:
     datos_dolar = json.load(g)
+with open(direccionAchivosJson['jsonCuotas']) as g:
+    datos_cuotas = json.load(g)
 
 # Almacenamiento de los datos en la base de datos SQLite
 for dato in listaProductos:
@@ -83,7 +92,10 @@ for dato in listaProductos:
         cursor.execute(f"INSERT INTO {nombre_tabla} (proveedor, producto, categoria, precio) VALUES (?, ?,?, ?)", (dato['proveedor'], dato['producto'], dato['categoria'], dato['precio']))
 
 for dato in datos_dolar:
-    cursor.execute(f"INSERT INTO {nombre_tabla_2} ( precioDolar, precioTarjeta) VALUES ( ?, ?)", (dato['precioDolar'], dato['precioTarjeta']))
+    cursor.execute(f"INSERT INTO {nombre_tabla_2} (precioDolar) VALUES (?)", (dato['precioDolar'],))
+
+for dato in datos_cuotas:
+    cursor.execute(f"INSERT INTO {nombre_tabla_3} ( id, valorTarjeta) VALUES ( ?, ?)", (dato['id'], dato['valorTarjeta']))
 
 
 # Confirmación de los cambios y cierre de la conexión a la base de datos

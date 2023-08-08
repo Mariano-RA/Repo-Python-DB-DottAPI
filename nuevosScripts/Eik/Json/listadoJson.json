@@ -3,13 +3,13 @@
     "proveedor": "eikon",
     "producto": "BATERIA INTERNA P/UPS 12V - 7AH LYONN",
     "categoria": "Accesorios",
-    "precio": 32
+    "precio": 36
   },
   {
     "proveedor": "eikon",
     "producto": "BATERIA INTERNA P/UPS 12V - 9AH LYONN",
     "categoria": "Accesorios",
-    "precio": 41
+    "precio": 45
   },
   {
     "proveedor": "eikon",
@@ -127,31 +127,13 @@
   },
   {
     "proveedor": "eikon",
-    "producto": "CARTUCHO ALTERNATIVO CN050AL HP 951 C XL E-VIEW",
-    "categoria": "Impresoras e Insumos",
-    "precio": 3
-  },
-  {
-    "proveedor": "eikon",
     "producto": "CARTUCHO ALTERNATIVO CN051AL HP 951 M XL E-VIEW",
     "categoria": "Impresoras e Insumos",
     "precio": 3
   },
   {
     "proveedor": "eikon",
-    "producto": "CARTUCHO ALTERNATIVO CN052AL HP 951 Y XL E-VIEW",
-    "categoria": "Impresoras e Insumos",
-    "precio": 3
-  },
-  {
-    "proveedor": "eikon",
     "producto": "CARTUCHO ALTERNATIVO CN053AL HP 932 BK XL E-VIEW",
-    "categoria": "Impresoras e Insumos",
-    "precio": 3
-  },
-  {
-    "proveedor": "eikon",
-    "producto": "CARTUCHO ALTERNATIVO CN054AL HP 933 C XL E-VIEW",
     "categoria": "Impresoras e Insumos",
     "precio": 3
   },
@@ -385,12 +367,6 @@
   },
   {
     "proveedor": "eikon",
-    "producto": "CARTUCHO EPSON ALTERNATIVO T0731N NEGRO E-VIEW",
-    "categoria": "Impresoras e Insumos",
-    "precio": 1
-  },
-  {
-    "proveedor": "eikon",
     "producto": "CARTUCHO EPSON ALTERNATIVO T0821N NEGRO E-VIEW",
     "categoria": "Impresoras e Insumos",
     "precio": 1
@@ -457,12 +433,6 @@
   },
   {
     "proveedor": "eikon",
-    "producto": "CARTUCHO EPSON ALTERNATIVO T2963 MAGENTA E-VIEW",
-    "categoria": "Impresoras e Insumos",
-    "precio": 4
-  },
-  {
-    "proveedor": "eikon",
     "producto": "CARTUCHO EPSON ALTERNATIVO T2964 AMARILLO E-VIEW",
     "categoria": "Impresoras e Insumos",
     "precio": 4
@@ -513,19 +483,19 @@
     "proveedor": "eikon",
     "producto": "CPU AMD RYZEN 3 3200G  SOCKET AM4 (BOX) ",
     "categoria": "Procesadores",
-    "precio": 255
-  },
-  {
-    "proveedor": "eikon",
-    "producto": "CPU AMD RYZEN 5 4600G 6 CORE 4.2GHZ AM4 (BOX)",
-    "categoria": "Procesadores",
-    "precio": 280
+    "precio": 233
   },
   {
     "proveedor": "eikon",
     "producto": "CPU AMD RYZEN 5 5600G 6 CORE 3.9GHZ AM4 (BOX)",
     "categoria": "Procesadores",
     "precio": 389
+  },
+  {
+    "proveedor": "eikon",
+    "producto": "CPU AMD RYZEN 7 5700G  AM4 ",
+    "categoria": "Procesadores",
+    "precio": 547
   },
   {
     "proveedor": "eikon",
@@ -537,19 +507,7 @@
     "proveedor": "eikon",
     "producto": "CPU INTEL CELERON G5905 3.50GHZ S1200",
     "categoria": "Procesadores",
-    "precio": 95
-  },
-  {
-    "proveedor": "eikon",
-    "producto": "CPU INTEL CORE I3-10100 3.60GHZ 1200",
-    "categoria": "Procesadores",
-    "precio": 291
-  },
-  {
-    "proveedor": "eikon",
-    "producto": "CPU INTEL CORE I3-10100F 3.60GHZ S/VIDEO S1200",
-    "categoria": "Procesadores",
-    "precio": 151
+    "precio": 98
   },
   {
     "proveedor": "eikon",
@@ -561,37 +519,49 @@
     "proveedor": "eikon",
     "producto": "CPU INTEL CORE I3-12100 4.30GHZ S1700",
     "categoria": "Procesadores",
-    "precio": 327
+    "precio": 331
+  },
+  {
+    "proveedor": "eikon",
+    "producto": "CPU INTEL CORE I3-9100 3.60GHZ 1151 (SOLO EN KIT)",
+    "categoria": "Procesadores",
+    "precio": 187
+  },
+  {
+    "proveedor": "eikon",
+    "producto": "CPU INTEL CORE I5-10400 2.90GHZ S1200 ",
+    "categoria": "Procesadores",
+    "precio": 392
+  },
+  {
+    "proveedor": "eikon",
+    "producto": "CPU INTEL CORE I5-11400 2.60GHZ S1200",
+    "categoria": "Procesadores",
+    "precio": 460
+  },
+  {
+    "proveedor": "eikon",
+    "producto": "CPU INTEL CORE I5-12400 S1700 BOX",
+    "categoria": "Procesadores",
+    "precio": 520
   },
   {
     "proveedor": "eikon",
     "producto": "CPU INTEL CORE I7-12700 3.6GHZ S1700 (BOX) ",
     "categoria": "Procesadores",
-    "precio": 1076
+    "precio": 861
   },
   {
     "proveedor": "eikon",
     "producto": "CPU INTEL CORE I9-12900 S1700",
     "categoria": "Procesadores",
-    "precio": 1580
+    "precio": 1186
   },
   {
     "proveedor": "eikon",
     "producto": "CPU INTEL PENTIUM DC G4400 3.3 GHZ S1151 (TRAY+COOLER)",
     "categoria": "Procesadores",
     "precio": 88
-  },
-  {
-    "proveedor": "eikon",
-    "producto": "CPU INTEL PENTIUM GOLD G6400 4.00GHZ 1200 ",
-    "categoria": "Procesadores",
-    "precio": 142
-  },
-  {
-    "proveedor": "eikon",
-    "producto": "CPU INTEL PENTIUM GOLD G6405 4.10GHZ S1200 ",
-    "categoria": "Procesadores",
-    "precio": 148
   },
   {
     "proveedor": "eikon",
@@ -603,7 +573,7 @@
     "proveedor": "eikon",
     "producto": "DDR3 4 GB 1600MHZ UDIMM PNY",
     "categoria": "Memorias RAM",
-    "precio": 40
+    "precio": 39
   },
   {
     "proveedor": "eikon",
@@ -703,6 +673,12 @@
   },
   {
     "proveedor": "eikon",
+    "producto": "DDR4 8 GB 3200MHZ LEXAR (SOLO EN KIT i3-9100)",
+    "categoria": "Memorias RAM",
+    "precio": 39
+  },
+  {
+    "proveedor": "eikon",
     "producto": "DDR4 8 GB 3200MHZ PNY GAMING RETAIL",
     "categoria": "Memorias RAM",
     "precio": 55
@@ -712,12 +688,6 @@
     "producto": "DDR4 8 GB 3200MHZ PNY GAMING RETAIL XLR8 RGB",
     "categoria": "Memorias RAM",
     "precio": 58
-  },
-  {
-    "proveedor": "eikon",
-    "producto": "DDR4 8 GB 3200MHZ PNY RETAIL 1.35V",
-    "categoria": "Memorias RAM",
-    "precio": 46
   },
   {
     "proveedor": "eikon",
@@ -751,12 +721,6 @@
   },
   {
     "proveedor": "eikon",
-    "producto": "DELL G15 RYZEN 7 6800H/16GB/SSD 512GB/15.6\" FHD 120Hz/RTX 3050 TI /W11",
-    "categoria": "Notebooks",
-    "precio": 2691
-  },
-  {
-    "proveedor": "eikon",
     "producto": "DISCO PORTABLE 1 TB USB 3.0 TOSHIBA CANVIO BASICS",
     "categoria": "Almacenamiento Portatil",
     "precio": 131
@@ -766,12 +730,6 @@
     "producto": "DISCO PORTABLE 1 TB USB 3.0 WD ELEMENTS",
     "categoria": "Almacenamiento Portatil",
     "precio": 133
-  },
-  {
-    "proveedor": "eikon",
-    "producto": "DISCO PORTABLE 1.5 TB USB 3.0 WD ELEMENTS",
-    "categoria": "Almacenamiento Portatil",
-    "precio": 146
   },
   {
     "proveedor": "eikon",
@@ -807,7 +765,19 @@
     "proveedor": "eikon",
     "producto": "DISCO RIGIDO 1 TB SATA III PURPLE WD",
     "categoria": "Discos",
-    "precio": 105
+    "precio": 111
+  },
+  {
+    "proveedor": "eikon",
+    "producto": "DISCO RIGIDO 1 TB SATA III WESTERN DIGITAL BLUE",
+    "categoria": "Discos",
+    "precio": 85
+  },
+  {
+    "proveedor": "eikon",
+    "producto": "DISCO RIGIDO 2 TB SATA III 256MB BARRACUDA SEAGATE",
+    "categoria": "Discos",
+    "precio": 103
   },
   {
     "proveedor": "eikon",
@@ -825,19 +795,25 @@
     "proveedor": "eikon",
     "producto": "DISCO RIGIDO 8 TB SATA III PURPLE WD",
     "categoria": "Discos",
-    "precio": 400
+    "precio": 421
   },
   {
     "proveedor": "eikon",
     "producto": "DISCO RIGIDO 8 TB SATA III SEAGATE SKYHAWK SURVEILLANCE",
     "categoria": "Discos",
-    "precio": 365
+    "precio": 413
   },
   {
     "proveedor": "eikon",
     "producto": "DISCO RIGIDO 8 TB SATA III TOSHIBA N300 NAS",
     "categoria": "Discos",
     "precio": 360
+  },
+  {
+    "proveedor": "eikon",
+    "producto": "DISCO SSD 120GB SATA III 2.5\" ADATA SU650",
+    "categoria": "Discos",
+    "precio": 29
   },
   {
     "proveedor": "eikon",
@@ -889,9 +865,27 @@
   },
   {
     "proveedor": "eikon",
+    "producto": "DISCO SSD 256GB M.2 NVME PNY CS1031",
+    "categoria": "Discos",
+    "precio": 50
+  },
+  {
+    "proveedor": "eikon",
+    "producto": "DISCO SSD 256GB M.2 SATA II VI560 VERBATIM",
+    "categoria": "Discos",
+    "precio": 51
+  },
+  {
+    "proveedor": "eikon",
     "producto": "DISCO SSD 480GB SATA III 2.5\" A400 KINGSTON",
     "categoria": "Discos",
     "precio": 71
+  },
+  {
+    "proveedor": "eikon",
+    "producto": "DISCO SSD 480GB SATA III 2.5\" ADATA SU650",
+    "categoria": "Discos",
+    "precio": 56
   },
   {
     "proveedor": "eikon",
@@ -916,6 +910,12 @@
     "producto": "DISCO SSD 960GB SATA III 2.5\" A400 KINGSTON",
     "categoria": "Discos",
     "precio": 136
+  },
+  {
+    "proveedor": "eikon",
+    "producto": "DISCO SSD 960GB SATA III 2.5\" ADATA SU650",
+    "categoria": "Discos",
+    "precio": 109
   },
   {
     "proveedor": "eikon",
@@ -981,13 +981,19 @@
     "proveedor": "eikon",
     "producto": "ESTABILIZADOR LYONN TCA-1200N-V",
     "categoria": "Estabilizadores y UPS",
-    "precio": 31
+    "precio": 35
   },
   {
     "proveedor": "eikon",
     "producto": "ESTABILIZADOR LYONN TCA-2000H P/HELADERA",
     "categoria": "Estabilizadores y UPS",
     "precio": 34
+  },
+  {
+    "proveedor": "eikon",
+    "producto": "ESTABILIZADOR LYONN TCA-2000N-V",
+    "categoria": "Estabilizadores y UPS",
+    "precio": 49
   },
   {
     "proveedor": "eikon",
@@ -1057,12 +1063,6 @@
   },
   {
     "proveedor": "eikon",
-    "producto": "GABINETE KIT-CM-5908 500W (TEC+MOU) (EQUIPO)",
-    "categoria": "Gabinetes",
-    "precio": 85
-  },
-  {
-    "proveedor": "eikon",
     "producto": "GABINETE KIT-LC728-12 500W (TEC+MOU)",
     "categoria": "Gabinetes",
     "precio": 102
@@ -1102,12 +1102,6 @@
     "producto": "GOOGLE CHROMECAST HD +  GOOGLE TV (SIN FUENTE)",
     "categoria": "Cables y Adaptadores",
     "precio": 119
-  },
-  {
-    "proveedor": "eikon",
-    "producto": "HP 15-DY2033NR CORE I7-1165G7/8GB/256GB SSD/15.6\" HD/W11",
-    "categoria": "Notebooks",
-    "precio": 1762
   },
   {
     "proveedor": "eikon",
@@ -1179,7 +1173,7 @@
     "proveedor": "eikon",
     "producto": "HP VICTUS 15-FB0028NR RYZEN 7 5800H/16GB/SSD 512GB/15.6\" FHD 144Hz/RTX 3050 TI 4GB",
     "categoria": "Notebooks",
-    "precio": 3561
+    "precio": 2808
   },
   {
     "proveedor": "eikon",
@@ -1261,15 +1255,15 @@
   },
   {
     "proveedor": "eikon",
-    "producto": "KIT ASROCK Q270 PRO BTC+ / CPU PENTIUM DC G4400",
-    "categoria": "Motherboards",
-    "precio": 349
+    "producto": "KIT ACTUALIZACION I3-9100/Z390/8GB 3200",
+    "categoria": "Computadoras",
+    "precio": 392
   },
   {
     "proveedor": "eikon",
-    "producto": "LED DISPLAY 15.6\" 40 PIN GLOSSY",
-    "categoria": "Accesorios",
-    "precio": 102
+    "producto": "KIT ASROCK Q270 PRO BTC+ / CPU PENTIUM DC G4400",
+    "categoria": "Motherboards",
+    "precio": 349
   },
   {
     "proveedor": "eikon",
@@ -1279,15 +1273,9 @@
   },
   {
     "proveedor": "eikon",
-    "producto": "LENOVO GAMING I5-11300H/8GB/512GB SSD/15.6\" FHD 120Hz/GTX 1650 4GB/W11 BLACK",
+    "producto": "LENOVO GAMING I5-11300H/8GB/512GB SSD/15.6\" FHD/GTX 1650 4GB/W11 BLACK",
     "categoria": "Notebooks",
     "precio": 2066
-  },
-  {
-    "proveedor": "eikon",
-    "producto": "LENOVO V15 G2 I5-1135G7/8GB/256GB SSD /15.6\" FHD/FREEDOS/ESPAÑOL",
-    "categoria": "Notebooks",
-    "precio": 1260
   },
   {
     "proveedor": "eikon",
@@ -1315,9 +1303,21 @@
   },
   {
     "proveedor": "eikon",
+    "producto": "LENOVO V15 G2 RYZEN 5 5500U/8GB/256GB SSD/15.6\" FHD/W11/ESPAÑOL",
+    "categoria": "Notebooks",
+    "precio": 1220
+  },
+  {
+    "proveedor": "eikon",
+    "producto": "LENOVO V15 G2 RYZEN 7 5825U/16GB/512GB SSD/15.6\" FHD/FREEDOS/ESPAÑOL",
+    "categoria": "Notebooks",
+    "precio": 1563
+  },
+  {
+    "proveedor": "eikon",
     "producto": "LENOVO V15 I3-1115G4/4GB/256GB SSD /15.6\" FHD/FREEDOS (MALETIN)",
     "categoria": "Notebooks",
-    "precio": 1013
+    "precio": 960
   },
   {
     "proveedor": "eikon",
@@ -1347,13 +1347,13 @@
     "proveedor": "eikon",
     "producto": "MEMORIA MICROSD 32 GB CLASE 10 CANVAS SELECT PLUS KINGSTON C/ADAPTER ",
     "categoria": "Almacenamiento Portatil",
-    "precio": 11
+    "precio": 10
   },
   {
     "proveedor": "eikon",
     "producto": "MEMORIA MICROSD 64 GB CLASE 10 CANVAS SELECT PLUS KINGSTON C/ADAPTER",
     "categoria": "Almacenamiento Portatil",
-    "precio": 15
+    "precio": 13
   },
   {
     "proveedor": "eikon",
@@ -1393,6 +1393,12 @@
   },
   {
     "proveedor": "eikon",
+    "producto": "MONITOR LED 19 E-VIEW 1851AXA VGA/HDMI (1366X768)",
+    "categoria": "Monitores",
+    "precio": 159
+  },
+  {
+    "proveedor": "eikon",
     "producto": "MONITOR LED 20 E-VIEW 1951AXA VGA/HDMI (1600x900)",
     "categoria": "Monitores",
     "precio": 165
@@ -1402,12 +1408,6 @@
     "producto": "MONITOR LED 22 E-VIEW 2151AXA VGA/HDMI (1920x1080)",
     "categoria": "Monitores",
     "precio": 191
-  },
-  {
-    "proveedor": "eikon",
-    "producto": "MONITOR LED 24 E-VIEW 2351AXA VGA/HDMI (1920x1080)",
-    "categoria": "Monitores",
-    "precio": 197
   },
   {
     "proveedor": "eikon",
@@ -1441,9 +1441,21 @@
   },
   {
     "proveedor": "eikon",
+    "producto": "MOTHER BIOSTAR A320MH 2.0 AM4 H/V (KIT 3200G)",
+    "categoria": "Motherboards",
+    "precio": 122
+  },
+  {
+    "proveedor": "eikon",
     "producto": "MOTHER ECS NFORCE 570 SLIT-A LGA775",
     "categoria": "Motherboards",
     "precio": 30
+  },
+  {
+    "proveedor": "eikon",
+    "producto": "MOTHER GIGABYTE Z390 UD 1151 (SOLO EN KIT i3-9100)",
+    "categoria": "Motherboards",
+    "precio": 165
   },
   {
     "proveedor": "eikon",
@@ -1473,37 +1485,25 @@
     "proveedor": "eikon",
     "producto": "NETMAK ADAPT. ACTIVO DVI-D 24+1 (M) A VGA (H) NM-C95",
     "categoria": "Cables y Adaptadores",
-    "precio": 11
-  },
-  {
-    "proveedor": "eikon",
-    "producto": "NETMAK ADAPTADOR MINI USB BLUETOOTH 4.0  NM-BT4",
-    "categoria": "Accesorios",
-    "precio": 8
+    "precio": 12
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK ADAPTADOR TIPO C (M) / (HDMI+USB 3.0+USB TIPO C)",
     "categoria": "Cables y Adaptadores",
-    "precio": 24
-  },
-  {
-    "proveedor": "eikon",
-    "producto": "NETMAK ADAPTADOR USB2.0 (M) A TIPO C (H) NM-UC",
-    "categoria": "Cables y Adaptadores",
-    "precio": 5
+    "precio": 25
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK AURICULAR GAMER PS4 CAMUFLADO - 1 PLUG 3.5 BATTLE",
     "categoria": "Auriculares",
-    "precio": 13
+    "precio": 14
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK AURICULAR NOTEBOOK/PS4 GAMER INFINITY",
     "categoria": "Auriculares",
-    "precio": 15
+    "precio": 16
   },
   {
     "proveedor": "eikon",
@@ -1515,7 +1515,7 @@
     "proveedor": "eikon",
     "producto": "NETMAK AURICULAR VENGER GAMER LED LIGHTS",
     "categoria": "Auriculares",
-    "precio": 15
+    "precio": 17
   },
   {
     "proveedor": "eikon",
@@ -1527,67 +1527,67 @@
     "proveedor": "eikon",
     "producto": "NETMAK CABLE AUXILIAR 3.5MM A 3.5 MM REF. 1M AZUL NM-C66B",
     "categoria": "Cables y Adaptadores",
-    "precio": 1
+    "precio": 2
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK CABLE AUXILIAR 3.5MM A 3.5 MM REF. 1M BLACK NM-C66",
     "categoria": "Cables y Adaptadores",
-    "precio": 1
+    "precio": 2
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK CABLE AUXILIAR 3.5MM A 3.5 MM REF. 1M GREEN NM-C66G",
     "categoria": "Cables y Adaptadores",
-    "precio": 1
+    "precio": 2
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK CABLE AUXILIAR 3.5MM A 3.5 MM REF. 1M RED NM-C66R",
     "categoria": "Cables y Adaptadores",
-    "precio": 1
+    "precio": 2
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK CABLE HDMI M/M V1.4 1.5M NM-C47",
     "categoria": "Cables y Adaptadores",
-    "precio": 4
+    "precio": 5
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK CABLE HDMI M/M V1.4 10M NM-C47 10",
     "categoria": "Cables y Adaptadores",
-    "precio": 16
+    "precio": 17
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK CABLE HDMI M/M V1.4 15M NM-C47 15",
     "categoria": "Cables y Adaptadores",
-    "precio": 22
+    "precio": 24
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK CABLE HDMI M/M V1.4 20M NM-C47 20",
     "categoria": "Cables y Adaptadores",
-    "precio": 34
+    "precio": 37
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK CABLE HDMI M/M V1.4 3M NM-C47 3",
     "categoria": "Cables y Adaptadores",
-    "precio": 5
+    "precio": 6
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK CABLE HDMI M/M V1.4 5M NM-C47 5",
     "categoria": "Cables y Adaptadores",
-    "precio": 8
+    "precio": 9
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK CABLE USB A MICRO USB 1.5M NM-C70",
     "categoria": "Cables y Adaptadores",
-    "precio": 2
+    "precio": 3
   },
   {
     "proveedor": "eikon",
@@ -1617,7 +1617,7 @@
     "proveedor": "eikon",
     "producto": "NETMAK CABLE USB A MICRO USB 2A 1M MAGIC SERIES NM-115",
     "categoria": "Cables y Adaptadores",
-    "precio": 4
+    "precio": 5
   },
   {
     "proveedor": "eikon",
@@ -1635,7 +1635,7 @@
     "proveedor": "eikon",
     "producto": "NETMAK CABLE USB ALARGUE 1.8M NM-C09 1.8",
     "categoria": "Cables y Adaptadores",
-    "precio": 3
+    "precio": 4
   },
   {
     "proveedor": "eikon",
@@ -1647,13 +1647,13 @@
     "proveedor": "eikon",
     "producto": "NETMAK CABLE UTP CAT5E EXTERIOR DOBLE VAINA 100M NM-UTP2",
     "categoria": "Cables y Adaptadores",
-    "precio": 66
+    "precio": 71
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK CABLE UTP CAT5E INTERIOR 100M NM-UTP",
     "categoria": "Cables y Adaptadores",
-    "precio": 44
+    "precio": 47
   },
   {
     "proveedor": "eikon",
@@ -1665,67 +1665,61 @@
     "proveedor": "eikon",
     "producto": "NETMAK CABLE VGA M/M 10M NM-C18 10",
     "categoria": "Cables y Adaptadores",
-    "precio": 17
+    "precio": 19
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK CABLE VGA M/M 20M NM-C18 20",
     "categoria": "Cables y Adaptadores",
-    "precio": 33
+    "precio": 36
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK CABLE VGA M/M 3M NM-C18 3",
     "categoria": "Cables y Adaptadores",
-    "precio": 6
+    "precio": 7
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK CABLE VGA M/M 5M NM-C18 5",
     "categoria": "Cables y Adaptadores",
-    "precio": 9
+    "precio": 10
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK CARGADOR PORTABLE 10000MAH MICRO/TIPOC BLANCO NM-PB4-W ",
     "categoria": "Accesorios",
-    "precio": 31
-  },
-  {
-    "proveedor": "eikon",
-    "producto": "NETMAK CARGADOR PORTABLE 10000MAH MICRO/TIPOC NEGRO NM-PB4",
-    "categoria": "Accesorios",
-    "precio": 31
+    "precio": 34
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK CARGADOR PORTABLE 5000MAH MICRO/TIPOC BLANCO NM-PB3-W",
     "categoria": "Accesorios",
-    "precio": 26
+    "precio": 27
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK CARGADOR PORTABLE 5000MAH MICRO/TIPOC NEGRO NM-PB3",
     "categoria": "Accesorios",
-    "precio": 26
+    "precio": 27
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK CARGADOR USB P/4 PILAS AA/AAA  NM-CH4",
     "categoria": "Accesorios",
-    "precio": 14
+    "precio": 15
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK COMBO TECLADO+MOUSE GAMER INALAMBRICO  / NM-ATTAK",
     "categoria": "Teclados",
-    "precio": 13
+    "precio": 14
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK COMBO TECLADO+MOUSE GAMER RETROILUMINADO BLANCO  / NM-NEMESIS-W",
     "categoria": "Teclados",
-    "precio": 13
+    "precio": 14
   },
   {
     "proveedor": "eikon",
@@ -1743,67 +1737,73 @@
     "proveedor": "eikon",
     "producto": "NETMAK CONVERS. HDMI A VGA+3.5 AUDIO NM-C81A",
     "categoria": "Cables y Adaptadores",
-    "precio": 12
+    "precio": 13
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK CONVERSOR TIPO-C A DISPLAY PORT (H) NM-C106 ",
     "categoria": "Cables y Adaptadores",
-    "precio": 20
+    "precio": 21
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK EARBUDS BT + BASE DE CARGA / BLACK",
     "categoria": "Auriculares",
-    "precio": 27
+    "precio": 30
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK ENCLOSURE 2.5\" SATA USB 2.0 NM-CARRY2",
     "categoria": "Accesorios",
-    "precio": 14
+    "precio": 15
+  },
+  {
+    "proveedor": "eikon",
+    "producto": "NETMAK ENCLOSURE SSD M.2 SATA USB 3.1 NM-CARRY5",
+    "categoria": "Accesorios",
+    "precio": 35
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK FUENTE NOTEBOOK AUTOMATICA 65W NM-1284",
     "categoria": "Accesorios",
-    "precio": 36
+    "precio": 39
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK FUENTE NOTEBOOK AUTOMATICA 90W NM-1287",
     "categoria": "Accesorios",
-    "precio": 43
+    "precio": 46
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK FUNDA NOTEBOOK NEOPRENNE 15.6\" NEGRO C/CIERRE  NM-FN15",
     "categoria": "Soportes",
-    "precio": 19
+    "precio": 20
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK GAMEPAD PS3 BLUETOOTH BLACK NM-P310",
     "categoria": "Gamer",
-    "precio": 27
+    "precio": 29
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK GAMEPAD PS4 BLACK NM-P401",
     "categoria": "Gamer",
-    "precio": 56
+    "precio": 61
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK GAMEPAD PS4 RED NM-P401-R",
     "categoria": "Gamer",
-    "precio": 58
+    "precio": 62
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK HUB TIPO C (M) A 3 PUERTOS USB 2.0 + RJ45 / NM-TC40 ",
     "categoria": "Cables y Adaptadores",
-    "precio": 20
+    "precio": 21
   },
   {
     "proveedor": "eikon",
@@ -1839,25 +1839,25 @@
     "proveedor": "eikon",
     "producto": "NETMAK MICROFONO PARA PC CON BASE /CONEXION 3.5MM NM-MC2",
     "categoria": "Microfonos",
-    "precio": 7
+    "precio": 8
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK PAD MOUSE GAMER GRANDE NM-GLADIUS-2",
     "categoria": "Mouses",
-    "precio": 13
+    "precio": 14
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK PAD MOUSE GAMER GRANDE NM-NORDIC-2",
     "categoria": "Mouses",
-    "precio": 13
+    "precio": 14
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK PAD MOUSE GAMER NM-ARENA",
     "categoria": "Mouses",
-    "precio": 4
+    "precio": 5
   },
   {
     "proveedor": "eikon",
@@ -1869,85 +1869,85 @@
     "proveedor": "eikon",
     "producto": "NETMAK PAD MOUSE GAMER NM-NORDIC",
     "categoria": "Mouses",
-    "precio": 4
+    "precio": 5
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK PAD MOUSE GEL BLACK NM-PGEL",
     "categoria": "Mouses",
-    "precio": 9
+    "precio": 10
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK PAD MOUSE GEL BLUE NM-PGEL-B",
     "categoria": "Mouses",
-    "precio": 9
+    "precio": 10
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK PAD MOUSE GEL RED NM-PGEL-R",
     "categoria": "Mouses",
-    "precio": 9
+    "precio": 10
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK PARLANTE BLUETOOTH KARAOKE 6.5'' NM-24SIETE",
     "categoria": "Parlantes",
-    "precio": 45
+    "precio": 49
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK PARLANTE BLUETOOTH KARAOKE 8'' C/MIC NM-XTASYS",
     "categoria": "Parlantes",
-    "precio": 62
+    "precio": 67
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK PARLANTE FLOW PORTABLE BLUETOOTH 10W  GREY NM-FLOW-S",
     "categoria": "Parlantes",
-    "precio": 33
+    "precio": 36
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK PARLANTE FLOW PORTABLE BLUETOOTH 10W  RED NM-FLOW-R",
     "categoria": "Parlantes",
-    "precio": 33
+    "precio": 36
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK PARLANTE FLOW PORTABLE BLUETOOTH 10W BLACK NM-FLOW",
     "categoria": "Parlantes",
-    "precio": 33
+    "precio": 36
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK PARLANTE FLOW PORTABLE BLUETOOTH 10W BLUE NM-FLOW-B",
     "categoria": "Parlantes",
-    "precio": 31
+    "precio": 34
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK PARLANTE POTENCIADO USB 2.0 BLUE  NM-9025B",
     "categoria": "Parlantes",
-    "precio": 12
+    "precio": 13
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK PARLANTE POTENCIADO USB 2.0 RED NM-9025R",
     "categoria": "Parlantes",
-    "precio": 12
+    "precio": 13
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK PARLANTE UP PORTABLE BLUETOOTH BLUE NM-UP-B",
     "categoria": "Parlantes",
-    "precio": 35
+    "precio": 38
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK PARLANTE UP PORTABLE BLUETOOTH GRIS NM-UP-B",
     "categoria": "Parlantes",
-    "precio": 35
+    "precio": 38
   },
   {
     "proveedor": "eikon",
@@ -1957,21 +1957,15 @@
   },
   {
     "proveedor": "eikon",
-    "producto": "NETMAK PILAS RECARGABLES AA 2700 (X2)",
-    "categoria": "Accesorios",
-    "precio": 9
-  },
-  {
-    "proveedor": "eikon",
     "producto": "NETMAK PILAS RECARGABLES AAA 1100 (X2)",
     "categoria": "Accesorios",
-    "precio": 5
+    "precio": 6
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK SOPORTE  DOBLE MONITOR 10\"-32\" DOS BRAZOS ARTICULADOS NM-ST18",
     "categoria": "Soportes",
-    "precio": 71
+    "precio": 76
   },
   {
     "proveedor": "eikon",
@@ -1983,31 +1977,25 @@
     "proveedor": "eikon",
     "producto": "NETMAK SOPORTE  TV/MONI 23\"-60\" BRAZO ARTICULADO C/INCLINACION NM-ST16",
     "categoria": "Soportes",
-    "precio": 35
+    "precio": 38
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK SOPORTE  TV/MONI 23\"-75\" DOS BRAZOS ARTICULADOS C/INCLINACION NM-ST13",
     "categoria": "Soportes",
-    "precio": 66
+    "precio": 71
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK SOPORTE  TV/MONI 32\"-55\"C/INCLINACION NM-ST09",
     "categoria": "Soportes",
-    "precio": 19
+    "precio": 20
   },
   {
     "proveedor": "eikon",
     "producto": "NETMAK TECLADO GAMER COMPACTO RETROILUMINADO NEGRO  / NM-DARK",
     "categoria": "Teclados",
-    "precio": 13
-  },
-  {
-    "proveedor": "eikon",
-    "producto": "NETMAK TECLADO GAMER RETROILUMINADO USB NM-ZAKRO",
-    "categoria": "Teclados",
-    "precio": 9
+    "precio": 14
   },
   {
     "proveedor": "eikon",
@@ -2023,21 +2011,39 @@
   },
   {
     "proveedor": "eikon",
+    "producto": "PEN DRIVE 128 GB KINGSTON 3.2 DTX/128GB",
+    "categoria": "Almacenamiento Portatil",
+    "precio": 27
+  },
+  {
+    "proveedor": "eikon",
     "producto": "PEN DRIVE 32 GB KINGSTON 3.2 DTX/32GB",
     "categoria": "Almacenamiento Portatil",
-    "precio": 13
+    "precio": 11
   },
   {
     "proveedor": "eikon",
     "producto": "PEN DRIVE 32 GB KINGSTON 3.2 DTXM/32GB",
     "categoria": "Almacenamiento Portatil",
-    "precio": 13
+    "precio": 9
   },
   {
     "proveedor": "eikon",
     "producto": "PEN DRIVE 64 GB KINGSTON 3.2 DT70 (TIPO C)",
     "categoria": "Almacenamiento Portatil",
     "precio": 11
+  },
+  {
+    "proveedor": "eikon",
+    "producto": "PEN DRIVE 64 GB KINGSTON 3.2 DTX/64GB",
+    "categoria": "Almacenamiento Portatil",
+    "precio": 16
+  },
+  {
+    "proveedor": "eikon",
+    "producto": "PEN DRIVE 64 GB KINGSTON 3.2 DTXM/64GB",
+    "categoria": "Almacenamiento Portatil",
+    "precio": 16
   },
   {
     "proveedor": "eikon",
@@ -2062,12 +2068,6 @@
     "producto": "PLACA MSI GEFORCE GT 1030 2GB LP OC DDR4 /HDMI/DP",
     "categoria": "Placas de video",
     "precio": 219
-  },
-  {
-    "proveedor": "eikon",
-    "producto": "PLACA MSI GEFORCE GT 710 1GB 1GD3H LPV1",
-    "categoria": "Placas de video",
-    "precio": 136
   },
   {
     "proveedor": "eikon",
@@ -2115,7 +2115,7 @@
     "proveedor": "eikon",
     "producto": "PLACA MSI GEFORCE RTX 3060 VENTUS 2X OC 12GB GDDR6",
     "categoria": "Placas de video",
-    "precio": 1427
+    "precio": 920
   },
   {
     "proveedor": "eikon",
@@ -2128,12 +2128,6 @@
     "producto": "PLACA MSI GEFORCE RTX 3070 TI VENTUS 3X OC 8G DDR6",
     "categoria": "Placas de video",
     "precio": 1474
-  },
-  {
-    "proveedor": "eikon",
-    "producto": "PLACA MSI GEFORCE RTX 4070 TI VENTUS 3X 12GB OC",
-    "categoria": "Placas de video",
-    "precio": 1737
   },
   {
     "proveedor": "eikon",
@@ -2152,6 +2146,12 @@
     "producto": "PLACA MSI RTX 3090 GAMING X TRIO 24G DDR6",
     "categoria": "Placas de video",
     "precio": 2170
+  },
+  {
+    "proveedor": "eikon",
+    "producto": "PLACA PNY GEFORCE GT730 2GB DDR3",
+    "categoria": "Placas de video",
+    "precio": 152
   },
   {
     "proveedor": "eikon",
@@ -2179,6 +2179,18 @@
   },
   {
     "proveedor": "eikon",
+    "producto": "PLACA ZOTAC GEFORCE GT 730 4GB DDR3",
+    "categoria": "Placas de video",
+    "precio": 204
+  },
+  {
+    "proveedor": "eikon",
+    "producto": "ROUTER 4-PORT ADVANTEC ABR-241",
+    "categoria": "Conectividad",
+    "precio": 39
+  },
+  {
+    "proveedor": "eikon",
     "producto": "SBNT CABLE FIREWIRE 6 FEET SBT-CF64",
     "categoria": "Cables y Adaptadores",
     "precio": 0
@@ -2191,27 +2203,9 @@
   },
   {
     "proveedor": "eikon",
-    "producto": "SISTEMA PC (GAB-S609 600W)",
-    "categoria": "Gabinetes",
-    "precio": 67
-  },
-  {
-    "proveedor": "eikon",
-    "producto": "SISTEMA PC (KIT GAMING-K2-750W)",
-    "categoria": "Gabinetes",
-    "precio": 207
-  },
-  {
-    "proveedor": "eikon",
-    "producto": "SISTEMA PC (KIT-MF3301 600W)",
-    "categoria": "Gabinetes",
-    "precio": 74
-  },
-  {
-    "proveedor": "eikon",
-    "producto": "SISTEMA PC (KIT-MF609 600W)",
-    "categoria": "Gabinetes",
-    "precio": 74
+    "producto": "SOPORTE VESA BRACKET GAB.2012-MONIT",
+    "categoria": "Accesorios",
+    "precio": 11
   },
   {
     "proveedor": "eikon",
@@ -2281,12 +2275,6 @@
   },
   {
     "proveedor": "eikon",
-    "producto": "TONER ALTERNATIVO HP CF279A E-VIEW",
-    "categoria": "Impresoras e Insumos",
-    "precio": 16
-  },
-  {
-    "proveedor": "eikon",
     "producto": "TONER ALTERNATIVO HP CF380A GTC",
     "categoria": "Impresoras e Insumos",
     "precio": 20
@@ -2296,12 +2284,6 @@
     "producto": "TONER ALTERNATIVO HP Q1338A",
     "categoria": "Impresoras e Insumos",
     "precio": 21
-  },
-  {
-    "proveedor": "eikon",
-    "producto": "TONER ALTERNATIVO HP Q6000A GTC",
-    "categoria": "Impresoras e Insumos",
-    "precio": 26
   },
   {
     "proveedor": "eikon",
@@ -2421,7 +2403,7 @@
     "proveedor": "eikon",
     "producto": "TP-LINK PLACA RED GIGA PCIE TG-3468",
     "categoria": "Conectividad",
-    "precio": 31
+    "precio": 37
   },
   {
     "proveedor": "eikon",
@@ -2439,7 +2421,7 @@
     "proveedor": "eikon",
     "producto": "TP-LINK SWITCH 5-P 10/100 TL-SF1005D",
     "categoria": "Conectividad",
-    "precio": 28
+    "precio": 30
   },
   {
     "proveedor": "eikon",
@@ -2463,25 +2445,19 @@
     "proveedor": "eikon",
     "producto": "TP-LINK WIFI EXTENDER 2.4 Y 5GHZ TP-RE200",
     "categoria": "Conectividad",
-    "precio": 67
+    "precio": 73
   },
   {
     "proveedor": "eikon",
     "producto": "TP-LINK WIFI EXTENDER 300 TL-WA850RE",
     "categoria": "Conectividad",
-    "precio": 58
+    "precio": 65
   },
   {
     "proveedor": "eikon",
     "producto": "TP-LINK WIFI OUTDOOR CPE210 300MBPS 9DBI",
     "categoria": "Conectividad",
     "precio": 165
-  },
-  {
-    "proveedor": "eikon",
-    "producto": "TP-LINK WIFI OUTDOOR CPE510 300MBPS 5GHZ",
-    "categoria": "Conectividad",
-    "precio": 158
   },
   {
     "proveedor": "eikon",
@@ -2493,7 +2469,7 @@
     "proveedor": "eikon",
     "producto": "TP-LINK WIFI PCIE 300 N TL-WN881ND",
     "categoria": "Conectividad",
-    "precio": 45
+    "precio": 49
   },
   {
     "proveedor": "eikon",
@@ -2506,12 +2482,6 @@
     "producto": "TP-LINK WIFI ROUTER 300 N TL-WR841HP",
     "categoria": "Conectividad",
     "precio": 119
-  },
-  {
-    "proveedor": "eikon",
-    "producto": "TP-LINK WIFI ROUTER 300M P/ISP  TL-WR850N",
-    "categoria": "Conectividad",
-    "precio": 54
   },
   {
     "proveedor": "eikon",
@@ -2553,30 +2523,24 @@
     "proveedor": "eikon",
     "producto": "UPS LYONN CTB-1200AP (DISPLAY)",
     "categoria": "Estabilizadores y UPS",
-    "precio": 147
+    "precio": 182
   },
   {
     "proveedor": "eikon",
     "producto": "UPS LYONN CTB-800AP (LED)",
     "categoria": "Estabilizadores y UPS",
-    "precio": 77
+    "precio": 85
   },
   {
     "proveedor": "eikon",
     "producto": "UPS LYONN CTB-800KS (LED)",
     "categoria": "Estabilizadores y UPS",
-    "precio": 77
+    "precio": 85
   },
   {
     "proveedor": "eikon",
     "producto": "WEBCAM 1080P HD/USB/ MICROFONO / E-VIEW",
     "categoria": "Webcams",
     "precio": 18
-  },
-  {
-    "proveedor": "eikon",
-    "producto": "WEBCAM 1080P HD/USB/ MICROFONO / E-VIEW",
-    "categoria": "Webcams",
-    "precio": 14
   }
 ]

@@ -3,16 +3,16 @@ import csv
 import json
 
 #Direccion archivos
-# listadoEikon = 'Repo-Python-DB-DottAPI/nuevosScripts/Eik/Listado/listadoEik.xlsx'
-# listadoCsv = 'Repo-Python-DB-DottAPI/nuevosScripts/Eik/Listado/listadoEik.csv'
-# listadoJson = 'Repo-Python-DB-DottAPI/nuevosScripts/Eik/Json/listadoJson.json'
-# diccionarios = 'Repo-Python-DB-DottAPI/nuevosScripts/diccionarios/diccionarios.json'
+listadoEikon = 'Repo-Python-DB-DottAPI/nuevosScripts/Eik/Listado/listadoEik.xlsx'
+listadoCsv = 'Repo-Python-DB-DottAPI/nuevosScripts/Eik/Listado/listadoEik.csv'
+listadoJson = 'Repo-Python-DB-DottAPI/nuevosScripts/Eik/Json/listadoJson.json'
+diccionarios = 'Repo-Python-DB-DottAPI/nuevosScripts/diccionarios/diccionarios.json'
 
 #Direccion archivos
-listadoEikon = 'nuevosScripts/Eik/Listado/listadoEik.xlsx'
-listadoCsv = 'nuevosScripts/Eik/Listado/listadoEik.csv'
-listadoJson = 'nuevosScripts/Eik/Json/listadoJson.json'
-diccionarios = 'nuevosScripts/diccionarios/diccionarios.json'
+# listadoEikon = 'nuevosScripts/Eik/Listado/listadoEik.xlsx'
+# listadoCsv = 'nuevosScripts/Eik/Listado/listadoEik.csv'
+# listadoJson = 'nuevosScripts/Eik/Json/listadoJson.json'
+# diccionarios = 'nuevosScripts/diccionarios/diccionarios.json'
 
 
 def convertirACSV():

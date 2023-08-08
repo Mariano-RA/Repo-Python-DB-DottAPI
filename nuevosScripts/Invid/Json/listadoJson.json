@@ -3,13 +3,13 @@
     "proveedor": "invid",
     "producto": "Auricular c/Microfono Logitech H390 Rose 981-001280",
     "categoria": "Auriculares",
-    "precio": 92
+    "precio": 87
   },
   {
     "proveedor": "invid",
     "producto": "Auricular c/Microfono Logitech H390 White 981-001285",
     "categoria": "Auriculares",
-    "precio": 114
+    "precio": 118
   },
   {
     "proveedor": "invid",
@@ -147,19 +147,25 @@
     "proveedor": "invid",
     "producto": "Auricular Wir c/Microfono Logitech G535 Black 981-000971",
     "categoria": "Auriculares",
-    "precio": 262
+    "precio": 285
   },
   {
     "proveedor": "invid",
     "producto": "Auricular Wir c/Microfono Logitech Vibe 100 Rose 981-001223",
     "categoria": "Auriculares",
-    "precio": 234
+    "precio": 245
+  },
+  {
+    "proveedor": "invid",
+    "producto": "Auricular Wir c/Microfono Logitech Vibe 100 White  981-001218",
+    "categoria": "Auriculares",
+    "precio": 243
   },
   {
     "proveedor": "invid",
     "producto": "Auricular c/ Microfono Genius HS-02B",
     "categoria": "Auriculares",
-    "precio": 34
+    "precio": 28
   },
   {
     "proveedor": "invid",
@@ -171,13 +177,13 @@
     "proveedor": "invid",
     "producto": "Auricular c/ Microfono Genius HS-04SU",
     "categoria": "Auriculares",
-    "precio": 38
+    "precio": 28
   },
   {
     "proveedor": "invid",
     "producto": "Auricular c/ Microfono Genius HS-05A (2227)",
     "categoria": "Auriculares",
-    "precio": 57
+    "precio": 78
   },
   {
     "proveedor": "invid",
@@ -189,13 +195,13 @@
     "proveedor": "invid",
     "producto": "Auricular c/ Microfono Genius HS-G600V",
     "categoria": "Auriculares",
-    "precio": 44
+    "precio": 49
   },
   {
     "proveedor": "invid",
     "producto": "Auricular c/ Microfono Genius HS-M505X (SINGLE JACK) (5674)",
     "categoria": "Auriculares",
-    "precio": 42
+    "precio": 57
   },
   {
     "proveedor": "invid",
@@ -207,7 +213,7 @@
     "proveedor": "invid",
     "producto": "Auricular c/Microfono Logitech H111 Blk 1 Jack 981-000612",
     "categoria": "Auriculares",
-    "precio": 32
+    "precio": 33
   },
   {
     "proveedor": "invid",
@@ -217,27 +223,15 @@
   },
   {
     "proveedor": "invid",
-    "producto": "Auricular Corsair HS35 Stereo Gaming Carbon (7526)",
-    "categoria": "Auriculares",
-    "precio": 79
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Auricular Corsair HS60 Haptic USB Stereo Camuflados (8942)",
-    "categoria": "Auriculares",
-    "precio": 170
-  },
-  {
-    "proveedor": "invid",
     "producto": "Auricular Genius HS-M300 Mobile Black",
     "categoria": "Auriculares",
     "precio": 20
   },
   {
     "proveedor": "invid",
-    "producto": "Auricular JBL ENDURANCE RUN Rojo (0131)",
+    "producto": "Auricular JBL Quantum One Gaming Surround Negro QuantumSPHERE 360 (9744)",
     "categoria": "Auriculares",
-    "precio": 52
+    "precio": 402
   },
   {
     "proveedor": "invid",
@@ -283,12 +277,6 @@
   },
   {
     "proveedor": "invid",
-    "producto": "Auricular Wir c/Microfono Logitech G435 Black 981-001049",
-    "categoria": "Auriculares",
-    "precio": 182
-  },
-  {
-    "proveedor": "invid",
     "producto": "Auricular Wir c/Microfono Logitech G435 White 981-001073",
     "categoria": "Auriculares",
     "precio": 182
@@ -297,13 +285,7 @@
     "proveedor": "invid",
     "producto": "Auricular Wir c/Microfono Logitech G733 Black RGB 981-000863",
     "categoria": "Auriculares",
-    "precio": 356
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Microfono Razer Seiren V2 X USB Black (7962)",
-    "categoria": "Microfonos",
-    "precio": 282
+    "precio": 338
   },
   {
     "proveedor": "invid",
@@ -316,6 +298,12 @@
     "producto": "Microfono Blue/Logitech Snowball White 988-000070",
     "categoria": "Microfonos",
     "precio": 114
+  },
+  {
+    "proveedor": "invid",
+    "producto": "Media Pointer Genius 100 Wireless (New Package) (7564)",
+    "categoria": "Mouses",
+    "precio": 148
   },
   {
     "proveedor": "invid",
@@ -345,67 +333,67 @@
     "proveedor": "invid",
     "producto": "Mouse Genius NX-7010 Green G5 (8643)",
     "categoria": "Mouses",
-    "precio": 30
+    "precio": 37
   },
   {
     "proveedor": "invid",
     "producto": "Mouse Logitech G502X Gaming Black 910-006137",
     "categoria": "Mouses",
-    "precio": 168
+    "precio": 184
   },
   {
     "proveedor": "invid",
     "producto": "Mouse Logitech G502X Gaming White 910-006145",
     "categoria": "Mouses",
-    "precio": 168
+    "precio": 184
   },
   {
     "proveedor": "invid",
     "producto": "Mouse Logitech G705 Aurora White Gaming Wireless 910-006366",
     "categoria": "Mouses",
-    "precio": 128
+    "precio": 145
   },
   {
     "proveedor": "invid",
     "producto": "Mouse Logitech M110 Silent Black 910-006756",
     "categoria": "Mouses",
-    "precio": 21
+    "precio": 22
   },
   {
     "proveedor": "invid",
     "producto": "Mouse Logitech M110 Silent Blue 910-006662",
     "categoria": "Mouses",
-    "precio": 17
+    "precio": 21
   },
   {
     "proveedor": "invid",
     "producto": "Mouse Logitech M110 Silent Gray 910-006757",
     "categoria": "Mouses",
-    "precio": 17
+    "precio": 21
   },
   {
     "proveedor": "invid",
     "producto": "Mouse Logitech M110 Silent Red 910-006755",
     "categoria": "Mouses",
-    "precio": 17
+    "precio": 21
   },
   {
     "proveedor": "invid",
     "producto": "Mouse Logitech Wir Lift Ergo Black 910-006466",
     "categoria": "Mouses",
-    "precio": 155
+    "precio": 162
   },
   {
     "proveedor": "invid",
     "producto": "Mouse Logitech Wir Lift Ergo Rose 910-006472",
     "categoria": "Mouses",
-    "precio": 155
+    "precio": 129
   },
   {
     "proveedor": "invid",
     "producto": "Mouse Logitech Wir Lift ErgoWhite 910-006469",
     "categoria": "Mouses",
-    "precio": 155
+    "precio": 162
   },
   {
     "proveedor": "invid",
@@ -415,27 +403,21 @@
   },
   {
     "proveedor": "invid",
-    "producto": "Mouse Logitech Wir M170 White Blister 910-006864",
-    "categoria": "Mouses",
-    "precio": 31
-  },
-  {
-    "proveedor": "invid",
     "producto": "Mouse Logitech Wir M350 Pebble Lavender 910-006659",
     "categoria": "Mouses",
-    "precio": 80
+    "precio": 78
   },
   {
     "proveedor": "invid",
     "producto": "Mouse Logitech Wir M650 Large White 910-006233",
     "categoria": "Mouses",
-    "precio": 79
+    "precio": 85
   },
   {
     "proveedor": "invid",
     "producto": "Mouse Logitech Wir M650 White 910-006252",
     "categoria": "Mouses",
-    "precio": 79
+    "precio": 85
   },
   {
     "proveedor": "invid",
@@ -477,7 +459,7 @@
     "proveedor": "invid",
     "producto": "Mouse Genius DX-110 USB White (1484)",
     "categoria": "Mouses",
-    "precio": 13
+    "precio": 16
   },
   {
     "proveedor": "invid",
@@ -513,7 +495,7 @@
     "proveedor": "invid",
     "producto": "Mouse Genius Micro Traveler Ruby USB (8691)",
     "categoria": "Mouses",
-    "precio": 20
+    "precio": 26
   },
   {
     "proveedor": "invid",
@@ -525,7 +507,7 @@
     "proveedor": "invid",
     "producto": "Mouse Genius Micro Traveler White USB (8707)",
     "categoria": "Mouses",
-    "precio": 21
+    "precio": 27
   },
   {
     "proveedor": "invid",
@@ -573,7 +555,7 @@
     "proveedor": "invid",
     "producto": "Mouse Genius NX-8006S BlueEye Red (9114)",
     "categoria": "Mouses",
-    "precio": 33
+    "precio": 34
   },
   {
     "proveedor": "invid",
@@ -586,18 +568,6 @@
     "producto": "Mouse HyperX Pulsefire Dart Wireless RGB Gaming (6724)",
     "categoria": "Mouses",
     "precio": 172
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Mouse Logitech G Pro X Superlight Black 910-005879",
-    "categoria": "Mouses",
-    "precio": 277
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Mouse Logitech G Pro X Superlight White 910-005941",
-    "categoria": "Mouses",
-    "precio": 277
   },
   {
     "proveedor": "invid",
@@ -621,61 +591,61 @@
     "proveedor": "invid",
     "producto": "Mouse Logitech G305 Lightspeed Wireless Black 910-005281",
     "categoria": "Mouses",
-    "precio": 94
+    "precio": 98
   },
   {
     "proveedor": "invid",
     "producto": "Mouse Logitech G305 Lightspeed Wireless Blue 910-006013",
     "categoria": "Mouses",
-    "precio": 82
+    "precio": 85
   },
   {
     "proveedor": "invid",
     "producto": "Mouse Logitech G305 Lightspeed Wireless Mint 910-006377",
     "categoria": "Mouses",
-    "precio": 79
+    "precio": 82
   },
   {
     "proveedor": "invid",
     "producto": "Mouse Logitech G403 Hero Gaming 910-005631",
     "categoria": "Mouses",
-    "precio": 95
+    "precio": 105
   },
   {
     "proveedor": "invid",
     "producto": "Mouse Logitech G502 Gaming Hero 910-005550",
     "categoria": "Mouses",
-    "precio": 120
+    "precio": 131
   },
   {
     "proveedor": "invid",
     "producto": "Mouse Logitech G502 Wireless Gaming LIGHTSPEED 910-005566",
     "categoria": "Mouses",
-    "precio": 176
+    "precio": 186
   },
   {
     "proveedor": "invid",
     "producto": "Mouse Logitech G604 Gaming Lightspeed Wireless 910-005648",
     "categoria": "Mouses",
-    "precio": 161
+    "precio": 168
   },
   {
     "proveedor": "invid",
     "producto": "Mouse Logitech M90 Dark Midnight Gray 910-004053",
     "categoria": "Mouses",
-    "precio": 14
+    "precio": 15
   },
   {
     "proveedor": "invid",
     "producto": "Mouse Logitech Wir M170 Blue Blister 910-004800",
     "categoria": "Mouses",
-    "precio": 29
+    "precio": 30
   },
   {
     "proveedor": "invid",
     "producto": "Mouse Logitech Wir M170 Red Blister 910-004941",
     "categoria": "Mouses",
-    "precio": 29
+    "precio": 27
   },
   {
     "proveedor": "invid",
@@ -711,13 +681,13 @@
     "proveedor": "invid",
     "producto": "Mouse Logitech Wir M190 Black/Red 910-005904",
     "categoria": "Mouses",
-    "precio": 32
+    "precio": 30
   },
   {
     "proveedor": "invid",
     "producto": "Mouse Logitech Wir M350 Pebble Rose 910-005769",
     "categoria": "Mouses",
-    "precio": 73
+    "precio": 71
   },
   {
     "proveedor": "invid",
@@ -729,31 +699,31 @@
     "proveedor": "invid",
     "producto": "Mouse Logitech Wir Mini M187 Blue Blister 910-005360",
     "categoria": "Mouses",
-    "precio": 34
+    "precio": 32
   },
   {
     "proveedor": "invid",
     "producto": "Mouse Logitech Wir Mini M187 Coral Blister 910-005362",
     "categoria": "Mouses",
-    "precio": 34
+    "precio": 32
   },
   {
     "proveedor": "invid",
     "producto": "Mouse Logitech Wir Mini M187 Green Blister 910-005363",
     "categoria": "Mouses",
-    "precio": 34
+    "precio": 32
   },
   {
     "proveedor": "invid",
     "producto": "Mouse Logitech Wir Mini M187 Pink Blister 910-005364",
     "categoria": "Mouses",
-    "precio": 34
+    "precio": 32
   },
   {
     "proveedor": "invid",
     "producto": "Mouse Pad Genius G-Pad 300S (320 x 270 x 3mm) (6687)",
     "categoria": "Mouses",
-    "precio": 14
+    "precio": 12
   },
   {
     "proveedor": "invid",
@@ -771,7 +741,7 @@
     "proveedor": "invid",
     "producto": "Mouse Pad Genius Q-Pad 100 (174 x 71 x 24mm) (6731)",
     "categoria": "Mouses",
-    "precio": 21
+    "precio": 23
   },
   {
     "proveedor": "invid",
@@ -789,7 +759,7 @@
     "proveedor": "invid",
     "producto": "Mouse Pad Logitech G440 Gaming 943-000098",
     "categoria": "Mouses",
-    "precio": 35
+    "precio": 33
   },
   {
     "proveedor": "invid",
@@ -801,13 +771,13 @@
     "proveedor": "invid",
     "producto": "Parlante Genius SP-HF380 BT USB W00D (8247)",
     "categoria": "Parlantes",
-    "precio": 46
+    "precio": 42
   },
   {
     "proveedor": "invid",
     "producto": "Parlante Genius SP-HF380 BT USB W00D (New Package) (9527)",
     "categoria": "Parlantes",
-    "precio": 41
+    "precio": 43
   },
   {
     "proveedor": "invid",
@@ -843,7 +813,7 @@
     "proveedor": "invid",
     "producto": "Parlantes Genius SP-U125 USB BLK (9367)",
     "categoria": "Parlantes",
-    "precio": 32
+    "precio": 27
   },
   {
     "proveedor": "invid",
@@ -873,19 +843,19 @@
     "proveedor": "invid",
     "producto": "Parlantes Genius SW-G2.1 1200 BLK 100-24V (9756)",
     "categoria": "Parlantes",
-    "precio": 147
+    "precio": 155
   },
   {
     "proveedor": "invid",
     "producto": "Parlantes GX/Genius SW-G2.1 1000 BLK 100-240V Gaming (9718)",
     "categoria": "Parlantes",
-    "precio": 123
+    "precio": 109
   },
   {
     "proveedor": "invid",
     "producto": "STEREO SWITCHING BOX Genius (2100)",
     "categoria": "Parlantes",
-    "precio": 25
+    "precio": 31
   },
   {
     "proveedor": "invid",
@@ -945,13 +915,13 @@
     "proveedor": "invid",
     "producto": "Parlantes GX/Genius SW-G2.1 2000 II BLK 100-240V Gaming",
     "categoria": "Parlantes",
-    "precio": 172
+    "precio": 153
   },
   {
     "proveedor": "invid",
     "producto": "Parlantes GX/Genius SW-G2.1 3000 II BLK 100-240V Gaming (8353)",
     "categoria": "Parlantes",
-    "precio": 202
+    "precio": 179
   },
   {
     "proveedor": "invid",
@@ -963,7 +933,7 @@
     "proveedor": "invid",
     "producto": "Teclado+Mouse Logitech Wir MK470 Slim Rose 920-011312",
     "categoria": "Teclados",
-    "precio": 114
+    "precio": 104
   },
   {
     "proveedor": "invid",
@@ -1005,19 +975,13 @@
     "proveedor": "invid",
     "producto": "Teclado+Mouse Logitech Wir MK540 Black 920-008673",
     "categoria": "Teclados",
-    "precio": 178
+    "precio": 164
   },
   {
     "proveedor": "invid",
     "producto": "Teclado+Mouse Logitech Wir MK850 Performance 920-008659",
     "categoria": "Teclados",
-    "precio": 247
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Media Pointer Genius 100 Wireless (New Package) (7564)",
-    "categoria": "Teclados",
-    "precio": 148
+    "precio": 215
   },
   {
     "proveedor": "invid",
@@ -1047,7 +1011,7 @@
     "proveedor": "invid",
     "producto": "Teclado Logitech Bluetooth K380 Sand 920-011149",
     "categoria": "Teclados",
-    "precio": 89
+    "precio": 79
   },
   {
     "proveedor": "invid",
@@ -1077,7 +1041,7 @@
     "proveedor": "invid",
     "producto": "Teclado Logitech Wireless MX Keys Mini Grey Retroilum 920-010477",
     "categoria": "Teclados",
-    "precio": 174
+    "precio": 150
   },
   {
     "proveedor": "invid",
@@ -1089,19 +1053,13 @@
     "proveedor": "invid",
     "producto": "Teclado Logitech Wireless MX Mini Graphite  920-010846",
     "categoria": "Teclados",
-    "precio": 241
+    "precio": 273
   },
   {
     "proveedor": "invid",
     "producto": "Teclado Razer Huntsman Mini 60% Optical Switch Purple Mercury Edition (5756)",
     "categoria": "Teclados",
     "precio": 221
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Teclado Razer Huntsman V2 Analog Optical SP Layout Black (6692)",
-    "categoria": "Teclados",
-    "precio": 547
   },
   {
     "proveedor": "invid",
@@ -1137,13 +1095,19 @@
     "proveedor": "invid",
     "producto": "Teclado Logitech Bluetooth K380 Grey 920-007562",
     "categoria": "Teclados",
-    "precio": 89
+    "precio": 82
+  },
+  {
+    "proveedor": "invid",
+    "producto": "Teclado Logitech Bluetooth K380 Rose 920-009594",
+    "categoria": "Teclados",
+    "precio": 75
   },
   {
     "proveedor": "invid",
     "producto": "Teclado Logitech Bluetooth K380 White 920-009595",
     "categoria": "Teclados",
-    "precio": 89
+    "precio": 82
   },
   {
     "proveedor": "invid",
@@ -1161,31 +1125,25 @@
     "proveedor": "invid",
     "producto": "Teclado Logitech G915 TKL Black Mech  RGB Wifi 920-009495",
     "categoria": "Teclados",
-    "precio": 373
+    "precio": 348
   },
   {
     "proveedor": "invid",
     "producto": "Teclado Logitech G915 TKL White Mech RGB Wifi 920-009660",
     "categoria": "Teclados",
-    "precio": 373
+    "precio": 348
   },
   {
     "proveedor": "invid",
     "producto": "Teclado Logitech K120 Black 920-004422",
     "categoria": "Teclados",
-    "precio": 34
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Teclado Logitech K835TKL Mecanico 920-010085",
-    "categoria": "Teclados",
-    "precio": 103
+    "precio": 35
   },
   {
     "proveedor": "invid",
     "producto": "Teclado Logitech PRO Mechanical RGB Lightsync 920-009388",
     "categoria": "Teclados",
-    "precio": 266
+    "precio": 242
   },
   {
     "proveedor": "invid",
@@ -1195,15 +1153,9 @@
   },
   {
     "proveedor": "invid",
-    "producto": "Teclado Logitech Wireless MX Keys Retroiluminado 920-009296",
-    "categoria": "Teclados",
-    "precio": 238
-  },
-  {
-    "proveedor": "invid",
     "producto": "Web Cam Logitech Brio 300 Graphite Full HD 960-001413",
     "categoria": "Webcams",
-    "precio": 133
+    "precio": 119
   },
   {
     "proveedor": "invid",
@@ -1215,19 +1167,19 @@
     "proveedor": "invid",
     "producto": "Web Cam Logitech Brio 500 Rose Full HD 960-001418",
     "categoria": "Webcams",
-    "precio": 218
+    "precio": 210
   },
   {
     "proveedor": "invid",
     "producto": "Web Cam Logitech Brio 500 White Full HD 960-001426",
     "categoria": "Webcams",
-    "precio": 218
+    "precio": 210
   },
   {
     "proveedor": "invid",
     "producto": "Mini Tripode para Web Cam (9213)",
     "categoria": "Webcams",
-    "precio": 15
+    "precio": 12
   },
   {
     "proveedor": "invid",
@@ -1245,13 +1197,13 @@
     "proveedor": "invid",
     "producto": "Web Cam Genius FaceCam 1000X (New Pack) (8285)",
     "categoria": "Webcams",
-    "precio": 51
+    "precio": 42
   },
   {
     "proveedor": "invid",
     "producto": "Web Cam Genius Qcam 6000 (1080p / Rotates 360°) (8414)",
     "categoria": "Webcams",
-    "precio": 89
+    "precio": 79
   },
   {
     "proveedor": "invid",
@@ -1275,7 +1227,7 @@
     "proveedor": "invid",
     "producto": "Web Cam Logitech C920S PRO HD 960-001257",
     "categoria": "Webcams",
-    "precio": 175
+    "precio": 184
   },
   {
     "proveedor": "invid",
@@ -1393,12 +1345,6 @@
   },
   {
     "proveedor": "invid",
-    "producto": "MicroSD HIKVISION 128GB Clase 10 C1 CON  ADAP SD (1914)",
-    "categoria": "Almacenamiento Portatil",
-    "precio": 36
-  },
-  {
-    "proveedor": "invid",
     "producto": "MicroSD HIKVISION 32GB Clase 10 C1 CON ADAP SD (7109)",
     "categoria": "Almacenamiento Portatil",
     "precio": 15
@@ -1443,37 +1389,31 @@
     "proveedor": "invid",
     "producto": "Pc Gamer Intel Core i3-10105F 16G (2x8Gb) SSD 240Gb GTX 1630 Ventus 4G (GIGA)",
     "categoria": "Computadoras",
-    "precio": 1365
+    "precio": 1166
   },
   {
     "proveedor": "invid",
     "producto": "Pc Kelyx AMD Ryzen 3-3200G 8G SSD 240Gb (GIGA)",
     "categoria": "Computadoras",
-    "precio": 580
+    "precio": 617
   },
   {
     "proveedor": "invid",
     "producto": "Pc Kelyx AMD Ryzen 3-3200G 8G SSD 480Gb (GIGA)",
     "categoria": "Computadoras",
-    "precio": 606
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Pc Kelyx AMD Ryzen 5-4600G 8G SSD 480Gb (GIGA)",
-    "categoria": "Computadoras",
-    "precio": 746
+    "precio": 646
   },
   {
     "proveedor": "invid",
     "producto": "Pc Kelyx AMD Ryzen 5-5600G 8G SSD 960Gb (MSI)",
     "categoria": "Computadoras",
-    "precio": 805
+    "precio": 939
   },
   {
     "proveedor": "invid",
     "producto": "Pc Kelyx AMD Ryzen 7-5700G 8G (2x4Gb) SSD 480Gb (MSI)",
     "categoria": "Computadoras",
-    "precio": 1016
+    "precio": 1051
   },
   {
     "proveedor": "invid",
@@ -1485,73 +1425,61 @@
     "proveedor": "invid",
     "producto": "Pc Kelyx Intel Celeron N5105 4G SSD 120Gb (GIGA)",
     "categoria": "Computadoras",
-    "precio": 403
+    "precio": 393
   },
   {
     "proveedor": "invid",
     "producto": "Pc Kelyx Intel Celeron N5105 4G SSD 240Gb (GIGA)",
     "categoria": "Computadoras",
-    "precio": 419
+    "precio": 414
   },
   {
     "proveedor": "invid",
     "producto": "Pc Kelyx Intel Celeron N5105 4G SSD 240Gb (GIGA)",
     "categoria": "Computadoras",
-    "precio": 419
+    "precio": 414
   },
   {
     "proveedor": "invid",
     "producto": "Pc Kelyx Intel Core i3-10105 8G (2x4Gb) SSD 480Gb (MSI)",
     "categoria": "Computadoras",
-    "precio": 695
+    "precio": 710
   },
   {
     "proveedor": "invid",
     "producto": "Pc Kelyx Intel Core i3-10105 8G SSD 240Gb (MSI)",
     "categoria": "Computadoras",
-    "precio": 661
+    "precio": 669
   },
   {
     "proveedor": "invid",
     "producto": "Pc Kelyx Intel Core i3-10105F 8G SSD 240Gb + GT 210 (MSI)",
     "categoria": "Computadoras",
-    "precio": 622
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Pc Kelyx Intel Core i5-10400 8G SSD 240Gb (MSI)",
-    "categoria": "Computadoras",
-    "precio": 726
+    "precio": 676
   },
   {
     "proveedor": "invid",
     "producto": "Pc Kelyx Intel Core i5-11400 8G SSD 960Gb (MSI)",
     "categoria": "Computadoras",
-    "precio": 837
+    "precio": 925
   },
   {
     "proveedor": "invid",
     "producto": "Pc Kelyx Intel Core i5-11400 8G SSD 960Gb + Win 11 Pro (MSI)",
     "categoria": "Computadoras",
-    "precio": 1043
+    "precio": 1122
   },
   {
     "proveedor": "invid",
     "producto": "Pc Kelyx Intel Core i5-12400 8G SSD 480Gb (MSI)",
     "categoria": "Computadoras",
-    "precio": 971
+    "precio": 1115
   },
   {
     "proveedor": "invid",
     "producto": "Pc Kelyx Intel Core i7-10700 8Gb SSD 480Gb (MSI)",
     "categoria": "Computadoras",
     "precio": 1064
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Pc Kelyx Intel Core i7-11700 8Gb SSD 480Gb (MSI)",
-    "categoria": "Computadoras",
-    "precio": 1184
   },
   {
     "proveedor": "invid",
@@ -1563,19 +1491,19 @@
     "proveedor": "invid",
     "producto": "Sist. Kelyx Intel Core i3-10105 8G SSD 480Gb + LG 19\" (MSI)",
     "categoria": "Computadoras",
-    "precio": 874
+    "precio": 853
   },
   {
     "proveedor": "invid",
     "producto": "Sist. Kelyx Intel Core i5-11400 8G SSD 480Gb + LG 19\" (MSI)",
     "categoria": "Computadoras",
-    "precio": 971
+    "precio": 1058
   },
   {
     "proveedor": "invid",
     "producto": "Receptor de Audio Bluetooth Logitech 980-001277",
     "categoria": "Accesorios",
-    "precio": 92
+    "precio": 86
   },
   {
     "proveedor": "invid",
@@ -1605,19 +1533,19 @@
     "proveedor": "invid",
     "producto": "Deco X50 POE Pack de 1 Mesh TP Link AX3000 Wifi Gigabit (9844)",
     "categoria": "Conectividad",
-    "precio": 274
+    "precio": 289
   },
   {
     "proveedor": "invid",
     "producto": "Deco X50 POE Pack de 2 Mesh TP Link AX3000 Wifi Gigabit (9837)",
     "categoria": "Conectividad",
-    "precio": 533
+    "precio": 565
   },
   {
     "proveedor": "invid",
     "producto": "Deco X50 POE Pack de 3 Mesh TP Link AX3000 Wifi Gigabit (7918)",
     "categoria": "Conectividad",
-    "precio": 799
+    "precio": 843
   },
   {
     "proveedor": "invid",
@@ -1683,25 +1611,19 @@
     "proveedor": "invid",
     "producto": "Deco E4 Pack de 1 Mesh TP Link AC1200 Wifi System (6787)",
     "categoria": "Conectividad",
-    "precio": 157
+    "precio": 163
   },
   {
     "proveedor": "invid",
     "producto": "Deco E4 Pack de 2 Mesh TP Link AC1200 Wifi System (5278)",
     "categoria": "Conectividad",
-    "precio": 306
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Deco E4 Pack de 3 Mesh TP Link AC1200 Wifi System (6794)",
-    "categoria": "Conectividad",
-    "precio": 415
+    "precio": 333
   },
   {
     "proveedor": "invid",
     "producto": "Deco X60 Pack de 3 Mesh TP Link AX5400 Wifi Gigabit (9325)",
     "categoria": "Conectividad",
-    "precio": 928
+    "precio": 977
   },
   {
     "proveedor": "invid",
@@ -1737,7 +1659,7 @@
     "proveedor": "invid",
     "producto": "MW300RE Mercusys Range Extender 300Mbps 3 Ant Ext (6648)",
     "categoria": "Conectividad",
-    "precio": 47
+    "precio": 49
   },
   {
     "proveedor": "invid",
@@ -1749,37 +1671,37 @@
     "proveedor": "invid",
     "producto": "RE200 Range Extender Dual Band AC750 Universal (0433)",
     "categoria": "Conectividad",
-    "precio": 64
+    "precio": 68
   },
   {
     "proveedor": "invid",
     "producto": "TL-WA801N AP WiFi 300Mbps (N) 2 Ant Fijas (2461)",
     "categoria": "Conectividad",
-    "precio": 71
+    "precio": 69
   },
   {
     "proveedor": "invid",
     "producto": "TL-WA850RE Range Extender 300Mbps Universal (0854)",
     "categoria": "Conectividad",
-    "precio": 56
+    "precio": 61
   },
   {
     "proveedor": "invid",
     "producto": "Tapo L900-10 Tiras de Luz Led Wifi 10mts (1329)",
     "categoria": "Electro",
-    "precio": 131
+    "precio": 126
   },
   {
     "proveedor": "invid",
     "producto": "Tapo L900-5 Tiras de Luz Led Wifi 5mts (2586)",
     "categoria": "Electro",
-    "precio": 73
+    "precio": 71
   },
   {
     "proveedor": "invid",
     "producto": "Tapo L920-5 Tiras de Luz Led Wifi Multicolor 5mts (2609)",
     "categoria": "Electro",
-    "precio": 108
+    "precio": 104
   },
   {
     "proveedor": "invid",
@@ -1899,7 +1821,7 @@
     "proveedor": "invid",
     "producto": "TX201 P.Red 2.5 Gigabit Tp-Link PCIe (7833)",
     "categoria": "Conectividad",
-    "precio": 55
+    "precio": 51
   },
   {
     "proveedor": "invid",
@@ -1911,19 +1833,13 @@
     "proveedor": "invid",
     "producto": "TG-3468 P.Red Gigabit Tp-Link PCIe (1049)",
     "categoria": "Conectividad",
-    "precio": 31
+    "precio": 34
   },
   {
     "proveedor": "invid",
     "producto": "UE200 Adaptador USB 2.0 a Ethernet RJ45 (4614)",
     "categoria": "Conectividad",
     "precio": 30
-  },
-  {
-    "proveedor": "invid",
-    "producto": "UE306 Adaptador USB 3.0 a Ethernet Gigabit RJ45 Black (7376)",
-    "categoria": "Conectividad",
-    "precio": 45
   },
   {
     "proveedor": "invid",
@@ -1947,19 +1863,19 @@
     "proveedor": "invid",
     "producto": "Archer TX55E P.RedW y BT PCIX AX3000 2 AntDet (7390)",
     "categoria": "Conectividad",
-    "precio": 124
+    "precio": 128
   },
   {
     "proveedor": "invid",
     "producto": "ARCHER T2E P.RedW PCIX AC600 1 Ant (6518)",
     "categoria": "Conectividad",
-    "precio": 60
+    "precio": 64
   },
   {
     "proveedor": "invid",
     "producto": "ARCHER T4E P.RedW PCIX AC1200 2 Ant (9931)",
     "categoria": "Conectividad",
-    "precio": 69
+    "precio": 71
   },
   {
     "proveedor": "invid",
@@ -1977,43 +1893,43 @@
     "proveedor": "invid",
     "producto": "TL-WN781ND PRedW PCIEX 150Mbp(LN) AntDet (0511)",
     "categoria": "Conectividad",
-    "precio": 35
+    "precio": 36
   },
   {
     "proveedor": "invid",
     "producto": "TL-WN881ND P.RedW PCIX 300Mb 2 AntDet (0573)",
     "categoria": "Conectividad",
-    "precio": 45
+    "precio": 48
   },
   {
     "proveedor": "invid",
     "producto": "Archer T2UB Nano P.RedW + Bluetooth USB AC600 Dual band",
     "categoria": "Conectividad",
-    "precio": 46
+    "precio": 48
   },
   {
     "proveedor": "invid",
     "producto": "Archer T3U Nano P.RedW USB AC1300 Dual band (2667)",
     "categoria": "Conectividad",
-    "precio": 46
+    "precio": 48
   },
   {
     "proveedor": "invid",
     "producto": "MW150US Nano P.RedW USB Mercusys 150Mbps (0325)",
     "categoria": "Conectividad",
-    "precio": 18
+    "precio": 19
   },
   {
     "proveedor": "invid",
     "producto": "MW300UH Nano P.RedW USB Mercusys 300Mbps 2 Antenas (9602)",
     "categoria": "Conectividad",
-    "precio": 23
+    "precio": 25
   },
   {
     "proveedor": "invid",
     "producto": "MW300UM Mini P.RedW USB Mercusys 300Mbps (0349)",
     "categoria": "Conectividad",
-    "precio": 24
+    "precio": 26
   },
   {
     "proveedor": "invid",
@@ -2043,13 +1959,13 @@
     "proveedor": "invid",
     "producto": "Archer T3U Plus P.RedW USB AC1300 Alta Pot.Dual Mimo (3413)",
     "categoria": "Conectividad",
-    "precio": 63
+    "precio": 65
   },
   {
     "proveedor": "invid",
     "producto": "Archer T4U P.RedW USB AC1300 D.Band (7318)",
     "categoria": "Conectividad",
-    "precio": 51
+    "precio": 53
   },
   {
     "proveedor": "invid",
@@ -2061,13 +1977,13 @@
     "proveedor": "invid",
     "producto": "Archer T9UH P.RedW USB AC1900 D.Band HP (6137)",
     "categoria": "Conectividad",
-    "precio": 63
+    "precio": 66
   },
   {
     "proveedor": "invid",
     "producto": "TL-WN722N P.RedW USB 150Mbps (LN) ConAnt (0467)",
     "categoria": "Conectividad",
-    "precio": 28
+    "precio": 27
   },
   {
     "proveedor": "invid",
@@ -2107,12 +2023,6 @@
   },
   {
     "proveedor": "invid",
-    "producto": "TL-R470T+ Rou Multi Wan Bal Carga (0413)",
-    "categoria": "Conectividad",
-    "precio": 148
-  },
-  {
-    "proveedor": "invid",
     "producto": "TL-R480T+ Rou Multi Wan Bal Carga (0437)",
     "categoria": "Conectividad",
     "precio": 161
@@ -2133,31 +2043,31 @@
     "proveedor": "invid",
     "producto": "ARCHER C86 AC1900 Wir Dual Band 6 Antenas Tp-Link (9882)",
     "categoria": "Conectividad",
-    "precio": 139
+    "precio": 134
   },
   {
     "proveedor": "invid",
     "producto": "Archer MR600 RouWi p/Micro SIM 4G AC1200 2 Ant (9832)",
     "categoria": "Conectividad",
-    "precio": 352
+    "precio": 373
   },
   {
     "proveedor": "invid",
     "producto": "EC220-F5 AC1200 WISP Agile Cfg 10/100 D.Band Tp-(4108)",
     "categoria": "Conectividad",
-    "precio": 67
+    "precio": 65
   },
   {
     "proveedor": "invid",
     "producto": "EC225-G5 AC1300 WISP Agile Cfg Gigabit MuMimo D.Band Tp-Link (4535)",
     "categoria": "Conectividad",
-    "precio": 87
+    "precio": 84
   },
   {
     "proveedor": "invid",
     "producto": "MR20 Router Wir Mercusys AC750 Dual Band 2  (0653)",
     "categoria": "Conectividad",
-    "precio": 48
+    "precio": 51
   },
   {
     "proveedor": "invid",
@@ -2169,25 +2079,19 @@
     "proveedor": "invid",
     "producto": "MR50G Router Wir Mercusys Gigabit  AC1900  6 Ant (0493)",
     "categoria": "Conectividad",
-    "precio": 129
+    "precio": 126
   },
   {
     "proveedor": "invid",
     "producto": "MR70X Router Wir Mercusys Gigabit  AX1800  4 Ant (0609)",
     "categoria": "Conectividad",
-    "precio": 155
+    "precio": 151
   },
   {
     "proveedor": "invid",
     "producto": "MW302R Rou Wi Mercusys 300Mbps N 2 Ant (0912)",
     "categoria": "Conectividad",
-    "precio": 31
-  },
-  {
-    "proveedor": "invid",
-    "producto": "ARCHER AX10 AX1500 Wir DualBand Gigabit Tp-Link (9221)",
-    "categoria": "Conectividad",
-    "precio": 189
+    "precio": 33
   },
   {
     "proveedor": "invid",
@@ -2205,7 +2109,7 @@
     "proveedor": "invid",
     "producto": "ARCHER C6 AC1200 Wir Gigabit Dual Band 4 Ant Tp-Link(8903)",
     "categoria": "Conectividad",
-    "precio": 133
+    "precio": 121
   },
   {
     "proveedor": "invid",
@@ -2217,7 +2121,7 @@
     "proveedor": "invid",
     "producto": "ARCHER C80 AC1900 Wir Dual Band 4 Antenas Tp-Link(8873)",
     "categoria": "Conectividad",
-    "precio": 137
+    "precio": 141
   },
   {
     "proveedor": "invid",
@@ -2251,12 +2155,6 @@
   },
   {
     "proveedor": "invid",
-    "producto": "TL-WR841HP Rou Wi 300Mbps 2Ant Hi Power (0625)",
-    "categoria": "Conectividad",
-    "precio": 111
-  },
-  {
-    "proveedor": "invid",
     "producto": "TL-WR850N WISP Agile Config Rou Wi 300Mbps para ISP (4431)",
     "categoria": "Conectividad",
     "precio": 47
@@ -2265,7 +2163,7 @@
     "proveedor": "invid",
     "producto": "TL-WR940N Rou Wi 450Mbps (N) 3 Ant Fijas (1464)",
     "categoria": "Conectividad",
-    "precio": 74
+    "precio": 79
   },
   {
     "proveedor": "invid",
@@ -2307,7 +2205,7 @@
     "proveedor": "invid",
     "producto": "TL-SG2210MP Switch Gigabit Jetstream 8P POE+SFP Tp-Link (0674)",
     "categoria": "Conectividad",
-    "precio": 406
+    "precio": 389
   },
   {
     "proveedor": "invid",
@@ -2331,25 +2229,25 @@
     "proveedor": "invid",
     "producto": "TL-SG3210 Switch JetStream L2 Gigabit 8P +2 SFP (6396)",
     "categoria": "Conectividad",
-    "precio": 149
+    "precio": 144
   },
   {
     "proveedor": "invid",
     "producto": "TL-SF1024D Switch 24P Tp-Link Desktop (1498)",
     "categoria": "Conectividad",
-    "precio": 86
+    "precio": 90
   },
   {
     "proveedor": "invid",
     "producto": "TL-SG1008MP Switch 8P Giga (8 ptos POE) Desk/Rack (6770)",
     "categoria": "Conectividad",
-    "precio": 195
+    "precio": 187
   },
   {
     "proveedor": "invid",
     "producto": "TL-SG1016PE Switch 16P Giga (8 POE) Tp-Link Smart Rack/Desk (8865)",
     "categoria": "Conectividad",
-    "precio": 228
+    "precio": 207
   },
   {
     "proveedor": "invid",
@@ -2361,13 +2259,13 @@
     "proveedor": "invid",
     "producto": "TL-SG116 Switch 16P TpLink Gigabit No Gestionable (4325)",
     "categoria": "Conectividad",
-    "precio": 211
+    "precio": 196
   },
   {
     "proveedor": "invid",
     "producto": "TL-SF1005D Switch 5P Tp-Link MiniDesktop (0064)",
     "categoria": "Conectividad",
-    "precio": 26
+    "precio": 28
   },
   {
     "proveedor": "invid",
@@ -2385,13 +2283,13 @@
     "proveedor": "invid",
     "producto": "TL-SG1005D Switch 5P TpLink Gigabit Desk (1798)",
     "categoria": "Conectividad",
-    "precio": 84
+    "precio": 91
   },
   {
     "proveedor": "invid",
     "producto": "TL-SG1005P Switch 5P Giga (4 ptos POE) Tp-Link Desk (3212)",
     "categoria": "Conectividad",
-    "precio": 111
+    "precio": 115
   },
   {
     "proveedor": "invid",
@@ -2409,13 +2307,13 @@
     "proveedor": "invid",
     "producto": "TL-SG1016 Switch Gigabit 16P Tp-Link R19(0095)",
     "categoria": "Conectividad",
-    "precio": 172
+    "precio": 178
   },
   {
     "proveedor": "invid",
     "producto": "TL-SG1016DE Switch 16P Giga Tp-Link Smart Rack/Desk(1269)",
     "categoria": "Conectividad",
-    "precio": 162
+    "precio": 169
   },
   {
     "proveedor": "invid",
@@ -2427,13 +2325,13 @@
     "proveedor": "invid",
     "producto": "TL-SG1024DE Switch 24P Gigabit Smart Tp-Link Desk/Rack (1245)",
     "categoria": "Conectividad",
-    "precio": 225
+    "precio": 233
   },
   {
     "proveedor": "invid",
     "producto": "TL-SG1048 Switch Gigabit 48P Tp-Link (1559)",
     "categoria": "Conectividad",
-    "precio": 544
+    "precio": 568
   },
   {
     "proveedor": "invid",
@@ -2517,19 +2415,19 @@
     "proveedor": "invid",
     "producto": "Auricular c/Microfono Logitech H390 Rose 981-001280",
     "categoria": "No existe una categoria para este producto",
-    "precio": 92
+    "precio": 87
   },
   {
     "proveedor": "invid",
-    "producto": "Cámara Bullet 2MP Fixed 2.8mm EXIR30m IP67 (1376)",
+    "producto": "DS-2CD1023G2-I  Cámara IP Bullet 2MP 2.8mm EXIR30m (1376)",
     "categoria": "No existe una categoria para este producto",
-    "precio": 108
+    "precio": 100
   },
   {
     "proveedor": "invid",
     "producto": "Gabinete MSI MAG FORGE M100A Acrilico mATX Fan Front RGB x3 / Back RGB x1 (2237)",
     "categoria": "No existe una categoria para este producto",
-    "precio": 121
+    "precio": 136
   },
   {
     "proveedor": "invid",
@@ -2541,13 +2439,13 @@
     "proveedor": "invid",
     "producto": "Pc Kelyx AMD Ryzen 5-5600G 8G SSD 960Gb (MSI)",
     "categoria": "No existe una categoria para este producto",
-    "precio": 805
+    "precio": 939
   },
   {
     "proveedor": "invid",
     "producto": "Pc Kelyx Intel Core i3-10105 8G SSD 240Gb (MSI)",
     "categoria": "No existe una categoria para este producto",
-    "precio": 661
+    "precio": 669
   },
   {
     "proveedor": "invid",
@@ -2559,7 +2457,7 @@
     "proveedor": "invid",
     "producto": "Parlantes GX/Genius SW-G2.1 2000 II BLK 100-240V Gaming",
     "categoria": "No existe una categoria para este producto",
-    "precio": 172
+    "precio": 153
   },
   {
     "proveedor": "invid",
@@ -2605,12 +2503,6 @@
   },
   {
     "proveedor": "invid",
-    "producto": "HD Toshiba Externo 4TB Canvio Basics USB 3.0 Black (0462)",
-    "categoria": "Almacenamiento Portatil",
-    "precio": 332
-  },
-  {
-    "proveedor": "invid",
     "producto": "HD WD Externo Element 1TB USB 3.0 (5448)",
     "categoria": "Almacenamiento Portatil",
     "precio": 159
@@ -2620,12 +2512,6 @@
     "producto": "HD WD Externo Element 2TB USB 3.0 (5363)",
     "categoria": "Almacenamiento Portatil",
     "precio": 215
-  },
-  {
-    "proveedor": "invid",
-    "producto": "HD WD Externo Element 4TB USB 3.0 (5981)",
-    "categoria": "Almacenamiento Portatil",
-    "precio": 321
   },
   {
     "proveedor": "invid",
@@ -2685,13 +2571,13 @@
     "proveedor": "invid",
     "producto": "Disco SSD Markvision 240Gb Sata Interno BULK (6211)",
     "categoria": "Discos",
-    "precio": 36
+    "precio": 44
   },
   {
     "proveedor": "invid",
     "producto": "Disco SSD Markvision 480Gb Sata Interno BULK(6228)",
     "categoria": "Discos",
-    "precio": 57
+    "precio": 65
   },
   {
     "proveedor": "invid",
@@ -2815,12 +2701,6 @@
   },
   {
     "proveedor": "invid",
-    "producto": "Disco SSD M.2 GIGABYTE 256GB PCIe 4x NVMe (6873)",
-    "categoria": "Discos",
-    "precio": 50
-  },
-  {
-    "proveedor": "invid",
     "producto": "Estabilizador Lyonn Electronico TCA-2000N-V 6 Bocas 220v 0026",
     "categoria": "Estabilizadores y UPS",
     "precio": 42
@@ -2863,12 +2743,6 @@
   },
   {
     "proveedor": "invid",
-    "producto": "Fan Cooler Corsair ML140 ELITE 140mm White Magnetic Levitation (0257)",
-    "categoria": "Refrigeracion",
-    "precio": 34
-  },
-  {
-    "proveedor": "invid",
     "producto": "Fan Cooler Corsair ML140 PRO RGB PWM 140mm Magnetic Levitation Node Pro Pack x2 (5507)",
     "categoria": "Refrigeracion",
     "precio": 68
@@ -2889,19 +2763,7 @@
     "proveedor": "invid",
     "producto": "Fuente de Alimentacion Kelyx 550W PS3 - C/COOLER 8CM Y CABLE (5629)",
     "categoria": "Fuentes",
-    "precio": 23
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Fuente Gigabyte 850W 80 plus Gold Modular PCIe 5.0 for VGAs (3197)",
-    "categoria": "Fuentes",
-    "precio": 232
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Fuente Thermaltake Toughpower GF1 650W 80+ Gold Modular (5531)",
-    "categoria": "Fuentes",
-    "precio": 196
+    "precio": 27
   },
   {
     "proveedor": "invid",
@@ -2947,12 +2809,6 @@
   },
   {
     "proveedor": "invid",
-    "producto": "Fuente Gigabyte 850W 80 plus Gold AORUS Modular (0875)",
-    "categoria": "Fuentes",
-    "precio": 248
-  },
-  {
-    "proveedor": "invid",
     "producto": "Fuente MSI MPG A850GF 850W 80 Plus Gold Modular (4273)",
     "categoria": "Fuentes",
     "precio": 216
@@ -2985,7 +2841,7 @@
     "proveedor": "invid",
     "producto": "Gabinete MSI MAG FORGE M100A Acrilico mATX Fan Front RGB x3 / Back RGB x1 (2237)",
     "categoria": "Gabinetes",
-    "precio": 121
+    "precio": 136
   },
   {
     "proveedor": "invid",
@@ -3004,6 +2860,12 @@
     "producto": "Gabinete TT AH T200 Mid-Tower TG x 2 Snow White (5749)",
     "categoria": "Gabinetes",
     "precio": 263
+  },
+  {
+    "proveedor": "invid",
+    "producto": "Gabinete TT S100 Mid-Tower TG Fan x1 Black (5084)",
+    "categoria": "Gabinetes",
+    "precio": 135
   },
   {
     "proveedor": "invid",
@@ -3055,12 +2917,6 @@
   },
   {
     "proveedor": "invid",
-    "producto": "Gabinete Corsair iCUE 4000X RGB TG Mid-Tower White (6657)",
-    "categoria": "Gabinetes",
-    "precio": 219
-  },
-  {
-    "proveedor": "invid",
     "producto": "Gabinete Gigabyte AC300G AORUS Mid-Tower TG ATX Black (1223)",
     "categoria": "Gabinetes",
     "precio": 204
@@ -3087,7 +2943,7 @@
     "proveedor": "invid",
     "producto": "Kit Kelyx Modelo LC727-14 Fuente 500W Tec/Mou/Parl",
     "categoria": "Gabinetes",
-    "precio": 84
+    "precio": 98
   },
   {
     "proveedor": "invid",
@@ -3189,37 +3045,19 @@
     "proveedor": "invid",
     "producto": "Auricular Wir c/Microfono Logitech G535 Black 981-000971",
     "categoria": "Auriculares",
-    "precio": 262
+    "precio": 285
   },
   {
     "proveedor": "invid",
     "producto": "Auricular Wir c/Microfono Logitech G735 White 981-001082",
     "categoria": "Auriculares",
-    "precio": 338
+    "precio": 362
   },
   {
     "proveedor": "invid",
-    "producto": "Auricular Corsair HS35 Stereo Gaming Carbon (7526)",
+    "producto": "Auricular JBL Quantum One Gaming Surround Negro QuantumSPHERE 360 (9744)",
     "categoria": "Auriculares",
-    "precio": 79
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Auricular Corsair HS35 Stereo Gaming Green (7601)",
-    "categoria": "Auriculares",
-    "precio": 79
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Auricular Corsair HS60 Haptic USB Stereo Camuflados (8942)",
-    "categoria": "Auriculares",
-    "precio": 170
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Auricular Wir c/Microfono Logitech G435 Black 981-001049",
-    "categoria": "Auriculares",
-    "precio": 182
+    "precio": 402
   },
   {
     "proveedor": "invid",
@@ -3231,13 +3069,13 @@
     "proveedor": "invid",
     "producto": "Auricular Wir c/Microfono Logitech G733 Black RGB 981-000863",
     "categoria": "Auriculares",
-    "precio": 356
+    "precio": 338
   },
   {
     "proveedor": "invid",
     "producto": "Mouse Logitech G705 Aurora White Gaming Wireless 910-006366",
     "categoria": "Mouses",
-    "precio": 128
+    "precio": 145
   },
   {
     "proveedor": "invid",
@@ -3265,18 +3103,6 @@
   },
   {
     "proveedor": "invid",
-    "producto": "Mouse Logitech G Pro X Superlight Black 910-005879",
-    "categoria": "Mouses",
-    "precio": 277
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Mouse Logitech G Pro X Superlight White 910-005941",
-    "categoria": "Mouses",
-    "precio": 277
-  },
-  {
-    "proveedor": "invid",
     "producto": "Mouse Logitech G203 Gaming Lightsync Black 910-005793",
     "categoria": "Mouses",
     "precio": 64
@@ -3297,43 +3123,43 @@
     "proveedor": "invid",
     "producto": "Mouse Logitech G305 Lightspeed Wireless Black 910-005281",
     "categoria": "Mouses",
-    "precio": 94
+    "precio": 98
   },
   {
     "proveedor": "invid",
     "producto": "Mouse Logitech G305 Lightspeed Wireless Blue 910-006013",
     "categoria": "Mouses",
-    "precio": 82
+    "precio": 85
   },
   {
     "proveedor": "invid",
     "producto": "Mouse Logitech G305 Lightspeed Wireless Mint 910-006377",
     "categoria": "Mouses",
-    "precio": 79
+    "precio": 82
   },
   {
     "proveedor": "invid",
     "producto": "Mouse Logitech G403 Hero Gaming 910-005631",
     "categoria": "Mouses",
-    "precio": 95
+    "precio": 105
   },
   {
     "proveedor": "invid",
     "producto": "Mouse Logitech G502 Gaming Hero 910-005550",
     "categoria": "Mouses",
-    "precio": 120
+    "precio": 131
   },
   {
     "proveedor": "invid",
     "producto": "Mouse Logitech G502 Wireless Gaming LIGHTSPEED 910-005566",
     "categoria": "Mouses",
-    "precio": 176
+    "precio": 186
   },
   {
     "proveedor": "invid",
     "producto": "Mouse Logitech G604 Gaming Lightspeed Wireless 910-005648",
     "categoria": "Mouses",
-    "precio": 161
+    "precio": 168
   },
   {
     "proveedor": "invid",
@@ -3375,31 +3201,25 @@
     "proveedor": "invid",
     "producto": "Mouse Pad Logitech G440 Gaming 943-000098",
     "categoria": "Mouses",
-    "precio": 35
+    "precio": 33
   },
   {
     "proveedor": "invid",
     "producto": "Parlantes GX/Genius SW-G2.1 1000 BLK 100-240V Gaming (9718)",
     "categoria": "Parlantes",
-    "precio": 123
+    "precio": 109
   },
   {
     "proveedor": "invid",
     "producto": "Parlantes GX/Genius SW-G2.1 2000 II BLK 100-240V Gaming",
     "categoria": "Parlantes",
-    "precio": 172
+    "precio": 153
   },
   {
     "proveedor": "invid",
     "producto": "Parlantes GX/Genius SW-G2.1 3000 II BLK 100-240V Gaming (8353)",
     "categoria": "Parlantes",
-    "precio": 202
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Microfono Razer Seiren V2 X USB Black (7962)",
-    "categoria": "Gamer",
-    "precio": 282
+    "precio": 179
   },
   {
     "proveedor": "invid",
@@ -3445,12 +3265,6 @@
   },
   {
     "proveedor": "invid",
-    "producto": "Teclado Razer Huntsman V2 Analog Optical SP Layout Black (6692)",
-    "categoria": "Teclados",
-    "precio": 547
-  },
-  {
-    "proveedor": "invid",
     "producto": "Teclado Razer Huntsman V2 Tenkeyless Optimal Switch Purple US Layout Black",
     "categoria": "Teclados",
     "precio": 310
@@ -3471,25 +3285,31 @@
     "proveedor": "invid",
     "producto": "Teclado Logitech G915 TKL Black Mech  RGB Wifi 920-009495",
     "categoria": "Teclados",
-    "precio": 373
+    "precio": 348
   },
   {
     "proveedor": "invid",
     "producto": "Teclado Logitech G915 TKL White Mech RGB Wifi 920-009660",
     "categoria": "Teclados",
-    "precio": 373
+    "precio": 348
   },
   {
     "proveedor": "invid",
     "producto": "Teclado Logitech PRO Mechanical RGB Lightsync 920-009388",
     "categoria": "Teclados",
-    "precio": 266
+    "precio": 242
   },
   {
     "proveedor": "invid",
     "producto": "HP Deskjet Advantage 2375 (MF) (7897)",
     "categoria": "Memorias RAM",
     "precio": 224
+  },
+  {
+    "proveedor": "invid",
+    "producto": "HP Deskjet Ink Advantage 2775 (MF) (1856)",
+    "categoria": "Memorias RAM",
+    "precio": 279
   },
   {
     "proveedor": "invid",
@@ -3501,7 +3321,7 @@
     "proveedor": "invid",
     "producto": "Epson L3250 (MF) (8128)",
     "categoria": "Memorias RAM",
-    "precio": 850
+    "precio": 925
   },
   {
     "proveedor": "invid",
@@ -3519,7 +3339,7 @@
     "proveedor": "invid",
     "producto": "Memoria DDR3 Markvision 4Gb 1600 MHz 1.35V BULK (6242)",
     "categoria": "Memorias RAM",
-    "precio": 21
+    "precio": 24
   },
   {
     "proveedor": "invid",
@@ -3604,12 +3424,6 @@
     "producto": "Memoria DDR4 Corsair 16Gb (2x8Gb) 3600 MHz Vengeance RGB RS (8994)",
     "categoria": "Memorias RAM",
     "precio": 116
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Memoria DDR4 Corsair 16Gb 2400 MHz Vengeance LPX Black (5396)",
-    "categoria": "Memorias RAM",
-    "precio": 68
   },
   {
     "proveedor": "invid",
@@ -3727,12 +3541,6 @@
   },
   {
     "proveedor": "invid",
-    "producto": "Memoria DDR4 Corsair 16Gb (2x8Gb) 3600 MHz Vengeance RGB Pro Black (4852)",
-    "categoria": "Memorias RAM",
-    "precio": 124
-  },
-  {
-    "proveedor": "invid",
     "producto": "Memoria DDR4 Corsair 16Gb (2x8Gb) 3600 MHz Vengeance RGB Pro White (8726)",
     "categoria": "Memorias RAM",
     "precio": 124
@@ -3837,7 +3645,7 @@
     "proveedor": "invid",
     "producto": "Memoria SODIMM DDR3 Markvision 4Gb 1600 MHz 1.35V BULK (6365)",
     "categoria": "Memorias RAM",
-    "precio": 21
+    "precio": 24
   },
   {
     "proveedor": "invid",
@@ -3931,12 +3739,6 @@
   },
   {
     "proveedor": "invid",
-    "producto": "Memoria SODIMM DDR4 Corsair 16Gb 2400 MHz 1.2V (9632)",
-    "categoria": "Memorias RAM",
-    "precio": 85
-  },
-  {
-    "proveedor": "invid",
     "producto": "Memoria SODIMM DDR4 Corsair 4Gb 2133 MHz 1.2V (7386)",
     "categoria": "Memorias RAM",
     "precio": 32
@@ -3963,103 +3765,97 @@
     "proveedor": "invid",
     "producto": "Proces. AMD Ryzen  9 7900X3D AM5 CON VIDEO SIN COOLER (4916)",
     "categoria": "Procesadores",
-    "precio": 1713
+    "precio": 1851
   },
   {
     "proveedor": "invid",
     "producto": "Proces. AMD Ryzen 3 3200G 3gen  AM4 C/VIDEO (9851)",
     "categoria": "Procesadores",
-    "precio": 237
+    "precio": 250
   },
   {
     "proveedor": "invid",
     "producto": "Proces. AMD Ryzen 3 4100 SIN VIDEO CON COOLER (4060)",
     "categoria": "Procesadores",
-    "precio": 265
+    "precio": 294
   },
   {
     "proveedor": "invid",
     "producto": "Proces. AMD Ryzen 5  5600 SIN VIDEO CON COOLER (4190)",
     "categoria": "Procesadores",
-    "precio": 519
+    "precio": 494
   },
   {
     "proveedor": "invid",
     "producto": "Proces. AMD Ryzen 5 3600  3gen  AM4 sin video (4299)",
     "categoria": "Procesadores",
-    "precio": 369
+    "precio": 409
   },
   {
     "proveedor": "invid",
     "producto": "Proces. AMD Ryzen 5 4600G AM4 CON VIDEO (3940)",
     "categoria": "Procesadores",
-    "precio": 340
+    "precio": 358
   },
   {
     "proveedor": "invid",
     "producto": "Proces. AMD Ryzen 5 7600 AM5 CON VIDEO CON COOLER (4572)",
     "categoria": "Procesadores",
-    "precio": 732
+    "precio": 714
   },
   {
     "proveedor": "invid",
     "producto": "Proces. AMD Ryzen 7  5700X SIN VIDEO SIN COOLER (4275)",
     "categoria": "Procesadores",
-    "precio": 633
+    "precio": 703
   },
   {
     "proveedor": "invid",
     "producto": "Proces. AMD Ryzen 7 7700 AM5 CON VIDEO CON COOLER (4497)",
     "categoria": "Procesadores",
-    "precio": 1118
+    "precio": 1065
   },
   {
     "proveedor": "invid",
     "producto": "Proces. AMD Ryzen 7 7800X3D AM5 CON VIDEO SIN COOLER",
     "categoria": "Procesadores",
-    "precio": 1368
+    "precio": 1479
   },
   {
     "proveedor": "invid",
     "producto": "Proces. AMD Ryzen 9 7950X3D AM5 CON VIDEO SIN COOLER",
     "categoria": "Procesadores",
-    "precio": 2130
+    "precio": 2303
   },
   {
     "proveedor": "invid",
     "producto": "Proces. AMD Ryzen 5 5600G 5gen  AM4 CON VIDEO (3414)",
     "categoria": "Procesadores",
-    "precio": 494
+    "precio": 549
   },
   {
     "proveedor": "invid",
     "producto": "Proces. AMD Ryzen 5 5600X 5gen  AM4 SIN VIDEO (2042)",
     "categoria": "Procesadores",
-    "precio": 600
+    "precio": 667
   },
   {
     "proveedor": "invid",
     "producto": "Proces. AMD Ryzen 7  5700G 5gen  AM4 CON VIDEO (3377)",
     "categoria": "Procesadores",
-    "precio": 608
+    "precio": 640
   },
   {
     "proveedor": "invid",
     "producto": "Proces. AMD Ryzen 7 5800X  5gen  AM4 SIN VIDEO SIN COOLER(2714)",
     "categoria": "Procesadores",
-    "precio": 986
+    "precio": 939
   },
   {
     "proveedor": "invid",
     "producto": "Proces. AMD Ryzen 7 PRO 4750G  mpk  con video \"CAJA 12 UNIDADES\"",
     "categoria": "Procesadores",
-    "precio": 7132
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Proces. Intel ALDER LAKE  CORE I7 12700 CON VIDEO CON COOLER s1700 (7840)",
-    "categoria": "Procesadores",
-    "precio": 1114
+    "precio": 7507
   },
   {
     "proveedor": "invid",
@@ -4072,12 +3868,6 @@
     "producto": "Proces. Intel RAPTORLAKE CORE I5 13400 CON VIDEO CON COOLER s1700 (0275)",
     "categoria": "Procesadores",
     "precio": 756
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Proces. Intel RAPTORLAKE CORE I7 13700 CON VIDEO CON COOLER s1700 (0213)",
-    "categoria": "Procesadores",
-    "precio": 1382
   },
   {
     "proveedor": "invid",
@@ -4143,7 +3933,7 @@
     "proveedor": "invid",
     "producto": "CELULAR KODAK SEREN D55L 5.5\" 2GB/32GB ANDROID 11 GO EDICION BLANCO (0217)",
     "categoria": "Telefonia",
-    "precio": 89
+    "precio": 97
   },
   {
     "proveedor": "invid",
@@ -4221,13 +4011,13 @@
     "proveedor": "invid",
     "producto": "Tableta D. Genius Easypen I405X (Nuevo PN) (6887)",
     "categoria": "Tablets",
-    "precio": 92
+    "precio": 74
   },
   {
     "proveedor": "invid",
     "producto": "Tableta D. Genius Mousepen i608 (Nuevo PN) (9138)",
     "categoria": "Tablets",
-    "precio": 110
+    "precio": 88
   },
   {
     "proveedor": "invid",
@@ -4285,6 +4075,12 @@
   },
   {
     "proveedor": "invid",
+    "producto": "MONITOR LG 26 ULTRAWIDE 26WQ500-B WFHD NARROW BEZEL (II) (7952)",
+    "categoria": "Monitores",
+    "precio": 384
+  },
+  {
+    "proveedor": "invid",
     "producto": "MONITOR LG 28 DUAL ERGO 28MQ780-B SDQHD 2BPB (II) (9307)",
     "categoria": "Monitores",
     "precio": 1463
@@ -4323,7 +4119,7 @@
     "proveedor": "invid",
     "producto": "Monitor LG 32UN880-B 4K (II) (5680)",
     "categoria": "Monitores",
-    "precio": 1594
+    "precio": 1637
   },
   {
     "proveedor": "invid",
@@ -4383,55 +4179,55 @@
     "proveedor": "invid",
     "producto": "Mother GIGABYTE A520M K V2 DDR4 AM4 (3ra/4ta/5ta Gen) (2771)",
     "categoria": "Motherboards",
-    "precio": 180
+    "precio": 207
   },
   {
     "proveedor": "invid",
     "producto": "Mother MSI A320M-A PRO sAM4 DDR4 (3ra y 5ta Gen) (3889)",
     "categoria": "Motherboards",
-    "precio": 162
+    "precio": 196
   },
   {
     "proveedor": "invid",
     "producto": "Mother MSI B450M-A PRO MAX sAM4 DDR4 (3ra y 5ta gen) (7696)",
     "categoria": "Motherboards",
-    "precio": 211
+    "precio": 223
   },
   {
     "proveedor": "invid",
     "producto": "Mother MSI PRO B550M-P GEN3 DDR4 AM4 (3ra/4ta/5ta Gen)",
     "categoria": "Motherboards",
-    "precio": 248
+    "precio": 264
   },
   {
     "proveedor": "invid",
     "producto": "Mother GIGABYTE B450M DS3H V2 AM4 DDR4 (3ra/4ta/5ta Gen) (0719)",
     "categoria": "Motherboards",
-    "precio": 212
+    "precio": 224
   },
   {
     "proveedor": "invid",
     "producto": "Mother MSI A520M-A PRO sAM4 DDR4 (3ra y 5ta Gen) (9927)",
     "categoria": "Motherboards",
-    "precio": 191
+    "precio": 205
   },
   {
     "proveedor": "invid",
     "producto": "Mother GIGABYTE H470M H 1200 DDR4 (10ma/11va Gen) (1682)",
     "categoria": "Motherboards",
-    "precio": 199
+    "precio": 233
   },
   {
     "proveedor": "invid",
     "producto": "Mother GIGABYTE H510M S2H V2 1200 DDR4 (10ma/11va Gen) (3757)",
     "categoria": "Motherboards",
-    "precio": 182
+    "precio": 237
   },
   {
     "proveedor": "invid",
     "producto": "Mother GIGABYTE H610M H DDR4 1700 (12va/13va Gen) (0465)",
     "categoria": "Motherboards",
-    "precio": 233
+    "precio": 258
   },
   {
     "proveedor": "invid",
@@ -4443,55 +4239,55 @@
     "proveedor": "invid",
     "producto": "Mother MSI H510M PRO-E 1200 DDR4 (10ma/11va Gen) (3447)",
     "categoria": "Motherboards",
-    "precio": 206
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Mother MSI MAG B760 TOMAHAWK WIFI DDR4 1700 (12va/13va Gen)",
-    "categoria": "Motherboards",
-    "precio": 404
+    "precio": 226
   },
   {
     "proveedor": "invid",
     "producto": "Mother MSI MAG Z790 TOMAHAWK WIFI DDR4 1700 (12va/13va Gen)",
     "categoria": "Motherboards",
-    "precio": 647
+    "precio": 699
   },
   {
     "proveedor": "invid",
     "producto": "Mother MSI PRO B660M-G DDR4 1700 (12va/13va Gen) (2475)",
     "categoria": "Motherboards",
-    "precio": 233
+    "precio": 278
   },
   {
     "proveedor": "invid",
     "producto": "Mother MSI PRO H510M-B s1200 DDR4 (solo 10ma gen) (8870)",
     "categoria": "Motherboards",
-    "precio": 203
+    "precio": 225
   },
   {
     "proveedor": "invid",
     "producto": "Mother MSI PRO H610M-G DDR4 1700 (12va/13va Gen) (5024)",
     "categoria": "Motherboards",
-    "precio": 231
+    "precio": 253
   },
   {
     "proveedor": "invid",
     "producto": "Mother MSI PRO Z790-P DDR4 1700 (12va/13va Gen)",
     "categoria": "Motherboards",
-    "precio": 442
+    "precio": 478
   },
   {
     "proveedor": "invid",
     "producto": "Mother GIGABYTE H510M H 1200 DDR4 (10ma/11va Gen) (7428)",
     "categoria": "Motherboards",
-    "precio": 213
+    "precio": 232
   },
   {
     "proveedor": "invid",
     "producto": "Mother MSI B560M PRO-E DDR4 1200 (10ma/11va Gen) (7856)",
     "categoria": "Motherboards",
-    "precio": 213
+    "precio": 229
+  },
+  {
+    "proveedor": "invid",
+    "producto": "Notebook Lenovo  IP 3 15IGL05 N4120 4G 256G  11S",
+    "categoria": "Notebooks",
+    "precio": 949
   },
   {
     "proveedor": "invid",
@@ -4569,49 +4365,49 @@
     "proveedor": "invid",
     "producto": "VGA MSI Radeon RX 7900 XT Gaming TRIO CLASSIC 20G (1056)",
     "categoria": "Placas de video",
-    "precio": 3096
+    "precio": 2944
   },
   {
     "proveedor": "invid",
     "producto": "VGA MSI Radeon RX 7900 XTX Gaming TRIO CLASSIC 24G (1032)",
     "categoria": "Placas de video",
-    "precio": 3568
+    "precio": 3393
   },
   {
     "proveedor": "invid",
     "producto": "VGA Sapphire Radeon RX 6400 PULSE LR GDDR6 4G (2093)",
     "categoria": "Placas de video",
-    "precio": 602
+    "precio": 557
   },
   {
     "proveedor": "invid",
     "producto": "VGA Sapphire Radeon RX 7900 XT PULSE 20GB GDDR6 (3304)",
     "categoria": "Placas de video",
-    "precio": 3143
+    "precio": 3033
   },
   {
     "proveedor": "invid",
     "producto": "VGA Sapphire Radeon RX 7900 XTX NITRO+ VAPOR-X 24GB (328)",
     "categoria": "Placas de video",
-    "precio": 3921
+    "precio": 3784
   },
   {
     "proveedor": "invid",
     "producto": "VGA Sapphire Radeon RX 7900 XTX PULSE 24GB GDDR6 (3267)",
     "categoria": "Placas de video",
-    "precio": 3719
+    "precio": 3588
   },
   {
     "proveedor": "invid",
     "producto": "VGA Sapphire Radeon RX 6500 XT PULSE GAMING OC 4GB LITE (2086)",
     "categoria": "Placas de video",
-    "precio": 796
+    "precio": 737
   },
   {
     "proveedor": "invid",
     "producto": "VGA Sapphire Radeon RX 6600 PULSE GAMING 8GB LITE DUAL FAN (0662)",
     "categoria": "Placas de video",
-    "precio": 1121
+    "precio": 1037
   },
   {
     "proveedor": "invid",
@@ -4627,33 +4423,21 @@
   },
   {
     "proveedor": "invid",
-    "producto": "VGA Gigabyte GeForce RTX 4070 EAGLE OC 12G (2961)",
-    "categoria": "Placas de video",
-    "precio": 1673
-  },
-  {
-    "proveedor": "invid",
-    "producto": "VGA Gigabyte GeForce RTX 4090 WINDFORCE 24G (1476)",
-    "categoria": "Placas de video",
-    "precio": 4459
-  },
-  {
-    "proveedor": "invid",
     "producto": "VGA MSI GeForce GTX 1630 AERO ITX 4G OC (3537)",
     "categoria": "Placas de video",
-    "precio": 565
+    "precio": 526
   },
   {
     "proveedor": "invid",
     "producto": "VGA MSI GeForce GTX 1630 VENTUS XS 4G OC (3520)",
     "categoria": "Placas de video",
-    "precio": 425
+    "precio": 578
   },
   {
     "proveedor": "invid",
     "producto": "VGA MSI GeForce RTX 3050 AERO ITX 8G OC (3301)",
     "categoria": "Placas de video",
-    "precio": 729
+    "precio": 890
   },
   {
     "proveedor": "invid",
@@ -4672,12 +4456,6 @@
     "producto": "VGA MSI GeForce RTX 3050 VENTUS 2X 8G OCV1 (3541)",
     "categoria": "Placas de video",
     "precio": 962
-  },
-  {
-    "proveedor": "invid",
-    "producto": "VGA MSI GeForce RTX 4070 GAMING X TRIO 12G (7797)",
-    "categoria": "Placas de video",
-    "precio": 1700
   },
   {
     "proveedor": "invid",
@@ -4701,13 +4479,13 @@
     "proveedor": "invid",
     "producto": "VGA MSI GeForce GT 710 2G LP DDR3 (0427)",
     "categoria": "Placas de video",
-    "precio": 159
+    "precio": 151
   },
   {
     "proveedor": "invid",
     "producto": "VGA MSI GeForce RTX 3060 Ti VENTUS 2X 8G OCV1 LHR (2061)",
     "categoria": "Placas de video",
-    "precio": 972
+    "precio": 1190
   },
   {
     "proveedor": "invid",
@@ -4723,741 +4501,699 @@
   },
   {
     "proveedor": "invid",
-    "producto": "Caja de empalme Hikvision p/cámara domo (0579)",
+    "producto": "DS-1275ZJ  Soporte vertical 127 × 46 × 250 mm (4044)",
     "categoria": "Conectividad",
-    "precio": 55
+    "precio": 41
   },
   {
     "proveedor": "invid",
-    "producto": "Caja de empalme Hikvision p/cámara domo y bullet (0955)",
-    "categoria": "Conectividad",
-    "precio": 33
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Pack x10 Video Balun 1-ch",
-    "categoria": "Conectividad",
-    "precio": 68
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Soporte horizontal Hikvision 127 × 46 × 250 mm (1533)",
-    "categoria": "Conectividad",
-    "precio": 88
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Soporte vertical Hikvision 127 × 46 × 250 mm (4044)",
-    "categoria": "Conectividad",
-    "precio": 49
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Soporte vertical Hikvision 144 × 131.6 × 44.3 mm (2337)",
-    "categoria": "Conectividad",
-    "precio": 67
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Soporte vertical Hikvision 250 × 127 × 46 mm (1860)",
-    "categoria": "Conectividad",
-    "precio": 88
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Control remoto (AxPro) (5074)",
-    "categoria": "Electro",
-    "precio": 59
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Detector PIR Dual-Tech Wireless (5609)",
-    "categoria": "Electro",
-    "precio": 188
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Interruptor magnético wireles (AxPRO) (5784)",
-    "categoria": "Electro",
-    "precio": 62
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Kit de alarma Hikvision 48 zonas (AxPRO) (1936)",
-    "categoria": "Electro",
-    "precio": 615
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara Bullet 2MP Fixed 2.8mm ColorVu 20m IP67 (4703)",
-    "categoria": "Conectividad",
-    "precio": 74
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara Bullet 2MP Fixed 2.8mm ColorVu 20m IP67 Plástico (4734)",
-    "categoria": "Conectividad",
-    "precio": 69
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara Bullet 2MP Fixed 2.8mm ColorVu 20m WDR 130dB IP67 (8801)",
-    "categoria": "Conectividad",
-    "precio": 96
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara Bullet 2MP Fixed 2.8mm ColorVu 40m IP67 (4857)",
-    "categoria": "Conectividad",
-    "precio": 103
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara Bullet 2MP Fixed 2.8mm ColorVu Dual Light 20m IP67 Audio (1567)",
-    "categoria": "Conectividad",
-    "precio": 79
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara Bullet 2MP Fixed 2.8mm Dual Light 20m IP67 Audio Plástico (6953)",
-    "categoria": "Conectividad",
-    "precio": 64
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara Bullet 2MP Fixed 2.8mm Dual Light 40m IP67 Audio (6915)",
-    "categoria": "Conectividad",
-    "precio": 89
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara Bullet 2MP Fixed 2.8mm Dual Light IR30m IP67 Audio (6960)",
-    "categoria": "Conectividad",
-    "precio": 71
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara Bullet 2MP Fixed 2.8mm IR20m IP67 (8566)",
+    "producto": "DS-1275ZJ-S-SUS  Soporte vertical 144 × 131.6 × 44.3 mm (2337)",
     "categoria": "Conectividad",
     "precio": 56
   },
   {
     "proveedor": "invid",
-    "producto": "Cámara Bullet 2MP Fixed 2.8mm IR20m IP67 Plástico (8603)",
-    "categoria": "Conectividad",
-    "precio": 48
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara Bullet 2MP Varifocal 2.7-13.5mm IR40m IP67 (7531)",
-    "categoria": "Conectividad",
-    "precio": 130
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara Bullet 3K Fixed 2.8mm ColorVu 20m IP67 Audio (0428)",
-    "categoria": "Conectividad",
-    "precio": 117
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara Bullet 3K Fixed 2.8mm ColorVu 20m IP67 Audio Plástico (0442)",
-    "categoria": "Conectividad",
-    "precio": 110
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara Bullet 3K Fixed 2.8mm ColorVu 40m IP67 Audio (0398)",
-    "categoria": "Conectividad",
-    "precio": 144
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara Bullet 3K Fixed 2.8mm Dual Light IR25m IP67 Audio Plástico  (3234)",
-    "categoria": "Conectividad",
-    "precio": 80
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara Bullet 3K Fixed 2.8mm Dual Light IR30m IP67 Audio (3210)",
-    "categoria": "Conectividad",
-    "precio": 85
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara Bullet 3K Fixed 2.8mm Dual Light IR40m IP67 Audio (3203)",
-    "categoria": "Conectividad",
-    "precio": 103
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara PT 2MP Fixed 2.8mm ColorVu 20m WDR 130dB Audio Plástico (5079)",
-    "categoria": "Conectividad",
-    "precio": 113
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara Turret 2MP Fixed 2.8mm ColorVu 20m IP67 (4826)",
+    "producto": "DS-1275ZJ-SUS  Soporte Horizontal (1533)",
     "categoria": "Conectividad",
     "precio": 74
   },
   {
     "proveedor": "invid",
-    "producto": "Cámara Turret 2MP Fixed 2.8mm ColorVu 20m IP67 Audio (5938)",
+    "producto": "DS-1280ZJ-S  Caja de empalme (0579)",
     "categoria": "Conectividad",
-    "precio": 79
+    "precio": 46
   },
   {
     "proveedor": "invid",
-    "producto": "Cámara Turret 2MP Fixed 2.8mm ColorVu 20m Plástico (4796)",
+    "producto": "DS-1280ZJ-XS  Caja de empalme p/cámara domo y bullet  (0955)",
+    "categoria": "Conectividad",
+    "precio": 33
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-1475ZJ-SUS  Soporte Vertival (1860)",
+    "categoria": "Conectividad",
+    "precio": 74
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-1H18S/E  BALUNES Pack x11",
+    "categoria": "Conectividad",
+    "precio": 69
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-PDD12P-EG2-WB  Detector de movimiento PIR Dual-Tech  (5609)",
+    "categoria": "Electro",
+    "precio": 166
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-PDMC-EG2-WB  Interruptor/contacto magnético p/puertas (5784)",
+    "categoria": "Electro",
+    "precio": 61
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-PKF1-WB  Control remoto para Panel AX-PRO (5074)",
+    "categoria": "Electro",
+    "precio": 58
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-PWA48-Kit-WB  Kit de alarma Panel y accesorios 48 zonas  (1936)",
+    "categoria": "Electro",
+    "precio": 606
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-2CE10DF0T-F  Cámara Bullet Metal 2MP 2.8mm ColorVu (4703)",
+    "categoria": "Conectividad",
+    "precio": 73
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-2CE10DF0T-FS  Cámara Bullet Metalica 2MP 2.8mm ColorVu Audio (1567)",
     "categoria": "Conectividad",
     "precio": 66
   },
   {
     "proveedor": "invid",
-    "producto": "Cámara Turret 2MP Fixed 2.8mm ColorVu 20m WDR 130dB IP67 Audio (7421)",
+    "producto": "DS-2CE10DF0T-PF  Cámara Bullet Plastica 2MP 2.8mm ColorVu  (4734)",
     "categoria": "Conectividad",
-    "precio": 105
+    "precio": 65
   },
   {
     "proveedor": "invid",
-    "producto": "Cámara Turret 2MP Fixed 2.8mm Dual Light 20m Audio Plástico (6878)",
+    "producto": "DS-2CE10DF3T-F  Cámara Bullet Metal 2MP 2.8mm ColorVu (8801)",
     "categoria": "Conectividad",
-    "precio": 68
+    "precio": 89
   },
   {
     "proveedor": "invid",
-    "producto": "Cámara Turret 2MP Fixed 2.8mm Dual Light 20m IP67 Audio (6892)",
+    "producto": "DS-2CE10KF0T-FS  Cámara Bullet Metal 3K 2.8mm ColorVu Audio (0428)",
     "categoria": "Conectividad",
-    "precio": 70
+    "precio": 109
   },
   {
     "proveedor": "invid",
-    "producto": "Cámara Turret 2MP Fixed 2.8mm EXIR 20m IP67 (8573)",
+    "producto": "DS-2CE10KF0T-PFS  Cámara Bullet Plastica 3K 2.8mm ColorVu y Audio (0442)",
     "categoria": "Conectividad",
-    "precio": 54
+    "precio": 102
   },
   {
     "proveedor": "invid",
-    "producto": "Cámara Turret 2MP Fixed 2.8mm EXIR 20m Plástico (8610)",
+    "producto": "DS-2CE12DF0T-F  Cámara Bullet Metalica 2MP 2.8mm ColorVu (4857)",
     "categoria": "Conectividad",
-    "precio": 43
+    "precio": 85
   },
   {
     "proveedor": "invid",
-    "producto": "Cámara Turret 2MP Varifocal 2.7-13.5mm IR40m IP67 (7517)",
+    "producto": "DS-2CE12KF0T-FS  Cámara Bullet 3K 2.8mm ColorVu y Audio (0398)",
     "categoria": "Conectividad",
-    "precio": 131
+    "precio": 119
   },
   {
     "proveedor": "invid",
-    "producto": "Cámara Turret 3K Fixed 2.8mm ColorVu 20m Audio (0503)",
+    "producto": "DS-2CE16D0T-EXIF  Cámara Bullet Metalica 2MP 2.8mm IR20m (8566)",
     "categoria": "Conectividad",
-    "precio": 108
+    "precio": 48
   },
   {
     "proveedor": "invid",
-    "producto": "Cámara Turret 3K Fixed 2.8mm Dual Light IR20m Audio (3173)",
+    "producto": "DS-2CE16D0T-EXIPF  Cámara Bullet Plastica 2MP 2.8mm IR20m (8603)",
     "categoria": "Conectividad",
-    "precio": 76
+    "precio": 46
   },
   {
     "proveedor": "invid",
-    "producto": "Cámara Turret 3K Fixed 2.8mm Dual Light IR30m IP67 Audio (3159)",
+    "producto": "DS-2CE16D0T-LFS  Cámara Bullet Metalica 2MP 2.8mm Dual Light Audio (6960)",
     "categoria": "Conectividad",
-    "precio": 86
+    "precio": 63
   },
   {
     "proveedor": "invid",
-    "producto": "Cámara Turret 3K Fixed 2.8mm Dual Light IR40 Audio (3258)",
+    "producto": "DS-2CE16D0T-LPFS  Cámara Bullet Plastica 2MP 2.8mm Dual Light Audio (6953)",
     "categoria": "Conectividad",
-    "precio": 96
+    "precio": 60
   },
   {
     "proveedor": "invid",
-    "producto": "Cámara PTZ 2MP 25X IR100m WDR 120dB IP66 (0458)",
+    "producto": "DS-2CE16K0T-LFS  Cámara Bullet 3K 2.8mm Dual Light y Audio (3210)",
     "categoria": "Conectividad",
-    "precio": 1005
+    "precio": 79
   },
   {
     "proveedor": "invid",
-    "producto": "Cámara Solar 4MP 4mm PIR30m IP66 Audio (8541)",
+    "producto": "DS-2CE16K0T-LPFS  Cámara Bullet Plastica 3K 2.8mm Dual Light Audio (3234)",
     "categoria": "Conectividad",
-    "precio": 875
+    "precio": 75
   },
   {
     "proveedor": "invid",
-    "producto": "Cámara Solar Bullet 8MP 4mm Fixed ColorVu 30m WDR 130dB IP67 (7034)",
+    "producto": "DS-2CE17D0T-LFS  Cámara Bullet 2MP 2.8mm Dual Light Audio (6915)",
     "categoria": "Conectividad",
-    "precio": 6910
+    "precio": 83
   },
   {
     "proveedor": "invid",
-    "producto": "Cámara Bullet 2MP Fixed 2.8mm EXIR30m IP67 (1376)",
+    "producto": "DS-2CE17K0T-LFS  Cámara Bullet 3K 2.8mm Dual Light y Audio (3203)",
     "categoria": "Conectividad",
-    "precio": 108
+    "precio": 91
   },
   {
     "proveedor": "invid",
-    "producto": "Cámara Bullet 2MP Fixed 2.8mm IR60m WDR 120dB IP67 AcuSense (5642)",
-    "categoria": "Conectividad",
-    "precio": 327
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara Bullet 2MP Fixed 2MP 2.8mm DWDR IP66 (2685)",
+    "producto": "DS-2CE19D0T-VFIT3F  Cámara Bullet 2MP Vf 2.7-13.5mm IR40m  (7531)",
     "categoria": "Conectividad",
     "precio": 121
   },
   {
     "proveedor": "invid",
-    "producto": "Cámara Bullet 2MP Varifocal 2.8-12mm IR60m WDR 120dB IP67 IK10 AcuSense (5758)",
+    "producto": "DS-2CE70DF0T-MF  Cámara Turret Metal 2MP 2.8mm ColorVu  (4826)",
     "categoria": "Conectividad",
-    "precio": 520
+    "precio": 69
   },
   {
     "proveedor": "invid",
-    "producto": "Cámara Bullet 4MP Fixed 2.8mm ColorVu 30m WDR 120dB IP67 (8529)",
+    "producto": "DS-2CE70DF0T-MFS  Cámara Turret Metal 2MP 2.8mm ColorVu Audio  (5938)",
     "categoria": "Conectividad",
-    "precio": 185
+    "precio": 65
   },
   {
     "proveedor": "invid",
-    "producto": "Cámara Bullet 4MP Fixed 2.8mm ColorVu 40m WDR 130dB IP67 (3832)",
-    "categoria": "Conectividad",
-    "precio": 377
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara Bullet 4MP Fixed 2.8mm IR40m WDR 120dB IP67 AcuSense (3681)",
-    "categoria": "Conectividad",
-    "precio": 310
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara Bullet 4MP Fixed 4mm ColorVu 30m WDR 120dB IP67 (2151)",
-    "categoria": "Conectividad",
-    "precio": 140
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara Bullet 4MP Fixed 4mm IR80m WDR 120dB IP67 AcuSense (0832)",
-    "categoria": "Conectividad",
-    "precio": 363
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara Bullet 4MP Varifocal 2.8-12mm IR 60m WDR 120dB IP67 IK10 AcuSense (3528)",
-    "categoria": "Conectividad",
-    "precio": 884
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara Bullet 4MP Varifocal 2.8-12mm IR60m WDR 120dB IP67 IK10 AcuSense (3741)",
-    "categoria": "Conectividad",
-    "precio": 594
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara Bullet 5MP Varifocal 2.7-13.5mm IR80m IP67 IK10 AcuSense (9810)",
-    "categoria": "Conectividad",
-    "precio": 1007
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara Domo 2MP Fixed 2.8mm EXIR30m IP66 Audio (7658)",
-    "categoria": "Conectividad",
-    "precio": 189
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara Domo 2MP Fixed 2.8mm IR20m WDR 120dB IP67 IK10 AcuSense (2703)",
-    "categoria": "Conectividad",
-    "precio": 300
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara Domo 2MP Varifocal 2.8-12mm IR40m WDR 120dB IP67 IK10 AcuSense (5819)",
-    "categoria": "Conectividad",
-    "precio": 520
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara Domo 4MP Fixed 2.8mm EXIR30m WDR 120dB IP67 (8208)",
-    "categoria": "Conectividad",
-    "precio": 162
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara Domo 4MP Fixed 2.8mm IR30m WDR 120dB IP67 AcuSense (0894)",
-    "categoria": "Conectividad",
-    "precio": 327
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara Domo 4MP Varifocal 2.8-12mm IR40m WDR 120dB IP67 IK10 AcuSense(0573)",
-    "categoria": "Conectividad",
-    "precio": 594
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara IP Bullet 2MP Fixed 2.8mm ColorVu 30m IP67 (2052)",
-    "categoria": "Conectividad",
-    "precio": 122
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara IP Bullet 2MP Fixed 2.8mm EXIR 30m IP67 Audio (1352)",
-    "categoria": "Conectividad",
-    "precio": 126
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara IP Bullet 2MP Fixed 2.8mm IR30m WDR 120dB IP67 (2650)",
-    "categoria": "Conectividad",
-    "precio": 215
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara IP Bullet 2MP Fixed 2.8mm IR40m WDR 120dB IP67 (6069)",
-    "categoria": "Conectividad",
-    "precio": 288
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara IP Bullet 2MP Varifocal 2.8-12mm EXIR 50m IP67 (1963)",
-    "categoria": "Conectividad",
-    "precio": 301
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara IP Bullet 4MP Fixed 2.8mm EXIR 30m IP67 (8147)",
-    "categoria": "Conectividad",
-    "precio": 162
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara IP Bullet 4MP Varifocal 2.8-12mm EXIR 50m IP67 Audio (1994",
-    "categoria": "Conectividad",
-    "precio": 333
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara IP Bullet 5MP Varifocal 2.7-13.5mm IR40m IP67 (0007)",
-    "categoria": "Conectividad",
-    "precio": 431
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara IP Domo 2MP Fixed 2.8mm ColorVu 30m IP67 IK08 (2205)",
-    "categoria": "Conectividad",
-    "precio": 139
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara IP Domo 2MP Fixed 2.8mm EXIR 30m IP67 (1314)",
-    "categoria": "Conectividad",
-    "precio": 121
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara IP Domo 2MP Fixed 2.8mm IR30m WDR 120dB IP67 IK10 (2674)",
-    "categoria": "Conectividad",
-    "precio": 216
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara IP Domo 2MP Varifocal 2.8-12mm EXIR 30m IP67 IK10 (1888)",
-    "categoria": "Conectividad",
-    "precio": 301
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara IP Turret 2MP Fixed 2.8mm ColorVu 30m IP67 (2113)",
-    "categoria": "Conectividad",
-    "precio": 122
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara IP Turret 2MP Fixed 2.8mm EXIR 30m IP67 (1239)",
-    "categoria": "Conectividad",
-    "precio": 108
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara IP Turret 4MP Fixed 2.8mm ColorVu 30m IP67 (8604)",
-    "categoria": "Conectividad",
-    "precio": 185
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara IP Turret 5MP Varifocal 2.7-13.5mm IR40m IP67 (0014)",
-    "categoria": "Conectividad",
-    "precio": 431
-  },
-  {
-    "proveedor": "invid",
-    "producto": "TAPO C320WS Camara IP Day/Night SD Wifi Ext HD(7031)",
-    "categoria": "Conectividad",
-    "precio": 197
-  },
-  {
-    "proveedor": "invid",
-    "producto": "TAPO C100 Camara IP Day/Night SD Wifi (3222)",
-    "categoria": "Conectividad",
-    "precio": 95
-  },
-  {
-    "proveedor": "invid",
-    "producto": "TAPO C200 Camara IP Mov Remoto Day/Night SD Wifi (8095)",
-    "categoria": "Conectividad",
-    "precio": 112
-  },
-  {
-    "proveedor": "invid",
-    "producto": "TAPO C310 Camara IP Day/Night SD Wifi Exterior (0911)",
-    "categoria": "Conectividad",
-    "precio": 161
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara PTZ 2MP 32X WDR 120dB IP66 IK10 PoE (0519)",
-    "categoria": "Conectividad",
-    "precio": 1485
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara PTZ 2MP 32X WDR 120dB IR200m IP66 IK10 PoE (7114)",
-    "categoria": "Conectividad",
-    "precio": 1750
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Cámara TandemVu PTZ 4MP 25X IR100 IP66 PoE (2526)",
-    "categoria": "Conectividad",
-    "precio": 1451
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Botón de emergencia verde (1204)",
-    "categoria": "Conectividad",
-    "precio": 49
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Lectora de tarjeta (con teclado) Wiegand IP65 (9258)",
+    "producto": "DS-2CE70DF0T-PF  Cámara Turret Plastica 2MP 2.8mm ColorVu (4796)",
     "categoria": "Conectividad",
     "precio": 61
   },
   {
     "proveedor": "invid",
-    "producto": "DVR 16-ch 1080p 1U H.265 Acusense (2672)",
+    "producto": "DS-2CE70DF3T-MFS  Cámara Turret Metalica 2MP 2.8mm ColorVu Audio (7421)",
     "categoria": "Conectividad",
-    "precio": 654
+    "precio": 98
   },
   {
     "proveedor": "invid",
-    "producto": "DVR 16-ch 1080p 1U H.265 Acusense Rec. Facial (8864)",
+    "producto": "DS-2CE70DF3T-PTS  Cámara PT 2MP 2.8mm ColorVu Audio (5079)",
     "categoria": "Conectividad",
-    "precio": 707
+    "precio": 104
   },
   {
     "proveedor": "invid",
-    "producto": "DVR 16-ch analógicos 2-ch IP 1080p 1 SATA H.265 1U (0936)",
+    "producto": "DS-2CE70KF0T-PFS  Cámara Turret 3K 2.8mm ColorVu y Audio (0503)",
     "categoria": "Conectividad",
-    "precio": 352
+    "precio": 90
   },
   {
     "proveedor": "invid",
-    "producto": "DVR 16-ch analógicos 8-ch IP (hasta 24-ch) 1080 2 SATA H.265 1U AcuSense Rec. Facial (7682)",
+    "producto": "DS-2CE76D0T-EXIMF  Cámara Turret Metal 2MP 2.8mm EXIR 20m (8573)",
     "categoria": "Conectividad",
-    "precio": 774
+    "precio": 52
   },
   {
     "proveedor": "invid",
-    "producto": "DVR 32-ch analógicos 8-ch IP (hasta 40-ch) 1080p 2 SATA H.265 1U AcuSense Audio (2764)",
+    "producto": "DS-2CE76D0T-EXIPF  Cámara Plastica Turret 2MP 2.8mm EXIR 20m (8610)",
     "categoria": "Conectividad",
-    "precio": 1600
+    "precio": 38
   },
   {
     "proveedor": "invid",
-    "producto": "DVR 4-ch 1080p 1U H.265 AcuSense Rec. Facial (3909)",
+    "producto": "DS-2CE76D0T-LMFS  Cámara Turret Metalica 2MP 2.8mm DualLight Audio (6892)",
     "categoria": "Conectividad",
-    "precio": 231
+    "precio": 65
   },
   {
     "proveedor": "invid",
-    "producto": "DVR 4-ch analógicos 1-ch IP (hasta 5-ch IP) 720p 1 SATA H.265 1U (0950)",
+    "producto": "DS-2CE76D0T-LPFS  Cámara Turret Plastica 2MP 2.8mm DualLight Audio (6878)",
     "categoria": "Conectividad",
-    "precio": 155
+    "precio": 58
   },
   {
     "proveedor": "invid",
-    "producto": "DVR 4-ch analógicos 2-ch IP (hasta 6-ch) 1080p 1 SATA H.265 1U AcuSense (1438)",
+    "producto": "DS-2CE76K0T-LMFS  Cámara Turret 3K 2.8mm Dual Light Audio (3159)",
     "categoria": "Conectividad",
-    "precio": 249
+    "precio": 84
   },
   {
     "proveedor": "invid",
-    "producto": "DVR 8-ch 1080p 1U H.265 Acusense Rec. Facial (3800)",
+    "producto": "DS-2CE76K0T-LPFS  Cámara Turret 3K 2.8mm Dual Light y Audio (3173)",
     "categoria": "Conectividad",
-    "precio": 413
+    "precio": 67
   },
   {
     "proveedor": "invid",
-    "producto": "DVR 8-ch analógicos 2-ch IP (hasta 10-ch IP) 720p 1 SATA H.265 1U (0943)",
+    "producto": "DS-2CE78K0T-LFS  Cámara Turret 3K 2.8mm Dual Light y Audio (3258)",
     "categoria": "Conectividad",
-    "precio": 187
+    "precio": 85
   },
   {
     "proveedor": "invid",
-    "producto": "DVR 8-ch analógicos 2-ch IP (hasta 10-ch) 1080p 1 SATA H.265 1U AcuSense (1421)",
+    "producto": "DS-2CE79D0T-VFIT3F  Cámara Turret 2MP Vf 2.7-13.5mm (7517)",
     "categoria": "Conectividad",
-    "precio": 365
+    "precio": 121
   },
   {
     "proveedor": "invid",
-    "producto": "NVR 16-ch 4K 16p PoE 2 SATA 1U (6222)",
+    "producto": "DS-2DE4225IW-DE  Cámara IP PTZ 2MP 25X IR100m (0458)",
     "categoria": "Conectividad",
-    "precio": 804
+    "precio": 935
   },
   {
     "proveedor": "invid",
-    "producto": "NVR 16-ch 4K 1U (3023)",
+    "producto": "DS-2XS2T41G0-ID/4G/C04S05  Cámara Solar 4MP 4mm Audio (8541)",
     "categoria": "Conectividad",
-    "precio": 338
+    "precio": 772
   },
   {
     "proveedor": "invid",
-    "producto": "NVR 16-ch 4K 2 SATA 1U (2996)",
+    "producto": "DS-2XS6A87G1-LS/C36S80  Cámara Solar Bullet 8MP 4mm ColorVu (7034)",
     "categoria": "Conectividad",
-    "precio": 400
+    "precio": 5767
   },
   {
     "proveedor": "invid",
-    "producto": "NVR 16-ch 4K 2 SATA 1U AcuSense (5184)",
+    "producto": "DS-2CD1023G2-I  Cámara IP Bullet 2MP 2.8mm EXIR30m (1376)",
     "categoria": "Conectividad",
-    "precio": 555
+    "precio": 100
   },
   {
     "proveedor": "invid",
-    "producto": "NVR 4-ch Mini 1U (2162)",
+    "producto": "DS-2CD1023G2-IUF  Cámara IP Bullet 2MP 2.8mm EXIR 30m Audio  (1352)",
     "categoria": "Conectividad",
-    "precio": 183
+    "precio": 123
   },
   {
     "proveedor": "invid",
-    "producto": "NVR 8-ch 1080p 8p PoE Mini 1U (2087)",
+    "producto": "DS-2CD1027G2-L  Cámara IP Bullet 2MP 2.8mm ColorVu (2052)",
     "categoria": "Conectividad",
-    "precio": 423
+    "precio": 119
   },
   {
     "proveedor": "invid",
-    "producto": "NVR 8-ch 4K 1U (2989)",
+    "producto": "DS-2CD1043G2-I  Cámara IP Bullet 4MP 2.8mm EXIR 30m (8147)",
     "categoria": "Conectividad",
-    "precio": 458
+    "precio": 158
   },
   {
     "proveedor": "invid",
-    "producto": "NVR 8-ch 4K 1U (3016)",
+    "producto": "DS-2CD1047G2-L  Cámara Bullet 4MP 2.8mm ColorVu (8529)",
+    "categoria": "Conectividad",
+    "precio": 171
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-2CD1123G2-I  Cámara IP Domo 2MP 2.8mm EXIR 30m IK10  (1314)",
+    "categoria": "Conectividad",
+    "precio": 107
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-2CD1127G2-L  Cámara IP Domo 2MP 2.8mm ColorVu  (2205)",
+    "categoria": "Conectividad",
+    "precio": 129
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-2CD1323G2-I  Cámara IP Turret 2MP 2.8mm EXIR 30m IK10 (1239)",
+    "categoria": "Conectividad",
+    "precio": 105
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-2CD1327G2-L  Cámara IP Turret 2MP 2.8mm ColorVu (2113)",
+    "categoria": "Conectividad",
+    "precio": 113
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-2CD1343G2-I  Cámara Domo 4MP 2.8mm EXIR30m  (8208)",
+    "categoria": "Conectividad",
+    "precio": 158
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-2CD1347G2-L  Cámara IP Turret 4MP 2.8mm ColorVu (8604)",
+    "categoria": "Conectividad",
+    "precio": 180
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-2CD1623G2-IZ  Cámara IP Bullet 2MP Vf 2.8-12mm (1963)",
+    "categoria": "Conectividad",
+    "precio": 279
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-2CD1643G2-IZS  Cámara IP Bullet 4MP Vf 2.8-12mm Audio (1994)",
+    "categoria": "Conectividad",
+    "precio": 325
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-2CD1723G2-IZ  Cámara IP Domo 2MP Vf 2.8-12mm IK10  (1888)",
+    "categoria": "Conectividad",
+    "precio": 279
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-2CD1T27G2-L  Cámara Bullet 4MP 4mm ColorVu (2151)",
+    "categoria": "Conectividad",
+    "precio": 129
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-2CD2021G1-I  Cámara IP Bullet 2MP 2.8mm IR 30m (2650)",
+    "categoria": "Conectividad",
+    "precio": 190
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-2CD2023G2-I  Cámara IP Bullet 2MP 2.8mm IR40m Acusense (6069)",
+    "categoria": "Conectividad",
+    "precio": 253
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-2CD2043G2-I  Cámara Bullet 4MP AcuSense 2.8mm (3681)",
+    "categoria": "Conectividad",
+    "precio": 273
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-2CD2047G2-LU  Cámara Bullet 4MP Fixed 2.8mm ColorVu (3832)",
+    "categoria": "Conectividad",
+    "precio": 314
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-2CD2121G0-I  Cámara IP Domo 2MP 2.8 mm IR 30m IK10 (2674)",
+    "categoria": "Conectividad",
+    "precio": 190
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-2CD2123G2-IU  Cámara Domo 2MP 2.8mm AcuSense Audio (2703)",
     "categoria": "Conectividad",
     "precio": 294
   },
   {
     "proveedor": "invid",
-    "producto": "NVR 8-ch 4K 1U AcuSense (5191)",
+    "producto": "DS-2CD2143G2-IU  Cámara Domo 4MP Fixed 2.8mm AcuSense y Audio (0894)",
     "categoria": "Conectividad",
-    "precio": 489
+    "precio": 289
   },
   {
     "proveedor": "invid",
-    "producto": "NVR 8-ch 4K 4p PoE 1U AcuSense (5092)",
+    "producto": "DS-2CD2623G2-IZS  Cámara Bullet 2MP Varifocal 2.8-12mm AcuSense (5758)",
     "categoria": "Conectividad",
-    "precio": 828
+    "precio": 459
   },
   {
     "proveedor": "invid",
-    "producto": "NVR 8-ch Mini 1U (2131)",
+    "producto": "DS-2CD2643G2-IZS  Cámara Bullet 4MP Vf 2.8-12mm IK10 AcuSense (3741)",
+    "categoria": "Conectividad",
+    "precio": 580
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-2CD2646G2T-IZS  Cámara Bullet 4MP AcuSense Vf 2.8-12mm (3528)",
+    "categoria": "Conectividad",
+    "precio": 778
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-2CD2723G2-IZS  Cámara Domo 2MP AcuSense Vf 2.8-12mm (5819)",
+    "categoria": "Conectividad",
+    "precio": 459
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-2CD2743G2-IZS  Cámara IP Domo 4MP Vf 2.8-12mm IK10 AcuSense (0573)",
+    "categoria": "Conectividad",
+    "precio": 580
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-2CD2T23G2-2I  Cámara Bullet 2MP AcuSense 2.8mm (5642)",
+    "categoria": "Conectividad",
+    "precio": 289
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-2CD2T43G2-4I  Cámara IP Bullet 4MP 4mm AcuSense   (0832)",
+    "categoria": "Conectividad",
+    "precio": 355
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-2CD3651G0-IZS  Cámara IP Bullet 5MP Vf 2.7-13.5mm (0007)",
+    "categoria": "Conectividad",
+    "precio": 400
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-2CD3656G2-IZS  Cámara Bullet 5MP AcuSense Vf 2.7-13.5mm (9810)",
+    "categoria": "Conectividad",
+    "precio": 886
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-2CD3751G0-IZS  Cámara IP Turret 5MP Vf 2.7-13.5mm IR 40m (0014)",
+    "categoria": "Conectividad",
+    "precio": 379
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-2CV1021G0-IDW1  Cámara IP WIFI Bullet 2MP 2.8mm (2685)",
+    "categoria": "Conectividad",
+    "precio": 113
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-2CV2121G2-IDW  Cámara Domo IP WIFI 2MP 2.8mm Audio (7658)",
+    "categoria": "Conectividad",
+    "precio": 185
+  },
+  {
+    "proveedor": "invid",
+    "producto": "TAPO C320WS Camara IP Day/Night SD Wifi Ext HD(7031)",
+    "categoria": "Conectividad",
+    "precio": 219
+  },
+  {
+    "proveedor": "invid",
+    "producto": "TAPO C500 Camara IP Mov Remoto Exterior Day/Night SD Wifi",
+    "categoria": "Conectividad",
+    "precio": 196
+  },
+  {
+    "proveedor": "invid",
+    "producto": "TAPO C100 Camara IP Day/Night SD Wifi (3222)",
+    "categoria": "Conectividad",
+    "precio": 100
+  },
+  {
+    "proveedor": "invid",
+    "producto": "TAPO C200 Camara IP Mov Remoto Day/Night SD Wifi (8095)",
+    "categoria": "Conectividad",
+    "precio": 118
+  },
+  {
+    "proveedor": "invid",
+    "producto": "TAPO C310 Camara IP Day/Night SD Wifi Exterior (0911)",
+    "categoria": "Conectividad",
+    "precio": 147
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-2DE5232W-AE  Cámara IP PTZ 2MP 32X DarkFighter (0519)",
+    "categoria": "Conectividad",
+    "precio": 1310
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-2DE7A232IW-AEB  Cámara IP PTZ 2MP 32X IR 200mts (7114)",
+    "categoria": "Conectividad",
+    "precio": 1544
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-2SE4C425MWG-E  Cámara TandemVu PTZ 4MP 25X IR100 (2526)",
+    "categoria": "Conectividad",
+    "precio": 1354
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-K1802MK  Lectora de tarjeta (con teclado) Wiegand (9258)",
+    "categoria": "Conectividad",
+    "precio": 59
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-K7PEB/Green  Boton de Emergencia (1204)",
+    "categoria": "Conectividad",
+    "precio": 43
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-7204HGHI-M1  DVR 4-ch 720P analógicos 1-ch IP (0950)",
+    "categoria": "Conectividad",
+    "precio": 180
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-7208HGHI-M1  DVR 8-ch 720P analógicos 2-ch IP (0943)",
+    "categoria": "Conectividad",
+    "precio": 216
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-7216HGHI-M1  DVR 16-ch 720P analógicos 2-ch IP (0936)",
+    "categoria": "Conectividad",
+    "precio": 407
+  },
+  {
+    "proveedor": "invid",
+    "producto": "iDS-7204HQHI-M1/E  DVR 4-ch analógicos 2-ch IP AcuSense (1438)",
+    "categoria": "Conectividad",
+    "precio": 288
+  },
+  {
+    "proveedor": "invid",
+    "producto": "iDS-7204HQHI-M1/FA  DVR 4-ch 1080p AcuSense (3909)",
+    "categoria": "Conectividad",
+    "precio": 253
+  },
+  {
+    "proveedor": "invid",
+    "producto": "iDS-7208HQHI-M1/E  DVR 8-ch analógicos 2-ch IP AcuSense (1421)",
+    "categoria": "Conectividad",
+    "precio": 400
+  },
+  {
+    "proveedor": "invid",
+    "producto": "iDS-7208HQHI-M1/FA  DVR 8-ch 1080p 1U Facial Acusense (3800)",
+    "categoria": "Conectividad",
+    "precio": 504
+  },
+  {
+    "proveedor": "invid",
+    "producto": "iDS-7216HQHI-M1/E  DVR 16-ch analógicos 2-ch IP AcuSense (2672)",
+    "categoria": "Conectividad",
+    "precio": 719
+  },
+  {
+    "proveedor": "invid",
+    "producto": "iDS-7216HQHI-M1/FA  DVR 16-ch 1080p Acusense (8864)",
+    "categoria": "Conectividad",
+    "precio": 775
+  },
+  {
+    "proveedor": "invid",
+    "producto": "iDS-7216HQHI-M2/FA  DVR 16-ch analógicos 2-ch IP AcuSense  (7682)",
+    "categoria": "Conectividad",
+    "precio": 895
+  },
+  {
+    "proveedor": "invid",
+    "producto": "iDS-7232HQHI-M2/S  DVR 32ch analóg 8ch IP (hasta 40ch) 1080p (2764)",
+    "categoria": "Conectividad",
+    "precio": 2044
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-7104NI-Q1/M  NVR 4-ch (2162)",
     "categoria": "Conectividad",
     "precio": 222
   },
   {
     "proveedor": "invid",
-    "producto": "Intercomunicador IP 2MP IR 1-botón WiFi (9403)",
+    "producto": "DS-7108NI-Q1/8P/M  NVR 8-ch 1080p 8p PoE (2087)",
+    "categoria": "Conectividad",
+    "precio": 464
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-7108NI-Q1/M  NVR 8-ch Mini 1U (2131)",
+    "categoria": "Conectividad",
+    "precio": 257
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-7608NI-Q1  NVR de 8 canales 1U 4K (3016)",
+    "categoria": "Conectividad",
+    "precio": 340
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-7608NI-Q2  NVR de 8 canales 1U 4K (2989)",
+    "categoria": "Conectividad",
+    "precio": 531
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-7608NXI-K2  NVR 8-ch 4K 1U AcuSense (5191)",
+    "categoria": "Conectividad",
+    "precio": 596
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-7608NXI-K2/8P  NVR 8-ch 4K 2U 8PoE AcuSense (5092)",
+    "categoria": "Conectividad",
+    "precio": 1009
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-7616NI-Q1  NVR 16-ch 4K 1U (3023)",
+    "categoria": "Conectividad",
+    "precio": 412
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-7616NI-Q2  NVR 16-ch 1U 4K 2 Interfaz SATA (2996)",
+    "categoria": "Conectividad",
+    "precio": 489
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-7616NI-Q2/16P  NVR 16-ch 4K (1CH) 16p PoE 2 SATA  (6222)",
+    "categoria": "Conectividad",
+    "precio": 932
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-7616NXI-K2  NVR 16-ch 4K 1U 2 SATA AcuSense (5184)",
+    "categoria": "Conectividad",
+    "precio": 711
+  },
+  {
+    "proveedor": "invid",
+    "producto": "DS-KV8113-WME1  Estacion de puerta LAN / WIFI (9403)",
     "categoria": "Electro",
-    "precio": 435
+    "precio": 388
   },
   {
     "proveedor": "invid",
     "producto": "CELULAR KODAK SEREN D55L 5.5\" 2GB/32GB ANDROID 11 GO EDICION BLANCO (0217)",
     "categoria": "No existe una categoria para este producto",
-    "precio": 89
+    "precio": 97
   },
   {
     "proveedor": "invid",
-    "producto": "Disco SSD Markvision 240Gb Sata Interno BULK (6211)",
+    "producto": "Pc Gamer Intel Core i3-10105F 16G (2x8Gb) SSD 240Gb GTX 1630 Ventus 4G (GIGA)",
     "categoria": "No existe una categoria para este producto",
-    "precio": 36
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Disco SSD Markvision 480Gb Sata Interno BULK(6228)",
-    "categoria": "No existe una categoria para este producto",
-    "precio": 57
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Fuente de Alimentacion Kelyx 550W PS3 - C/COOLER 8CM Y CABLE (5629)",
-    "categoria": "No existe una categoria para este producto",
-    "precio": 23
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Memoria DDR3 Markvision 4Gb 1600 MHz 1.35V BULK (6242)",
-    "categoria": "No existe una categoria para este producto",
-    "precio": 21
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Memoria SODIMM DDR3 Markvision 4Gb 1600 MHz 1.35V BULK (6365)",
-    "categoria": "No existe una categoria para este producto",
-    "precio": 21
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Mother GIGABYTE H510M S2H V2 1200 DDR4 (10ma/11va Gen) (3757)",
-    "categoria": "No existe una categoria para este producto",
-    "precio": 182
+    "precio": 1166
   },
   {
     "proveedor": "invid",
     "producto": "Tapo L920-5 Tiras de Luz Led Wifi Multicolor 5mts (2609)",
     "categoria": "No existe una categoria para este producto",
-    "precio": 108
-  },
-  {
-    "proveedor": "invid",
-    "producto": "VGA MSI GeForce GTX 1630 VENTUS XS 4G OC (3520)",
-    "categoria": "No existe una categoria para este producto",
-    "precio": 425
-  },
-  {
-    "proveedor": "invid",
-    "producto": "VGA MSI GeForce RTX 3050 AERO ITX 8G OC (3301)",
-    "categoria": "No existe una categoria para este producto",
-    "precio": 729
+    "precio": 104
   },
   {
     "proveedor": "invid",
     "producto": "Auricular c/ Microfono Genius HS-G600V",
     "categoria": "No existe una categoria para este producto",
-    "precio": 44
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Kit Kelyx Modelo LC727-14 Fuente 500W Tec/Mou/Parl",
-    "categoria": "No existe una categoria para este producto",
-    "precio": 84
+    "precio": 49
   },
   {
     "proveedor": "invid",
@@ -5476,11 +5212,5 @@
     "producto": "Parlante JBL BLUETOOTH CHARGE 5 ROJO (2187)",
     "categoria": "No existe una categoria para este producto",
     "precio": 342
-  },
-  {
-    "proveedor": "invid",
-    "producto": "VGA MSI GeForce RTX 3060 Ti VENTUS 2X 8G OCV1 LHR (2061)",
-    "categoria": "No existe una categoria para este producto",
-    "precio": 972
   }
 ]
