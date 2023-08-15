@@ -3,7 +3,7 @@
     "proveedor": "elit",
     "producto": "Resma A4 70gr 500 hojas.",
     "categoria": "Impresoras e Insumos",
-    "precio": 7
+    "precio": 5
   },
   {
     "proveedor": "elit",
@@ -25,15 +25,27 @@
   },
   {
     "proveedor": "elit",
+    "producto": "Teclado c/Cable LOGITECH K120 Negro",
+    "categoria": "Teclados",
+    "precio": 25
+  },
+  {
+    "proveedor": "elit",
     "producto": "Parlante Z120 Stereo",
     "categoria": "Parlantes",
     "precio": 58
   },
   {
     "proveedor": "elit",
+    "producto": "Botella de Tinta EPSON 673 Cian",
+    "categoria": "Impresoras e Insumos",
+    "precio": 26
+  },
+  {
+    "proveedor": "elit",
     "producto": "Disco Externo HDD WESTERN DIGITAL Elements 1TB USB 3.0 Tipo A Negro",
     "categoria": "Almacenamiento Portatil",
-    "precio": 158
+    "precio": 154
   },
   {
     "proveedor": "elit",
@@ -61,6 +73,12 @@
   },
   {
     "proveedor": "elit",
+    "producto": "Mouse c/Cable LOGITECH M90 Negro",
+    "categoria": "Mouses",
+    "precio": 11
+  },
+  {
+    "proveedor": "elit",
     "producto": "Funda p/Tablet BAGS Leopard Estampado",
     "categoria": "Accesorios",
     "precio": 8
@@ -82,6 +100,24 @@
     "producto": "Gabinete M-ATX KIT T M C/ Fuente 500W sin parlante",
     "categoria": "Gabinetes",
     "precio": 102
+  },
+  {
+    "proveedor": "elit",
+    "producto": "Mouse Inalámbrico LOGITECH M170 Plateado",
+    "categoria": "Mouses",
+    "precio": 23
+  },
+  {
+    "proveedor": "elit",
+    "producto": "Mouse Inalámbrico LOGITECH M170 Azul",
+    "categoria": "Mouses",
+    "precio": 23
+  },
+  {
+    "proveedor": "elit",
+    "producto": "Mouse Inalámbrico LOGITECH M170 Rojo",
+    "categoria": "Mouses",
+    "precio": 23
   },
   {
     "proveedor": "elit",
@@ -231,7 +267,7 @@
     "proveedor": "elit",
     "producto": "Auriculares Gaming Ttesports Shock Pro RGB 7.1",
     "categoria": "Auriculares",
-    "precio": 57
+    "precio": 60
   },
   {
     "proveedor": "elit",
@@ -277,21 +313,9 @@
   },
   {
     "proveedor": "elit",
-    "producto": "Tableta Gráfica WACOM Intuos Pro Small Negro",
-    "categoria": "Tablets",
-    "precio": 340
-  },
-  {
-    "proveedor": "elit",
     "producto": "Tarjeta de Memoria KINGSTON Select Plus MicroSDXC 32GB UHS-I U1 V10 A1",
     "categoria": "Almacenamiento Portatil",
     "precio": 10
-  },
-  {
-    "proveedor": "elit",
-    "producto": "Tarjeta de Memoria KINGSTON Select Plus MicroSDXC 64GB UHS-I U1 V10 A1",
-    "categoria": "Almacenamiento Portatil",
-    "precio": 15
   },
   {
     "proveedor": "elit",
@@ -429,13 +453,13 @@
     "proveedor": "elit",
     "producto": "Auricular TRUST GXT 433 Pylo Negro",
     "categoria": "Auriculares",
-    "precio": 47
+    "precio": 42
   },
   {
     "proveedor": "elit",
     "producto": "Mouse c/cable TRUST Gxt 900 Qudos Negro",
     "categoria": "Mouses",
-    "precio": 44
+    "precio": 37
   },
   {
     "proveedor": "elit",
@@ -483,7 +507,7 @@
     "proveedor": "elit",
     "producto": "Auricular TRUST GXT 433K Pylo Negro y Gris",
     "categoria": "Auriculares",
-    "precio": 47
+    "precio": 42
   },
   {
     "proveedor": "elit",
@@ -519,7 +543,7 @@
     "proveedor": "elit",
     "producto": "Procesador AMD Ryzen 5 5600X 3.80GHz AM4 DDR4",
     "categoria": "Procesadores",
-    "precio": 686
+    "precio": 731
   },
   {
     "proveedor": "elit",
@@ -573,7 +597,7 @@
     "proveedor": "elit",
     "producto": "Pen Drive KINGSTON Exodia 64GB USB 3.2 Gen 1 Tipo A Negro",
     "categoria": "Almacenamiento Portatil",
-    "precio": 22
+    "precio": 16
   },
   {
     "proveedor": "elit",
@@ -621,7 +645,7 @@
     "proveedor": "elit",
     "producto": "Memoria Ram UDIMM CRUCIAL Basics 8GB DDR4 2666MHz CL17 1.20V Single Verde",
     "categoria": "Memorias RAM",
-    "precio": 43
+    "precio": 41
   },
   {
     "proveedor": "elit",
@@ -633,7 +657,13 @@
     "proveedor": "elit",
     "producto": "Auricular PRIMUS Arcus90T Violeta",
     "categoria": "Auriculares",
-    "precio": 29
+    "precio": 26
+  },
+  {
+    "proveedor": "elit",
+    "producto": "Procesador INTEL Core i3-10105 3.70GHz LGA1200 DDR4",
+    "categoria": "Procesadores",
+    "precio": 331
   },
   {
     "proveedor": "elit",
@@ -715,15 +745,9 @@
   },
   {
     "proveedor": "elit",
-    "producto": "Procesador AMD Ryzen 5 5600G 3.90GHz AM4 DDR4",
-    "categoria": "Procesadores",
-    "precio": 549
-  },
-  {
-    "proveedor": "elit",
     "producto": "Procesador AMD Ryzen 7 5700G 3.80GHz AM4 DDR4",
     "categoria": "Procesadores",
-    "precio": 747
+    "precio": 871
   },
   {
     "proveedor": "elit",
@@ -754,12 +778,6 @@
     "producto": "Memoria Ram UDIMM KINGSTON Fury Renegade 8GB DDR4 3200MHz CL16 1.35V Single Negro RGB",
     "categoria": "Memorias RAM",
     "precio": 91
-  },
-  {
-    "proveedor": "elit",
-    "producto": "Memoria Ram UDIMM KINGSTON Fury Renegade 8GB DDR4 3600MHz CL16 1.35V Single Negro RGB",
-    "categoria": "Memorias RAM",
-    "precio": 90
   },
   {
     "proveedor": "elit",
@@ -829,6 +847,12 @@
   },
   {
     "proveedor": "elit",
+    "producto": "Auricular KLIP XTREME Dynamik Deportivo Azul",
+    "categoria": "Auriculares",
+    "precio": 43
+  },
+  {
+    "proveedor": "elit",
     "producto": "Impresora Smart Tank 720 Wireless",
     "categoria": "Impresoras e Insumos",
     "precio": 933
@@ -856,6 +880,12 @@
     "producto": "Procesador INTEL Core i5-12400 2.50GHz LGA1700 DDR4/DDR5",
     "categoria": "Procesadores",
     "precio": 631
+  },
+  {
+    "proveedor": "elit",
+    "producto": "Notebook LENOVO IdeaPad 3 14\" Intel Core i3-1115G4 8GB DDR4-3200Mhz Intel UHD Graphics 256GB SSD y 1TB HDD Windows 11 Ho",
+    "categoria": "Notebooks",
+    "precio": 1473
   },
   {
     "proveedor": "elit",
@@ -934,12 +964,6 @@
     "producto": "Air Cooler COOLER MASTER Hyper 212 ARGB",
     "categoria": "Refrigeracion",
     "precio": 106
-  },
-  {
-    "proveedor": "elit",
-    "producto": "Motherboard GIGABYTE H610M S2H Ultra Durable LGA1700 DDR4",
-    "categoria": "Motherboards",
-    "precio": 245
   },
   {
     "proveedor": "elit",
@@ -1065,7 +1089,7 @@
     "proveedor": "elit",
     "producto": "Disco Interno SSD WESTERN DIGITAL Green 240GB 2.5\" SATA 3.0  545MB/s",
     "categoria": "Discos",
-    "precio": 53
+    "precio": 49
   },
   {
     "proveedor": "elit",
@@ -1125,7 +1149,7 @@
     "proveedor": "elit",
     "producto": "Motherboard MSI PRO H610M-G LGA1700 DDR4",
     "categoria": "Motherboards",
-    "precio": 232
+    "precio": 241
   },
   {
     "proveedor": "elit",
@@ -1143,7 +1167,13 @@
     "proveedor": "elit",
     "producto": "Disco Interno SSD WESTERN DIGITAL Green 480GB 2.5\" SATA 3.0  545MB/s",
     "categoria": "Discos",
-    "precio": 82
+    "precio": 75
+  },
+  {
+    "proveedor": "elit",
+    "producto": "Notebook GIGABYTE AERO 16 16\" Intel Core i7-12700H 16GB DDR5-4800Mhz GeForce RTX 3060P 1TB SSD Windows 10 Pro",
+    "categoria": "Notebooks",
+    "precio": 4406
   },
   {
     "proveedor": "elit",
@@ -1185,7 +1215,7 @@
     "proveedor": "elit",
     "producto": "Motherboard MSI PRO H610M-B LGA1700 DDR4",
     "categoria": "Motherboards",
-    "precio": 222
+    "precio": 230
   },
   {
     "proveedor": "elit",
@@ -1215,13 +1245,13 @@
     "proveedor": "elit",
     "producto": "Fuente THERMALTAKE TOUGHPOWER GF1 750W 80 Plus Gold ATX Modular",
     "categoria": "Fuentes",
-    "precio": 186
+    "precio": 189
   },
   {
     "proveedor": "elit",
     "producto": "Fuente THERMALTAKE TOUGHPOWER GF1 650W 80 Plus Gold ATX Modular",
     "categoria": "Fuentes",
-    "precio": 165
+    "precio": 168
   },
   {
     "proveedor": "elit",
@@ -1315,12 +1345,6 @@
   },
   {
     "proveedor": "elit",
-    "producto": "Monitor HP M24fw FHD",
-    "categoria": "Monitores",
-    "precio": 266
-  },
-  {
-    "proveedor": "elit",
     "producto": "Monitor HP X27 FHD IPS Gaming",
     "categoria": "Monitores",
     "precio": 510
@@ -1341,19 +1365,37 @@
     "proveedor": "elit",
     "producto": "Gabinete View 300 MX Negro - ARGB C/ Vidrio Temp",
     "categoria": "Gabinetes",
-    "precio": 393
+    "precio": 329
   },
   {
     "proveedor": "elit",
     "producto": "Gabinete View 300 MX Blanco - ARGB C/ Vidrio Temp",
     "categoria": "Gabinetes",
-    "precio": 393
+    "precio": 329
   },
   {
     "proveedor": "elit",
     "producto": "Motherboard (AM4) GIGABYTE X570SI AORUS PRO AX",
     "categoria": "Motherboards",
     "precio": 669
+  },
+  {
+    "proveedor": "elit",
+    "producto": "Disco Interno SSD KINGSTON NV2 250GB M.2 NVMe PCIe 4.0  3000MB/s",
+    "categoria": "Discos",
+    "precio": 72
+  },
+  {
+    "proveedor": "elit",
+    "producto": "Disco Interno SSD KINGSTON NV2 500GB M.2 NVMe PCIe 4.0  3500MB/s",
+    "categoria": "Discos",
+    "precio": 88
+  },
+  {
+    "proveedor": "elit",
+    "producto": "Cinta de tinta S015329   FX-890 RIBBON",
+    "categoria": "Impresoras e Insumos",
+    "precio": 15
   },
   {
     "proveedor": "elit",
@@ -1384,6 +1426,12 @@
     "producto": "Pen Drive Sandisk Ultra Shift 3.0 USB Black 32GB",
     "categoria": "Almacenamiento Portatil",
     "precio": 11
+  },
+  {
+    "proveedor": "elit",
+    "producto": "Placa GeForce RTX 3060 WINDFORCE OC 12G",
+    "categoria": "Placas de video",
+    "precio": 1236
   },
   {
     "proveedor": "elit",
@@ -1438,6 +1486,12 @@
     "producto": "Procesador Core i3-13100 QCore 3.40GHz 12MB 1700",
     "categoria": "Procesadores",
     "precio": 492
+  },
+  {
+    "proveedor": "elit",
+    "producto": "Disco duro interno WD 4TB 3.5\" Purple SATA 256MB",
+    "categoria": "Discos",
+    "precio": 271
   },
   {
     "proveedor": "elit",

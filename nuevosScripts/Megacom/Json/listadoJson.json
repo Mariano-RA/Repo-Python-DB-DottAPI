@@ -625,6 +625,12 @@
   },
   {
     "proveedor": "mega",
+    "producto": " Cam KODAK Pixpro AZ651 (20Mp-3.0LCD-65x-Bat)",
+    "categoria": "Electro",
+    "precio": 930
+  },
+  {
+    "proveedor": "mega",
     "producto": "Bateria NIKON EN-EL15 D7200/D7500/D500/D810",
     "categoria": "Electro",
     "precio": 57
@@ -652,24 +658,6 @@
     "producto": "CAM CANON PowerShot SX540 HS",
     "categoria": "Electro",
     "precio": 825
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Cam KODAK Pixpro AZ251 (16Mp-3.0LCD-25x-AA)",
-    "categoria": "Electro",
-    "precio": 199
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Cam KODAK Pixpro AZ421 (16Mp-3.0LCD-42x-Bat)",
-    "categoria": "Electro",
-    "precio": 322
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Cam KODAK Pixpro AZ501 (16Mp-3.0LCD-50x-Bat)",
-    "categoria": "Electro",
-    "precio": 396
   },
   {
     "proveedor": "mega",
@@ -1660,12 +1648,6 @@
     "producto": "Minicomponente PHILIPS FX30X/77",
     "categoria": "Parlantes",
     "precio": 214
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Minicomponente PHILIPS FX50X/77",
-    "categoria": "Parlantes",
-    "precio": 285
   },
   {
     "proveedor": "mega",
@@ -4207,15 +4189,21 @@
   },
   {
     "proveedor": "mega",
-    "producto": "Lector Memorias USB NOGA CR-519 (43 EN 1)",
+    "producto": "Lector Mem USB 2.0 MILEC LY-002",
     "categoria": "Accesorios",
-    "precio": 8
+    "precio": 5
   },
   {
     "proveedor": "mega",
-    "producto": "Lector Memorias USB NOGA LY-001",
+    "producto": "Lector Mem USB 2.0 NOGA LY-001",
     "categoria": "Accesorios",
     "precio": 4
+  },
+  {
+    "proveedor": "mega",
+    "producto": "Lector Mem USB NOGA CR-519 (43 EN 1)",
+    "categoria": "Accesorios",
+    "precio": 8
   },
   {
     "proveedor": "mega",
@@ -8193,7 +8181,7 @@
     "proveedor": "mega",
     "producto": "TONER ALT E LEXMARK 12A8305 6K",
     "categoria": "Impresoras e Insumos",
-    "precio": 19
+    "precio": 20
   },
   {
     "proveedor": "mega",
@@ -8547,91 +8535,91 @@
     "proveedor": "mega",
     "producto": "TONER ALT LEXMARK 10S0063 10S0150 E210 2.5K -",
     "categoria": "Impresoras e Insumos",
-    "precio": 26
+    "precio": 27
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt LEXMARK E460X11L Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 48
+    "precio": 51
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt LEXMARK X203A11G Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 44
+    "precio": 32
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt OKI 44574701 44574708 Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 36
+    "precio": 32
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt RICOH 407823 Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 33
+    "precio": 26
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt SAMSUNG CLT-C406S Cia GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 25
+    "precio": 32
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt SAMSUNG CLT-K406S Neg GNEIS",
     "categoria": "Impresoras e Insumos",
-    "precio": 25
+    "precio": 32
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt SAMSUNG CLT-M406S Mag GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 25
+    "precio": 32
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt SAMSUNG CLT-Y406S AMA GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 25
+    "precio": 32
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt SAMSUNG ML-1630A Neg GTC ",
     "categoria": "Impresoras e Insumos",
-    "precio": 19
+    "precio": 20
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt SAMSUNG MLT-2250D5 Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 13
+    "precio": 10
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt SAMSUNG MLT-D101S Neg EVERTEC",
     "categoria": "Impresoras e Insumos",
-    "precio": 30
+    "precio": 32
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt SAMSUNG MLT-D101S Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 30
+    "precio": 32
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt SAMSUNG MLT-D103L Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 30
+    "precio": 32
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt SAMSUNG MLT-D104S Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 32
+    "precio": 35
   },
   {
     "proveedor": "mega",
@@ -8643,7 +8631,7 @@
     "proveedor": "mega",
     "producto": "Toner Alt SAMSUNG MLT-D111S Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 22
+    "precio": 18
   },
   {
     "proveedor": "mega",
@@ -8655,7 +8643,7 @@
     "proveedor": "mega",
     "producto": "Toner Alt SAMSUNG MLT-D205L GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 60
+    "precio": 56
   },
   {
     "proveedor": "mega",
@@ -8667,19 +8655,19 @@
     "proveedor": "mega",
     "producto": "Toner Alt XEROX 106R01531 Neg GLOBAL Phaser 3550",
     "categoria": "Impresoras e Insumos",
-    "precio": 101
+    "precio": 104
   },
   {
     "proveedor": "mega",
     "producto": "Toner Alt XEROX 106R02306 Neg GLOBAL Phaser 3320 ",
     "categoria": "Impresoras e Insumos",
-    "precio": 69
+    "precio": 71
   },
   {
     "proveedor": "mega",
     "producto": "TONER ALT XEROX 106R02312",
     "categoria": "Impresoras e Insumos",
-    "precio": 22
+    "precio": 18
   },
   {
     "proveedor": "mega",
@@ -8703,19 +8691,19 @@
     "proveedor": "mega",
     "producto": "Toner Alt XEROX 108R00909 Neg GLOBAL",
     "categoria": "Impresoras e Insumos",
-    "precio": 42
+    "precio": 32
   },
   {
     "proveedor": "mega",
     "producto": "TONER ALT XEROX 109R00746 109R00747 5K - GLOB",
     "categoria": "Impresoras e Insumos",
-    "precio": 29
+    "precio": 22
   },
   {
     "proveedor": "mega",
     "producto": "Xerox 106R02310 5k - Global Electronics (",
     "categoria": "Impresoras e Insumos",
-    "precio": 55
+    "precio": 56
   },
   {
     "proveedor": "mega",
@@ -11589,103 +11577,103 @@
     "proveedor": "mega",
     "producto": "Micro INTEL 1200 Celeron G5900 CV",
     "categoria": "Procesadores",
-    "precio": 159
+    "precio": 166
   },
   {
     "proveedor": "mega",
     "producto": "Micro INTEL 1200 Core I3 10105 Comet Lake ",
     "categoria": "Procesadores",
-    "precio": 467
+    "precio": 488
   },
   {
     "proveedor": "mega",
     "producto": "Micro INTEL 1200 Core I3 10105F SV CometLake ",
     "categoria": "Procesadores",
-    "precio": 287
+    "precio": 301
   },
   {
     "proveedor": "mega",
     "producto": "Micro INTEL 1200 Core I5 10400 CometLake ",
     "categoria": "Procesadores",
-    "precio": 678
+    "precio": 493
   },
   {
     "proveedor": "mega",
     "producto": "Micro INTEL 1200 Core I5 10400F SV Comet Lake ",
     "categoria": "Procesadores",
-    "precio": 523
+    "precio": 547
   },
   {
     "proveedor": "mega",
     "producto": "Micro INTEL 1200 Core I5 11400 Rocket Lake ",
     "categoria": "Procesadores",
-    "precio": 711
+    "precio": 743
   },
   {
     "proveedor": "mega",
     "producto": "Micro INTEL 1200 Core I7 10700 Comet Lake ",
     "categoria": "Procesadores",
-    "precio": 992
+    "precio": 1036
   },
   {
     "proveedor": "mega",
     "producto": "Micro INTEL 1200 Core I7 10700F SV Comet Lake ",
     "categoria": "Procesadores",
-    "precio": 1045
+    "precio": 1092
   },
   {
     "proveedor": "mega",
     "producto": "Micro INTEL 1200 Core i7 11700 Rocket Lake",
     "categoria": "Procesadores",
-    "precio": 1157
+    "precio": 1209
   },
   {
     "proveedor": "mega",
     "producto": "Micro INTEL 1700 Core I5 12400 CV Alder Lake",
     "categoria": "Procesadores",
-    "precio": 1028
+    "precio": 1075
   },
   {
     "proveedor": "mega",
     "producto": "Micro INTEL 1700 Core I5 13400 CV Raptor Lake",
     "categoria": "Procesadores",
-    "precio": 1082
+    "precio": 1131
   },
   {
     "proveedor": "mega",
     "producto": "Micro INTEL 1700 Core I7 12700 CV Alder Lake",
     "categoria": "Procesadores",
-    "precio": 1593
+    "precio": 1666
   },
   {
     "proveedor": "mega",
     "producto": "Mother AMD AM4 GIGABYTE A520M K V2 DDR4  ",
     "categoria": "Motherboards",
-    "precio": 295
+    "precio": 309
   },
   {
     "proveedor": "mega",
     "producto": "Mother AMD AM4 GIGABYTE B450M DS3H V2 1.0",
     "categoria": "Motherboards",
-    "precio": 320
+    "precio": 335
   },
   {
     "proveedor": "mega",
     "producto": "Mother AMD AM4 MSI A320M-A PRO  DDR4 ",
     "categoria": "Motherboards",
-    "precio": 248
+    "precio": 293
   },
   {
     "proveedor": "mega",
     "producto": "Mother AMD AM4 MSI A520M-A PRO  DDR4",
     "categoria": "Motherboards",
-    "precio": 293
+    "precio": 307
   },
   {
     "proveedor": "mega",
     "producto": "Mother AMD AM4 MSI B450M-A PRO MAX  DDR4 ",
     "categoria": "Motherboards",
-    "precio": 319
+    "precio": 334
   },
   {
     "proveedor": "mega",
@@ -11709,43 +11697,43 @@
     "proveedor": "mega",
     "producto": "Mother INTEL 1200 GIGABYTE  H510M H 1.0",
     "categoria": "Motherboards",
-    "precio": 316
+    "precio": 346
   },
   {
     "proveedor": "mega",
     "producto": "Mother INTEL 1200 GIGABYTE  H510M S2H V2",
     "categoria": "Motherboards",
-    "precio": 323
+    "precio": 354
   },
   {
     "proveedor": "mega",
     "producto": "Mother INTEL 1200 GIGABYTE H470M H  DDR4 ",
     "categoria": "Motherboards",
-    "precio": 305
+    "precio": 349
   },
   {
     "proveedor": "mega",
     "producto": "Mother INTEL 1200 MSI B560M PRO-E DDR4 ",
     "categoria": "Motherboards",
-    "precio": 305
+    "precio": 343
   },
   {
     "proveedor": "mega",
     "producto": "Mother INTEL 1200 MSI H510M PRO-E",
     "categoria": "Motherboards",
-    "precio": 307
+    "precio": 339
   },
   {
     "proveedor": "mega",
     "producto": "Mother INTEL 1338 GIGABYTE  N5105I H",
     "categoria": "Motherboards",
-    "precio": 363
+    "precio": 380
   },
   {
     "proveedor": "mega",
     "producto": "Mother INTEL 1700 GIGABYTE H610M H DDR4 1.2",
     "categoria": "Motherboards",
-    "precio": 341
+    "precio": 385
   },
   {
     "proveedor": "mega",
@@ -17779,57 +17767,69 @@
   },
   {
     "proveedor": "mega",
-    "producto": "Celular APPLE IPHONE 11 64GB  BLACK",
+    "producto": "Celular APPLE IPHONE 11 128GB BLACK",
     "categoria": "Telefonia",
-    "precio": 1253
+    "precio": 1456
   },
   {
     "proveedor": "mega",
-    "producto": "CELULAR APPLE IPHONE 128GB 11 BLACK",
+    "producto": "Celular APPLE IPHONE 11 64GB  BLACK",
     "categoria": "Telefonia",
-    "precio": 1349
+    "precio": 1300
+  },
+  {
+    "proveedor": "mega",
+    "producto": "Celular APPLE IPHONE 12 128GB",
+    "categoria": "Telefonia",
+    "precio": 1709
+  },
+  {
+    "proveedor": "mega",
+    "producto": "Celular APPLE IPHONE 12 256GB",
+    "categoria": "Telefonia",
+    "precio": 1828
+  },
+  {
+    "proveedor": "mega",
+    "producto": "Celular APPLE IPHONE 12 64GB",
+    "categoria": "Telefonia",
+    "precio": 1742
   },
   {
     "proveedor": "mega",
     "producto": "Celular APPLE IPHONE 13 128GB  ",
     "categoria": "Telefonia",
-    "precio": 1831
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Celular APPLE IPHONE 13 MINI 128GB  ",
-    "categoria": "Telefonia",
-    "precio": 1763
+    "precio": 1976
   },
   {
     "proveedor": "mega",
     "producto": "Celular APPLE IPHONE 14 128GB  ",
     "categoria": "Telefonia",
-    "precio": 2072
+    "precio": 2235
+  },
+  {
+    "proveedor": "mega",
+    "producto": "Celular APPLE IPHONE 14 PRO  256GB   ",
+    "categoria": "Telefonia",
+    "precio": 3120
   },
   {
     "proveedor": "mega",
     "producto": "Celular APPLE IPHONE 14 PRO 128GB  ",
     "categoria": "Telefonia",
-    "precio": 2675
+    "precio": 2860
   },
   {
     "proveedor": "mega",
     "producto": "Celular APPLE IPHONE 14 PRO MAX 128GB  ",
     "categoria": "Telefonia",
-    "precio": 2916
+    "precio": 3120
   },
   {
     "proveedor": "mega",
     "producto": "Celular APPLE IPHONE 14 PRO MAX 256GB  ",
     "categoria": "Telefonia",
-    "precio": 3157
-  },
-  {
-    "proveedor": "mega",
-    "producto": "Celular APPLE IPHONE 14PRO  256GB   ",
-    "categoria": "Telefonia",
-    "precio": 2916
+    "precio": 3380
   },
   {
     "proveedor": "mega",

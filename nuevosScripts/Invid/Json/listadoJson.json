@@ -43,18 +43,6 @@
   },
   {
     "proveedor": "invid",
-    "producto": "Auricular Corsair HS65 Gaming Surround 7.1 White (3838)",
-    "categoria": "Auriculares",
-    "precio": 154
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Auricular Corsair HS80 RGB Gaming Surround 7.1 Carbon (4491)",
-    "categoria": "Auriculares",
-    "precio": 218
-  },
-  {
-    "proveedor": "invid",
     "producto": "Auricular HyperX Cloud Flight Wireless HX-HSCF-BK/AM (8207)",
     "categoria": "Auriculares",
     "precio": 252
@@ -109,6 +97,12 @@
   },
   {
     "proveedor": "invid",
+    "producto": "AURICULAR JBL T660 BLUETOOTH NEGRO (3344)",
+    "categoria": "Auriculares",
+    "precio": 275
+  },
+  {
+    "proveedor": "invid",
     "producto": "Auricular JBL WAVE 300 Truly Wireless Blanco (3503)",
     "categoria": "Auriculares",
     "precio": 159
@@ -118,12 +112,6 @@
     "producto": "Auricular Razer Kaira for XBOX Series Wireless White (9195)",
     "categoria": "Auriculares",
     "precio": 211
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Auricular Razer Kaira Pro for PS5 Wireless White/Black (9317)",
-    "categoria": "Auriculares",
-    "precio": 439
   },
   {
     "proveedor": "invid",
@@ -154,12 +142,6 @@
     "producto": "Auricular Wir c/Microfono Logitech Vibe 100 Rose 981-001223",
     "categoria": "Auriculares",
     "precio": 245
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Auricular Wir c/Microfono Logitech Vibe 100 White  981-001218",
-    "categoria": "Auriculares",
-    "precio": 243
   },
   {
     "proveedor": "invid",
@@ -195,7 +177,7 @@
     "proveedor": "invid",
     "producto": "Auricular c/ Microfono Genius HS-G600V",
     "categoria": "Auriculares",
-    "precio": 49
+    "precio": 44
   },
   {
     "proveedor": "invid",
@@ -226,6 +208,12 @@
     "producto": "Auricular Genius HS-M300 Mobile Black",
     "categoria": "Auriculares",
     "precio": 20
+  },
+  {
+    "proveedor": "invid",
+    "producto": "AURICULAR JBL ENDURANCE RUN AZUL  (0124)",
+    "categoria": "Auriculares",
+    "precio": 72
   },
   {
     "proveedor": "invid",
@@ -343,12 +331,6 @@
   },
   {
     "proveedor": "invid",
-    "producto": "Mouse Logitech G502X Gaming White 910-006145",
-    "categoria": "Mouses",
-    "precio": 184
-  },
-  {
-    "proveedor": "invid",
     "producto": "Mouse Logitech G705 Aurora White Gaming Wireless 910-006366",
     "categoria": "Mouses",
     "precio": 145
@@ -391,12 +373,6 @@
   },
   {
     "proveedor": "invid",
-    "producto": "Mouse Logitech Wir Lift ErgoWhite 910-006469",
-    "categoria": "Mouses",
-    "precio": 162
-  },
-  {
-    "proveedor": "invid",
     "producto": "Mouse Logitech Wir M170 Rose Blister 910-006862",
     "categoria": "Mouses",
     "precio": 31
@@ -406,12 +382,6 @@
     "producto": "Mouse Logitech Wir M350 Pebble Lavender 910-006659",
     "categoria": "Mouses",
     "precio": 78
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Mouse Logitech Wir M650 Large White 910-006233",
-    "categoria": "Mouses",
-    "precio": 85
   },
   {
     "proveedor": "invid",
@@ -637,12 +607,6 @@
   },
   {
     "proveedor": "invid",
-    "producto": "Mouse Logitech Wir M170 Blue Blister 910-004800",
-    "categoria": "Mouses",
-    "precio": 30
-  },
-  {
-    "proveedor": "invid",
     "producto": "Mouse Logitech Wir M170 Red Blister 910-004941",
     "categoria": "Mouses",
     "precio": 27
@@ -795,19 +759,25 @@
     "proveedor": "invid",
     "producto": "Parlante JBL BLUETOOTH FLIP6 Gris (3091)",
     "categoria": "Parlantes",
-    "precio": 245
+    "precio": 268
+  },
+  {
+    "proveedor": "invid",
+    "producto": "PARLANTE JBL BLUETOOTH FLIP6 NEGRO (3060)",
+    "categoria": "Parlantes",
+    "precio": 268
   },
   {
     "proveedor": "invid",
     "producto": "Parlante JBL BLUETOOTH FLIP6 ROSA (3114)",
     "categoria": "Parlantes",
-    "precio": 245
+    "precio": 268
   },
   {
     "proveedor": "invid",
     "producto": "Parlante JBL BLUETOOTH FLIP6 VERDE (3138)",
     "categoria": "Parlantes",
-    "precio": 245
+    "precio": 268
   },
   {
     "proveedor": "invid",
@@ -1009,12 +979,6 @@
   },
   {
     "proveedor": "invid",
-    "producto": "Teclado Logitech Bluetooth K380 Sand 920-011149",
-    "categoria": "Teclados",
-    "precio": 79
-  },
-  {
-    "proveedor": "invid",
     "producto": "Teclado Logitech G413 SE Mechanical 920-010433",
     "categoria": "Teclados",
     "precio": 150
@@ -1036,12 +1000,6 @@
     "producto": "Teclado Logitech G715 Aurora White Mech  RGB Wifi 920-010453",
     "categoria": "Teclados",
     "precio": 399
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Teclado Logitech Wireless MX Keys Mini Grey Retroilum 920-010477",
-    "categoria": "Teclados",
-    "precio": 150
   },
   {
     "proveedor": "invid",
@@ -1094,18 +1052,6 @@
   {
     "proveedor": "invid",
     "producto": "Teclado Logitech Bluetooth K380 Grey 920-007562",
-    "categoria": "Teclados",
-    "precio": 82
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Teclado Logitech Bluetooth K380 Rose 920-009594",
-    "categoria": "Teclados",
-    "precio": 75
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Teclado Logitech Bluetooth K380 White 920-009595",
     "categoria": "Teclados",
     "precio": 82
   },
@@ -1405,12 +1351,6 @@
   },
   {
     "proveedor": "invid",
-    "producto": "Pc Kelyx AMD Ryzen 5-5600G 8G SSD 960Gb (MSI)",
-    "categoria": "Computadoras",
-    "precio": 939
-  },
-  {
-    "proveedor": "invid",
     "producto": "Pc Kelyx AMD Ryzen 7-5700G 8G (2x4Gb) SSD 480Gb (MSI)",
     "categoria": "Computadoras",
     "precio": 1051
@@ -1447,15 +1387,15 @@
   },
   {
     "proveedor": "invid",
-    "producto": "Pc Kelyx Intel Core i3-10105 8G SSD 240Gb (MSI)",
+    "producto": "Pc Kelyx Intel Core i3-10105F 8G SSD 240Gb + GT 210 (MSI)",
     "categoria": "Computadoras",
-    "precio": 669
+    "precio": 676
   },
   {
     "proveedor": "invid",
     "producto": "Pc Kelyx Intel Core i3-10105F 8G SSD 240Gb + GT 210 (MSI)",
     "categoria": "Computadoras",
-    "precio": 676
+    "precio": 703
   },
   {
     "proveedor": "invid",
@@ -1509,7 +1449,7 @@
     "proveedor": "invid",
     "producto": "UB400 TP-Link Bluetooth USB Nano Adapter (9664)",
     "categoria": "Accesorios",
-    "precio": 21
+    "precio": 23
   },
   {
     "proveedor": "invid",
@@ -1521,19 +1461,13 @@
     "proveedor": "invid",
     "producto": "Deco S7 Pack de 2 Mesh TP Link AC1900 Giga Wifi System (3039)",
     "categoria": "Conectividad",
-    "precio": 346
+    "precio": 365
   },
   {
     "proveedor": "invid",
     "producto": "Deco S7 Pack de 3 Mesh TP Link AC1900 Giga Wifi System (3022)",
     "categoria": "Conectividad",
-    "precio": 512
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Deco X50 POE Pack de 1 Mesh TP Link AX3000 Wifi Gigabit (9844)",
-    "categoria": "Conectividad",
-    "precio": 289
+    "precio": 541
   },
   {
     "proveedor": "invid",
@@ -1563,13 +1497,13 @@
     "proveedor": "invid",
     "producto": "HC220-G5 Pack de 1 Mesh para ISP TP Link AC1200 Wifi Gigabit (4207)",
     "categoria": "Conectividad",
-    "precio": 143
+    "precio": 151
   },
   {
     "proveedor": "invid",
     "producto": "HC220-G5 Pack de 2 Mesh para ISP TP Link AC1200 Wifi Gigabit (4320)",
     "categoria": "Conectividad",
-    "precio": 275
+    "precio": 289
   },
   {
     "proveedor": "invid",
@@ -1605,25 +1539,19 @@
     "proveedor": "invid",
     "producto": "CPE710 CPE 5 GHz 867 MBps 23dbi High Power AP (9702)",
     "categoria": "Conectividad",
-    "precio": 171
+    "precio": 156
   },
   {
     "proveedor": "invid",
     "producto": "Deco E4 Pack de 1 Mesh TP Link AC1200 Wifi System (6787)",
     "categoria": "Conectividad",
-    "precio": 163
+    "precio": 177
   },
   {
     "proveedor": "invid",
     "producto": "Deco E4 Pack de 2 Mesh TP Link AC1200 Wifi System (5278)",
     "categoria": "Conectividad",
-    "precio": 333
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Deco X60 Pack de 3 Mesh TP Link AX5400 Wifi Gigabit (9325)",
-    "categoria": "Conectividad",
-    "precio": 977
+    "precio": 346
   },
   {
     "proveedor": "invid",
@@ -1659,7 +1587,7 @@
     "proveedor": "invid",
     "producto": "MW300RE Mercusys Range Extender 300Mbps 3 Ant Ext (6648)",
     "categoria": "Conectividad",
-    "precio": 49
+    "precio": 51
   },
   {
     "proveedor": "invid",
@@ -1671,13 +1599,13 @@
     "proveedor": "invid",
     "producto": "RE200 Range Extender Dual Band AC750 Universal (0433)",
     "categoria": "Conectividad",
-    "precio": 68
+    "precio": 71
   },
   {
     "proveedor": "invid",
     "producto": "TL-WA801N AP WiFi 300Mbps (N) 2 Ant Fijas (2461)",
     "categoria": "Conectividad",
-    "precio": 69
+    "precio": 64
   },
   {
     "proveedor": "invid",
@@ -1701,7 +1629,7 @@
     "proveedor": "invid",
     "producto": "Tapo L920-5 Tiras de Luz Led Wifi Multicolor 5mts (2609)",
     "categoria": "Electro",
-    "precio": 104
+    "precio": 100
   },
   {
     "proveedor": "invid",
@@ -1785,13 +1713,13 @@
     "proveedor": "invid",
     "producto": "XC220-G3V Modem Router GPON Voip Gigabit Dual Band AC1200 (4245)",
     "categoria": "Conectividad",
-    "precio": 124
+    "precio": 141
   },
   {
     "proveedor": "invid",
     "producto": "XN020-G3 Modem Router GPON B+ Gigabit Wifi N300 TP Link (4085)",
     "categoria": "Conectividad",
-    "precio": 78
+    "precio": 75
   },
   {
     "proveedor": "invid",
@@ -1803,7 +1731,7 @@
     "proveedor": "invid",
     "producto": "TD-W8961N ModemRouter Wifi N ADSL2 300M (1166)",
     "categoria": "Conectividad",
-    "precio": 78
+    "precio": 73
   },
   {
     "proveedor": "invid",
@@ -1815,13 +1743,13 @@
     "proveedor": "invid",
     "producto": "XN020-G3V Modem Router GPON Voip Gigabit Wifi N300 TP Link (6282)",
     "categoria": "Conectividad",
-    "precio": 81
+    "precio": 78
   },
   {
     "proveedor": "invid",
     "producto": "TX201 P.Red 2.5 Gigabit Tp-Link PCIe (7833)",
     "categoria": "Conectividad",
-    "precio": 51
+    "precio": 49
   },
   {
     "proveedor": "invid",
@@ -1833,7 +1761,7 @@
     "proveedor": "invid",
     "producto": "TG-3468 P.Red Gigabit Tp-Link PCIe (1049)",
     "categoria": "Conectividad",
-    "precio": 34
+    "precio": 35
   },
   {
     "proveedor": "invid",
@@ -1905,13 +1833,13 @@
     "proveedor": "invid",
     "producto": "Archer T2UB Nano P.RedW + Bluetooth USB AC600 Dual band",
     "categoria": "Conectividad",
-    "precio": 48
+    "precio": 49
   },
   {
     "proveedor": "invid",
     "producto": "Archer T3U Nano P.RedW USB AC1300 Dual band (2667)",
     "categoria": "Conectividad",
-    "precio": 48
+    "precio": 49
   },
   {
     "proveedor": "invid",
@@ -1977,7 +1905,7 @@
     "proveedor": "invid",
     "producto": "Archer T9UH P.RedW USB AC1900 D.Band HP (6137)",
     "categoria": "Conectividad",
-    "precio": 66
+    "precio": 63
   },
   {
     "proveedor": "invid",
@@ -2049,7 +1977,7 @@
     "proveedor": "invid",
     "producto": "Archer MR600 RouWi p/Micro SIM 4G AC1200 2 Ant (9832)",
     "categoria": "Conectividad",
-    "precio": 373
+    "precio": 363
   },
   {
     "proveedor": "invid",
@@ -2067,13 +1995,13 @@
     "proveedor": "invid",
     "producto": "MR20 Router Wir Mercusys AC750 Dual Band 2  (0653)",
     "categoria": "Conectividad",
-    "precio": 51
+    "precio": 52
   },
   {
     "proveedor": "invid",
     "producto": "MR30G Router Wir Mercusys Gigabit  AC1200  4 Ant (0615)",
     "categoria": "Conectividad",
-    "precio": 79
+    "precio": 81
   },
   {
     "proveedor": "invid",
@@ -2127,13 +2055,13 @@
     "proveedor": "invid",
     "producto": "MW305R Rou Wi Mercusys 300Mbps N 3 Ant (0400)",
     "categoria": "Conectividad",
-    "precio": 36
+    "precio": 38
   },
   {
     "proveedor": "invid",
     "producto": "MW325R Rou Wi Mercusys 300Mbps N 4 Ant (0424)",
     "categoria": "Conectividad",
-    "precio": 38
+    "precio": 40
   },
   {
     "proveedor": "invid",
@@ -2145,7 +2073,7 @@
     "proveedor": "invid",
     "producto": "TL-WR820N Rou Wi 300Mbps N 2 Antenas Fijas (3086)",
     "categoria": "Conectividad",
-    "precio": 53
+    "precio": 58
   },
   {
     "proveedor": "invid",
@@ -2163,7 +2091,7 @@
     "proveedor": "invid",
     "producto": "TL-WR940N Rou Wi 450Mbps (N) 3 Ant Fijas (1464)",
     "categoria": "Conectividad",
-    "precio": 79
+    "precio": 81
   },
   {
     "proveedor": "invid",
@@ -2175,7 +2103,7 @@
     "proveedor": "invid",
     "producto": "EAP235 Wall AC1200 Mbps AP Mu-Mimo Gigabit p/caja de Pared (8972)",
     "categoria": "Conectividad",
-    "precio": 181
+    "precio": 190
   },
   {
     "proveedor": "invid",
@@ -2200,12 +2128,6 @@
     "producto": "TL-SG2008P Switch Gigabit Smart 8P (4 POE) Tp-Link (2957)",
     "categoria": "Conectividad",
     "precio": 138
-  },
-  {
-    "proveedor": "invid",
-    "producto": "TL-SG2210MP Switch Gigabit Jetstream 8P POE+SFP Tp-Link (0674)",
-    "categoria": "Conectividad",
-    "precio": 389
   },
   {
     "proveedor": "invid",
@@ -2241,7 +2163,7 @@
     "proveedor": "invid",
     "producto": "TL-SG1008MP Switch 8P Giga (8 ptos POE) Desk/Rack (6770)",
     "categoria": "Conectividad",
-    "precio": 187
+    "precio": 195
   },
   {
     "proveedor": "invid",
@@ -2265,7 +2187,7 @@
     "proveedor": "invid",
     "producto": "TL-SF1005D Switch 5P Tp-Link MiniDesktop (0064)",
     "categoria": "Conectividad",
-    "precio": 28
+    "precio": 29
   },
   {
     "proveedor": "invid",
@@ -2283,7 +2205,7 @@
     "proveedor": "invid",
     "producto": "TL-SG1005D Switch 5P TpLink Gigabit Desk (1798)",
     "categoria": "Conectividad",
-    "precio": 91
+    "precio": 95
   },
   {
     "proveedor": "invid",
@@ -2299,12 +2221,6 @@
   },
   {
     "proveedor": "invid",
-    "producto": "TL-SG1008P Switch 8P Giga (4 ptos POE) Tp-Link Desk (1160)",
-    "categoria": "Conectividad",
-    "precio": 129
-  },
-  {
-    "proveedor": "invid",
     "producto": "TL-SG1016 Switch Gigabit 16P Tp-Link R19(0095)",
     "categoria": "Conectividad",
     "precio": 178
@@ -2313,7 +2229,7 @@
     "proveedor": "invid",
     "producto": "TL-SG1016DE Switch 16P Giga Tp-Link Smart Rack/Desk(1269)",
     "categoria": "Conectividad",
-    "precio": 169
+    "precio": 175
   },
   {
     "proveedor": "invid",
@@ -2343,7 +2259,7 @@
     "proveedor": "invid",
     "producto": "TL-SG116E Switch 16P TpLink Gigabit No Gestionable Pro (4301)",
     "categoria": "Conectividad",
-    "precio": 206
+    "precio": 199
   },
   {
     "proveedor": "invid",
@@ -2433,19 +2349,19 @@
     "proveedor": "invid",
     "producto": "Notebook Lenovo IP 1 15ADA7 R7 8G 512G SIN SO (0396)",
     "categoria": "No existe una categoria para este producto",
-    "precio": 1168
+    "precio": 1402
   },
   {
     "proveedor": "invid",
-    "producto": "Pc Kelyx AMD Ryzen 5-5600G 8G SSD 960Gb (MSI)",
+    "producto": "Pc Kelyx AMD Ryzen 3-3200G 8G SSD 480Gb (GIGA)",
     "categoria": "No existe una categoria para este producto",
-    "precio": 939
+    "precio": 646
   },
   {
     "proveedor": "invid",
-    "producto": "Pc Kelyx Intel Core i3-10105 8G SSD 240Gb (MSI)",
+    "producto": "Sist. Kelyx Intel Core i5-11400 8G SSD 480Gb + LG 19\" (MSI)",
     "categoria": "No existe una categoria para este producto",
-    "precio": 669
+    "precio": 1058
   },
   {
     "proveedor": "invid",
@@ -2635,6 +2551,42 @@
   },
   {
     "proveedor": "invid",
+    "producto": "Disco SSD M.2 Corsair 1TB MP600 CORE XT Gen4 PCIe x4 NVMe (1975)",
+    "categoria": "Discos",
+    "precio": 148
+  },
+  {
+    "proveedor": "invid",
+    "producto": "Disco SSD M.2 Corsair 1TB MP600 PRO LPX PCIe Gen4 x 4 NVMe p/PS5 Black (7781)",
+    "categoria": "Discos",
+    "precio": 222
+  },
+  {
+    "proveedor": "invid",
+    "producto": "Disco SSD M.2 Corsair 1TB MP600 PRO LPX PCIe Gen4 x 4 NVMe p/PS5 White (2119)",
+    "categoria": "Discos",
+    "precio": 222
+  },
+  {
+    "proveedor": "invid",
+    "producto": "Disco SSD M.2 Corsair 2TB MP600 CORE XT Gen4 PCIe x4 NVMe (1982)",
+    "categoria": "Discos",
+    "precio": 237
+  },
+  {
+    "proveedor": "invid",
+    "producto": "Disco SSD M.2 Corsair 2TB MP600 PRO LPX PCIe Gen4 x 4 NVMe p/PS5 Black (7798)",
+    "categoria": "Discos",
+    "precio": 400
+  },
+  {
+    "proveedor": "invid",
+    "producto": "Disco SSD M.2 Corsair 2TB MP600 PRO LPX PCIe Gen4 x 4 NVMe p/PS5 White (2133)",
+    "categoria": "Discos",
+    "precio": 400
+  },
+  {
+    "proveedor": "invid",
     "producto": "Disco SSD M.2 HIKVISION 1024Gb E1000 PCIE NVMe Gen3 (8629)",
     "categoria": "Discos",
     "precio": 159
@@ -2755,6 +2707,12 @@
   },
   {
     "proveedor": "invid",
+    "producto": "Fuente Corsair CV750 750W 80 Plus Bronze (0203)",
+    "categoria": "Fuentes",
+    "precio": 264
+  },
+  {
+    "proveedor": "invid",
     "producto": "Fuente de Alimentacion Kelyx 550W ATX - C/COOLER 12CM Y CABLE (1970)",
     "categoria": "Fuentes",
     "precio": 36
@@ -2767,6 +2725,12 @@
   },
   {
     "proveedor": "invid",
+    "producto": "Fuente Thermaltake Toughpower GF1 650W 80+ Gold Modular (5531)",
+    "categoria": "Fuentes",
+    "precio": 196
+  },
+  {
+    "proveedor": "invid",
     "producto": "Fuente Thermaltake Toughpower GF1 750W 80+ Gold Modular (5586)",
     "categoria": "Fuentes",
     "precio": 214
@@ -2776,6 +2740,18 @@
     "producto": "Fuente Thermaltake Toughpower GF1 850W 80+ Gold Modular (5609)",
     "categoria": "Fuentes",
     "precio": 224
+  },
+  {
+    "proveedor": "invid",
+    "producto": "Fuente Corsair CV550 550W 80 Plus Bronze (5026)",
+    "categoria": "Fuentes",
+    "precio": 205
+  },
+  {
+    "proveedor": "invid",
+    "producto": "Fuente Corsair CV650 650W 80 Plus Bronze (0029)",
+    "categoria": "Fuentes",
+    "precio": 220
   },
   {
     "proveedor": "invid",
@@ -2839,6 +2815,30 @@
   },
   {
     "proveedor": "invid",
+    "producto": "Gabinete Corsair iCUE 4000D RGB Airflow TG Mid-Tower Black (4304)",
+    "categoria": "Gabinetes",
+    "precio": 497
+  },
+  {
+    "proveedor": "invid",
+    "producto": "Gabinete Corsair iCUE 4000D RGB Airflow TG Mid-Tower White (4328)",
+    "categoria": "Gabinetes",
+    "precio": 497
+  },
+  {
+    "proveedor": "invid",
+    "producto": "Gabinete Corsair iCUE 5000D RGB Airflow TG Mid-Tower Black (4342)",
+    "categoria": "Gabinetes",
+    "precio": 625
+  },
+  {
+    "proveedor": "invid",
+    "producto": "Gabinete Corsair iCUE 5000D RGB Airflow TG Mid-Tower White (4366)",
+    "categoria": "Gabinetes",
+    "precio": 625
+  },
+  {
+    "proveedor": "invid",
     "producto": "Gabinete MSI MAG FORGE M100A Acrilico mATX Fan Front RGB x3 / Back RGB x1 (2237)",
     "categoria": "Gabinetes",
     "precio": 136
@@ -2863,12 +2863,6 @@
   },
   {
     "proveedor": "invid",
-    "producto": "Gabinete TT S100 Mid-Tower TG Fan x1 Black (5084)",
-    "categoria": "Gabinetes",
-    "precio": 135
-  },
-  {
-    "proveedor": "invid",
     "producto": "Gabinete TT S200 Mid-Tower TG Fan x3 ARGB Black (3645)",
     "categoria": "Gabinetes",
     "precio": 197
@@ -2878,12 +2872,6 @@
     "producto": "Gabinete TT S200 Mid-Tower TG Fan x3 ARGB Snow White(3652)",
     "categoria": "Gabinetes",
     "precio": 207
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Gabinete TT The Tower 500 Mid-Tower TG x3 Fan x 2 Black (1016)",
-    "categoria": "Gabinetes",
-    "precio": 219
   },
   {
     "proveedor": "invid",
@@ -2917,9 +2905,27 @@
   },
   {
     "proveedor": "invid",
-    "producto": "Gabinete Gigabyte AC300G AORUS Mid-Tower TG ATX Black (1223)",
+    "producto": "Gabinete Corsair 4000D Airflow TG Mid-Tower ATX Black (1904)",
     "categoria": "Gabinetes",
-    "precio": 204
+    "precio": 246
+  },
+  {
+    "proveedor": "invid",
+    "producto": "Gabinete Corsair 4000D Airflow TG Mid-Tower ATX White (1928)",
+    "categoria": "Gabinetes",
+    "precio": 284
+  },
+  {
+    "proveedor": "invid",
+    "producto": "Gabinete Corsair iCUE 4000X RGB TG Mid-Tower Black (6633)",
+    "categoria": "Gabinetes",
+    "precio": 426
+  },
+  {
+    "proveedor": "invid",
+    "producto": "Gabinete Corsair iCUE 4000X RGB TG Mid-Tower White (6657)",
+    "categoria": "Gabinetes",
+    "precio": 426
   },
   {
     "proveedor": "invid",
@@ -2931,19 +2937,31 @@
     "proveedor": "invid",
     "producto": "Kit Kelyx Modelo LC728-12 Fuente 500W Tec/Mouse",
     "categoria": "Gabinetes",
-    "precio": 87
+    "precio": 90
   },
   {
     "proveedor": "invid",
     "producto": "Kit Kelyx Modelo LC727-08A SLIM Fuente 500W Tec/Mou/Parl/C. Reader",
     "categoria": "Gabinetes",
-    "precio": 126
+    "precio": 122
   },
   {
     "proveedor": "invid",
     "producto": "Kit Kelyx Modelo LC727-14 Fuente 500W Tec/Mou/Parl",
     "categoria": "Gabinetes",
-    "precio": 98
+    "precio": 96
+  },
+  {
+    "proveedor": "invid",
+    "producto": "Pasta Térmica Corsair TM30 de alto rendimiento para CPU / GPU (4506)",
+    "categoria": "No existe una categoria para este producto",
+    "precio": 22
+  },
+  {
+    "proveedor": "invid",
+    "producto": "Pasta Térmica Corsair XTM50 de alto rendimiento para CPU / GPU (4513)",
+    "categoria": "No existe una categoria para este producto",
+    "precio": 49
   },
   {
     "proveedor": "invid",
@@ -2977,18 +2995,6 @@
   },
   {
     "proveedor": "invid",
-    "producto": "Auricular Corsair HS65 Gaming Surround 7.1 White (3838)",
-    "categoria": "Auriculares",
-    "precio": 154
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Auricular Corsair HS80 RGB Gaming Surround 7.1 Carbon (4491)",
-    "categoria": "Auriculares",
-    "precio": 218
-  },
-  {
-    "proveedor": "invid",
     "producto": "Auricular HyperX Cloud Flight Wireless HX-HSCF-BK/AM (8207)",
     "categoria": "Auriculares",
     "precio": 252
@@ -3016,12 +3022,6 @@
     "producto": "Auricular Razer Kaira for XBOX Series Wireless White (9195)",
     "categoria": "Auriculares",
     "precio": 211
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Auricular Razer Kaira Pro for PS5 Wireless White/Black (9317)",
-    "categoria": "Auriculares",
-    "precio": 439
   },
   {
     "proveedor": "invid",
@@ -3307,12 +3307,6 @@
   },
   {
     "proveedor": "invid",
-    "producto": "HP Deskjet Ink Advantage 2775 (MF) (1856)",
-    "categoria": "Memorias RAM",
-    "precio": 279
-  },
-  {
-    "proveedor": "invid",
     "producto": "Epson L3210 (MF) (8081)",
     "categoria": "Memorias RAM",
     "precio": 721
@@ -3412,12 +3406,6 @@
     "producto": "Memoria DDR4 Corsair 16Gb (2x8Gb) 3200 MHz Vengeance RGB RS (9007)",
     "categoria": "Memorias RAM",
     "precio": 139
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Memoria DDR4 Corsair 16Gb (2x8Gb) 3600 MHz Vengeance RGB PRO White",
-    "categoria": "Memorias RAM",
-    "precio": 124
   },
   {
     "proveedor": "invid",
@@ -3547,18 +3535,6 @@
   },
   {
     "proveedor": "invid",
-    "producto": "Memoria DDR4 Corsair 16Gb 2400 MHz Vengeance LPX Black (4246)",
-    "categoria": "Memorias RAM",
-    "precio": 102
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Memoria DDR4 Corsair 16Gb 2666 MHz Value (3012)",
-    "categoria": "Memorias RAM",
-    "precio": 73
-  },
-  {
-    "proveedor": "invid",
     "producto": "Memoria DDR4 Corsair 32Gb (2x16Gb) 2666 MHz Vengeance RGB Pro Black (2068)",
     "categoria": "Memorias RAM",
     "precio": 203
@@ -3574,12 +3550,6 @@
     "producto": "Memoria DDR4 Corsair 4Gb 2666 MHz Value (3029)",
     "categoria": "Memorias RAM",
     "precio": 26
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Memoria DDR4 Corsair 8Gb 2400 MHz Vengeance LPX Black (4680)",
-    "categoria": "Memorias RAM",
-    "precio": 42
   },
   {
     "proveedor": "invid",
@@ -3625,15 +3595,33 @@
   },
   {
     "proveedor": "invid",
-    "producto": "Memoria DDR5 Corsair 16Gb (2x8Gb) 5200 MHz Vengeance",
+    "producto": "Memoria DDR5 Corsair 32Gb (2x16Gb) 5200 MHz Vengeance AMD EXPO (7770)",
     "categoria": "Memorias RAM",
-    "precio": 153
+    "precio": 243
   },
   {
     "proveedor": "invid",
-    "producto": "Memoria DDR5 Corsair 32Gb (2x16Gb) 5200 MHz Vengeance AMD EXPO (7770)",
+    "producto": "Memoria DDR5 Corsair 32Gb (2x16Gb) 6000 MHz Vengeance RGB Black (6110)",
     "categoria": "Memorias RAM",
-    "precio": 220
+    "precio": 282
+  },
+  {
+    "proveedor": "invid",
+    "producto": "Memoria DDR5 Corsair 32Gb (2x16Gb) 6400 MHz Vengeance RGB Black (6073)",
+    "categoria": "Memorias RAM",
+    "precio": 320
+  },
+  {
+    "proveedor": "invid",
+    "producto": "Memoria DDR5 Corsair 64Gb (2x32Gb) 5600 MHz Vengeance RGB Black (3277)",
+    "categoria": "Memorias RAM",
+    "precio": 522
+  },
+  {
+    "proveedor": "invid",
+    "producto": "Memoria DDR5 Corsair 32Gb (2x16Gb) 4800 MHz Vengeance LPX (9310)",
+    "categoria": "Memorias RAM",
+    "precio": 240
   },
   {
     "proveedor": "invid",
@@ -3667,12 +3655,6 @@
   },
   {
     "proveedor": "invid",
-    "producto": "Memoria SODIMM DDR4 Markvision 16Gb 3200 MHz 1.20V BULK (6389)",
-    "categoria": "Memorias RAM",
-    "precio": 104
-  },
-  {
-    "proveedor": "invid",
     "producto": "Memoria SODIMM DDR4 Markvision 4Gb 2400 MHz 1.20V BULK (6419)",
     "categoria": "Memorias RAM",
     "precio": 33
@@ -3688,12 +3670,6 @@
     "producto": "Memoria SODIMM DDR4 Markvision 8Gb 3000 MHz 1.20V BULK (6433)",
     "categoria": "Memorias RAM",
     "precio": 48
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Memoria SODIMM DDR4 Markvision 8Gb 3200 MHz 1.20V BULK (9458)",
-    "categoria": "Memorias RAM",
-    "precio": 50
   },
   {
     "proveedor": "invid",
@@ -3771,7 +3747,7 @@
     "proveedor": "invid",
     "producto": "Proces. AMD Ryzen 3 3200G 3gen  AM4 C/VIDEO (9851)",
     "categoria": "Procesadores",
-    "precio": 250
+    "precio": 287
   },
   {
     "proveedor": "invid",
@@ -3795,7 +3771,7 @@
     "proveedor": "invid",
     "producto": "Proces. AMD Ryzen 5 4600G AM4 CON VIDEO (3940)",
     "categoria": "Procesadores",
-    "precio": 358
+    "precio": 375
   },
   {
     "proveedor": "invid",
@@ -3813,7 +3789,7 @@
     "proveedor": "invid",
     "producto": "Proces. AMD Ryzen 7 7700 AM5 CON VIDEO CON COOLER (4497)",
     "categoria": "Procesadores",
-    "precio": 1065
+    "precio": 1098
   },
   {
     "proveedor": "invid",
@@ -3843,7 +3819,7 @@
     "proveedor": "invid",
     "producto": "Proces. AMD Ryzen 7  5700G 5gen  AM4 CON VIDEO (3377)",
     "categoria": "Procesadores",
-    "precio": 640
+    "precio": 690
   },
   {
     "proveedor": "invid",
@@ -3859,6 +3835,12 @@
   },
   {
     "proveedor": "invid",
+    "producto": "Proces. Intel ALDER LAKE  CORE I7 12700 CON VIDEO CON COOLER s1700 (7840)",
+    "categoria": "Procesadores",
+    "precio": 1114
+  },
+  {
+    "proveedor": "invid",
     "producto": "Proces. Intel Cometlake Celeron G5900 (6995)",
     "categoria": "Procesadores",
     "precio": 111
@@ -3868,6 +3850,12 @@
     "producto": "Proces. Intel RAPTORLAKE CORE I5 13400 CON VIDEO CON COOLER s1700 (0275)",
     "categoria": "Procesadores",
     "precio": 756
+  },
+  {
+    "proveedor": "invid",
+    "producto": "Proces. Intel RAPTORLAKE CORE I7 13700 CON VIDEO CON COOLER s1700 (0213)",
+    "categoria": "Procesadores",
+    "precio": 1382
   },
   {
     "proveedor": "invid",
@@ -3933,79 +3921,79 @@
     "proveedor": "invid",
     "producto": "CELULAR KODAK SEREN D55L 5.5\" 2GB/32GB ANDROID 11 GO EDICION BLANCO (0217)",
     "categoria": "Telefonia",
-    "precio": 97
+    "precio": 93
   },
   {
     "proveedor": "invid",
     "producto": "CELULAR KODAK SEREN D55L 5.5\" 2GB/32GB ANDROID 11 GO EDITION GRIS (0224)",
     "categoria": "Telefonia",
-    "precio": 103
+    "precio": 93
   },
   {
     "proveedor": "invid",
     "producto": "CELULAR KODAK SEREN D55L 5.5\" 2GB/32GB ANDROID 11 GO EDITION NEGRO (7369)",
     "categoria": "Telefonia",
-    "precio": 103
+    "precio": 93
   },
   {
     "proveedor": "invid",
     "producto": "CELULAR KODAK SEREN D61L QUAD-CORE 6´ 2/32 GB CAMARA 13+2 MPx ANDROID 11 GO BLANCO PERLADO (0231)",
     "categoria": "Telefonia",
-    "precio": 124
+    "precio": 112
   },
   {
     "proveedor": "invid",
     "producto": "CELULAR KODAK SEREN D61L QUAD-CORE 6´ 2/32 GB CAMARA 13+2 MPx ANDROID 11 GO GRIS OSCURO (0248)",
     "categoria": "Telefonia",
-    "precio": 124
+    "precio": 112
   },
   {
     "proveedor": "invid",
     "producto": "CELULAR KODAK SEREN D61L QUAD-CORE 6´ 2/32 GB CAMARA 13+2 MPxANDROID 11 GO NEGRO (0262)",
     "categoria": "Telefonia",
-    "precio": 124
+    "precio": 112
   },
   {
     "proveedor": "invid",
     "producto": "CELULAR KODAK SEREN D65LX 6,52\" 2GB/64GB ANDROID 11 BLANCO (0279)",
     "categoria": "Telefonia",
-    "precio": 141
+    "precio": 127
   },
   {
     "proveedor": "invid",
     "producto": "CELULAR KODAK SEREN D65LX 6.53 2GB/64GB\" ANDROID 11 GO EDITION GRIS (0286)",
     "categoria": "Telefonia",
-    "precio": 141
+    "precio": 127
   },
   {
     "proveedor": "invid",
     "producto": "CELULAR KODAK SEREN D65LX 6.53 2GB/64GB\" ANDROID 11 GO EDITION NEGRO",
     "categoria": "Telefonia",
-    "precio": 141
+    "precio": 127
   },
   {
     "proveedor": "invid",
     "producto": "CELULAR KODAK SEREN D65LX 6.53 2GB/64GB\" ANDROID 11 GO EDITION NEGRO PIANO (0293)",
     "categoria": "Telefonia",
-    "precio": 141
+    "precio": 127
   },
   {
     "proveedor": "invid",
     "producto": "Celular PIXPRO L1 PRO 5,7\" 2/16 GB Color Azul (7413)",
     "categoria": "Telefonia",
-    "precio": 90
+    "precio": 82
   },
   {
     "proveedor": "invid",
     "producto": "Celular PIXPRO L1 PRO 5,7\" 2/16 GB Color Silver (7406)",
     "categoria": "Telefonia",
-    "precio": 90
+    "precio": 82
   },
   {
     "proveedor": "invid",
     "producto": "CELULAR PIXPRO L1 PRO 5,7\" 2/16 GB GRIS (7390)",
     "categoria": "Telefonia",
-    "precio": 90
+    "precio": 85
   },
   {
     "proveedor": "invid",
@@ -4090,12 +4078,6 @@
     "producto": "MONITOR LG 34 ULTRAWIDE 34WP500-B BORDERLESS WFHD (3300)",
     "categoria": "Monitores",
     "precio": 763
-  },
-  {
-    "proveedor": "invid",
-    "producto": "MONITOR LG 24 24BK550Y-B FHD 360° (II) (5789)",
-    "categoria": "Monitores",
-    "precio": 453
   },
   {
     "proveedor": "invid",
@@ -4195,9 +4177,45 @@
   },
   {
     "proveedor": "invid",
-    "producto": "Mother MSI PRO B550M-P GEN3 DDR4 AM4 (3ra/4ta/5ta Gen)",
+    "producto": "Mother MSI B550M PRO-VDH WIFI DDR4 AM4 (3ra/4ta/5ta Gen) (3698)",
     "categoria": "Motherboards",
-    "precio": 264
+    "precio": 278
+  },
+  {
+    "proveedor": "invid",
+    "producto": "Mother MSI MAG B650 TOMAHAWK WIFI DDR5 AM5 (5ta Gen) (0153)",
+    "categoria": "Motherboards",
+    "precio": 575
+  },
+  {
+    "proveedor": "invid",
+    "producto": "Mother MSI MAG B650M MORTAR WIFI DDR5 AM5 (5ta Gen) (0207)",
+    "categoria": "Motherboards",
+    "precio": 521
+  },
+  {
+    "proveedor": "invid",
+    "producto": "Mother MSI MPG B650 EDGE WIFI DDR5 AM5 (5ta Gen) (0191)",
+    "categoria": "Motherboards",
+    "precio": 679
+  },
+  {
+    "proveedor": "invid",
+    "producto": "Mother MSI PRO B550M-P GEN3 DDR4 AM4 (3ra/4ta/5ta Gen) (2234)",
+    "categoria": "Motherboards",
+    "precio": 260
+  },
+  {
+    "proveedor": "invid",
+    "producto": "Mother MSI PRO B650-P WIFI AM5 DDR5 (5ta Gen) (0177)",
+    "categoria": "Motherboards",
+    "precio": 546
+  },
+  {
+    "proveedor": "invid",
+    "producto": "Mother MSI PRO B650M-A WIFI AM5 DDR5 (5ta Gen) (0160)",
+    "categoria": "Motherboards",
+    "precio": 467
   },
   {
     "proveedor": "invid",
@@ -4210,6 +4228,12 @@
     "producto": "Mother MSI A520M-A PRO sAM4 DDR4 (3ra y 5ta Gen) (9927)",
     "categoria": "Motherboards",
     "precio": 205
+  },
+  {
+    "proveedor": "invid",
+    "producto": "Mother MSI MAG B550 TOMAHAWK sAM4 DDR4 (3ra/4ta/5ta Gen) (8625)",
+    "categoria": "Motherboards",
+    "precio": 470
   },
   {
     "proveedor": "invid",
@@ -4249,12 +4273,6 @@
   },
   {
     "proveedor": "invid",
-    "producto": "Mother MSI PRO B660M-G DDR4 1700 (12va/13va Gen) (2475)",
-    "categoria": "Motherboards",
-    "precio": 278
-  },
-  {
-    "proveedor": "invid",
     "producto": "Mother MSI PRO H510M-B s1200 DDR4 (solo 10ma gen) (8870)",
     "categoria": "Motherboards",
     "precio": 225
@@ -4264,12 +4282,6 @@
     "producto": "Mother MSI PRO H610M-G DDR4 1700 (12va/13va Gen) (5024)",
     "categoria": "Motherboards",
     "precio": 253
-  },
-  {
-    "proveedor": "invid",
-    "producto": "Mother MSI PRO Z790-P DDR4 1700 (12va/13va Gen)",
-    "categoria": "Motherboards",
-    "precio": 478
   },
   {
     "proveedor": "invid",
@@ -4285,75 +4297,69 @@
   },
   {
     "proveedor": "invid",
-    "producto": "Notebook Lenovo  IP 3 15IGL05 N4120 4G 256G  11S",
-    "categoria": "Notebooks",
-    "precio": 949
-  },
-  {
-    "proveedor": "invid",
     "producto": "Notebook Lenovo IP 1 14ADA7 R3 8G 256G SIN SO (0426)",
     "categoria": "Notebooks",
-    "precio": 926
+    "precio": 988
   },
   {
     "proveedor": "invid",
     "producto": "Notebook Lenovo IP 1 14ADA7 R5 8G 256G SIN SO (0419)",
     "categoria": "Notebooks",
-    "precio": 993
+    "precio": 1092
   },
   {
     "proveedor": "invid",
     "producto": "Notebook Lenovo IP 1 14ADA7 R5 8G 512G SIN SO (0402)",
     "categoria": "Notebooks",
-    "precio": 1041
+    "precio": 1111
   },
   {
     "proveedor": "invid",
     "producto": "Notebook Lenovo IP 1 14IGL7 N4120 4G 128G 11S (2679)",
     "categoria": "Notebooks",
-    "precio": 786
+    "precio": 737
   },
   {
     "proveedor": "invid",
     "producto": "Notebook Lenovo IP 1 15ADA7 R7 8G 512G SIN SO (0396)",
     "categoria": "Notebooks",
-    "precio": 1168
+    "precio": 1402
   },
   {
     "proveedor": "invid",
     "producto": "Notebook Lenovo IP 3 15ALC6 R5  8GB (4G+4G) 256G 11S (6220)",
     "categoria": "Notebooks",
-    "precio": 1294
+    "precio": 1150
   },
   {
     "proveedor": "invid",
     "producto": "Notebook Lenovo IP 3 15ALC6 R5 8GB(4G+ 4G) 512G 11S (2978)",
     "categoria": "Notebooks",
-    "precio": 1599
+    "precio": 1687
   },
   {
     "proveedor": "invid",
     "producto": "Notebook Lenovo IP 3 15ALC6 R7 16GB(8G+ 8G) 512G 11S (2961)",
     "categoria": "Notebooks",
-    "precio": 1803
+    "precio": 1588
   },
   {
     "proveedor": "invid",
     "producto": "Notebook Lenovo IP 3 15ITL6 I5 8GB (2x4Gb) 256G 11S",
     "categoria": "Notebooks",
-    "precio": 1410
+    "precio": 1485
   },
   {
     "proveedor": "invid",
     "producto": "Notebook Lenovo IP 3 15ITL6 I7 4G 4G 256G 11S (5933)",
     "categoria": "Notebooks",
-    "precio": 1911
+    "precio": 1710
   },
   {
     "proveedor": "invid",
     "producto": "Notebook Lenovo IP 3 14ITL6 I3  8GB (4G+4G) 256G 11S (4446)",
     "categoria": "Notebooks",
-    "precio": 1154
+    "precio": 1222
   },
   {
     "proveedor": "invid",
@@ -4414,12 +4420,6 @@
     "producto": "VGA Gigabyte GeForce RTX 3060 GAMING OC 12G (9312)",
     "categoria": "Placas de video",
     "precio": 1165
-  },
-  {
-    "proveedor": "invid",
-    "producto": "VGA Gigabyte GeForce RTX 3060 GAMING OC 8G (1957)",
-    "categoria": "Placas de video",
-    "precio": 994
   },
   {
     "proveedor": "invid",
@@ -4537,7 +4537,7 @@
   },
   {
     "proveedor": "invid",
-    "producto": "DS-1H18S/E  BALUNES Pack x11",
+    "producto": "DS-1H18S/E  BALUNES Pack x10",
     "categoria": "Conectividad",
     "precio": 69
   },
@@ -4777,12 +4777,6 @@
   },
   {
     "proveedor": "invid",
-    "producto": "DS-2CD1023G2-IUF  Cámara IP Bullet 2MP 2.8mm EXIR 30m Audio  (1352)",
-    "categoria": "Conectividad",
-    "precio": 123
-  },
-  {
-    "proveedor": "invid",
     "producto": "DS-2CD1027G2-L  Cámara IP Bullet 2MP 2.8mm ColorVu (2052)",
     "categoria": "Conectividad",
     "precio": 119
@@ -4897,12 +4891,6 @@
   },
   {
     "proveedor": "invid",
-    "producto": "DS-2CD2143G2-IU  Cámara Domo 4MP Fixed 2.8mm AcuSense y Audio (0894)",
-    "categoria": "Conectividad",
-    "precio": 289
-  },
-  {
-    "proveedor": "invid",
     "producto": "DS-2CD2623G2-IZS  Cámara Bullet 2MP Varifocal 2.8-12mm AcuSense (5758)",
     "categoria": "Conectividad",
     "precio": 459
@@ -4977,7 +4965,7 @@
     "proveedor": "invid",
     "producto": "TAPO C320WS Camara IP Day/Night SD Wifi Ext HD(7031)",
     "categoria": "Conectividad",
-    "precio": 219
+    "precio": 230
   },
   {
     "proveedor": "invid",
@@ -4995,13 +4983,13 @@
     "proveedor": "invid",
     "producto": "TAPO C200 Camara IP Mov Remoto Day/Night SD Wifi (8095)",
     "categoria": "Conectividad",
-    "precio": 118
+    "precio": 123
   },
   {
     "proveedor": "invid",
     "producto": "TAPO C310 Camara IP Day/Night SD Wifi Exterior (0911)",
     "categoria": "Conectividad",
-    "precio": 147
+    "precio": 161
   },
   {
     "proveedor": "invid",
@@ -5037,133 +5025,133 @@
     "proveedor": "invid",
     "producto": "DS-7204HGHI-M1  DVR 4-ch 720P analógicos 1-ch IP (0950)",
     "categoria": "Conectividad",
-    "precio": 180
+    "precio": 146
   },
   {
     "proveedor": "invid",
     "producto": "DS-7208HGHI-M1  DVR 8-ch 720P analógicos 2-ch IP (0943)",
     "categoria": "Conectividad",
-    "precio": 216
+    "precio": 175
   },
   {
     "proveedor": "invid",
     "producto": "DS-7216HGHI-M1  DVR 16-ch 720P analógicos 2-ch IP (0936)",
     "categoria": "Conectividad",
-    "precio": 407
+    "precio": 329
   },
   {
     "proveedor": "invid",
     "producto": "iDS-7204HQHI-M1/E  DVR 4-ch analógicos 2-ch IP AcuSense (1438)",
     "categoria": "Conectividad",
-    "precio": 288
+    "precio": 233
   },
   {
     "proveedor": "invid",
     "producto": "iDS-7204HQHI-M1/FA  DVR 4-ch 1080p AcuSense (3909)",
     "categoria": "Conectividad",
-    "precio": 253
+    "precio": 205
   },
   {
     "proveedor": "invid",
     "producto": "iDS-7208HQHI-M1/E  DVR 8-ch analógicos 2-ch IP AcuSense (1421)",
     "categoria": "Conectividad",
-    "precio": 400
+    "precio": 323
   },
   {
     "proveedor": "invid",
     "producto": "iDS-7208HQHI-M1/FA  DVR 8-ch 1080p 1U Facial Acusense (3800)",
     "categoria": "Conectividad",
-    "precio": 504
+    "precio": 408
   },
   {
     "proveedor": "invid",
     "producto": "iDS-7216HQHI-M1/E  DVR 16-ch analógicos 2-ch IP AcuSense (2672)",
     "categoria": "Conectividad",
-    "precio": 719
+    "precio": 582
   },
   {
     "proveedor": "invid",
     "producto": "iDS-7216HQHI-M1/FA  DVR 16-ch 1080p Acusense (8864)",
     "categoria": "Conectividad",
-    "precio": 775
+    "precio": 626
   },
   {
     "proveedor": "invid",
     "producto": "iDS-7216HQHI-M2/FA  DVR 16-ch analógicos 2-ch IP AcuSense  (7682)",
     "categoria": "Conectividad",
-    "precio": 895
+    "precio": 724
   },
   {
     "proveedor": "invid",
     "producto": "iDS-7232HQHI-M2/S  DVR 32ch analóg 8ch IP (hasta 40ch) 1080p (2764)",
     "categoria": "Conectividad",
-    "precio": 2044
+    "precio": 1657
   },
   {
     "proveedor": "invid",
     "producto": "DS-7104NI-Q1/M  NVR 4-ch (2162)",
     "categoria": "Conectividad",
-    "precio": 222
+    "precio": 180
   },
   {
     "proveedor": "invid",
     "producto": "DS-7108NI-Q1/8P/M  NVR 8-ch 1080p 8p PoE (2087)",
     "categoria": "Conectividad",
-    "precio": 464
+    "precio": 375
   },
   {
     "proveedor": "invid",
     "producto": "DS-7108NI-Q1/M  NVR 8-ch Mini 1U (2131)",
     "categoria": "Conectividad",
-    "precio": 257
+    "precio": 208
   },
   {
     "proveedor": "invid",
     "producto": "DS-7608NI-Q1  NVR de 8 canales 1U 4K (3016)",
     "categoria": "Conectividad",
-    "precio": 340
+    "precio": 276
   },
   {
     "proveedor": "invid",
     "producto": "DS-7608NI-Q2  NVR de 8 canales 1U 4K (2989)",
     "categoria": "Conectividad",
-    "precio": 531
+    "precio": 431
   },
   {
     "proveedor": "invid",
     "producto": "DS-7608NXI-K2  NVR 8-ch 4K 1U AcuSense (5191)",
     "categoria": "Conectividad",
-    "precio": 596
+    "precio": 484
   },
   {
     "proveedor": "invid",
     "producto": "DS-7608NXI-K2/8P  NVR 8-ch 4K 2U 8PoE AcuSense (5092)",
     "categoria": "Conectividad",
-    "precio": 1009
+    "precio": 819
   },
   {
     "proveedor": "invid",
     "producto": "DS-7616NI-Q1  NVR 16-ch 4K 1U (3023)",
     "categoria": "Conectividad",
-    "precio": 412
+    "precio": 334
   },
   {
     "proveedor": "invid",
     "producto": "DS-7616NI-Q2  NVR 16-ch 1U 4K 2 Interfaz SATA (2996)",
     "categoria": "Conectividad",
-    "precio": 489
+    "precio": 395
   },
   {
     "proveedor": "invid",
     "producto": "DS-7616NI-Q2/16P  NVR 16-ch 4K (1CH) 16p PoE 2 SATA  (6222)",
     "categoria": "Conectividad",
-    "precio": 932
+    "precio": 756
   },
   {
     "proveedor": "invid",
     "producto": "DS-7616NXI-K2  NVR 16-ch 4K 1U 2 SATA AcuSense (5184)",
     "categoria": "Conectividad",
-    "precio": 711
+    "precio": 576
   },
   {
     "proveedor": "invid",
@@ -5173,9 +5161,9 @@
   },
   {
     "proveedor": "invid",
-    "producto": "CELULAR KODAK SEREN D55L 5.5\" 2GB/32GB ANDROID 11 GO EDICION BLANCO (0217)",
+    "producto": "CELULAR PIXPRO L1 PRO 5,7\" 2/16 GB GRIS (7390)",
     "categoria": "No existe una categoria para este producto",
-    "precio": 97
+    "precio": 85
   },
   {
     "proveedor": "invid",
@@ -5187,13 +5175,13 @@
     "proveedor": "invid",
     "producto": "Tapo L920-5 Tiras de Luz Led Wifi Multicolor 5mts (2609)",
     "categoria": "No existe una categoria para este producto",
-    "precio": 104
+    "precio": 100
   },
   {
     "proveedor": "invid",
     "producto": "Auricular c/ Microfono Genius HS-G600V",
     "categoria": "No existe una categoria para este producto",
-    "precio": 49
+    "precio": 44
   },
   {
     "proveedor": "invid",
