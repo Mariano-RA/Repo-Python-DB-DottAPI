@@ -19,27 +19,9 @@
   },
   {
     "proveedor": "elit",
-    "producto": "Teclado c/Cable LOGITECH MK120 Negro",
-    "categoria": "Teclados",
-    "precio": 41
-  },
-  {
-    "proveedor": "elit",
-    "producto": "Teclado c/Cable LOGITECH K120 Negro",
-    "categoria": "Teclados",
-    "precio": 25
-  },
-  {
-    "proveedor": "elit",
     "producto": "Parlante Z120 Stereo",
     "categoria": "Parlantes",
     "precio": 58
-  },
-  {
-    "proveedor": "elit",
-    "producto": "Botella de Tinta EPSON 673 Cian",
-    "categoria": "Impresoras e Insumos",
-    "precio": 26
   },
   {
     "proveedor": "elit",
@@ -70,12 +52,6 @@
     "producto": "Cinta de tinta S015631 Negra para LX-350",
     "categoria": "Impresoras e Insumos",
     "precio": 8
-  },
-  {
-    "proveedor": "elit",
-    "producto": "Mouse c/Cable LOGITECH M90 Negro",
-    "categoria": "Mouses",
-    "precio": 11
   },
   {
     "proveedor": "elit",
@@ -139,12 +115,6 @@
   },
   {
     "proveedor": "elit",
-    "producto": "Auricular LOGITECH H151 Negro",
-    "categoria": "Auriculares",
-    "precio": 60
-  },
-  {
-    "proveedor": "elit",
     "producto": "Auricular LOGITECH H390 Negro",
     "categoria": "Auriculares",
     "precio": 122
@@ -171,19 +141,25 @@
     "proveedor": "elit",
     "producto": "Disco Interno SSD KINGSTON A400 240GB 2.5\" SATA 3.0  500MB/s",
     "categoria": "Discos",
-    "precio": 54
+    "precio": 55
   },
   {
     "proveedor": "elit",
     "producto": "Disco Interno SSD KINGSTON A400 480GB 2.5\" SATA 3.0  500MB/s",
     "categoria": "Discos",
-    "precio": 77
+    "precio": 79
   },
   {
     "proveedor": "elit",
     "producto": "Router Nyx1200-AC NEXXT Wireless-AC 1200 Mbps 3 Puertos",
     "categoria": "Conectividad",
     "precio": 37
+  },
+  {
+    "proveedor": "elit",
+    "producto": "Fuente CROMAX KC-DDA-600 600W Standart ATX Fijo",
+    "categoria": "Fuentes",
+    "precio": 65
   },
   {
     "proveedor": "elit",
@@ -223,6 +199,12 @@
   },
   {
     "proveedor": "elit",
+    "producto": "Gabinete CROMAX 2801 Kit T M P Negro Mid Tower C/Fuente 600W Standar",
+    "categoria": "Gabinetes",
+    "precio": 103
+  },
+  {
+    "proveedor": "elit",
     "producto": "Cámara Web LOGITECH C920S",
     "categoria": "Webcams",
     "precio": 252
@@ -244,12 +226,6 @@
     "producto": "Cartucho de Tinta EPSON 206 Cian",
     "categoria": "Impresoras e Insumos",
     "precio": 21
-  },
-  {
-    "proveedor": "elit",
-    "producto": "Gabinete COOLER MASTER Cosmos C700M Negro Full Tower ARGB S/Fuente",
-    "categoria": "Gabinetes",
-    "precio": 904
   },
   {
     "proveedor": "elit",
@@ -529,12 +505,6 @@
   },
   {
     "proveedor": "elit",
-    "producto": "Memoria Ram SODIMM KINGSTON KVR 8GB DDR4 2666MHz CL19 1.20V Single Negro",
-    "categoria": "Memorias RAM",
-    "precio": 53
-  },
-  {
-    "proveedor": "elit",
     "producto": "Auricular XTECH Aktive Deportivo Negro",
     "categoria": "Auriculares",
     "precio": 22
@@ -549,7 +519,7 @@
     "proveedor": "elit",
     "producto": "Memoria Ram UDIMM KINGSTON KVR 8GB DDR4 2666MHz CL19 1.20V Single Negro",
     "categoria": "Memorias RAM",
-    "precio": 57
+    "precio": 56
   },
   {
     "proveedor": "elit",
@@ -633,7 +603,7 @@
     "proveedor": "elit",
     "producto": "Disco Interno SSD CRUCIAL BX500 1TB 2.5\" SATA 3.0  540MB/s",
     "categoria": "Discos",
-    "precio": 135
+    "precio": 136
   },
   {
     "proveedor": "elit",
@@ -645,7 +615,7 @@
     "proveedor": "elit",
     "producto": "Memoria Ram UDIMM CRUCIAL Basics 8GB DDR4 2666MHz CL17 1.20V Single Verde",
     "categoria": "Memorias RAM",
-    "precio": 41
+    "precio": 43
   },
   {
     "proveedor": "elit",
@@ -661,15 +631,9 @@
   },
   {
     "proveedor": "elit",
-    "producto": "Procesador INTEL Core i3-10105 3.70GHz LGA1200 DDR4",
-    "categoria": "Procesadores",
-    "precio": 331
-  },
-  {
-    "proveedor": "elit",
     "producto": "Procesador INTEL Core i3-10105F 3.70GHz LGA1200 DDR4",
     "categoria": "Procesadores",
-    "precio": 176
+    "precio": 196
   },
   {
     "proveedor": "elit",
@@ -742,6 +706,12 @@
     "producto": "Memoria Ram UDIMM KINGSTON Fury Beast 8GB DDR4 3600MHz CL17 1.35V Single Negro RGB",
     "categoria": "Memorias RAM",
     "precio": 58
+  },
+  {
+    "proveedor": "elit",
+    "producto": "Procesador AMD Ryzen 5 5600G 3.90GHz AM4 DDR4",
+    "categoria": "Procesadores",
+    "precio": 654
   },
   {
     "proveedor": "elit",
@@ -832,18 +802,6 @@
     "producto": "Botella de Tinta EPSON 555 Amarillo",
     "categoria": "Impresoras e Insumos",
     "precio": 39
-  },
-  {
-    "proveedor": "elit",
-    "producto": "Auriculares Jaybird Vista 2 Negro",
-    "categoria": "Auriculares",
-    "precio": 1276
-  },
-  {
-    "proveedor": "elit",
-    "producto": "Auriculares Jaybird Vista 2 Midnight Blue",
-    "categoria": "Auriculares",
-    "precio": 1276
   },
   {
     "proveedor": "elit",
@@ -1149,7 +1107,7 @@
     "proveedor": "elit",
     "producto": "Motherboard MSI PRO H610M-G LGA1700 DDR4",
     "categoria": "Motherboards",
-    "precio": 241
+    "precio": 268
   },
   {
     "proveedor": "elit",
@@ -1203,7 +1161,7 @@
     "proveedor": "elit",
     "producto": "Memoria Ram UDIMM KINGSTON KVR 8GB DDR4 3200MHz CL22 1.20V Single Negro",
     "categoria": "Memorias RAM",
-    "precio": 57
+    "precio": 59
   },
   {
     "proveedor": "elit",
@@ -1215,7 +1173,7 @@
     "proveedor": "elit",
     "producto": "Motherboard MSI PRO H610M-B LGA1700 DDR4",
     "categoria": "Motherboards",
-    "precio": 230
+    "precio": 256
   },
   {
     "proveedor": "elit",
@@ -1237,21 +1195,27 @@
   },
   {
     "proveedor": "elit",
+    "producto": "Placa Radeon RX 6500 XT EAGLE 4G",
+    "categoria": "Placas de video",
+    "precio": 604
+  },
+  {
+    "proveedor": "elit",
     "producto": "Fuente THERMALTAKE TOUGHPOWER GF1 850W 80 Plus Gold ATX Modular",
     "categoria": "Fuentes",
-    "precio": 224
+    "precio": 227
   },
   {
     "proveedor": "elit",
     "producto": "Fuente THERMALTAKE TOUGHPOWER GF1 750W 80 Plus Gold ATX Modular",
     "categoria": "Fuentes",
-    "precio": 189
+    "precio": 200
   },
   {
     "proveedor": "elit",
     "producto": "Fuente THERMALTAKE TOUGHPOWER GF1 650W 80 Plus Gold ATX Modular",
     "categoria": "Fuentes",
-    "precio": 168
+    "precio": 180
   },
   {
     "proveedor": "elit",
@@ -1317,7 +1281,7 @@
     "proveedor": "elit",
     "producto": "Disco Interno SSD CRUCIAL BX500 500GB 2.5\" SATA 3.0  550MB/s",
     "categoria": "Discos",
-    "precio": 73
+    "precio": 71
   },
   {
     "proveedor": "elit",
@@ -1339,12 +1303,6 @@
   },
   {
     "proveedor": "elit",
-    "producto": "Monitor HP M24f FHD",
-    "categoria": "Monitores",
-    "precio": 265
-  },
-  {
-    "proveedor": "elit",
     "producto": "Monitor HP X27 FHD IPS Gaming",
     "categoria": "Monitores",
     "precio": 510
@@ -1354,6 +1312,12 @@
     "producto": "Monitor Giga 34\" Edge UltraWide QHD G34WQC 144Hz 1",
     "categoria": "Monitores",
     "precio": 1254
+  },
+  {
+    "proveedor": "elit",
+    "producto": "Gabinete The Tower 500 Negro  C/ Vidrio Templado",
+    "categoria": "Gabinetes",
+    "precio": 274
   },
   {
     "proveedor": "elit",
@@ -1447,6 +1411,12 @@
   },
   {
     "proveedor": "elit",
+    "producto": "Mouse Inalámbrico Logitech M170 Blanco",
+    "categoria": "Mouses",
+    "precio": 22
+  },
+  {
+    "proveedor": "elit",
     "producto": "Mouse Gaming Logitech G502 X Negro",
     "categoria": "Mouses",
     "precio": 156
@@ -1468,18 +1438,6 @@
     "producto": "Auriculares Logitech H390 Blanco",
     "categoria": "Auriculares",
     "precio": 92
-  },
-  {
-    "proveedor": "elit",
-    "producto": "Disco duro portatil 1TB 3.0 Expansion Portable",
-    "categoria": "Almacenamiento Portatil",
-    "precio": 128
-  },
-  {
-    "proveedor": "elit",
-    "producto": "Disco duro portatil 2TB 3.0 Expansion Portable",
-    "categoria": "Almacenamiento Portatil",
-    "precio": 169
   },
   {
     "proveedor": "elit",

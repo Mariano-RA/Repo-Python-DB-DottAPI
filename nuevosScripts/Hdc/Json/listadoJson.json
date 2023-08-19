@@ -69,13 +69,13 @@
     "proveedor": "hdc",
     "producto": "AMAZON FIRE STICK LITE (SIN TRAFO Y PILAS)",
     "categoria": "Electro",
-    "precio": 104
+    "precio": 130
   },
   {
     "proveedor": "hdc",
     "producto": "AMAZON FIRE TV STICK 4K (SIN PILAS) (SIN TRAFO)",
     "categoria": "Electro",
-    "precio": 153
+    "precio": 130
   },
   {
     "proveedor": "hdc",
@@ -109,21 +109,75 @@
   },
   {
     "proveedor": "hdc",
+    "producto": "CPU AMD RYZEN 7 78003XD 5.0GHZ (S/COOLER)",
+    "categoria": "Procesadores",
+    "precio": 1336
+  },
+  {
+    "proveedor": "hdc",
+    "producto": "CPU AMD RYZEN 5 7600 5.1HGZ (AM5)",
+    "categoria": "Procesadores",
+    "precio": 691
+  },
+  {
+    "proveedor": "hdc",
+    "producto": "MOTHERBOARD ASROCK H510 PRO BTC+ 12X PCIe (1200)",
+    "categoria": "Motherboards",
+    "precio": 263
+  },
+  {
+    "proveedor": "hdc",
     "producto": "MOTHERBOARD ASUS TUF B650M-PLUS (AM5)",
     "categoria": "Motherboards",
-    "precio": 503
+    "precio": 569
   },
   {
     "proveedor": "hdc",
     "producto": "MOTHERBOARD ASUS PRIME H510M-K(1200)",
     "categoria": "Motherboards",
-    "precio": 176
+    "precio": 198
   },
   {
     "proveedor": "hdc",
     "producto": "MOTHERBOARD ASUS PRIME H610M-K D4(1700)",
     "categoria": "Motherboards",
     "precio": 213
+  },
+  {
+    "proveedor": "hdc",
+    "producto": "VGA ASUS TUF RTX 3060 O12G V2 GAMING 12GB GDDR6",
+    "categoria": "Placas de video",
+    "precio": 935
+  },
+  {
+    "proveedor": "hdc",
+    "producto": "VGA ASUS TUF RTX 4090 024G GAMING 24GB GDDRX",
+    "categoria": "Placas de video",
+    "precio": 5144
+  },
+  {
+    "proveedor": "hdc",
+    "producto": "VGA ASUS TUF RTX 4070 TI O12G 12GB GDDR6X",
+    "categoria": "Placas de video",
+    "precio": 2463
+  },
+  {
+    "proveedor": "hdc",
+    "producto": "VGA ASUS TUF RTX 4070 O8G GAMING 12GB GDDR6X",
+    "categoria": "Placas de video",
+    "precio": 1933
+  },
+  {
+    "proveedor": "hdc",
+    "producto": "VGA ASUS TUF RTX 4060TI O8G GAMING 8GB GDDR6",
+    "categoria": "Placas de video",
+    "precio": 1347
+  },
+  {
+    "proveedor": "hdc",
+    "producto": "VGA ASUS PHOENIX GTX 1650 EVO 4GB GDDR6",
+    "categoria": "Placas de video",
+    "precio": 486
   },
   {
     "proveedor": "hdc",
@@ -231,7 +285,7 @@
     "proveedor": "hdc",
     "producto": "PARLANTE BT BOSS BOLT IPX4 NEGRO",
     "categoria": "Parlantes",
-    "precio": 122
+    "precio": 103
   },
   {
     "proveedor": "hdc",
@@ -261,13 +315,13 @@
     "proveedor": "hdc",
     "producto": "AMPLIFICADOR MONOBLOCK BOSS R1100M RIOT 1100W CLASE A/B",
     "categoria": "Parlantes",
-    "precio": 239
+    "precio": 227
   },
   {
     "proveedor": "hdc",
     "producto": "AMPLIFICADOR 4CH BOSS AR1600.4 1600W A/B",
     "categoria": "Parlantes",
-    "precio": 321
+    "precio": 275
   },
   {
     "proveedor": "hdc",
@@ -279,13 +333,7 @@
     "proveedor": "hdc",
     "producto": "AMPLIFICADOR BOSS AR2000M MONOBLOCK - CLASE AB - 2000W MAX - 2 A 8 OHM",
     "categoria": "Electro",
-    "precio": 299
-  },
-  {
-    "proveedor": "hdc",
-    "producto": "PARLANTE BOSS CH6520 2V",
-    "categoria": "Parlantes",
-    "precio": 52
+    "precio": 256
   },
   {
     "proveedor": "hdc",
@@ -297,19 +345,19 @@
     "proveedor": "hdc",
     "producto": "PARLANTE MOTO 3\" BOSS  MCBK420B  600W BLACK",
     "categoria": "Parlantes",
-    "precio": 157
+    "precio": 96
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE MOTO 3\" BOSS MCBK400 FM 600W BLACK",
     "categoria": "Parlantes",
-    "precio": 109
+    "precio": 66
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE 5.25\" BOSS CH5530B 3V 225WATTS 4OHM",
     "categoria": "Parlantes",
-    "precio": 72
+    "precio": 66
   },
   {
     "proveedor": "hdc",
@@ -333,7 +381,7 @@
     "proveedor": "hdc",
     "producto": "PARLANTE 6\"x9\" BOSS CH6930 3V 400W 4 Ohms",
     "categoria": "Parlantes",
-    "precio": 90
+    "precio": 87
   },
   {
     "proveedor": "hdc",
@@ -357,7 +405,7 @@
     "proveedor": "hdc",
     "producto": "STEREO BOSS 750BRGB SINGLE DIN - BT/CD/USB/MP3/FM/AM/FRENTE DESMONTABLE",
     "categoria": "Electro",
-    "precio": 237
+    "precio": 224
   },
   {
     "proveedor": "hdc",
@@ -369,7 +417,7 @@
     "proveedor": "hdc",
     "producto": "STEREO BOSS BV9372BI DOBLE DIN - PANTALLA TÁCTIL 6,2\", BT/DVD/CD/USB/SD/FM/AM",
     "categoria": "Electro",
-    "precio": 389
+    "precio": 369
   },
   {
     "proveedor": "hdc",
@@ -399,7 +447,7 @@
     "proveedor": "hdc",
     "producto": "CAMARA PARA VEHICULO BCAM50 DASHCAM DVR SYSTEM 3\" LCD /8GB SD",
     "categoria": "Conectividad",
-    "precio": 121
+    "precio": 81
   },
   {
     "proveedor": "hdc",
@@ -523,9 +571,9 @@
   },
   {
     "proveedor": "hdc",
-    "producto": "MEMORIA 16GB (2 X 8GB) DDR4 DRAM 3600MHZ CORSAIR VENGEANCE LPX",
+    "producto": "MEMORIA 32 GB (2 X 16GB) DDR5 5200 MHZ C40 CORSAIR VENGEANCE",
     "categoria": "Memorias RAM",
-    "precio": 129
+    "precio": 323
   },
   {
     "proveedor": "hdc",
@@ -643,12 +691,6 @@
   },
   {
     "proveedor": "hdc",
-    "producto": "MEMORIA SODIMM DDR4 8GB 2666 MHZ CRUCIAL BASICS",
-    "categoria": "Memorias RAM",
-    "precio": 72
-  },
-  {
-    "proveedor": "hdc",
     "producto": "MEMORIA DDR4 8GB 2666 MHZ CRUCIAL BASICS",
     "categoria": "Memorias RAM",
     "precio": 78
@@ -759,25 +801,25 @@
     "proveedor": "hdc",
     "producto": "MONITOR 21.5\" HM-2150FHD FRAMELESS 1080P FHD - 75Hz - 5MS - VGA - HDMI",
     "categoria": "Monitores",
-    "precio": 307
+    "precio": 296
   },
   {
     "proveedor": "hdc",
     "producto": "COMBO INALAMBRICO HDC MK1136 MOUSE 6 BOTONES (800/1200/1600 DPI) + TECLADO - 113 TECLAS - 9 TECLAS M",
     "categoria": "Gamer",
-    "precio": 25
+    "precio": 23
   },
   {
     "proveedor": "hdc",
     "producto": "MOUSE INALAMBRICO HDC M304 - 4 BOTONES - DPI 800/1200/1600",
     "categoria": "Mouses",
-    "precio": 12
+    "precio": 10
   },
   {
     "proveedor": "hdc",
     "producto": "TECLADO CABLEADO HDC KB113 C-CONECTOR USB - 113 TECLAS - 9 TECLAS MULTIMEDIA",
     "categoria": "Teclados",
-    "precio": 14
+    "precio": 12
   },
   {
     "proveedor": "hdc",
@@ -807,7 +849,7 @@
     "proveedor": "hdc",
     "producto": "TABLET HDC T7I-232 7\" IPS 1024*600 - ALLWINNER A133 - 2/32GB - CON FUNDA DE SILICONA ROJA",
     "categoria": "Tablets",
-    "precio": 108
+    "precio": 96
   },
   {
     "proveedor": "hdc",
@@ -819,7 +861,7 @@
     "proveedor": "hdc",
     "producto": "TABLET HDC T10-232 10\" - ALLWINNER A133 - 2GB RAM - 32GB ROM",
     "categoria": "Tablets",
-    "precio": 169
+    "precio": 146
   },
   {
     "proveedor": "hdc",
@@ -855,7 +897,13 @@
     "proveedor": "hdc",
     "producto": "CPU INTEL CORE I5-10400 4.30GHZ 12M (1200)",
     "categoria": "Procesadores",
-    "precio": 397
+    "precio": 441
+  },
+  {
+    "proveedor": "hdc",
+    "producto": "CPU INTEL CELERON G5905 3.50 GHZ 3M (1200)",
+    "categoria": "Procesadores",
+    "precio": 146
   },
   {
     "proveedor": "hdc",
@@ -867,25 +915,25 @@
     "proveedor": "hdc",
     "producto": "CPU INTEL CORE I5-12400 18MB (1700)",
     "categoria": "Procesadores",
-    "precio": 568
+    "precio": 552
   },
   {
     "proveedor": "hdc",
     "producto": "CPU INTEL CORE  I3-13100  4.5GHZ 12M (LGA1700)",
     "categoria": "Procesadores",
-    "precio": 479
+    "precio": 493
   },
   {
     "proveedor": "hdc",
-    "producto": "CPU INTEL CORE I7-12700K 3.60GHZ 25M (LGA1700)",
+    "producto": "CPU INTEL CORE I3-13100F 4.5GHZ 12MB (S/VIDEO) (LGA1700)",
     "categoria": "Procesadores",
-    "precio": 1079
+    "precio": 396
   },
   {
     "proveedor": "hdc",
     "producto": "CPU INTEL CORE I5-13400F 4.6GHZ 20M (S/VIDEO) (LGA1700)",
     "categoria": "Procesadores",
-    "precio": 685
+    "precio": 705
   },
   {
     "proveedor": "hdc",
@@ -909,37 +957,25 @@
     "proveedor": "hdc",
     "producto": "BARRA DE SONIDO + SUBWOOFER JBL SB140 HOME CINEMA 2.1 110W",
     "categoria": "Parlantes",
-    "precio": 530
-  },
-  {
-    "proveedor": "hdc",
-    "producto": "AURICULAR BT JBL W100 TRUE WIRELESS SILVER",
-    "categoria": "Auriculares",
-    "precio": 110
+    "precio": 435
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE BT JBL GO 2 BLUE",
     "categoria": "Parlantes",
-    "precio": 88
+    "precio": 100
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE BT JBL GO 2 GREEN",
     "categoria": "Parlantes",
-    "precio": 88
+    "precio": 100
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE BT JBL GO 2 ORANGE",
     "categoria": "Parlantes",
     "precio": 101
-  },
-  {
-    "proveedor": "hdc",
-    "producto": "PARLANTE BT JBL FLIP 5 BLUE WATERPROOF",
-    "categoria": "Parlantes",
-    "precio": 327
   },
   {
     "proveedor": "hdc",
@@ -957,31 +993,37 @@
     "proveedor": "hdc",
     "producto": "PARLANTE BT JBL GO 3 RED",
     "categoria": "Parlantes",
-    "precio": 120
+    "precio": 105
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE BT JBL GO 3 GRAY",
     "categoria": "Parlantes",
-    "precio": 113
+    "precio": 99
+  },
+  {
+    "proveedor": "hdc",
+    "producto": "PARLANTE BT JBL GO 3 RED",
+    "categoria": "Parlantes",
+    "precio": 102
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE BT JBL CHARGE 5 BLACK",
     "categoria": "Parlantes",
-    "precio": 400
+    "precio": 443
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE BT JBL CHARGE 5 BLUE",
     "categoria": "Parlantes",
-    "precio": 400
+    "precio": 443
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE BT JBL CHARGE 5 RED",
     "categoria": "Parlantes",
-    "precio": 400
+    "precio": 443
   },
   {
     "proveedor": "hdc",
@@ -1011,7 +1053,7 @@
     "proveedor": "hdc",
     "producto": "SET SILLONES EXT KETER LOUNGE (1S X 3C + 2S X 1C + 1 M MARRON)",
     "categoria": "Electro",
-    "precio": 773
+    "precio": 1094
   },
   {
     "proveedor": "hdc",
@@ -1155,109 +1197,109 @@
     "proveedor": "hdc",
     "producto": "HEADSET MARVO HG8928 USB AUX USB  LED RED",
     "categoria": "Auriculares",
-    "precio": 25
+    "precio": 26
   },
   {
     "proveedor": "hdc",
     "producto": "HEADSET MARVO HG9046 7.1 USB PARA PC",
     "categoria": "Auriculares",
-    "precio": 68
+    "precio": 74
   },
   {
     "proveedor": "hdc",
     "producto": "HEADSET MARVO HG9049 7.1",
     "categoria": "Auriculares",
-    "precio": 39
+    "precio": 41
   },
   {
     "proveedor": "hdc",
     "producto": "HEADSET MARVO HG8929 BACKLIT,3.5MM JACK+USB",
     "categoria": "Auriculares",
-    "precio": 28
+    "precio": 30
   },
   {
     "proveedor": "hdc",
     "producto": "HEADSET MARVO HG9056 7.1 RAINBOW LED",
     "categoria": "Auriculares",
-    "precio": 48
+    "precio": 52
   },
   {
     "proveedor": "hdc",
     "producto": "HEADSET MARVO PRO HG9053 7.1 LED RED",
     "categoria": "Auriculares",
-    "precio": 105
+    "precio": 112
   },
   {
     "proveedor": "hdc",
     "producto": "HEADSET GAMING MARVO HG8901 LED RAINBOW",
     "categoria": "Auriculares",
-    "precio": 25
+    "precio": 26
   },
   {
     "proveedor": "hdc",
     "producto": "HEADSET MARVO HG8902 RAINBOW USB",
     "categoria": "Auriculares",
-    "precio": 28
+    "precio": 29
   },
   {
     "proveedor": "hdc",
     "producto": "HEADSET MARVO PRO HG8960 (PS4 XBOX PC) RED LED",
     "categoria": "Auriculares",
-    "precio": 48
+    "precio": 50
   },
   {
     "proveedor": "hdc",
     "producto": "HEADSET STEREO MARVO H8321",
     "categoria": "Auriculares",
-    "precio": 14
+    "precio": 13
   },
   {
     "proveedor": "hdc",
     "producto": "COMBO GAMING 3 EN 1 MARVO CM310SP NEGRO MOUSE+MOUSEPAD+TECLADO",
     "categoria": "Gamer",
-    "precio": 30
+    "precio": 31
   },
   {
     "proveedor": "hdc",
     "producto": "COMBO GAMING 3 EN 1 MARVO CM310SP BLANCO MOUSE+MOUSEPAD+TECLADO",
     "categoria": "Gamer",
-    "precio": 30
+    "precio": 32
   },
   {
     "proveedor": "hdc",
     "producto": "COMBO TECLADO+MOUSE MARVO KM409 LED",
     "categoria": "Teclados",
-    "precio": 23
+    "precio": 24
   },
   {
     "proveedor": "hdc",
     "producto": "COMBO GAMING 4 EN 1 MARVO  CM370 Mouse+Headset+MousePad+Teclado LED",
     "categoria": "Teclados",
-    "precio": 23
+    "precio": 24
   },
   {
     "proveedor": "hdc",
     "producto": "COMBO GAMING 4 EN 1 MARVO CM409 MOUSE+HEADSET+MOUSEPAD+TECLADO LED",
     "categoria": "Teclados",
-    "precio": 32
+    "precio": 34
   },
   {
     "proveedor": "hdc",
     "producto": "MICROFONO USB MARVO MIC-01 RGB OMNIDIRECCIONAL",
     "categoria": "Microfonos",
-    "precio": 20
+    "precio": 21
   },
   {
     "proveedor": "hdc",
     "producto": "MICROFONO USB MARVO MIC-03",
     "categoria": "Microfonos",
-    "precio": 70
+    "precio": 76
   },
   {
     "proveedor": "hdc",
     "producto": "COMBO MOUSE+PAD MARVO M355+G1P 6400 DPI 9 BOT",
     "categoria": "Mouses",
-    "precio": 16
+    "precio": 17
   },
   {
     "proveedor": "hdc",
@@ -1275,25 +1317,25 @@
     "proveedor": "hdc",
     "producto": "MOUSE GAMING MARVO M209 6400 DPI OPTICO LED 7 COL 6B",
     "categoria": "Mouses",
-    "precio": 11
+    "precio": 10
   },
   {
     "proveedor": "hdc",
     "producto": "MOUSE GAMING MARVO G943 10000 DPI OPTICO LED RGB",
     "categoria": "Mouses",
-    "precio": 25
+    "precio": 27
   },
   {
     "proveedor": "hdc",
     "producto": "MOUSE GAMING MARVO G961 ULTRALIVIANO 12000 DPI OPTICO RGB 6B PAW",
     "categoria": "Mouses",
-    "precio": 40
+    "precio": 42
   },
   {
     "proveedor": "hdc",
     "producto": "MOUSE GAMING MARVO G945 10000 DPI OPTICO RGB 9B PAW",
     "categoria": "Mouses",
-    "precio": 35
+    "precio": 37
   },
   {
     "proveedor": "hdc",
@@ -1305,43 +1347,43 @@
     "proveedor": "hdc",
     "producto": "MOUSE GAMING MARVO M519 12000 DPI OPTICO RGB",
     "categoria": "Mouses",
-    "precio": 18
+    "precio": 19
   },
   {
     "proveedor": "hdc",
     "producto": "MARVO G39 MOUSE PAD MOUSE PAD GAMING MARVO G39 SMALL",
     "categoria": "Mouses",
-    "precio": 11
+    "precio": 10
   },
   {
     "proveedor": "hdc",
     "producto": "MOUSEPAD RGB MARVO PRO GAMING G45 XL BLACK GRAVITY P1",
     "categoria": "Mouses",
-    "precio": 31
+    "precio": 33
   },
   {
     "proveedor": "hdc",
     "producto": "TECLADO GAMING MECANICO MARVO KG950 FULL RGB RED SWITCH ING",
     "categoria": "Teclados",
-    "precio": 69
+    "precio": 75
   },
   {
     "proveedor": "hdc",
     "producto": "TECLADO GAMING MARVO K656 RETROILUMINADO RGB",
     "categoria": "Teclados",
-    "precio": 19
+    "precio": 20
   },
   {
     "proveedor": "hdc",
     "producto": "TECLADO GAMING MECANICO MARVO KG916 ILUMINADO RGB USB",
     "categoria": "Teclados",
-    "precio": 40
+    "precio": 43
   },
   {
     "proveedor": "hdc",
     "producto": "TECLADO GAMING MECANICO MARVO KG917 ILUMINADO RGB BLUE SWITCH USB",
     "categoria": "Teclados",
-    "precio": 40
+    "precio": 38
   },
   {
     "proveedor": "hdc",
@@ -1353,7 +1395,7 @@
     "proveedor": "hdc",
     "producto": "TECLADO GAMING MECANICO MARVO KG945",
     "categoria": "Teclados",
-    "precio": 80
+    "precio": 88
   },
   {
     "proveedor": "hdc",
@@ -1365,7 +1407,7 @@
     "proveedor": "hdc",
     "producto": "TECLADO GAMING MECANICO  COMPACTO MARVO KG901 ILUMINADO RGB BLUE SWITCH USB",
     "categoria": "Teclados",
-    "precio": 38
+    "precio": 35
   },
   {
     "proveedor": "hdc",
@@ -1377,29 +1419,23 @@
     "proveedor": "hdc",
     "producto": "TECLADO GAMING 60% MARVO KG962SP-B SWITCH BLUE ESP USB RGB",
     "categoria": "Teclados",
-    "precio": 39
+    "precio": 37
   },
   {
     "proveedor": "hdc",
     "producto": "TECLADO MECANICO COMPACTO MARVO KG953 SWITCH BLUE ESP USB TIPO C",
     "categoria": "Teclados",
-    "precio": 40
+    "precio": 43
   },
   {
     "proveedor": "hdc",
     "producto": "WEBCAM MARVO MPC01 1080P MIC 5MPX ILUMINACION LED USB",
     "categoria": "Webcams",
-    "precio": 28
+    "precio": 30
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE BT MATRIX BLAST NEGRO",
-    "categoria": "Parlantes",
-    "precio": 171
-  },
-  {
-    "proveedor": "hdc",
-    "producto": "PARLANTE BT MATRIX BLAST CAMUFLADO",
     "categoria": "Parlantes",
     "precio": 171
   },
@@ -1473,25 +1509,19 @@
     "proveedor": "hdc",
     "producto": "AURICULAR ROJO IN EAR MOONKI SOUND MH-I312",
     "categoria": "Auriculares",
-    "precio": 7
+    "precio": 5
   },
   {
     "proveedor": "hdc",
     "producto": "AURICULAR AZUL ON EAR MOONKI SOUND MH-O613",
     "categoria": "Auriculares",
-    "precio": 21
+    "precio": 15
   },
   {
     "proveedor": "hdc",
     "producto": "AURICULAR ROJO ON EAR MOONKI SOUND MH-O613",
     "categoria": "Auriculares",
-    "precio": 21
-  },
-  {
-    "proveedor": "hdc",
-    "producto": "AURICULAR VERDE ON EAR MOONKI SOUND MH-O613",
-    "categoria": "Auriculares",
-    "precio": 20
+    "precio": 15
   },
   {
     "proveedor": "hdc",
@@ -1503,73 +1533,79 @@
     "proveedor": "hdc",
     "producto": "EARBUDS MOONKI SOUND MA-TWSH100 BLACK",
     "categoria": "Auriculares",
-    "precio": 38
+    "precio": 35
   },
   {
     "proveedor": "hdc",
     "producto": "EARBUDS MOONKI SOUND MH-TWS33 BLACK",
     "categoria": "Auriculares",
-    "precio": 28
+    "precio": 26
   },
   {
     "proveedor": "hdc",
     "producto": "AURICULAR BT NEGRO ON EAR MOONKI SOUND MH-O510BT",
     "categoria": "Auriculares",
-    "precio": 54
+    "precio": 51
   },
   {
     "proveedor": "hdc",
     "producto": "AURICULAR BT NEGRO ON EAR MOONKI SOUND MH-O710BT",
     "categoria": "Auriculares",
-    "precio": 36
+    "precio": 30
   },
   {
     "proveedor": "hdc",
     "producto": "AURICULAR BT NEGRO ON EAR NOISE CANCELING MOONKI SOUND MV-S21BT",
     "categoria": "Auriculares",
-    "precio": 101
+    "precio": 96
+  },
+  {
+    "proveedor": "hdc",
+    "producto": "PARLANTE POTENCIADO MOONKI SOUND MS-900B - 6,5\" - 900W/60W - INC. MIC C/CABLE - BAT.",
+    "categoria": "Parlantes",
+    "precio": 232
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE POTENCIADO MOONKI SOUND MS-1200B - 10\" - 1200W/80W - INC. MIC C/CABLE - BAT.",
     "categoria": "Parlantes",
-    "precio": 362
+    "precio": 338
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE POTENCIADO MOONKI SOUND MS-1600B - 10\" - 1600W/80W - INC. MIC C/CABLE - BAT.",
     "categoria": "Parlantes",
-    "precio": 287
+    "precio": 273
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE POTENCIADO MOONKI SOUND MS-115B - 15\" - 2500W/100W - INC. MIC C/CABLE Y TRIP. - BAT.",
     "categoria": "Parlantes",
-    "precio": 396
+    "precio": 426
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE POTENCIADO MOONKI SOUND MS-P112B - 12\" - 3000W/150W - INC. MIC IN. X 2 - BAT.",
     "categoria": "Parlantes",
-    "precio": 539
+    "precio": 584
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE PARTYBOX MOONKI SOUND MW-PB265BLT",
     "categoria": "Parlantes",
-    "precio": 401
+    "precio": 400
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE POTENCIADO MOONKI SOUND MO-PB280 - 2X8\" - 900W/60W - FRENTE ILUM. EF. LLAMAS - BAT.",
     "categoria": "Parlantes",
-    "precio": 244
+    "precio": 230
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE POTENCIADO MOONKI SOUND MD-PB360 - 2X8\" - 1800W/120W - SONIDO 360° - FRENTE ILUM. + LUZ FIE",
     "categoria": "Parlantes",
-    "precio": 455
+    "precio": 413
   },
   {
     "proveedor": "hdc",
@@ -1581,49 +1617,37 @@
     "proveedor": "hdc",
     "producto": "TORRE DE SONIDO DJ MOONKI SOUND MW-DJ212LT220",
     "categoria": "Parlantes",
-    "precio": 715
+    "precio": 684
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE POTENCIADO MOONKI SOUND MA-MT265B - 2x6,5\" - 750W/50W - BAT.",
     "categoria": "Parlantes",
-    "precio": 229
+    "precio": 207
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE POTENCIADO MOONKI SOUND MS-X265BT - 2x6,5\" - 900W/60W - BAT.",
     "categoria": "Parlantes",
-    "precio": 253
-  },
-  {
-    "proveedor": "hdc",
-    "producto": "PARLANTE PORTÁTIL NEGRO MOONKI SOUND MO-L2077BT",
-    "categoria": "Parlantes",
-    "precio": 85
-  },
-  {
-    "proveedor": "hdc",
-    "producto": "PARLANTE PORTÁTIL CAMUFLADO MOONKI SOUND MO-L2077BT/Y170PLUS",
-    "categoria": "Parlantes",
-    "precio": 84
+    "precio": 244
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE PORTÁTIL NEGRO MOONKI SOUND MO-L2077BT-V2",
     "categoria": "Parlantes",
-    "precio": 84
+    "precio": 77
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE PORTÁTIL NEGRO MOONKI SOUND IPX6 MO-L208BT",
     "categoria": "Parlantes",
-    "precio": 87
+    "precio": 78
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE PORTÁTIL NEGRO MOONKI SOUND MO-R88BT",
     "categoria": "Parlantes",
-    "precio": 57
+    "precio": 51
   },
   {
     "proveedor": "hdc",
@@ -1641,73 +1665,73 @@
     "proveedor": "hdc",
     "producto": "BARRA DE SONIDO 9.2 WIRELESS NAKAMICHI SHOCKWAFE ULTRA 9.2 DOLBY ATMOS 1000W",
     "categoria": "Parlantes",
-    "precio": 4528
+    "precio": 3804
   },
   {
     "proveedor": "hdc",
     "producto": "AURICULAR NAKAMICHI CE100  IN EAR BLANCO",
     "categoria": "Auriculares",
-    "precio": 16
+    "precio": 7
   },
   {
     "proveedor": "hdc",
     "producto": "AURICULAR NAKAMICHI CE100 IN EAR NEGRO",
     "categoria": "Auriculares",
-    "precio": 16
+    "precio": 7
   },
   {
     "proveedor": "hdc",
     "producto": "AURICULAR NAKAMICHI CE300 IN EAR NEGRO",
     "categoria": "Auriculares",
-    "precio": 25
+    "precio": 11
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE BT NAKAMICHI CUBEBOX 5W IPX7 BLACK",
     "categoria": "Parlantes",
-    "precio": 59
+    "precio": 47
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE BT NAKAMICHI THRILL AZUL",
     "categoria": "Parlantes",
-    "precio": 129
+    "precio": 101
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE BT NAKAMICHI CUBEBOX 5W IPX7 BLUE",
     "categoria": "Parlantes",
-    "precio": 59
+    "precio": 47
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE BT NAKAMICHI CUBEBOX 5W IPX7 RED",
     "categoria": "Parlantes",
-    "precio": 59
+    "precio": 47
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE BT NAKAMICHI THRILL NEGRO",
     "categoria": "Parlantes",
-    "precio": 129
+    "precio": 105
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE BT NAKAMICHI THRILL ROJO",
     "categoria": "Parlantes",
-    "precio": 129
+    "precio": 105
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE BT NAKAMICHI CUBEBOX 5W IPX7 MINT",
     "categoria": "Parlantes",
-    "precio": 59
+    "precio": 47
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE BT NAKAMICHI CUBEBOX 5W IPX7 GREEN",
     "categoria": "Parlantes",
-    "precio": 59
+    "precio": 47
   },
   {
     "proveedor": "hdc",
@@ -1725,7 +1749,7 @@
     "proveedor": "hdc",
     "producto": "AMPLIFICADOR 4CH NAKAMICHI NKTA75.4 400W",
     "categoria": "Parlantes",
-    "precio": 200
+    "precio": 181
   },
   {
     "proveedor": "hdc",
@@ -1737,37 +1761,37 @@
     "proveedor": "hdc",
     "producto": "AMPLIFICADOR MONOBLOCK NAKAMICHI NGO-D900.1 5400W",
     "categoria": "Parlantes",
-    "precio": 348
+    "precio": 316
   },
   {
     "proveedor": "hdc",
     "producto": "AMPLIFICADOR MONOBLOCK NAKAMICHI NGO-D500.1 3000W",
     "categoria": "Parlantes",
-    "precio": 232
+    "precio": 211
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE 6X9 NAKAMICHI NSE6918 3V 260W 4OHM",
     "categoria": "Parlantes",
-    "precio": 105
+    "precio": 94
   },
   {
     "proveedor": "hdc",
     "producto": "COMPONENTE 6.5\" NAKAMICHI NSECS1658 2V 350W 4OHM",
     "categoria": "Parlantes",
-    "precio": 160
+    "precio": 145
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE 6.5\" NAKAMICHI NSE1658 3V 360W 4OHM",
     "categoria": "Parlantes",
-    "precio": 107
+    "precio": 97
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE 4\" NAKAMICHI NSE1018 2V 130W 4OHM",
     "categoria": "Parlantes",
-    "precio": 68
+    "precio": 60
   },
   {
     "proveedor": "hdc",
@@ -1779,7 +1803,7 @@
     "proveedor": "hdc",
     "producto": "COMPONENTE 6.5\" NAKAMICHI NSE-CS1618 2V 200W 4OHM",
     "categoria": "Parlantes",
-    "precio": 170
+    "precio": 154
   },
   {
     "proveedor": "hdc",
@@ -1791,7 +1815,7 @@
     "proveedor": "hdc",
     "producto": "STEREO DOBLE DIN  NAKAMICHI NAM1612 7\" BT USB SD 50W X 4",
     "categoria": "Electro",
-    "precio": 341
+    "precio": 331
   },
   {
     "proveedor": "hdc",
@@ -1803,19 +1827,19 @@
     "proveedor": "hdc",
     "producto": "STEREO SINGLE DIN NAKAMICHI NQ616B 50W X 4 - BLUETOOTH - FRENTE FIJO",
     "categoria": "Electro",
-    "precio": 151
+    "precio": 146
   },
   {
     "proveedor": "hdc",
     "producto": "STEREO SINGLE DIN NAKAMICHI NQ821B 50WX4 BT/USB FRENTE DESMONTABLE",
     "categoria": "Electro",
-    "precio": 284
+    "precio": 276
   },
   {
     "proveedor": "hdc",
     "producto": "STEREO DOBLE DIN  NAKAMICHI NA2300/NC5L 6.2\" BT DVD CD USB 50W X 4",
     "categoria": "Electro",
-    "precio": 398
+    "precio": 338
   },
   {
     "proveedor": "hdc",
@@ -1827,31 +1851,31 @@
     "proveedor": "hdc",
     "producto": "SUBWOOFER NAKAMICHI NSWZ1206D4 12\" DOBLE BOBINA  600W RMS 4OHM",
     "categoria": "Parlantes",
-    "precio": 237
+    "precio": 194
   },
   {
     "proveedor": "hdc",
     "producto": "SUBWOOFER NAKAMICHI NSW12D 12\" BOBINA DOBLE DVC 1200W 4OHM",
     "categoria": "Parlantes",
-    "precio": 86
+    "precio": 79
   },
   {
     "proveedor": "hdc",
     "producto": "SUBWOOFER AMPLIFICADO 10\" B.ASIENTO NAKAMICHI NBX25L",
     "categoria": "Parlantes",
-    "precio": 470
+    "precio": 409
   },
   {
     "proveedor": "hdc",
     "producto": "SUBWOOFER AMPLIFICADO 10\" B.ASIENTO NAKAMICHI NBF10.2A",
     "categoria": "Parlantes",
-    "precio": 686
+    "precio": 500
   },
   {
     "proveedor": "hdc",
     "producto": "SUBWOOFER AMPLIFICADO 10\" B.ASIENTO NAKAMICHI NBF25.0A",
     "categoria": "Parlantes",
-    "precio": 666
+    "precio": 486
   },
   {
     "proveedor": "hdc",
@@ -1863,19 +1887,19 @@
     "proveedor": "hdc",
     "producto": "SUBWOOFER SLIM 12\" NAKAMICHI NSWX1203S4  BOBINA SIMPLE 250W 4OHM",
     "categoria": "Parlantes",
-    "precio": 402
+    "precio": 329
   },
   {
     "proveedor": "hdc",
     "producto": "SUBWOOFER AMPLIFICADO 6X9\" B.ASIENTO NAKAMICHI NBF618S-II",
     "categoria": "Parlantes",
-    "precio": 466
+    "precio": 340
   },
   {
     "proveedor": "hdc",
     "producto": "SUBWOOFER AMPLIFICADO 8\" B.ASIENTO NAKAMICHI NBF20.0A",
     "categoria": "Parlantes",
-    "precio": 587
+    "precio": 429
   },
   {
     "proveedor": "hdc",
@@ -1897,15 +1921,9 @@
   },
   {
     "proveedor": "hdc",
-    "producto": "PARLANTE 4\" PIONEER TSG1010F 190W DOBLE CONO 4OHM",
-    "categoria": "Parlantes",
-    "precio": 69
-  },
-  {
-    "proveedor": "hdc",
     "producto": "COMBO STEREO + 4 PARLANTES PIONEER (MVH-S320BT + TS-165P 6.5\")",
     "categoria": "Parlantes",
-    "precio": 409
+    "precio": 386
   },
   {
     "proveedor": "hdc",
@@ -1960,12 +1978,6 @@
     "producto": "UNIDAD SSD M.2 PNY CS3030 500GB NVMe",
     "categoria": "Discos",
     "precio": 192
-  },
-  {
-    "proveedor": "hdc",
-    "producto": "UNIDAD SSD M.2 PNY CS1031 256GB NVMe // NB HDC",
-    "categoria": "Discos",
-    "precio": 98
   },
   {
     "proveedor": "hdc",
@@ -2055,19 +2067,13 @@
     "proveedor": "hdc",
     "producto": "ROKU PREMIERE 4K (SIN PILAS) (SIN TRAFO)",
     "categoria": "Electro",
-    "precio": 120
+    "precio": 110
   },
   {
     "proveedor": "hdc",
     "producto": "ROKU PREMIERE 4K BLANCO (SIN PILAS) (SIN TRAFO)",
     "categoria": "Electro",
-    "precio": 105
-  },
-  {
-    "proveedor": "hdc",
-    "producto": "ROKU PREMIERE 4K (SIN PILAS) (SIN TRAFO)",
-    "categoria": "Electro",
-    "precio": 120
+    "precio": 114
   },
   {
     "proveedor": "hdc",
@@ -2109,61 +2115,61 @@
     "proveedor": "hdc",
     "producto": "HEADSET GAMING SHENLONG HS1000 - LED ROJO - JACK 2 X 3.5MM + USB",
     "categoria": "Auriculares",
-    "precio": 34
+    "precio": 27
   },
   {
     "proveedor": "hdc",
     "producto": "HEADSET GAMING SHENLONG HS999 CON RETROILUMINACIÓN LED ROJA, 2x3.5 mm + USB. INCLUYE ADAPTADOR PS4",
     "categoria": "Auriculares",
-    "precio": 33
+    "precio": 26
   },
   {
     "proveedor": "hdc",
     "producto": "HEADSET GAMING SHENLONG HS-VS7100 SONIDO 7,1 VIRTUAL CON ILUMINACIÓN RAINBOX - CONECTOR USB",
     "categoria": "Auriculares",
-    "precio": 43
+    "precio": 35
   },
   {
     "proveedor": "hdc",
     "producto": "COMBO 4 EN 1 GAMING SHENLONG C4001",
     "categoria": "Teclados",
-    "precio": 41
+    "precio": 33
   },
   {
     "proveedor": "hdc",
     "producto": "COMBO GAMING 2 EN 1 SHENLONG C2001- MOUSE Y TECLADO",
     "categoria": "Teclados",
-    "precio": 29
+    "precio": 23
   },
   {
     "proveedor": "hdc",
     "producto": "MICRÓFONO STREAMING SHENLONG SM-ARM909 CON SOPORTE DE BRAZO PLEGABLE Y FILTRO POP",
     "categoria": "Microfonos",
-    "precio": 85
+    "precio": 70
   },
   {
     "proveedor": "hdc",
     "producto": "MOUSE GAMING SHENLONG M700 - 7 BOTONES - HASTA 6400DI - RAINBOW LED + CABLE MALLADO 1.5M",
     "categoria": "Mouses",
-    "precio": 18
+    "precio": 14
   },
   {
     "proveedor": "hdc",
     "producto": "MOUSE GAMING SHENLONG M788-7 BOTONES, HASTA 6400 DPI CON RETROILUMINACIÓN RAINBOW",
     "categoria": "Mouses",
-    "precio": 16
+    "precio": 12
   },
   {
     "proveedor": "hdc",
     "producto": "MOUSE GAMING PROFESIONAL RAINBOW SHENLONG  M1000PX 10 BOTONES HASTA 10000 DPI SENSOR PIXART 3325 IC",
     "categoria": "Mouses",
-    "precio": 37
+    "precio": 30
   },
   {
     "proveedor": "hdc",
     "producto": "MOUSE GAMING PROFESIONAL RAINBOW SHENLONG M808PX 8 BOTONES HASTA 10000 DPI SENSOR PIXART 3325 IC",
     "categoria": "Mouses",
-    "precio": 37
+    "precio": 30
   },
   {
     "proveedor": "hdc",
@@ -2175,49 +2181,49 @@
     "proveedor": "hdc",
     "producto": "PAD GAMING SHENLONG P1000M - 350 X 250 X 4 MM - BORDE COCIDO - SUP DE MICROFIBRA",
     "categoria": "Mouses",
-    "precio": 11
+    "precio": 8
   },
   {
     "proveedor": "hdc",
     "producto": "PAD GAMING SHENLONG P1000XL - 800 X 300 X 4 MM - BORDE COCIDO - SUP DE MICROFIBRA",
     "categoria": "Mouses",
-    "precio": 16
+    "precio": 12
   },
   {
     "proveedor": "hdc",
     "producto": "MOUSE PAD RGB GAMING SHENLONG PRORGB-XL TALLE XL",
     "categoria": "Mouses",
-    "precio": 38
+    "precio": 30
   },
   {
     "proveedor": "hdc",
     "producto": "MOUSE PAD RGB GAMING SHENLONG PRORGB-M TALLE M BASE DE NEOPRENE CON SUPERFICIE DE MICROFIBRA Y BORDE",
     "categoria": "Mouses",
-    "precio": 28
+    "precio": 22
   },
   {
     "proveedor": "hdc",
     "producto": "TECLADO GAMING SHENLONG KB8700 ESP 105 TECLAS - FUNCION ANTIGHOSTING - RGB",
     "categoria": "Teclados",
-    "precio": 27
+    "precio": 22
   },
   {
     "proveedor": "hdc",
     "producto": "TECLADO MECÁNICO COMPACTO GAMING SHENLONG SMK5900SB-87 TECLAS ESPAÑOL CON ILUMINACIÓN RGB Y ANTIGHOS",
     "categoria": "Teclados",
-    "precio": 52
+    "precio": 42
   },
   {
     "proveedor": "hdc",
     "producto": "TECLADO MECÁNICO SHENLONG MK9600SB-105 TECLAS ESP, SWITCH BLUE CON ILUMINACIÓN RGB Y ANTIGHOSTING",
     "categoria": "Teclados",
-    "precio": 59
+    "precio": 48
   },
   {
     "proveedor": "hdc",
     "producto": "TECLADO MECÁNICO ULTRACOMPACTO SHENLONG UMK6100SB - 62 TECLAS - CABLE USB TIPO C RAINBOW",
     "categoria": "Teclados",
-    "precio": 51
+    "precio": 42
   },
   {
     "proveedor": "hdc",

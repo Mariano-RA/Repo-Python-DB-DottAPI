@@ -6,4 +6,4 @@ agregar la columna categoria y en la primer celda pegar la siguiente formula
 
 =SI(Y(ESBLANCO(B1); ESBLANCO(B2));CONCAT(A1;" - ";A2);SI(ESBLANCO(E3);"";SI(LARGO(B2)<2; CONCAT(IZQUIERDA(G1; ENCONTRAR(" - "; G1) - 1);" - ";A2);G2)))
 
-=IF(AND(ISBLANK(B3), ISBLANK(B4)),CONCAT(A3," - ",A4),IF(ISBLANK(E5),"",IF(LEN(B4)<2, CONCAT(LEFT(G3, FIND(" - ", G3) - 1)," - ",A4),G4)))
+=IF(AND(ISBLANK(B1), ISBLANK(B2)),CONCAT(A1," - ",A2),IF(ISBLANK(E3),"",IF(LEN(B2)<2, CONCAT(LEFT(G1, FIND(" - ", G1) - 1)," - ",A2),G2)))

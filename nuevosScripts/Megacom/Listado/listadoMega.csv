@@ -576,8 +576,8 @@ Repuestos,,,,,,
 Scanners,,,,,,
 9146,Contadora de Billetes Portatil NEO ONE NPB01,U$s 92.07,$ 35034.16,+21%,,IMPRESORAS - Scanners
 70020159,Scanner BROTHER ADS-1250W 25PPM Duplex,U$s 468.24,$ 178163.42,+10.5%,Ver Detalles,IMPRESORAS - Scanners
-2418,Scanner CANON Lide 25,U$s 106.11,$ 40374.86,+21%,Ver Detalles,IMPRESORAS - Scanners
-1493,Scanner CANON Lide 300,U$s 135.89,$ 51706.14,+21%,Ver Detalles,IMPRESORAS - Scanners
+2418,Scanner CANON Lide 25,U$s 244.34,$ 92972.51,+21%,Ver Detalles,IMPRESORAS - Scanners
+1493,Scanner CANON Lide 300,U$s 246.30,$ 93717.91,+21%,Ver Detalles,IMPRESORAS - Scanners
 19913,Scanner Portatil 1050DPI AVISION Miwand 2 Lite,U$s 70.75,$ 26921.14,+21%,Ver Detalles,IMPRESORAS - Scanners
 19914,Tableta Digitalizadora GENIUS Easypen i405X,U$s 47.08,$ 17913.94,+21%,,IMPRESORAS - Scanners
 SEGURIDAD - CCTV,,,,,,
@@ -1381,7 +1381,6 @@ Cartuchos Originales,,,,,,
 6542,Cart HP 670 CZ114AL Cian,U$s 13.55,$ 5155.78,+10.5%,,INSUMOS - Cartuchos Originales
 11477,Cart HP 670 CZ115AL Magenta,U$s 13.55,$ 5155.78,+10.5%,,INSUMOS - Cartuchos Originales
 6543,Cart HP 670 CZ116AL Amarillo,U$s 13.55,$ 5155.78,+10.5%,,INSUMOS - Cartuchos Originales
-20006551,Cart HP 670XL CZ118AL Cian,U$s 4.56,$ 1736.22,+10.5%,,INSUMOS - Cartuchos Originales
 20006552,Cart HP 670XL CZ119AL Magenta,U$s 4.54,$ 1725.95,+10.5%,,INSUMOS - Cartuchos Originales
 20006553,Cart HP 670XL CZ120AL Amarillo,U$s 4.54,$ 1725.95,+10.5%,,INSUMOS - Cartuchos Originales
 20006561,Cart HP 675 CN690AL Neg,U$s 38.36,$ 14597.50,+10.5%,Ver Detalles,INSUMOS - Cartuchos Originales
@@ -1427,129 +1426,128 @@ Cartuchos Originales,,,,,,
 19718,Tinta EPSON 664 T664320AL Mag,U$s 19.57,$ 7448.29,+21%,Ver Detalles,INSUMOS - Cartuchos Originales
 19717,Tinta EPSON 664 T664420AL Ama,U$s 19.57,$ 7448.29,+21%,Ver Detalles,INSUMOS - Cartuchos Originales
 Toner y Drum Alternativos,,,,,,
-70020811,DRUM ALT BROTHER DR 510 400 6000,U$s 14.70,$ 5592.59,+21%,,INSUMOS - Toner y Drum Alternativos
-31986,Drum Alt BROTHER DR1050 DR1060 TECNOLIV,U$s 22.24,$ 8461.94,+21%,,INSUMOS - Toner y Drum Alternativos
-31999,Drum Alt BROTHER DR2340 GLOBAL,U$s 24.37,$ 9271.64,+21%,,INSUMOS - Toner y Drum Alternativos
-565,Drum Alt BROTHER DR3460 DR880 DR820 GLOBAL,U$s 49.29,$ 18755.61,+21%,,INSUMOS - Toner y Drum Alternativos
-31974,Drum Alt BROTHER DR360 GLOBAL ,U$s 20.55,$ 7820.42,+21%,,INSUMOS - Toner y Drum Alternativos
-31987,Drum Alt BROTHER DR420 GLOBAL ,U$s 17.46,$ 6643.15,+21%,,INSUMOS - Toner y Drum Alternativos
-16655,Drum Alt BROTHER DR620 G&G ,U$s 24.37,$ 9271.64,+21%,,INSUMOS - Toner y Drum Alternativos
-31991,Drum Alt BROTHER DR720 G&G,U$s 24.37,$ 9271.64,+21%,,INSUMOS - Toner y Drum Alternativos
-31976,Drum Alt BROTHER DR720 GLOBAL ,U$s 24.83,$ 9447.43,+21%,,INSUMOS - Toner y Drum Alternativos
-7771,Drum Alt HP 126 CE314A Neg GLOBAL,U$s 25.52,$ 9711.50,+21%,,INSUMOS - Toner y Drum Alternativos
-7769,Drum Alt HP CF219A con Chip GLOBAL,U$s 26.24,$ 9985.08,+21%,,INSUMOS - Toner y Drum Alternativos
-70020154,Drum Alt HP CF232A con Chip GLOBAL,U$s 24.37,$ 9271.64,+21%,,INSUMOS - Toner y Drum Alternativos
-32010,Toner Alt BROTHER TN1050 TN1060 Neg GLOBAL,U$s 10.93,$ 4157.34,+21%,,INSUMOS - Toner y Drum Alternativos
-31980,Toner Alt BROTHER TN110 TN115 TN130 TN135 Ama GLOB,U$s 24.37,$ 9271.64,+21%,,INSUMOS - Toner y Drum Alternativos
-31978,Toner Alt BROTHER TN110 TN115 TN130 TN135 Cia GLOB,U$s 24.37,$ 9271.64,+21%,,INSUMOS - Toner y Drum Alternativos
-31979,Toner Alt BROTHER TN110 TN115 TN130 TN135 Mag GLOB,U$s 24.37,$ 9271.64,+21%,,INSUMOS - Toner y Drum Alternativos
-31977,Toner Alt BROTHER TN110 TN115 TN130 TN135 Neg GLOB,U$s 24.37,$ 9271.64,+21%,,INSUMOS - Toner y Drum Alternativos
-3762,Toner Alt BROTHER TN225C Cia GLOBAL,U$s 24.37,$ 9271.64,+21%,,INSUMOS - Toner y Drum Alternativos
-1751004,Toner Alt BROTHER TN225M Mag GLOBAL,U$s 24.37,$ 9271.64,+21%,,INSUMOS - Toner y Drum Alternativos
-1749020,Toner Alt BROTHER TN225Y Ama GLOBAL,U$s 24.37,$ 9271.64,+21%,,INSUMOS - Toner y Drum Alternativos
-31998,Toner Alt BROTHER TN2370 TN660 Neg MGN,U$s 23.92,$ 9100.04,+21%,,INSUMOS - Toner y Drum Alternativos
-31959,Toner Alt BROTHER TN315M Mag GLOBAL,U$s 22.95,$ 8732.09,+21%,,INSUMOS - Toner y Drum Alternativos
-31963,Toner Alt BROTHER TN315Y Ama GLOBAL,U$s 22.95,$ 8732.09,+21%,,INSUMOS - Toner y Drum Alternativos
-6551,Toner Alt BROTHER TN3479 Neg GLOBAL,U$s 26.68,$ 10152.50,+21%,,INSUMOS - Toner y Drum Alternativos
-31985,Toner Alt BROTHER TN3499 Neg GLOBAL,U$s 30.07,$ 11442.40,+21%,,INSUMOS - Toner y Drum Alternativos
-3756,Toner Alt BROTHER TN350 Neg GREENJET ,U$s 9.25,$ 3520.01,+21%,,INSUMOS - Toner y Drum Alternativos
-16656,Toner Alt BROTHER TN360 Neg GLOBAL,U$s 9.25,$ 3520.01,+21%,,INSUMOS - Toner y Drum Alternativos
-16653,Toner Alt BROTHER TN410 TN450 Neg GLOBAL,U$s 16.09,$ 6123.77,+21%,,INSUMOS - Toner y Drum Alternativos
-3758,Toner Alt BROTHER TN580 TN620 TN650 Neg GLOBAL,U$s 24.37,$ 9271.64,+21%,,INSUMOS - Toner y Drum Alternativos
-70020813,TONER ALT E LEXMARK 12A8305 6K,U$s 14.74,$ 5608.95,+21%,,INSUMOS - Toner y Drum Alternativos
-7768,Toner Alt HP 048A CF248A Neg Con Chip GLOBAL,U$s 23.14,$ 8805.91,+21%,,INSUMOS - Toner y Drum Alternativos
-3765,Toner Alt HP 078A CE278A Neg GLOBAL,U$s 20.38,$ 7753.07,+21%,,INSUMOS - Toner y Drum Alternativos
-70020200,Toner Alt HP 105A W1105A Neg c/Chip GLOBAL,U$s 46.93,$ 17856.48,+21%,,INSUMOS - Toner y Drum Alternativos
-7812,Toner Alt HP 105A W1105A Neg s/Chip GLOBAL,U$s 24.37,$ 9271.64,+21%,,INSUMOS - Toner y Drum Alternativos
-7623,Toner Alt HP 124A Q6000A Neg GLOBAL,U$s 42.86,$ 16307.09,+21%,,INSUMOS - Toner y Drum Alternativos
-7629,Toner Alt HP 124A Q6001A Cia GLOBAL,U$s 22.79,$ 8672.74,+21%,,INSUMOS - Toner y Drum Alternativos
-7630,Toner Alt HP 124A Q6002A Ama GLOBAL,U$s 21.16,$ 8053.28,+21%,,INSUMOS - Toner y Drum Alternativos
-7631,Toner Alt HP 124A Q6003A Mag GLOBAL,U$s 21.16,$ 8053.28,+21%,,INSUMOS - Toner y Drum Alternativos
-7778,Toner Alt HP 204A CF510A Neg GLOBAL,U$s 29.76,$ 11324.06,+21%,,INSUMOS - Toner y Drum Alternativos
-7781,Toner Alt HP 204A CF511A Cia GLOBAL,U$s 29.76,$ 11324.06,+21%,,INSUMOS - Toner y Drum Alternativos
-11519,Toner Alt HP 204A CF512A Mag GLOBAL,U$s 29.81,$ 11344.23,+21%,,INSUMOS - Toner y Drum Alternativos
-7782,Toner Alt HP 204A CF513A Ama GLOBAL,U$s 29.76,$ 11324.06,+21%,,INSUMOS - Toner y Drum Alternativos
-7758,Toner Alt HP 650 CE270A Neg GLOBAL,U$s 89.75,$ 34151.02,+21%,,INSUMOS - Toner y Drum Alternativos
-7759,Toner Alt HP 650 CE271A Cia GLOBAL ,U$s 89.75,$ 34151.02,+21%,,INSUMOS - Toner y Drum Alternativos
-7760,Toner Alt HP 650 CE272A Mag GLOBAL,U$s 89.75,$ 34151.02,+21%,,INSUMOS - Toner y Drum Alternativos
-7761,Toner Alt HP 650 CE273A Ama GLOBAL,U$s 89.75,$ 34151.02,+21%,,INSUMOS - Toner y Drum Alternativos
-3260,Toner Alt HP C4182X Neg GTC,U$s 70.74,$ 26915.43,+21%,,INSUMOS - Toner y Drum Alternativos
-7638,Toner Alt HP CC364A CE390A Neg GLOBAL,U$s 73.92,$ 28125.42,+21%,,INSUMOS - Toner y Drum Alternativos
-7657,Toner Alt HP CC364X CE390X Neg GLOBAL,U$s 34.38,$ 13080.45,+21%,,INSUMOS - Toner y Drum Alternativos
-7672,Toner Alt HP CC530A CE410A CF380A Neg GLOBAL,U$s 26.81,$ 10199.68,+21%,,INSUMOS - Toner y Drum Alternativos
-7674,Toner Alt HP CC532A CE412A CF382A Ama GLOBAL,U$s 26.80,$ 10195.50,+21%,,INSUMOS - Toner y Drum Alternativos
-7675,Toner Alt HP CC533A CE413A CF383A Mag GLOBAL,U$s 26.81,$ 10199.68,+21%,,INSUMOS - Toner y Drum Alternativos
-7785,Toner Alt HP CE255A Neg STARLING,U$s 43.45,$ 16531.96,+21%,,INSUMOS - Toner y Drum Alternativos
-3766,Toner Alt HP CE285A CB435A CB436A NEG GLOBAL,U$s 19.17,$ 7293.04,+21%,,INSUMOS - Toner y Drum Alternativos
-7632,Toner Alt HP CE310A Neg GLOBAL,U$s 17.38,$ 6614.23,+21%,,INSUMOS - Toner y Drum Alternativos
-7633,Toner Alt HP CE311A Cia GLOBAL,U$s 17.38,$ 6614.23,+21%,,INSUMOS - Toner y Drum Alternativos
-7634,Toner Alt HP CE312A Ama GLOBAL,U$s 17.38,$ 6614.23,+21%,,INSUMOS - Toner y Drum Alternativos
-7635,Toner Alt HP CE313A Mag GLOBAL,U$s 17.38,$ 6614.23,+21%,,INSUMOS - Toner y Drum Alternativos
-7665,Toner Alt HP CE320A CB540A CF210A Neg GLOBAL,U$s 24.83,$ 9447.43,+21%,,INSUMOS - Toner y Drum Alternativos
-7667,Toner Alt HP CE321A CB541A CF211A Cia GLOBAL,U$s 24.83,$ 9447.43,+21%,,INSUMOS - Toner y Drum Alternativos
-7668,Toner Alt HP CE322A CB542A CF212A Ama GLOBAL,U$s 24.83,$ 9447.43,+21%,,INSUMOS - Toner y Drum Alternativos
-7666,Toner Alt HP CE323A CB543A CF213A Mag GLOBAL,U$s 24.83,$ 9447.43,+21%,,INSUMOS - Toner y Drum Alternativos
-7763,Toner Alt HP CE400X CE250X 507X Neg GLOBAL,U$s 41.22,$ 15685.73,+21%,,INSUMOS - Toner y Drum Alternativos
-7764,Toner Alt HP CE401A CE251A 507A Cia GLOBAL,U$s 24.37,$ 9271.64,+21%,,INSUMOS - Toner y Drum Alternativos
-7765,Toner Alt HP CE402A CE252A 507A Ama GLOBAL,U$s 24.37,$ 9271.64,+21%,,INSUMOS - Toner y Drum Alternativos
-7766,Toner Alt HP CE403A CE253A 507A Mag GLOBAL,U$s 24.64,$ 9374.38,+21%,,INSUMOS - Toner y Drum Alternativos
-7742,Toner Alt HP CF217A Neg Con Chip GLOBAL,U$s 21.94,$ 8347.79,+21%,,INSUMOS - Toner y Drum Alternativos
-10009680,Toner Alt HP CF217A Neg Sin Chip GLOBAL,U$s 21.94,$ 8347.79,+21%,,INSUMOS - Toner y Drum Alternativos
-7679,Toner Alt HP CF226A Neg GLOBAL,U$s 22.94,$ 8727.91,+21%,,INSUMOS - Toner y Drum Alternativos
-6759,Toner Alt HP CF226X Neg GLOBAL,U$s 29.78,$ 11332.05,+21%,,INSUMOS - Toner y Drum Alternativos
-10099710,Toner Alt HP CF230A Neg C/Chip GLOBAL,U$s 21.32,$ 8110.74,+21%,,INSUMOS - Toner y Drum Alternativos
-7777,Toner Alt HP CF237A Neg GLOBAL,U$s 147.75,$ 56218.49,+21%,,INSUMOS - Toner y Drum Alternativos
-7745,Toner Alt HP CF279A Neg GLOBAL,U$s 17.81,$ 6777.85,+21%,,INSUMOS - Toner y Drum Alternativos
-7645,Toner Alt HP CF280A CE505A Neg GLOBAL,U$s 18.33,$ 6974.18,+21%,,INSUMOS - Toner y Drum Alternativos
-7757,Toner Alt HP CF280X CE505X Neg GLOBAL,U$s 23.11,$ 8793.35,+21%,,INSUMOS - Toner y Drum Alternativos
-7659,Toner Alt HP CF281A Neg GLOBAL,U$s 56.86,$ 21634.09,+21%,,INSUMOS - Toner y Drum Alternativos
-7658,Toner Alt HP CF281X Neg Global,U$s 79.32,$ 30182.02,+21%,,INSUMOS - Toner y Drum Alternativos
-70020100,Toner ALT HP CF289A Neg GLOBAL,U$s 159.95,$ 60862.12,+21%,,INSUMOS - Toner y Drum Alternativos
-11504,Toner Alt HP CF410A Neg GLOBAL,U$s 46.31,$ 17619.43,+21%,,INSUMOS - Toner y Drum Alternativos
-11505,Toner Alt HP CF411A Cia GLOBAL,U$s 52.06,$ 19810.73,+21%,,INSUMOS - Toner y Drum Alternativos
-11506,Toner Alt HP CF412A Ama GLOBAL,U$s 52.06,$ 19810.73,+21%,,INSUMOS - Toner y Drum Alternativos
-1584,Toner Alt HP Q2612A Neg ASSEEL,U$s 18.66,$ 7100.89,+21%,,INSUMOS - Toner y Drum Alternativos
-70020412,Toner Alt HP Q2612A Neg GNEISS,U$s 18.66,$ 7100.89,+21%,,INSUMOS - Toner y Drum Alternativos
-5115,Toner Alt HP Q2613A Neg GLOBAL,U$s 20.93,$ 7963.48,+21%,,INSUMOS - Toner y Drum Alternativos
-7651,Toner Alt HP Q5942A Neg ,U$s 82.44,$ 31367.28,+21%,,INSUMOS - Toner y Drum Alternativos
-7643,Toner Alt HP Q5949A Q7553A Neg GLOBAL,U$s 22.81,$ 8678.82,+21%,,INSUMOS - Toner y Drum Alternativos
-7767,Toner Alt HP Q6511A Neg GLOBAL,U$s 71.00,$ 27016.64,+21%,,INSUMOS - Toner y Drum Alternativos
-3777,Toner Alt HP Q7551A Neg GLOBAL,U$s 34.22,$ 13020.33,+21%,,INSUMOS - Toner y Drum Alternativos
-70020812,TONER ALT LEXMARK 10S0063 10S0150 E210 2.5K -,U$s 19.99,$ 7607.72,+21%,,INSUMOS - Toner y Drum Alternativos
-745000,Toner Alt LEXMARK E460X11L Neg GLOBAL,U$s 38.24,$ 14549.18,+21%,,INSUMOS - Toner y Drum Alternativos
+70020811,DRUM ALT BROTHER DR 510 400 6000,U$s 19.89,$ 7567.00,+21%,,INSUMOS - Toner y Drum Alternativos
+31986,Drum Alt BROTHER DR1050 DR1060 TECNOLIV,U$s 25.12,$ 9557.78,+21%,,INSUMOS - Toner y Drum Alternativos
+31999,Drum Alt BROTHER DR2340 GLOBAL,U$s 26.12,$ 9937.90,+21%,,INSUMOS - Toner y Drum Alternativos
+565,Drum Alt BROTHER DR3460 DR880 DR820 GLOBAL,U$s 70.78,$ 26931.79,+21%,,INSUMOS - Toner y Drum Alternativos
+31974,Drum Alt BROTHER DR360 GLOBAL ,U$s 23.73,$ 9030.41,+21%,,INSUMOS - Toner y Drum Alternativos
+31987,Drum Alt BROTHER DR420 GLOBAL ,U$s 23.56,$ 8964.96,+21%,,INSUMOS - Toner y Drum Alternativos
+16655,Drum Alt BROTHER DR620 G&G ,U$s 23.19,$ 8822.27,+21%,,INSUMOS - Toner y Drum Alternativos
+31991,Drum Alt BROTHER DR720 G&G,U$s 26.62,$ 10130.05,+21%,,INSUMOS - Toner y Drum Alternativos
+31976,Drum Alt BROTHER DR720 GLOBAL ,U$s 26.62,$ 10130.05,+21%,,INSUMOS - Toner y Drum Alternativos
+7771,Drum Alt HP 126 CE314A Neg GLOBAL,U$s 28.13,$ 10702.32,+21%,,INSUMOS - Toner y Drum Alternativos
+7769,Drum Alt HP CF219A con Chip GLOBAL,U$s 29.75,$ 11318.73,+21%,,INSUMOS - Toner y Drum Alternativos
+70020154,Drum Alt HP CF232A con Chip GLOBAL,U$s 27.62,$ 10510.17,+21%,,INSUMOS - Toner y Drum Alternativos
+32010,Toner Alt BROTHER TN1050 TN1060 Neg GLOBAL,U$s 16.86,$ 6414.09,+21%,,INSUMOS - Toner y Drum Alternativos
+31980,Toner Alt BROTHER TN110 TN115 TN130 TN135 Ama GLOB,U$s 38.27,$ 14561.35,+21%,,INSUMOS - Toner y Drum Alternativos
+31978,Toner Alt BROTHER TN110 TN115 TN130 TN135 Cia GLOB,U$s 38.82,$ 14770.25,+21%,,INSUMOS - Toner y Drum Alternativos
+31979,Toner Alt BROTHER TN110 TN115 TN130 TN135 Mag GLOB,U$s 38.82,$ 14770.25,+21%,,INSUMOS - Toner y Drum Alternativos
+31977,Toner Alt BROTHER TN110 TN115 TN130 TN135 Neg GLOB,U$s 38.82,$ 14770.25,+21%,,INSUMOS - Toner y Drum Alternativos
+3762,Toner Alt BROTHER TN225C Cia GLOBAL,U$s 26.87,$ 10224.03,+21%,,INSUMOS - Toner y Drum Alternativos
+1751004,Toner Alt BROTHER TN225M Mag GLOBAL,U$s 26.87,$ 10224.03,+21%,,INSUMOS - Toner y Drum Alternativos
+1749020,Toner Alt BROTHER TN225Y Ama GLOBAL,U$s 26.87,$ 10224.03,+21%,,INSUMOS - Toner y Drum Alternativos
+31998,Toner Alt BROTHER TN2370 TN660 Neg MGN,U$s 37.29,$ 14189.61,+21%,,INSUMOS - Toner y Drum Alternativos
+31959,Toner Alt BROTHER TN315M Mag GLOBAL,U$s 26.12,$ 9937.90,+21%,,INSUMOS - Toner y Drum Alternativos
+31963,Toner Alt BROTHER TN315Y Ama GLOBAL,U$s 26.12,$ 9937.90,+21%,,INSUMOS - Toner y Drum Alternativos
+6551,Toner Alt BROTHER TN3479 Neg GLOBAL,U$s 28.60,$ 10882.30,+21%,,INSUMOS - Toner y Drum Alternativos
+31985,Toner Alt BROTHER TN3499 Neg GLOBAL,U$s 26.87,$ 10224.03,+21%,,INSUMOS - Toner y Drum Alternativos
+3756,Toner Alt BROTHER TN350 Neg GREENJET ,U$s 12.64,$ 4811.42,+21%,,INSUMOS - Toner y Drum Alternativos
+16656,Toner Alt BROTHER TN360 Neg GLOBAL,U$s 12.62,$ 4803.43,+21%,,INSUMOS - Toner y Drum Alternativos
+16653,Toner Alt BROTHER TN410 TN450 Neg GLOBAL,U$s 21.76,$ 8278.54,+21%,,INSUMOS - Toner y Drum Alternativos
+3758,Toner Alt BROTHER TN580 TN620 TN650 Neg GLOBAL,U$s 39.35,$ 14974.58,+21%,,INSUMOS - Toner y Drum Alternativos
+70020813,TONER ALT E LEXMARK 12A8305 6K,U$s 19.47,$ 7407.19,+21%,,INSUMOS - Toner y Drum Alternativos
+7768,Toner Alt HP 048A CF248A Neg Con Chip GLOBAL,U$s 26.12,$ 9937.90,+21%,,INSUMOS - Toner y Drum Alternativos
+3765,Toner Alt HP 078A CE278A Neg GLOBAL,U$s 25.56,$ 9724.82,+21%,,INSUMOS - Toner y Drum Alternativos
+70020200,Toner Alt HP 105A W1105A Neg c/Chip GLOBAL,U$s 81.85,$ 31142.78,+21%,,INSUMOS - Toner y Drum Alternativos
+7812,Toner Alt HP 105A W1105A Neg s/Chip GLOBAL,U$s 37.29,$ 14189.61,+21%,,INSUMOS - Toner y Drum Alternativos
+7623,Toner Alt HP 124A Q6000A Neg GLOBAL,U$s 33.70,$ 12824.37,+21%,,INSUMOS - Toner y Drum Alternativos
+7629,Toner Alt HP 124A Q6001A Cia GLOBAL,U$s 28.13,$ 10702.32,+21%,,INSUMOS - Toner y Drum Alternativos
+7630,Toner Alt HP 124A Q6002A Ama GLOBAL,U$s 26.13,$ 9941.70,+21%,,INSUMOS - Toner y Drum Alternativos
+7631,Toner Alt HP 124A Q6003A Mag GLOBAL,U$s 26.12,$ 9937.90,+21%,,INSUMOS - Toner y Drum Alternativos
+7778,Toner Alt HP 204A CF510A Neg GLOBAL,U$s 26.86,$ 10219.85,+21%,,INSUMOS - Toner y Drum Alternativos
+7781,Toner Alt HP 204A CF511A Cia GLOBAL,U$s 26.86,$ 10219.85,+21%,,INSUMOS - Toner y Drum Alternativos
+11519,Toner Alt HP 204A CF512A Mag GLOBAL,U$s 26.86,$ 10219.85,+21%,,INSUMOS - Toner y Drum Alternativos
+7782,Toner Alt HP 204A CF513A Ama GLOBAL,U$s 26.86,$ 10219.85,+21%,,INSUMOS - Toner y Drum Alternativos
+7758,Toner Alt HP 650 CE270A Neg GLOBAL,U$s 149.72,$ 56966.56,+21%,,INSUMOS - Toner y Drum Alternativos
+7759,Toner Alt HP 650 CE271A Cia GLOBAL ,U$s 149.72,$ 56966.56,+21%,,INSUMOS - Toner y Drum Alternativos
+7760,Toner Alt HP 650 CE272A Mag GLOBAL,U$s 149.72,$ 56966.56,+21%,,INSUMOS - Toner y Drum Alternativos
+7761,Toner Alt HP 650 CE273A Ama GLOBAL,U$s 149.72,$ 56966.56,+21%,,INSUMOS - Toner y Drum Alternativos
+3260,Toner Alt HP C4182X Neg GTC,U$s 97.93,$ 37262.37,+21%,,INSUMOS - Toner y Drum Alternativos
+7638,Toner Alt HP CC364A CE390A Neg GLOBAL,U$s 117.62,$ 44755.93,+21%,,INSUMOS - Toner y Drum Alternativos
+7657,Toner Alt HP CC364X CE390X Neg GLOBAL,U$s 25.93,$ 9868.27,+21%,,INSUMOS - Toner y Drum Alternativos
+7672,Toner Alt HP CC530A CE410A CF380A Neg GLOBAL,U$s 26.83,$ 10208.43,+21%,,INSUMOS - Toner y Drum Alternativos
+7674,Toner Alt HP CC532A CE412A CF382A Ama GLOBAL,U$s 26.86,$ 10219.85,+21%,,INSUMOS - Toner y Drum Alternativos
+7675,Toner Alt HP CC533A CE413A CF383A Mag GLOBAL,U$s 26.86,$ 10219.85,+21%,,INSUMOS - Toner y Drum Alternativos
+7785,Toner Alt HP CE255A Neg STARLING,U$s 26.12,$ 9937.90,+21%,,INSUMOS - Toner y Drum Alternativos
+3766,Toner Alt HP CE285A CB435A CB436A NEG GLOBAL,U$s 23.73,$ 9030.41,+21%,,INSUMOS - Toner y Drum Alternativos
+7632,Toner Alt HP CE310A Neg GLOBAL,U$s 12.64,$ 4811.42,+21%,,INSUMOS - Toner y Drum Alternativos
+7633,Toner Alt HP CE311A Cia GLOBAL,U$s 12.64,$ 4811.42,+21%,,INSUMOS - Toner y Drum Alternativos
+7634,Toner Alt HP CE312A Ama GLOBAL,U$s 12.64,$ 4811.42,+21%,,INSUMOS - Toner y Drum Alternativos
+7635,Toner Alt HP CE313A Mag GLOBAL,U$s 12.64,$ 4811.42,+21%,,INSUMOS - Toner y Drum Alternativos
+7665,Toner Alt HP CE320A CB540A CF210A Neg GLOBAL,U$s 26.86,$ 10219.85,+21%,,INSUMOS - Toner y Drum Alternativos
+7667,Toner Alt HP CE321A CB541A CF211A Cia GLOBAL,U$s 26.86,$ 10219.85,+21%,,INSUMOS - Toner y Drum Alternativos
+7668,Toner Alt HP CE322A CB542A CF212A Ama GLOBAL,U$s 26.86,$ 10219.85,+21%,,INSUMOS - Toner y Drum Alternativos
+7666,Toner Alt HP CE323A CB543A CF213A Mag GLOBAL,U$s 26.86,$ 10219.85,+21%,,INSUMOS - Toner y Drum Alternativos
+7763,Toner Alt HP CE400X CE250X 507X Neg GLOBAL,U$s 32.41,$ 12333.53,+21%,,INSUMOS - Toner y Drum Alternativos
+7764,Toner Alt HP CE401A CE251A 507A Cia GLOBAL,U$s 26.62,$ 10130.05,+21%,,INSUMOS - Toner y Drum Alternativos
+7765,Toner Alt HP CE402A CE252A 507A Ama GLOBAL,U$s 26.62,$ 10130.05,+21%,,INSUMOS - Toner y Drum Alternativos
+7766,Toner Alt HP CE403A CE253A 507A Mag GLOBAL,U$s 26.62,$ 10130.05,+21%,,INSUMOS - Toner y Drum Alternativos
+7742,Toner Alt HP CF217A Neg Con Chip GLOBAL,U$s 26.87,$ 10224.03,+21%,,INSUMOS - Toner y Drum Alternativos
+10009680,Toner Alt HP CF217A Neg Sin Chip GLOBAL,U$s 26.12,$ 9937.90,+21%,,INSUMOS - Toner y Drum Alternativos
+7679,Toner Alt HP CF226A Neg GLOBAL,U$s 26.12,$ 9937.90,+21%,,INSUMOS - Toner y Drum Alternativos
+6759,Toner Alt HP CF226X Neg GLOBAL,U$s 43.50,$ 16552.51,+21%,,INSUMOS - Toner y Drum Alternativos
+10099710,Toner Alt HP CF230A Neg C/Chip GLOBAL,U$s 26.87,$ 10224.80,+21%,,INSUMOS - Toner y Drum Alternativos
+7777,Toner Alt HP CF237A Neg GLOBAL,U$s 200.30,$ 76212.63,+21%,,INSUMOS - Toner y Drum Alternativos
+7745,Toner Alt HP CF279A Neg GLOBAL,U$s 26.12,$ 9937.90,+21%,,INSUMOS - Toner y Drum Alternativos
+7645,Toner Alt HP CF280A CE505A Neg GLOBAL,U$s 23.73,$ 9030.41,+21%,,INSUMOS - Toner y Drum Alternativos
+7757,Toner Alt HP CF280X CE505X Neg GLOBAL,U$s 26.87,$ 10224.03,+21%,,INSUMOS - Toner y Drum Alternativos
+7659,Toner Alt HP CF281A Neg GLOBAL,U$s 105.53,$ 40152.64,+21%,,INSUMOS - Toner y Drum Alternativos
+7658,Toner Alt HP CF281X Neg Global,U$s 62.39,$ 23739.40,+21%,,INSUMOS - Toner y Drum Alternativos
+70020100,Toner ALT HP CF289A Neg GLOBAL,U$s 216.51,$ 82380.53,+21%,,INSUMOS - Toner y Drum Alternativos
+11504,Toner Alt HP CF410A Neg GLOBAL,U$s 81.84,$ 31140.50,+21%,,INSUMOS - Toner y Drum Alternativos
+11505,Toner Alt HP CF411A Cia GLOBAL,U$s 81.84,$ 31140.50,+21%,,INSUMOS - Toner y Drum Alternativos
+11506,Toner Alt HP CF412A Ama GLOBAL,U$s 81.75,$ 31105.49,+21%,,INSUMOS - Toner y Drum Alternativos
+1584,Toner Alt HP Q2612A Neg ASSEEL,U$s 23.73,$ 9030.41,+21%,,INSUMOS - Toner y Drum Alternativos
+70020412,Toner Alt HP Q2612A Neg GNEISS,U$s 23.73,$ 9030.41,+21%,,INSUMOS - Toner y Drum Alternativos
+5115,Toner Alt HP Q2613A Neg GLOBAL,U$s 23.73,$ 9030.41,+21%,,INSUMOS - Toner y Drum Alternativos
+7651,Toner Alt HP Q5942A Neg ,U$s 113.49,$ 43181.80,+21%,,INSUMOS - Toner y Drum Alternativos
+7643,Toner Alt HP Q5949A Q7553A Neg GLOBAL,U$s 26.12,$ 9937.90,+21%,,INSUMOS - Toner y Drum Alternativos
+7767,Toner Alt HP Q6511A Neg GLOBAL,U$s 98.25,$ 37383.36,+21%,,INSUMOS - Toner y Drum Alternativos
+3777,Toner Alt HP Q7551A Neg GLOBAL,U$s 49.40,$ 18796.70,+21%,,INSUMOS - Toner y Drum Alternativos
+70020812,TONER ALT LEXMARK 10S0063 10S0150 E210 2.5K -,U$s 23.73,$ 9030.41,+21%,,INSUMOS - Toner y Drum Alternativos
+745000,Toner Alt LEXMARK E460X11L Neg GLOBAL,U$s 53.04,$ 20182.86,+21%,,INSUMOS - Toner y Drum Alternativos
 1751012,Toner Alt LEXMARK X203A11G Neg GLOBAL,U$s 23.73,$ 9030.41,+21%,,INSUMOS - Toner y Drum Alternativos
-1751005,Toner Alt OKI 44574701 44574708 Neg GLOBAL,U$s 23.73,$ 9030.41,+21%,,INSUMOS - Toner y Drum Alternativos
+1751005,Toner Alt OKI 44574701 44574708 Neg GLOBAL,U$s 40.54,$ 15424.33,+21%,,INSUMOS - Toner y Drum Alternativos
 70020394,Toner Alt RICOH 407823 Neg GLOBAL,U$s 19.55,$ 7439.92,+21%,,INSUMOS - Toner y Drum Alternativos
-5342,Toner Alt SAMSUNG CLT-C406S Cia GLOBAL,U$s 23.73,$ 9030.41,+21%,,INSUMOS - Toner y Drum Alternativos
-5347,Toner Alt SAMSUNG CLT-K406S Neg GNEIS,U$s 23.73,$ 9030.41,+21%,,INSUMOS - Toner y Drum Alternativos
-31972,Toner Alt SAMSUNG CLT-M406S Mag GLOBAL,U$s 23.73,$ 9030.41,+21%,,INSUMOS - Toner y Drum Alternativos
-5341,Toner Alt SAMSUNG CLT-Y406S AMA GLOBAL,U$s 23.73,$ 9030.41,+21%,,INSUMOS - Toner y Drum Alternativos
-1238,Toner Alt SAMSUNG ML-1630A Neg GTC ,U$s 15.02,$ 5715.11,+21%,,INSUMOS - Toner y Drum Alternativos
+5342,Toner Alt SAMSUNG CLT-C406S Cia GLOBAL,U$s 26.12,$ 9937.90,+21%,,INSUMOS - Toner y Drum Alternativos
+5347,Toner Alt SAMSUNG CLT-K406S Neg GNEIS,U$s 26.12,$ 9937.90,+21%,,INSUMOS - Toner y Drum Alternativos
+31972,Toner Alt SAMSUNG CLT-M406S Mag GLOBAL,U$s 26.12,$ 9937.90,+21%,,INSUMOS - Toner y Drum Alternativos
+5341,Toner Alt SAMSUNG CLT-Y406S AMA GLOBAL,U$s 26.12,$ 9937.90,+21%,,INSUMOS - Toner y Drum Alternativos
+1238,Toner Alt SAMSUNG ML-1630A Neg GTC ,U$s 19.82,$ 7542.27,+21%,,INSUMOS - Toner y Drum Alternativos
 5358,Toner Alt SAMSUNG MLT-2250D5 Neg GLOBAL,U$s 7.74,$ 2943.17,+21%,,INSUMOS - Toner y Drum Alternativos
 5357,Toner Alt SAMSUNG MLT-D101S Neg EVERTEC,U$s 23.73,$ 9030.41,+21%,,INSUMOS - Toner y Drum Alternativos
 5330,Toner Alt SAMSUNG MLT-D101S Neg GLOBAL,U$s 23.73,$ 9030.41,+21%,,INSUMOS - Toner y Drum Alternativos
-5336,Toner Alt SAMSUNG MLT-D103L Neg GLOBAL,U$s 23.73,$ 9030.41,+21%,,INSUMOS - Toner y Drum Alternativos
-5331,Toner Alt SAMSUNG MLT-D104S Neg GLOBAL,U$s 26.12,$ 9937.90,+21%,,INSUMOS - Toner y Drum Alternativos
-1294,Toner ALT SAMSUNG MLT-D109S Neg,U$s 23.73,$ 9030.41,+21%,Ver Detalles,INSUMOS - Toner y Drum Alternativos
+5336,Toner Alt SAMSUNG MLT-D103L Neg GLOBAL,U$s 26.12,$ 9937.90,+21%,,INSUMOS - Toner y Drum Alternativos
+5331,Toner Alt SAMSUNG MLT-D104S Neg GLOBAL,U$s 37.29,$ 14189.61,+21%,,INSUMOS - Toner y Drum Alternativos
+1294,Toner ALT SAMSUNG MLT-D109S Neg,U$s 26.12,$ 9937.90,+21%,Ver Detalles,INSUMOS - Toner y Drum Alternativos
 5339,Toner Alt SAMSUNG MLT-D111S Neg GLOBAL,U$s 13.73,$ 5224.65,+21%,,INSUMOS - Toner y Drum Alternativos
-5344,Toner Alt SAMSUNG MLT-D205E GLOBAL,U$s 23.52,$ 8948.60,+21%,,INSUMOS - Toner y Drum Alternativos
-5343,Toner Alt SAMSUNG MLT-D205L GLOBAL,U$s 42.12,$ 16025.14,+21%,,INSUMOS - Toner y Drum Alternativos
-1751001,Toner Alt XEROX 106R01414 Neg GLOBAL Phaser 3435,U$s 18.16,$ 6908.74,+21%,,INSUMOS - Toner y Drum Alternativos
-31975,Toner Alt XEROX 106R01531 Neg GLOBAL Phaser 3550,U$s 78.19,$ 29752.82,+21%,,INSUMOS - Toner y Drum Alternativos
-5345,Toner Alt XEROX 106R02306 Neg GLOBAL Phaser 3320 ,U$s 53.25,$ 20260.48,+21%,,INSUMOS - Toner y Drum Alternativos
+5344,Toner Alt SAMSUNG MLT-D205E GLOBAL,U$s 26.12,$ 9937.90,+21%,,INSUMOS - Toner y Drum Alternativos
+5343,Toner Alt SAMSUNG MLT-D205L GLOBAL,U$s 58.09,$ 22104.01,+21%,,INSUMOS - Toner y Drum Alternativos
+1751001,Toner Alt XEROX 106R01414 Neg GLOBAL Phaser 3435,U$s 23.90,$ 9095.47,+21%,,INSUMOS - Toner y Drum Alternativos
+31975,Toner Alt XEROX 106R01531 Neg GLOBAL Phaser 3550,U$s 104.99,$ 39947.93,+21%,,INSUMOS - Toner y Drum Alternativos
+5345,Toner Alt XEROX 106R02306 Neg GLOBAL Phaser 3320 ,U$s 72.56,$ 27610.22,+21%,,INSUMOS - Toner y Drum Alternativos
 70020817,TONER ALT XEROX 106R02312,U$s 13.15,$ 5003.96,+21%,,INSUMOS - Toner y Drum Alternativos
-70020816,TONER ALT XEROX 106R02773,U$s 23.73,$ 9030.41,+21%,,INSUMOS - Toner y Drum Alternativos
-5355,Toner Alt XEROX 106R02773 Neg GLOBAL,U$s 23.73,$ 9030.41,+21%,,INSUMOS - Toner y Drum Alternativos
-70020815,TONER ALT XEROX 106R02778,U$s 23.73,$ 9030.41,+21%,,INSUMOS - Toner y Drum Alternativos
-8789,Toner Alt XEROX 108R00909 Neg GLOBAL,U$s 23.73,$ 9030.41,+21%,,INSUMOS - Toner y Drum Alternativos
-70020814,TONER ALT XEROX 109R00746 109R00747 5K - GLOB,U$s 16.73,$ 6365.00,+21%,,INSUMOS - Toner y Drum Alternativos
-70020818,Xerox 106R02310 5k - Global Electronics (,U$s 42.38,$ 16127.11,+21%,,INSUMOS - Toner y Drum Alternativos
+70020816,TONER ALT XEROX 106R02773,U$s 26.62,$ 10130.05,+21%,,INSUMOS - Toner y Drum Alternativos
+5355,Toner Alt XEROX 106R02773 Neg GLOBAL,U$s 26.62,$ 10130.05,+21%,,INSUMOS - Toner y Drum Alternativos
+70020815,TONER ALT XEROX 106R02778,U$s 27.62,$ 10510.17,+21%,,INSUMOS - Toner y Drum Alternativos
+8789,Toner Alt XEROX 108R00909 Neg GLOBAL,U$s 26.12,$ 9937.90,+21%,,INSUMOS - Toner y Drum Alternativos
+70020814,TONER ALT XEROX 109R00746 109R00747 5K - GLOB,U$s 22.06,$ 8392.69,+21%,,INSUMOS - Toner y Drum Alternativos
+70020818,Xerox 106R02310 5k - Global Electronics (,U$s 58.44,$ 22234.52,+21%,,INSUMOS - Toner y Drum Alternativos
 Toner y Drum Originales,,,,,,
 743000,Toner BROTHER TN-1060 P/ HL1110/12/1520/1810/15,U$s 47.31,$ 18001.46,+10.5%,,INSUMOS - Toner y Drum Originales
 1212,Toner BROTHER TN-410 p/ 2130-7055,U$s 45.10,$ 17160.55,+10.5%,,INSUMOS - Toner y Drum Originales
 1581,Toner BROTHER TN-450 p/ 2240/2270DW/736,U$s 79.54,$ 30264.97,+21%,,INSUMOS - Toner y Drum Originales
 743002,Toner BROTHER TN3479 Neg,U$s 121.77,$ 46332.34,+21%,Ver Detalles,INSUMOS - Toner y Drum Originales
-10009710,Toner HP 030 CF230A Neg,U$s 89.07,$ 33891.13,+21%,Ver Detalles,INSUMOS - Toner y Drum Originales
 10009682,Toner HP 078A CE278A Neg ,U$s 92.40,$ 35157.06,+21%,Ver Detalles,INSUMOS - Toner y Drum Originales
 70020284,Toner HP 103A W1103A Neg,U$s 18.11,$ 6892.38,+21%,,INSUMOS - Toner y Drum Originales
 10009712,Toner HP 105A W1105A Negro,U$s 236.36,$ 89936.12,+21%,Ver Detalles,INSUMOS - Toner y Drum Originales
@@ -1612,103 +1610,103 @@ Toner y Drum Originales,,,,,,
 8792,Toner XEROX 108R00908,U$s 131.65,$ 50093.97,+21%,,INSUMOS - Toner y Drum Originales
 8743,Toner XEROX 3120,U$s 72.42,$ 27555.81,+21%,,INSUMOS - Toner y Drum Originales
 Cartuchos Alternativos,,,,,,
-6670,Cart Alt BROTHER LC79 Ama GREENJET ,U$s 11.29,$ 4295.08,+10.5%,,INSUMOS - Cartuchos Alternativos
-6668,Cart Alt BROTHER LC79 Cia GREENJET ,U$s 11.29,$ 4295.08,+10.5%,,INSUMOS - Cartuchos Alternativos
-6669,Cart Alt BROTHER LC79 Mag GREENJET ,U$s 11.29,$ 4295.08,+10.5%,,INSUMOS - Cartuchos Alternativos
-6644,Cart Alt BROTHER LC79 Neg GREENJET,U$s 11.29,$ 4295.08,+10.5%,,INSUMOS - Cartuchos Alternativos
-2,Cart Alt EPSON 038 T038120 Neg GTC,U$s 0.69,$ 260.64,+10.5%,,INSUMOS - Cartuchos Alternativos
-264,Cart Alt EPSON 040 T040120 Neg GTC,U$s 1.33,$ 506.07,+10.5%,,INSUMOS - Cartuchos Alternativos
-1102,Cart Alt EPSON 046 T046120 Neg GLOBAL,U$s 0.87,$ 332.56,+10.5%,,INSUMOS - Cartuchos Alternativos
-442,Cart Alt EPSON 047 T047220 CIA GTC,U$s 0.87,$ 332.56,+10.5%,,INSUMOS - Cartuchos Alternativos
-687,Cart Alt EPSON 047 T047420 AMA GTC,U$s 0.87,$ 332.56,+10.5%,,INSUMOS - Cartuchos Alternativos
-817,Cart Alt EPSON 048 T048120 Neg GTC,U$s 1.99,$ 756.81,+10.5%,,INSUMOS - Cartuchos Alternativos
-816,Cart Alt EPSON 048 T048320 MAG GTC,U$s 1.99,$ 756.81,+10.5%,,INSUMOS - Cartuchos Alternativos
-899,Cart Alt EPSON 048 T048420 AMA GTC,U$s 1.94,$ 737.79,+10.5%,,INSUMOS - Cartuchos Alternativos
-812,Cart Alt EPSON 048 T048520 CIA GTC,U$s 1.94,$ 737.79,+10.5%,,INSUMOS - Cartuchos Alternativos
-814,Cart Alt EPSON 048 T048520 CIAN CLARO GTC,U$s 1.99,$ 756.81,+10.5%,,INSUMOS - Cartuchos Alternativos
-815,Cart Alt EPSON 048 T048620 MAG CLA GTC,U$s 1.99,$ 756.81,+10.5%,,INSUMOS - Cartuchos Alternativos
-1061,Cart Alt EPSON 063 T063120 Neg GLOBAL,U$s 6.12,$ 2328.28,+10.5%,,INSUMOS - Cartuchos Alternativos
-1059,Cart Alt EPSON 063 T063220 CIA GLOBAL,U$s 6.12,$ 2328.28,+10.5%,,INSUMOS - Cartuchos Alternativos
-1060,Cart Alt EPSON 063 T063320 MAG GLOBAL,U$s 6.12,$ 2328.28,+10.5%,,INSUMOS - Cartuchos Alternativos
-1062,Cart Alt EPSON 063 T063420 AMA GLOBAL,U$s 6.12,$ 2328.28,+10.5%,,INSUMOS - Cartuchos Alternativos
-31967,Cart Alt EPSON 073 T073120 Neg GLOBAL,U$s 5.93,$ 2255.98,+10.5%,,INSUMOS - Cartuchos Alternativos
-6421,Cart Alt EPSON 073 T073220 CIA GLOBAL,U$s 5.93,$ 2255.98,+10.5%,,INSUMOS - Cartuchos Alternativos
-6422,Cart Alt EPSON 073 T073320 MAG GLOBAL,U$s 5.93,$ 2255.98,+10.5%,,INSUMOS - Cartuchos Alternativos
-6423,Cart Alt EPSON 073 T073420 AMA GLOBAL,U$s 5.93,$ 2255.98,+10.5%,,INSUMOS - Cartuchos Alternativos
-620,Cart Alt EPSON 082 T082120 Negro GREENJET,U$s 3.13,$ 1190.58,+10.5%,,INSUMOS - Cartuchos Alternativos
-956,Cart Alt EPSON 082 T082220 CIAN GREENJET,U$s 2.90,$ 1103.83,+10.5%,,INSUMOS - Cartuchos Alternativos
-953,Cart Alt EPSON 082 T082320 MAGENTA GREENJET,U$s 2.90,$ 1103.83,+10.5%,,INSUMOS - Cartuchos Alternativos
-968,Cart Alt EPSON 082 T082420 AMARILLO GREENJET,U$s 3.13,$ 1190.58,+10.5%,,INSUMOS - Cartuchos Alternativos
-1952,Cart Alt EPSON 082 T082520 CIAN CLARO GREENJE,U$s 3.16,$ 1202.00,+10.5%,,INSUMOS - Cartuchos Alternativos
-952,Cart Alt EPSON 082 T082620 MAG CLA GREENJET,U$s 3.13,$ 1190.58,+10.5%,,INSUMOS - Cartuchos Alternativos
-215,Cart Alt EPSON 090 T090120 Neg GLOBAL,U$s 1.74,$ 660.55,+10.5%,,INSUMOS - Cartuchos Alternativos
-31965,Cart Alt EPSON 133 T133220 Cia GLOBAL,U$s 3.02,$ 1147.59,+10.5%,,INSUMOS - Cartuchos Alternativos
-4253,Cart Alt EPSON 133 T133320 MAG GLOBAL,U$s 3.02,$ 1147.59,+10.5%,,INSUMOS - Cartuchos Alternativos
-5251,Cart Alt EPSON 133 T133420 AMA GLOBAL,U$s 3.02,$ 1147.59,+10.5%,,INSUMOS - Cartuchos Alternativos
-6426,Cart Alt EPSON 135 T135120 Neg GLOBAL,U$s 3.02,$ 1147.59,+10.5%,,INSUMOS - Cartuchos Alternativos
-8580,Cart Alt EPSON 136 T136126 Neg EVERTEC,U$s 5.64,$ 2145.26,+10.5%,,INSUMOS - Cartuchos Alternativos
-32000,Cart Alt EPSON 140 T140120 Neg GLOBAL,U$s 2.91,$ 1108.40,+10.5%,,INSUMOS - Cartuchos Alternativos
-32001,Cart Alt EPSON 140 T140220 Cia GLOBAL,U$s 2.95,$ 1123.62,+10.5%,,INSUMOS - Cartuchos Alternativos
-32002,Cart Alt EPSON 140 T140320 Mag GLOBAL,U$s 2.95,$ 1123.62,+10.5%,,INSUMOS - Cartuchos Alternativos
-32003,Cart Alt EPSON 140 T140420 Ama GLOBAL,U$s 2.95,$ 1123.24,+10.5%,,INSUMOS - Cartuchos Alternativos
-31958,Cart Alt EPSON 195 T195220 CIA GLOBAL,U$s 7.07,$ 2690.14,+10.5%,,INSUMOS - Cartuchos Alternativos
-31962,Cart Alt EPSON 195 T195320 MAG GLOBAL,U$s 7.07,$ 2690.14,+10.5%,,INSUMOS - Cartuchos Alternativos
-31960,Cart Alt EPSON 195 T195420 AMA GLOBAL,U$s 7.07,$ 2690.14,+10.5%,,INSUMOS - Cartuchos Alternativos
-31968,Cart Alt EPSON 196 T196220 Cia GLOBAL,U$s 7.07,$ 2690.14,+10.5%,,INSUMOS - Cartuchos Alternativos
-31969,Cart Alt EPSON 196 T196320 Mag GLOBAL,U$s 7.07,$ 2690.14,+10.5%,,INSUMOS - Cartuchos Alternativos
-31970,Cart Alt EPSON 196 T196420 AMA GLOBAL,U$s 7.07,$ 2690.14,+10.5%,,INSUMOS - Cartuchos Alternativos
-1485,Cart Alt EPSON 197 T197120 Neg GLOBAL,U$s 7.07,$ 2690.14,+10.5%,,INSUMOS - Cartuchos Alternativos
-32006,Cart Alt EPSON 206 T206120 Neg GG,U$s 19.98,$ 7602.01,+10.5%,,INSUMOS - Cartuchos Alternativos
-32007,Cart Alt EPSON 206 T206220 Cia GG,U$s 19.98,$ 7602.01,+10.5%,,INSUMOS - Cartuchos Alternativos
-32008,Cart Alt EPSON 206 T206320 Mag GG,U$s 19.98,$ 7602.01,+10.5%,,INSUMOS - Cartuchos Alternativos
-32009,Cart Alt EPSON 206 T206420 Ama GG,U$s 19.98,$ 7602.01,+10.5%,,INSUMOS - Cartuchos Alternativos
-31982,Cart Alt EPSON 296 T296220 Cia GLOBAL,U$s 11.25,$ 4280.62,+10.5%,,INSUMOS - Cartuchos Alternativos
-31983,Cart Alt EPSON 296 T296320 Mag GLOBAL,U$s 11.25,$ 4280.62,+10.5%,,INSUMOS - Cartuchos Alternativos
-31984,Cart Alt EPSON 296 T296420 Ama GLOBAL,U$s 11.25,$ 4280.62,+10.5%,,INSUMOS - Cartuchos Alternativos
-31981,Cart Alt EPSON 297 T297120 Neg GLOBAL,U$s 11.25,$ 4280.62,+10.5%,,INSUMOS - Cartuchos Alternativos
-11514,Cart Alt HP 015 C6615A Neg GTC,U$s 22.44,$ 8537.66,+10.5%,,INSUMOS - Cartuchos Alternativos
-11483,Cart Alt HP 022XL C9352CL Col GG,U$s 29.53,$ 11237.31,+10.5%,,INSUMOS - Cartuchos Alternativos
-533,Cart Alt HP 025 51625A Color GTC ,U$s 9.80,$ 3728.90,+10.5%,,INSUMOS - Cartuchos Alternativos
-11475,Cart Alt HP 028 C8728A Tricolor GREENJET ,U$s 29.53,$ 11237.31,+10.5%,,INSUMOS - Cartuchos Alternativos
-639,Cart Alt HP 049 51649A Color GTC ,U$s 8.94,$ 3402.81,+10.5%,,INSUMOS - Cartuchos Alternativos
-11474,Cart Alt HP 056 C6656A Neg GLOBAL,U$s 34.12,$ 12982.28,+10.5%,,INSUMOS - Cartuchos Alternativos
-11476,Cart Alt HP 057 C6657A Col GLOBAL,U$s 32.04,$ 12191.98,+10.5%,,INSUMOS - Cartuchos Alternativos
-11481,Cart Alt HP 074XL CB336WL Negro GREENJET ,U$s 22.34,$ 8499.23,+10.5%,,INSUMOS - Cartuchos Alternativos
-11482,Cart Alt HP 075XL CB338WL Color GREENJET ,U$s 29.53,$ 11237.31,+10.5%,,INSUMOS - Cartuchos Alternativos
-7417,Cart Alt HP 092 C9362WL Negro GREENJET ,U$s 29.53,$ 11237.31,+10.5%,,INSUMOS - Cartuchos Alternativos
-7416,Cart Alt HP 093 C9361WL Col GLOBAL,U$s 60.18,$ 22898.49,+10.5%,,INSUMOS - Cartuchos Alternativos
-8175,Cart Alt HP 094 C8765WL Negro GTC ,U$s 28.42,$ 10813.43,+10.5%,,INSUMOS - Cartuchos Alternativos
-11478,Cart Alt HP 095 C8766WL Color  GTC,U$s 29.53,$ 11237.31,+10.5%,,INSUMOS - Cartuchos Alternativos
-11493,Cart Alt HP 096 C8767WL Neg GLOBAL,U$s 26.85,$ 10215.28,+10.5%,,INSUMOS - Cartuchos Alternativos
-11494,Cart Alt HP 097 C9363WL Col GLOBAL,U$s 26.97,$ 10263.61,+10.5%,,INSUMOS - Cartuchos Alternativos
-11515,Cart Alt HP 098 C9364WL Neg GTC,U$s 29.53,$ 11237.31,+10.5%,,INSUMOS - Cartuchos Alternativos
-7424,Cart Alt HP 122XL CH563HL Neg EVERTEC,U$s 66.45,$ 25284.99,+10.5%,,INSUMOS - Cartuchos Alternativos
-1654,Cart Alt HP 122XL CH564HL Tricolor EVERTEC,U$s 45.67,$ 17378.96,+10.5%,,INSUMOS - Cartuchos Alternativos
-7425,Cart Alt HP 122XL CH564HL Tricolor TECNOVIBE,U$s 46.12,$ 17547.52,+10.5%,,INSUMOS - Cartuchos Alternativos
-11518,Cart Alt HP 564XL CB322WN Neg GLOBAL,U$s 2.61,$ 993.10,+10.5%,,INSUMOS - Cartuchos Alternativos
-11491,Cart Alt HP 662XL CZ105AL Neg GLOBAL,U$s 52.90,$ 20126.93,+10.5%,,INSUMOS - Cartuchos Alternativos
-11492,Cart Alt HP 662XL CZ106AL Col GLOBAL,U$s 29.17,$ 11098.80,+10.5%,,INSUMOS - Cartuchos Alternativos
-11508,Cart Alt HP 664XL F6V30AL Col GG,U$s 37.39,$ 14226.13,+10.5%,,INSUMOS - Cartuchos Alternativos
-11509,Cart Alt HP 664XL F6V31AL Neg GNEISS,U$s 50.41,$ 19182.15,+10.5%,,INSUMOS - Cartuchos Alternativos
-11495,Cart Alt HP 670XL CZ117AL Neg GLOBAL,U$s 4.82,$ 1832.11,+10.5%,,INSUMOS - Cartuchos Alternativos
-11496,Cart Alt HP 670XL CZ118AL Cia GLOBAL,U$s 4.82,$ 1832.11,+10.5%,,INSUMOS - Cartuchos Alternativos
-11497,Cart Alt HP 670XL CZ119AL Mag GLOBAL,U$s 4.82,$ 1832.11,+10.5%,,INSUMOS - Cartuchos Alternativos
-11498,Cart Alt HP 670XL CZ120AL Ama GLOBAL,U$s 4.82,$ 1832.11,+10.5%,,INSUMOS - Cartuchos Alternativos
-11516,Cart Alt HP 675XL CN690AL Neg GLOBAL,U$s 40.97,$ 15590.61,+10.5%,,INSUMOS - Cartuchos Alternativos
-11517,Cart Alt HP 675XL CN691AL Col GLOBAL,U$s 37.42,$ 14237.55,+10.5%,,INSUMOS - Cartuchos Alternativos
-20006592,Cart Alt HP 711 CZ130A Cia GLOBAL,U$s 16.25,$ 6185.03,+10.5%,,INSUMOS - Cartuchos Alternativos
-20006593,Cart Alt HP 711 CZ131A Mag GLOBAL,U$s 16.25,$ 6185.03,+10.5%,,INSUMOS - Cartuchos Alternativos
-20006594,Cart Alt HP 711 CZ132A Ama GLOBAL,U$s 16.25,$ 6185.03,+10.5%,,INSUMOS - Cartuchos Alternativos
-20006595,Cart Alt HP 711 CZ133A Neg GLOBAL,U$s 17.42,$ 6627.17,+10.5%,,INSUMOS - Cartuchos Alternativos
-11485,Cart Alt HP 901 CC656AL Tricolor GREENJET ,U$s 29.53,$ 11237.31,+10.5%,,INSUMOS - Cartuchos Alternativos
-11513,Cart Alt HP 932XL CN053AL Neg GLOBAL ,U$s 5.04,$ 1918.86,+10.5%,,INSUMOS - Cartuchos Alternativos
-11510,Cart Alt HP 933XL CN054AL Cia GLOBAL ,U$s 5.04,$ 1918.86,+10.5%,,INSUMOS - Cartuchos Alternativos
-11511,Cart Alt HP 933XL CN055AL Mag GLOBAL ,U$s 5.04,$ 1918.86,+10.5%,,INSUMOS - Cartuchos Alternativos
-11512,Cart Alt HP 933XL CN056AL Ama GLOBAL ,U$s 5.04,$ 1918.86,+10.5%,,INSUMOS - Cartuchos Alternativos
-11499,Cart Alt HP 950XL CN045AL Neg GLOBAL,U$s 21.13,$ 8041.11,+10.5%,,INSUMOS - Cartuchos Alternativos
-11500,Cart Alt HP 951XL CN046AL Cia GLOBAL,U$s 21.13,$ 8041.11,+10.5%,,INSUMOS - Cartuchos Alternativos
-11501,Cart Alt HP 951XL CN047AL Mag GLOBAL,U$s 21.13,$ 8041.11,+10.5%,,INSUMOS - Cartuchos Alternativos
-11502,Cart Alt HP 951XL CN048AL Ama GLOBAL,U$s 21.13,$ 8041.11,+10.5%,,INSUMOS - Cartuchos Alternativos
+6670,Cart Alt BROTHER LC79 Ama GREENJET ,U$s 15.39,$ 5857.04,+10.5%,,INSUMOS - Cartuchos Alternativos
+6668,Cart Alt BROTHER LC79 Cia GREENJET ,U$s 15.39,$ 5857.04,+10.5%,,INSUMOS - Cartuchos Alternativos
+6669,Cart Alt BROTHER LC79 Mag GREENJET ,U$s 15.39,$ 5857.04,+10.5%,,INSUMOS - Cartuchos Alternativos
+6644,Cart Alt BROTHER LC79 Neg GREENJET,U$s 15.39,$ 5857.04,+10.5%,,INSUMOS - Cartuchos Alternativos
+2,Cart Alt EPSON 038 T038120 Neg GTC,U$s 0.32,$ 120.24,+10.5%,,INSUMOS - Cartuchos Alternativos
+264,Cart Alt EPSON 040 T040120 Neg GTC,U$s 2.15,$ 819.22,+10.5%,,INSUMOS - Cartuchos Alternativos
+1102,Cart Alt EPSON 046 T046120 Neg GLOBAL,U$s 1.91,$ 728.28,+10.5%,,INSUMOS - Cartuchos Alternativos
+442,Cart Alt EPSON 047 T047220 CIA GTC,U$s 1.91,$ 728.28,+10.5%,,INSUMOS - Cartuchos Alternativos
+687,Cart Alt EPSON 047 T047420 AMA GTC,U$s 1.91,$ 728.28,+10.5%,,INSUMOS - Cartuchos Alternativos
+817,Cart Alt EPSON 048 T048120 Neg GTC,U$s 3.03,$ 1152.15,+10.5%,,INSUMOS - Cartuchos Alternativos
+816,Cart Alt EPSON 048 T048320 MAG GTC,U$s 3.03,$ 1152.15,+10.5%,,INSUMOS - Cartuchos Alternativos
+899,Cart Alt EPSON 048 T048420 AMA GTC,U$s 3.03,$ 1152.15,+10.5%,,INSUMOS - Cartuchos Alternativos
+812,Cart Alt EPSON 048 T048520 CIA GTC,U$s 3.03,$ 1152.15,+10.5%,,INSUMOS - Cartuchos Alternativos
+814,Cart Alt EPSON 048 T048520 CIAN CLARO GTC,U$s 3.03,$ 1152.15,+10.5%,,INSUMOS - Cartuchos Alternativos
+815,Cart Alt EPSON 048 T048620 MAG CLA GTC,U$s 3.03,$ 1152.15,+10.5%,,INSUMOS - Cartuchos Alternativos
+1061,Cart Alt EPSON 063 T063120 Neg GLOBAL,U$s 8.53,$ 3244.14,+10.5%,,INSUMOS - Cartuchos Alternativos
+1059,Cart Alt EPSON 063 T063220 CIA GLOBAL,U$s 8.53,$ 3244.14,+10.5%,,INSUMOS - Cartuchos Alternativos
+1060,Cart Alt EPSON 063 T063320 MAG GLOBAL,U$s 8.53,$ 3244.14,+10.5%,,INSUMOS - Cartuchos Alternativos
+1062,Cart Alt EPSON 063 T063420 AMA GLOBAL,U$s 8.53,$ 3244.14,+10.5%,,INSUMOS - Cartuchos Alternativos
+31967,Cart Alt EPSON 073 T073120 Neg GLOBAL,U$s 9.20,$ 3499.84,+10.5%,,INSUMOS - Cartuchos Alternativos
+6421,Cart Alt EPSON 073 T073220 CIA GLOBAL,U$s 9.20,$ 3499.84,+10.5%,,INSUMOS - Cartuchos Alternativos
+6422,Cart Alt EPSON 073 T073320 MAG GLOBAL,U$s 9.20,$ 3499.84,+10.5%,,INSUMOS - Cartuchos Alternativos
+6423,Cart Alt EPSON 073 T073420 AMA GLOBAL,U$s 9.20,$ 3499.84,+10.5%,,INSUMOS - Cartuchos Alternativos
+620,Cart Alt EPSON 082 T082120 Negro GREENJET,U$s 12.70,$ 4830.45,+10.5%,,INSUMOS - Cartuchos Alternativos
+956,Cart Alt EPSON 082 T082220 CIAN GREENJET,U$s 12.70,$ 4830.45,+10.5%,,INSUMOS - Cartuchos Alternativos
+953,Cart Alt EPSON 082 T082320 MAGENTA GREENJET,U$s 12.70,$ 4830.45,+10.5%,,INSUMOS - Cartuchos Alternativos
+968,Cart Alt EPSON 082 T082420 AMARILLO GREENJET,U$s 12.70,$ 4830.45,+10.5%,,INSUMOS - Cartuchos Alternativos
+1952,Cart Alt EPSON 082 T082520 CIAN CLARO GREENJE,U$s 12.70,$ 4830.45,+10.5%,,INSUMOS - Cartuchos Alternativos
+952,Cart Alt EPSON 082 T082620 MAG CLA GREENJET,U$s 12.70,$ 4830.45,+10.5%,,INSUMOS - Cartuchos Alternativos
+215,Cart Alt EPSON 090 T090120 Neg GLOBAL,U$s 2.66,$ 1012.51,+10.5%,,INSUMOS - Cartuchos Alternativos
+31965,Cart Alt EPSON 133 T133220 Cia GLOBAL,U$s 5.64,$ 2145.26,+10.5%,,INSUMOS - Cartuchos Alternativos
+4253,Cart Alt EPSON 133 T133320 MAG GLOBAL,U$s 5.64,$ 2145.26,+10.5%,,INSUMOS - Cartuchos Alternativos
+5251,Cart Alt EPSON 133 T133420 AMA GLOBAL,U$s 5.64,$ 2145.26,+10.5%,,INSUMOS - Cartuchos Alternativos
+6426,Cart Alt EPSON 135 T135120 Neg GLOBAL,U$s 5.99,$ 2280.34,+10.5%,,INSUMOS - Cartuchos Alternativos
+8580,Cart Alt EPSON 136 T136126 Neg EVERTEC,U$s 7.89,$ 3003.29,+10.5%,,INSUMOS - Cartuchos Alternativos
+32000,Cart Alt EPSON 140 T140120 Neg GLOBAL,U$s 4.29,$ 1634.25,+10.5%,,INSUMOS - Cartuchos Alternativos
+32001,Cart Alt EPSON 140 T140220 Cia GLOBAL,U$s 4.28,$ 1629.68,+10.5%,,INSUMOS - Cartuchos Alternativos
+32002,Cart Alt EPSON 140 T140320 Mag GLOBAL,U$s 4.28,$ 1629.68,+10.5%,,INSUMOS - Cartuchos Alternativos
+32003,Cart Alt EPSON 140 T140420 Ama GLOBAL,U$s 4.28,$ 1629.68,+10.5%,,INSUMOS - Cartuchos Alternativos
+31958,Cart Alt EPSON 195 T195220 CIA GLOBAL,U$s 10.88,$ 4141.36,+10.5%,,INSUMOS - Cartuchos Alternativos
+31962,Cart Alt EPSON 195 T195320 MAG GLOBAL,U$s 10.88,$ 4141.36,+10.5%,,INSUMOS - Cartuchos Alternativos
+31960,Cart Alt EPSON 195 T195420 AMA GLOBAL,U$s 10.88,$ 4141.36,+10.5%,,INSUMOS - Cartuchos Alternativos
+31968,Cart Alt EPSON 196 T196220 Cia GLOBAL,U$s 10.88,$ 4141.36,+10.5%,,INSUMOS - Cartuchos Alternativos
+31969,Cart Alt EPSON 196 T196320 Mag GLOBAL,U$s 10.88,$ 4141.36,+10.5%,,INSUMOS - Cartuchos Alternativos
+31970,Cart Alt EPSON 196 T196420 AMA GLOBAL,U$s 10.88,$ 4141.36,+10.5%,,INSUMOS - Cartuchos Alternativos
+1485,Cart Alt EPSON 197 T197120 Neg GLOBAL,U$s 10.88,$ 4141.36,+10.5%,,INSUMOS - Cartuchos Alternativos
+32006,Cart Alt EPSON 206 T206120 Neg GG,U$s 37.79,$ 14380.24,+10.5%,,INSUMOS - Cartuchos Alternativos
+32007,Cart Alt EPSON 206 T206220 Cia GG,U$s 37.79,$ 14380.24,+10.5%,,INSUMOS - Cartuchos Alternativos
+32008,Cart Alt EPSON 206 T206320 Mag GG,U$s 37.79,$ 14380.24,+10.5%,,INSUMOS - Cartuchos Alternativos
+32009,Cart Alt EPSON 206 T206420 Ama GG,U$s 37.79,$ 14380.24,+10.5%,,INSUMOS - Cartuchos Alternativos
+31982,Cart Alt EPSON 296 T296220 Cia GLOBAL,U$s 16.98,$ 6460.13,+10.5%,,INSUMOS - Cartuchos Alternativos
+31983,Cart Alt EPSON 296 T296320 Mag GLOBAL,U$s 16.98,$ 6460.13,+10.5%,,INSUMOS - Cartuchos Alternativos
+31984,Cart Alt EPSON 296 T296420 Ama GLOBAL,U$s 16.98,$ 6460.13,+10.5%,,INSUMOS - Cartuchos Alternativos
+31981,Cart Alt EPSON 297 T297120 Neg GLOBAL,U$s 16.98,$ 6460.13,+10.5%,,INSUMOS - Cartuchos Alternativos
+11514,Cart Alt HP 015 C6615A Neg GTC,U$s 17.64,$ 6710.50,+10.5%,,INSUMOS - Cartuchos Alternativos
+11483,Cart Alt HP 022XL C9352CL Col GG,U$s 32.97,$ 12543.94,+10.5%,,INSUMOS - Cartuchos Alternativos
+533,Cart Alt HP 025 51625A Color GTC ,U$s 7.71,$ 2932.13,+10.5%,,INSUMOS - Cartuchos Alternativos
+11475,Cart Alt HP 028 C8728A Tricolor GREENJET ,U$s 32.97,$ 12543.94,+10.5%,,INSUMOS - Cartuchos Alternativos
+639,Cart Alt HP 049 51649A Color GTC ,U$s 7.03,$ 2676.44,+10.5%,,INSUMOS - Cartuchos Alternativos
+11474,Cart Alt HP 056 C6656A Neg GLOBAL,U$s 33.58,$ 12775.29,+10.5%,,INSUMOS - Cartuchos Alternativos
+11476,Cart Alt HP 057 C6657A Col GLOBAL,U$s 33.58,$ 12775.29,+10.5%,,INSUMOS - Cartuchos Alternativos
+11481,Cart Alt HP 074XL CB336WL Negro GREENJET ,U$s 28.77,$ 10948.13,+10.5%,,INSUMOS - Cartuchos Alternativos
+11482,Cart Alt HP 075XL CB338WL Color GREENJET ,U$s 33.58,$ 12775.29,+10.5%,,INSUMOS - Cartuchos Alternativos
+7417,Cart Alt HP 092 C9362WL Negro GREENJET ,U$s 44.89,$ 17079.88,+10.5%,,INSUMOS - Cartuchos Alternativos
+7416,Cart Alt HP 093 C9361WL Col GLOBAL,U$s 84.19,$ 32034.29,+10.5%,,INSUMOS - Cartuchos Alternativos
+8175,Cart Alt HP 094 C8765WL Negro GTC ,U$s 32.97,$ 12543.94,+10.5%,,INSUMOS - Cartuchos Alternativos
+11478,Cart Alt HP 095 C8766WL Color  GTC,U$s 32.97,$ 12543.94,+10.5%,,INSUMOS - Cartuchos Alternativos
+11493,Cart Alt HP 096 C8767WL Neg GLOBAL,U$s 20.03,$ 7621.80,+10.5%,,INSUMOS - Cartuchos Alternativos
+11494,Cart Alt HP 097 C9363WL Col GLOBAL,U$s 20.99,$ 7987.84,+10.5%,,INSUMOS - Cartuchos Alternativos
+11515,Cart Alt HP 098 C9364WL Neg GTC,U$s 32.97,$ 12543.94,+10.5%,,INSUMOS - Cartuchos Alternativos
+7424,Cart Alt HP 122XL CH563HL Neg EVERTEC,U$s 95.26,$ 36244.91,+10.5%,,INSUMOS - Cartuchos Alternativos
+1654,Cart Alt HP 122XL CH564HL Tricolor EVERTEC,U$s 65.51,$ 24928.08,+10.5%,,INSUMOS - Cartuchos Alternativos
+7425,Cart Alt HP 122XL CH564HL Tricolor TECNOVIBE,U$s 65.51,$ 24928.08,+10.5%,,INSUMOS - Cartuchos Alternativos
+11518,Cart Alt HP 564XL CB322WN Neg GLOBAL,U$s 2.05,$ 780.79,+10.5%,,INSUMOS - Cartuchos Alternativos
+11491,Cart Alt HP 662XL CZ105AL Neg GLOBAL,U$s 74.52,$ 28356.00,+10.5%,,INSUMOS - Cartuchos Alternativos
+11492,Cart Alt HP 662XL CZ106AL Col GLOBAL,U$s 46.45,$ 17672.70,+10.5%,,INSUMOS - Cartuchos Alternativos
+11508,Cart Alt HP 664XL F6V30AL Col GG,U$s 59.34,$ 22580.77,+10.5%,,INSUMOS - Cartuchos Alternativos
+11509,Cart Alt HP 664XL F6V31AL Neg GNEISS,U$s 79.55,$ 30270.30,+10.5%,,INSUMOS - Cartuchos Alternativos
+11495,Cart Alt HP 670XL CZ117AL Neg GLOBAL,U$s 6.79,$ 2583.98,+10.5%,,INSUMOS - Cartuchos Alternativos
+11496,Cart Alt HP 670XL CZ118AL Cia GLOBAL,U$s 6.79,$ 2583.98,+10.5%,,INSUMOS - Cartuchos Alternativos
+11497,Cart Alt HP 670XL CZ119AL Mag GLOBAL,U$s 6.79,$ 2583.98,+10.5%,,INSUMOS - Cartuchos Alternativos
+11498,Cart Alt HP 670XL CZ120AL Ama GLOBAL,U$s 6.79,$ 2583.98,+10.5%,,INSUMOS - Cartuchos Alternativos
+11516,Cart Alt HP 675XL CN690AL Neg GLOBAL,U$s 46.47,$ 17680.31,+10.5%,,INSUMOS - Cartuchos Alternativos
+11517,Cart Alt HP 675XL CN691AL Col GLOBAL,U$s 42.42,$ 16139.67,+10.5%,,INSUMOS - Cartuchos Alternativos
+20006592,Cart Alt HP 711 CZ130A Cia GLOBAL,U$s 22.01,$ 8373.66,+10.5%,,INSUMOS - Cartuchos Alternativos
+20006593,Cart Alt HP 711 CZ131A Mag GLOBAL,U$s 21.98,$ 8363.77,+10.5%,,INSUMOS - Cartuchos Alternativos
+20006594,Cart Alt HP 711 CZ132A Ama GLOBAL,U$s 21.98,$ 8363.77,+10.5%,,INSUMOS - Cartuchos Alternativos
+20006595,Cart Alt HP 711 CZ133A Neg GLOBAL,U$s 23.55,$ 8961.54,+10.5%,,INSUMOS - Cartuchos Alternativos
+11485,Cart Alt HP 901 CC656AL Tricolor GREENJET ,U$s 46.45,$ 17672.70,+10.5%,,INSUMOS - Cartuchos Alternativos
+11513,Cart Alt HP 932XL CN053AL Neg GLOBAL ,U$s 15.22,$ 5790.07,+10.5%,,INSUMOS - Cartuchos Alternativos
+11510,Cart Alt HP 933XL CN054AL Cia GLOBAL ,U$s 15.22,$ 5790.07,+10.5%,,INSUMOS - Cartuchos Alternativos
+11511,Cart Alt HP 933XL CN055AL Mag GLOBAL ,U$s 15.22,$ 5790.07,+10.5%,,INSUMOS - Cartuchos Alternativos
+11512,Cart Alt HP 933XL CN056AL Ama GLOBAL ,U$s 15.22,$ 5790.07,+10.5%,,INSUMOS - Cartuchos Alternativos
+11499,Cart Alt HP 950XL CN045AL Neg GLOBAL,U$s 28.47,$ 10832.45,+10.5%,,INSUMOS - Cartuchos Alternativos
+11500,Cart Alt HP 951XL CN046AL Cia GLOBAL,U$s 28.47,$ 10832.45,+10.5%,,INSUMOS - Cartuchos Alternativos
+11501,Cart Alt HP 951XL CN047AL Mag GLOBAL,U$s 28.47,$ 10832.45,+10.5%,,INSUMOS - Cartuchos Alternativos
+11502,Cart Alt HP 951XL CN048AL Ama GLOBAL,U$s 28.47,$ 10832.45,+10.5%,,INSUMOS - Cartuchos Alternativos
 GPS,,,,,,
 De Conduccion (Auto),,,,,,
 19832,GPS GARMIN Drive 40,U$s 126.57,$ 48161.03,+21%,Ver Detalles,GPS - De Conduccion (Auto)
@@ -2720,6 +2718,7 @@ Notebooks,,,,,,
 70020942,NOT 15 DELL 4D92R I3-1115G4 4GB 256GB W11H	,U$s 1617.93,$ 615623.89,+10.5%,,NOTEBOOKS - Notebooks
 70020948,NOT 15 DELL 4D92R/8G I3-1115G4 8GB 256GB W11H	,U$s 1695.06,$ 644969.95,+10.5%,,NOTEBOOKS - Notebooks
 70020971,NOT 15 DELL 5510 P45H9 I5 8GB 256 W10H	,U$s 3072.68,$ 1169156.64,+10.5%,,NOTEBOOKS - Notebooks
+70021062,NOT 15 DELL Ins 3501 i3-1115G4 8Gb 240Gb,U$s 1170.40,$ 445337.20,+10.5%,,NOTEBOOKS - Notebooks
 70020947,NOT 15 DELL M9X0W I3-1115G4 4GB 256GB	,U$s 16803.88,$ 6393874.44,+10.5%,,NOTEBOOKS - Notebooks
 70020953,NOT 15 DELL MVX4X i5-1135G7 8GB 256GB W11,U$s 1274.79,$ 485056.07,+10.5%,,NOTEBOOKS - Notebooks
 70020946,NOT 15 DELL R039W I3-1115G4 8GB 256GB DOS,U$s 1669.90,$ 635397.33,+10.5%,,NOTEBOOKS - Notebooks
