@@ -18,7 +18,8 @@ diccionarios = 'Repo-Python-DB-DottAPI/nuevosScripts/diccionarios/diccionarios.j
 def convertirACSV():
     # Leer el archivo XLSX
     df = pd.read_excel(listadoEikon)
-
+    df = df.drop([0, 1, 2])  # Se utilizan los índices 0, 1 y 2 para las primeras tres filas
+    df.reset_index(drop=True, inplace=True)
     # Guardar como CSV
     df.to_csv(listadoCsv, index=False)
 
@@ -63,8 +64,6 @@ def crearJson():
             categoria = row[6]
             precio = row[3]
             
-            
-
             # Crea un diccionario con los datos de cada registro
             registro = {
                 'proveedor': 'eikon',
