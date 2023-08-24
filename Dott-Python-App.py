@@ -372,41 +372,43 @@ def procesar_archivo_mega():
         return jsonify({'error': 'No se ha seleccionado un archivo'}), 400
 
     # Guardar el archivo .xls en el directorio
-    archivo.save(listadosTemporales + 'temp_mega_test.xlsx')
-    df = pd.read_excel(listadosTemporales+'temp_mega_test.xlsx')
+    archivo.save(listadosTemporales + 'temp_mega.xlsx')
+    df = pd.read_excel(listadosTemporales+'temp_mega.xlsx')
 
     # Se utilizan los índices 0, 1 y 2 para las primeras tres filas
     df = df.drop([0, 1])
     df.reset_index(drop=True, inplace=True)
-    df.to_excel(listadosTemporales + 'temp_mega_test.xlsx', index=False)
+    df.to_excel(listadosTemporales + 'temp_mega.xlsx', index=False)
 
     # Cargar el libro de trabajo
-    book = load_workbook(listadosTemporales + 'temp_mega_test.xlsx')
+    book = load_workbook(listadosTemporales + 'temp_mega.xlsx')
     sheet = book['Sheet1']
 
-    sheet['G2'] = "categoria"
-    column_letter = get_column_letter(7)
+    # Define the base formula
+    formula_base = '=IF(AND(ISBLANK(B{}), ISBLANK(B{})), CONCATENATE(A{}, " - ", A{}), IF(ISBLANK(E{}), "", IF(LEN(B{}) < 2, CONCATENATE(LEFT(G{}, FIND(" - ", G{}) - 1), " - ", A{}), G{})))'
 
-    # Aplica la fórmula en las celdas de la columna 'G' (desde la fila 5 en adelante)
-    for row_num in range(3, sheet.max_row + 1):
-        formula = f'=IF(AND(ISBLANK(B{row_num-2}), ISBLANK(B{row_num - 1})), CONCAT(A{row_num-2}," - ",A{row_num - 1}), IF(ISBLANK(E{row_num}), "", IF(LEN(B{row_num - 1}) < 2, CONCAT(LEFT({column_letter}{row_num - 2}, FIND(" - ", {column_letter}{row_num - 2}) - 1), " - ", A{row_num - 1}), {column_letter}{row_num-1})))'
-        cell_reference = f'{column_letter}{row_num}'
-        sheet[cell_reference] = formula
+    # Apply the formula to cells in column G, starting from G4
+    for row in range(4, sheet.max_row + 1):
+        row_references = row  # Adjust row references in the formula
+        current_formula = formula_base.format(row_references-2, row_references-1, row_references-2, row_references-1,
+                                              row_references, row_references-1, row_references-2, row_references-2, row_references-1, row_references-1)
 
-    book.save(listadosTemporales + 'temp_mega_test.xlsx')
-    book.close()
+        cell = sheet.cell(row=row, column=7)  # Column G
+        cell.value = current_formula
+
+    # Save the changes to the file
+    book.save(listadosTemporales + 'temp_mega.xlsx')
 
     app = xw.App(visible=False)  # Abre Excel en segundo plano
-    libro = app.books.open(listadosTemporales + 'temp_mega_test.xlsx')
+    libro = app.books.open(listadosTemporales + 'temp_mega.xlsx')
     hoja = libro.sheets["Sheet1"]
 
     # Encuentra el último número de fila en la columna 'I'
     ultima_fila = hoja.range("G" + str(hoja.cells.last_cell.row)).end("up").row
 
     # Empieza en la fila 2 para omitir encabezados
-    for fila_numero in range(3, ultima_fila + 1):
+    for fila_numero in range(4, ultima_fila + 1):
         celda_formula = hoja.range("G" + str(fila_numero))
-        print(celda_formula.value)
         resultado = celda_formula.value
         celda_formula.value = resultado
 
@@ -416,7 +418,7 @@ def procesar_archivo_mega():
     app.quit()
 
     # Guardar como CSV
-    # df = pd.read_excel(listadosTemporales+'temp_mega.xlsx')
+    df = pd.read_excel(listadosTemporales+'temp_mega.xlsx')
     df.to_csv(listadoCsv+'listadoMega.csv', index=False)
 
     # Abre el archivo CSV en modo lectura con la codificación adecuada
@@ -433,9 +435,9 @@ def procesar_archivo_mega():
         for row in csv_reader:
             if (row[3] != ""):
                 descripcion = row[1]
-                categoria = row[6]
-                iva = row[4].replace("+", "").replace("%", "")
                 precio = row[2].replace("U$s ", "")
+                iva = row[4].replace("+", "").replace("%", "")
+                categoria = row[6]
 
                 # Crea un diccionario con los datos de cada registro
                 registro = {
@@ -452,7 +454,7 @@ def procesar_archivo_mega():
     with open(listadoJson+"listadoMega.json", 'w') as jf:
         json.dump(data, jf, ensure_ascii=False, indent=2)
 
-    return jsonify({'message': 'Archivo nb procesado correctamente'})
+    return jsonify({'message': 'Archivo mega procesado correctamente'})
 
 
 if __name__ == '__main__':

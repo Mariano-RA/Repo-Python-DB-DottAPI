@@ -1,2 +1,4 @@
 .venv/
-archivosPorCargar/
+archivosPorCargar/csv
+archivosPorCargar/temporales
+
