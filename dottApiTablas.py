@@ -1,3 +1,4 @@
+from functools import wraps
 from flask import Flask, request, jsonify
 from openpyxl import load_workbook
 from openpyxl.formula.translate import Translator
@@ -37,16 +38,25 @@ def obtenerDiccionario(nombreDiccionario):
     return diccionarioBuscado
 
 
-# TOKEN
-access_token = "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImN5VnNWTzY4Z2hJNFZEUC1aYkpxMyJ9.eyJodHRwOi8vbG9jYWxob3N0OjMwMDAvcm9sZXMiOlsiYWRtaW4iXSwiaXNzIjoiaHR0cHM6Ly9kZXYtM2hteTNnYWxtcWZ0eTF4dC51cy5hdXRoMC5jb20vIiwic3ViIjoiZmFjZWJvb2t8MzMzNzI3MjU5MDc1ODMzIiwiYXVkIjpbImh0dHBzOi8vZG90dC1wYy1zZXJ2ZXIuY29tIiwiaHR0cHM6Ly9kZXYtM2hteTNnYWxtcWZ0eTF4dC51cy5hdXRoMC5jb20vdXNlcmluZm8iXSwiaWF0IjoxNjkyODkxMjMyLCJleHAiOjE2OTI5Nzc2MzIsImF6cCI6IjhON3NpcWR2cDVXbHhJVU5DM2hXS1IxUWlXTTkyMjIzIiwic2NvcGUiOiJvcGVuaWQgcHJvZmlsZSBlbWFpbCIsInBlcm1pc3Npb25zIjpbImNyZWF0ZTp0YWJsYXMiLCJyZWFkOmRhdG9zIl19.Ky-16IjDMhyoIcy1Ueg7za1TQs1zI8EQlqbD5bQUEDEUMK7gWhfkNRVEF3Uy_p4SIb4hSd3SWrnw0ptxZG1gpXVQDlWV_g2VbENtWhijwNvbRH27B2R3IRvN0u6NseiZROL2zWD6UVZo8UCwADTHtqNoBbiP0iE8_Py64PQG-AsUVAMcSksEIgd5GKcTZ_Nvht4s1oCMOmZINpcK1lgIBWCPAS9neGBOxfOjyMezyEDMjq5pKaaF2mBokJMnMps0j80MiToQjFhQWlRbTEww6rbHIZ8BKn6w-Qcq6QXjNEjzLy8K8lC1Cz6-oIDRJsWAaj5fLp4VqbJoWMheffc1_g"
 url = "http://localhost:3000/api/productos/"
-headers = {
-    "Authorization": f"Bearer {access_token}"
-}
+
+
+# Decorador personalizado para verificar el token
+def requiere_token(f):
+    @wraps(f)
+    def decorador(*args, **kwargs):
+        token = request.headers.get("Authorization")
+        if not token:
+            # Código de respuesta 401 significa no autorizado
+            return jsonify({"mensaje": "Acceso no autorizado"}), 401
+        # Pasamos el token como primer argumento al método de vista
+        return f(token, *args, **kwargs)
+    return decorador
 
 
 @app.route("/procesar_archivo_air", methods=["POST"])
-def procesar_archivo_air():
+@requiere_token
+def procesar_archivo_air(token):
 
     archivo = request.files["file"]
 
@@ -75,6 +85,11 @@ def procesar_archivo_air():
                     "precio": round((float(precio) * (1 + (float(iva) / 100)) * 1.1))
                 }
                 data.append(registro)
+    print(token)
+
+    headers = {
+        "Authorization": f"{token}"
+    }
 
     response = requests.post(url=url, json=data, headers=headers)
 
@@ -85,7 +100,8 @@ def procesar_archivo_air():
 
 
 @app.route("/procesar_archivo_eikon", methods=["POST"])
-def procesar_archivo_eikon():
+@requiere_token
+def procesar_archivo_eikon(token):
 
     archivo = request.files["file"]
 
@@ -128,6 +144,10 @@ def procesar_archivo_eikon():
             # Agrega el diccionario a la lista de datos
             data.append(registro)
 
+    headers = {
+        "Authorization": f"{token}"
+    }
+
     response = requests.post(url=url, json=data, headers=headers)
 
     if response.status_code == 201:
@@ -137,7 +157,8 @@ def procesar_archivo_eikon():
 
 
 @app.route("/procesar_archivo_elit", methods=["POST"])
-def procesar_archivo_elit():
+@requiere_token
+def procesar_archivo_elit(token):
 
     archivo = request.files["file"]
 
@@ -175,6 +196,10 @@ def procesar_archivo_elit():
             # Agrega el diccionario a la lista de datos
             data.append(registro)
 
+    headers = {
+        "Authorization": f"{token}"
+    }
+
     response = requests.post(url=url, json=data, headers=headers)
 
     if response.status_code == 201:
@@ -195,7 +220,8 @@ def obtenerTipoIva(clave):
 
 
 @app.route("/procesar_archivo_hdc", methods=["POST"])
-def procesar_archivo_hdc():
+@requiere_token
+def procesar_archivo_hdc(token):
 
     archivo = request.files["file"]
 
@@ -237,6 +263,10 @@ def procesar_archivo_hdc():
                 # Agrega el diccionario a la lista de datos
                 data.append(registro)
 
+    headers = {
+        "Authorization": f"{token}"
+    }
+
     response = requests.post(url=url, json=data, headers=headers)
 
     if response.status_code == 201:
@@ -246,7 +276,8 @@ def procesar_archivo_hdc():
 
 
 @app.route("/procesar_archivo_invid", methods=["POST"])
-def procesar_archivo_invid():
+@requiere_token
+def procesar_archivo_invid(token):
 
     archivo = request.files["file"]
 
@@ -330,6 +361,10 @@ def procesar_archivo_invid():
 
                 data.append(registro)
 
+    headers = {
+        "Authorization": f"{token}"
+    }
+
     response = requests.post(url=url, json=data, headers=headers)
 
     if response.status_code == 201:
@@ -339,7 +374,8 @@ def procesar_archivo_invid():
 
 
 @app.route("/procesar_archivo_nb", methods=["POST"])
-def procesar_archivo_nb():
+@requiere_token
+def procesar_archivo_nb(token):
 
     archivo = request.files["file"]
 
@@ -376,6 +412,10 @@ def procesar_archivo_nb():
             # Agrega el diccionario a la lista de datos
             data.append(registro)
 
+    headers = {
+        "Authorization": f"{token}"
+    }
+
     response = requests.post(url=url, json=data, headers=headers)
 
     if response.status_code == 201:
@@ -385,7 +425,8 @@ def procesar_archivo_nb():
 
 
 @app.route("/procesar_archivo_mega", methods=["POST"])
-def procesar_archivo_mega():
+@requiere_token
+def procesar_archivo_mega(token):
 
     archivo = request.files["file"]
 
@@ -474,8 +515,9 @@ def procesar_archivo_mega():
 
                 data.append(registro)
 
-    # with open(listadoJson+"listadoMega.json", "w") as jf:
-    #     json.dump(data, jf, ensure_ascii=False, indent=2)
+    headers = {
+        "Authorization": f"{token}"
+    }
 
     response = requests.post(url=url, json=data, headers=headers)
 
