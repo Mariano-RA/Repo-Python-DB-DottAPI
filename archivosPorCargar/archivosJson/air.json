@@ -2,7 +2,7 @@
   {
     "proveedor": "air",
     "producto": " UVC ETIQUETA  CONTROL RADIACIÓN UV-C  X100U",
-    "categoria": "No existe una categoría para este producto",
+    "categoria": "Varios",
     "precio": 110
   },
   {
@@ -194,7 +194,7 @@
   {
     "proveedor": "air",
     "producto": "AJUSTE RENDONDEO",
-    "categoria": "No existe una categoría para este producto",
+    "categoria": "Varios",
     "precio": 0
   },
   {
@@ -409,6 +409,12 @@
   },
   {
     "proveedor": "air",
+    "producto": "APC Easy UPS 3S Cadena de baterías 7AH",
+    "categoria": "Electro",
+    "precio": 4097
+  },
+  {
+    "proveedor": "air",
     "producto": "APC Easy UPS 3S Kit Paralelo",
     "categoria": "Electro",
     "precio": 589
@@ -500,7 +506,7 @@
   {
     "proveedor": "air",
     "producto": "APC Tarjeta SNMP CARD p/SMART UPS",
-    "categoria": "No existe una categoría para este producto",
+    "categoria": "Varios",
     "precio": 633
   },
   {
@@ -733,12 +739,6 @@
   },
   {
     "proveedor": "air",
-    "producto": "AURICULARES + MIC LOGITECH GAMING G432",
-    "categoria": "Auriculares",
-    "precio": 186
-  },
-  {
-    "proveedor": "air",
     "producto": "AURICULARES + MIC MSI GAMING HEADSET DS501 JACK3.5",
     "categoria": "Auriculares",
     "precio": 58
@@ -800,7 +800,7 @@
   {
     "proveedor": "air",
     "producto": "AURICULARES ERICSSON Z520",
-    "categoria": "No existe una categoría para este producto",
+    "categoria": "Varios",
     "precio": 0
   },
   {
@@ -837,7 +837,7 @@
     "proveedor": "air",
     "producto": "AURICULARES FOXBOX PLUG 3.5 GLOW NEGRO",
     "categoria": "Auriculares",
-    "precio": 11
+    "precio": 9
   },
   {
     "proveedor": "air",
@@ -1012,6 +1012,18 @@
     "producto": "AURICULARES PHILIPS TAT2205BK/00 On Ear BT EXPO",
     "categoria": "Auriculares",
     "precio": 98
+  },
+  {
+    "proveedor": "air",
+    "producto": "AURICULARES PHILIPS TAUE100BK/00",
+    "categoria": "Auriculares",
+    "precio": 15
+  },
+  {
+    "proveedor": "air",
+    "producto": "AURICULARES PHILIPS TAUE101BK/00",
+    "categoria": "Auriculares",
+    "precio": 17
   },
   {
     "proveedor": "air",
@@ -1310,7 +1322,7 @@
   {
     "proveedor": "air",
     "producto": "BATERIA SYMBOL P/  LDT/LRT/PDT 35/38/68",
-    "categoria": "No existe una categoría para este producto",
+    "categoria": "Varios",
     "precio": 173
   },
   {
@@ -1412,7 +1424,7 @@
   {
     "proveedor": "air",
     "producto": "BICI MOUNTAIN BIKE XC108E Aluminum Alloy 27.5 DEMO",
-    "categoria": "No existe una categoría para este producto",
+    "categoria": "Varios",
     "precio": 929
   },
   {
@@ -1591,7 +1603,19 @@
   },
   {
     "proveedor": "air",
+    "producto": "BOTELLA EPSON T673220-AL CYAN P/L800/805/1800",
+    "categoria": "Impresoras e Insumos",
+    "precio": 23
+  },
+  {
+    "proveedor": "air",
     "producto": "BOTELLA EPSON T673320-AL MAGENTA P/L800",
+    "categoria": "Impresoras e Insumos",
+    "precio": 23
+  },
+  {
+    "proveedor": "air",
+    "producto": "BOTELLA EPSON T673520-AL LIGHT CYAN P/L800",
     "categoria": "Impresoras e Insumos",
     "precio": 23
   },
@@ -2108,7 +2132,7 @@
   {
     "proveedor": "air",
     "producto": "CABLE USB TIPO C 3  INTCO MALLADO 1M",
-    "categoria": "No existe una categoría para este producto",
+    "categoria": "Varios",
     "precio": 5
   },
   {
@@ -2283,7 +2307,7 @@
     "proveedor": "air",
     "producto": "CAMA PLANA KODAK A3 ACCESORIO P/i2000-S2000-S3000",
     "categoria": "Impresoras e Insumos",
-    "precio": 2672
+    "precio": 2647
   },
   {
     "proveedor": "air",
@@ -2984,7 +3008,7 @@
   {
     "proveedor": "air",
     "producto": "CARGADOR UNIVERSAL 90W NOTEBOOKS/TABLETS",
-    "categoria": "No existe una categoría para este producto",
+    "categoria": "Varios",
     "precio": 73
   },
   {
@@ -3459,133 +3483,127 @@
     "proveedor": "air",
     "producto": "CELULAR MOTOROLA E13  2GB+64GB SABAG LITE",
     "categoria": "Telefonia",
-    "precio": 225
+    "precio": 187
   },
   {
     "proveedor": "air",
     "producto": "CELULAR MOTOROLA E22 3GB + 32GB BLACK",
     "categoria": "Telefonia",
-    "precio": 239
+    "precio": 199
   },
   {
     "proveedor": "air",
     "producto": "CELULAR MOTOROLA E22 3GB + 32GB NIAGARA",
     "categoria": "Telefonia",
-    "precio": 249
+    "precio": 207
   },
   {
     "proveedor": "air",
     "producto": "CELULAR MOTOROLA E32 4GB+64GB MOTO GRAVITY GREY",
     "categoria": "Telefonia",
-    "precio": 295
+    "precio": 246
   },
   {
     "proveedor": "air",
     "producto": "CELULAR MOTOROLA E32 4GB+64GB MOTO HYPER SILVER",
     "categoria": "Telefonia",
-    "precio": 295
+    "precio": 246
   },
   {
     "proveedor": "air",
     "producto": "CELULAR MOTOROLA E40 4GB + 64GB DARK CEDAR",
     "categoria": "Telefonia",
-    "precio": 363
+    "precio": 303
   },
   {
     "proveedor": "air",
     "producto": "CELULAR MOTOROLA E40 4GB + 64GB GRIS ACERO",
     "categoria": "Telefonia",
-    "precio": 319
+    "precio": 266
   },
   {
     "proveedor": "air",
     "producto": "CELULAR MOTOROLA G23 4GB+128GB AZUL",
     "categoria": "Telefonia",
-    "precio": 362
+    "precio": 302
   },
   {
     "proveedor": "air",
     "producto": "CELULAR MOTOROLA G32 4GB+128 GB DOVE GREY",
     "categoria": "Telefonia",
-    "precio": 362
+    "precio": 302
   },
   {
     "proveedor": "air",
     "producto": "CELULAR MOTOROLA G32 4GB+128 GB FLEENCE GOLD",
     "categoria": "Telefonia",
-    "precio": 362
+    "precio": 302
   },
   {
     "proveedor": "air",
     "producto": "CELULAR MOTOROLA G32 4GB+128 GB SOFT SILVER",
     "categoria": "Telefonia",
-    "precio": 362
+    "precio": 302
   },
   {
     "proveedor": "air",
     "producto": "CELULAR MOTOROLA G41 4GB+128 GB METEORITE BLACK",
     "categoria": "Telefonia",
-    "precio": 323
+    "precio": 269
   },
   {
     "proveedor": "air",
     "producto": "CELULAR MOTOROLA MOTO EDGE 30 12GB+256GB FUS AZUL",
     "categoria": "Telefonia",
-    "precio": 1051
+    "precio": 876
   },
   {
     "proveedor": "air",
     "producto": "CELULAR MOTOROLA MOTO EDGE 30 12GB+256GB FUS NEGRO",
     "categoria": "Telefonia",
-    "precio": 1051
+    "precio": 876
   },
   {
     "proveedor": "air",
     "producto": "CELULAR MOTOROLA MOTO EDGE 30 8GB+128GB GRIS",
     "categoria": "Telefonia",
-    "precio": 764
+    "precio": 637
   },
   {
     "proveedor": "air",
     "producto": "CELULAR MOTOROLA MOTO EDGE 30 8GB+128GB MOONLESS",
     "categoria": "Telefonia",
-    "precio": 708
+    "precio": 590
   },
   {
     "proveedor": "air",
     "producto": "CELULAR MOTOROLA MOTO EDGE 30 8GB+128GB PLATA OPAL",
     "categoria": "Telefonia",
-    "precio": 741
-  },
-  {
-    "proveedor": "air",
-    "producto": "CELULAR MOTOROLA MOTO EDGE 30 FUSION 12GB+256GB BL",
-    "categoria": "Telefonia",
-    "precio": 925
+    "precio": 618
   },
   {
     "proveedor": "air",
     "producto": "CELULAR MOTOROLA MOTO EDGE 30 NEO 8GB+128GB PURPER",
     "categoria": "Telefonia",
-    "precio": 709
+    "precio": 590
   },
   {
     "proveedor": "air",
     "producto": "CELULAR MOTOROLA MOTO G42 4GB+128 HAWAII OLED",
     "categoria": "Telefonia",
-    "precio": 400
+    "precio": 333
   },
   {
     "proveedor": "air",
     "producto": "CELULAR MOTOROLA MOTO G42 4GB+128 ROSA METALICO",
     "categoria": "Telefonia",
-    "precio": 400
+    "precio": 333
   },
   {
     "proveedor": "air",
     "producto": "CELULAR NOBLEX A50 1G/32G",
     "categoria": "Telefonia",
-    "precio": 138
+    "precio": 122
   },
   {
     "proveedor": "air",
@@ -3597,139 +3615,133 @@
     "proveedor": "air",
     "producto": "CELULAR NOBLEX A60 4G  2G/32G",
     "categoria": "Telefonia",
-    "precio": 171
+    "precio": 156
   },
   {
     "proveedor": "air",
     "producto": "CELULAR SAMSUNG  SM-A042MZKA A04E BLUE 3GB-32GB",
     "categoria": "Telefonia",
-    "precio": 283
+    "precio": 227
   },
   {
     "proveedor": "air",
     "producto": "CELULAR SAMSUNG  SM-A042MZKF A04E BLUE 3GB-64GB",
     "categoria": "Telefonia",
-    "precio": 295
+    "precio": 251
   },
   {
     "proveedor": "air",
     "producto": "CELULAR SAMSUNG  SM-A045MZGE A04  4GB-64GB GREEN",
     "categoria": "Telefonia",
-    "precio": 335
+    "precio": 285
   },
   {
     "proveedor": "air",
     "producto": "CELULAR SAMSUNG  SM-A045MZWE A04  4GB-64GB WHITE",
     "categoria": "Telefonia",
-    "precio": 335
+    "precio": 285
   },
   {
     "proveedor": "air",
     "producto": "CELULAR SAMSUNG  SM-A047MZWF A04S  4GB-128GB WHITE",
     "categoria": "Telefonia",
-    "precio": 429
+    "precio": 365
   },
   {
     "proveedor": "air",
     "producto": "CELULAR SAMSUNG  SM-A145MZSE A14  4GB-128GB SILVER",
     "categoria": "Telefonia",
-    "precio": 461
+    "precio": 393
   },
   {
     "proveedor": "air",
     "producto": "CELULAR SAMSUNG A22 4GB 128BG GRAY",
     "categoria": "Telefonia",
-    "precio": 506
+    "precio": 440
   },
   {
     "proveedor": "air",
     "producto": "CELULAR SAMSUNG A23 5G 4GB 128BG WHITE",
     "categoria": "Telefonia",
-    "precio": 518
+    "precio": 545
   },
   {
     "proveedor": "air",
     "producto": "CELULAR SAMSUNG GALAXY A13 4GB - 128GB BLACK KNOX",
     "categoria": "Telefonia",
-    "precio": 369
+    "precio": 386
   },
   {
     "proveedor": "air",
     "producto": "CELULAR SAMSUNG GALAXY A23 4GB-128GB LIIGHT BLUE",
     "categoria": "Telefonia",
-    "precio": 742
+    "precio": 566
   },
   {
     "proveedor": "air",
     "producto": "CELULAR SAMSUNG GALAXY M13 4GB - 128GB GREEN DEEP",
     "categoria": "Telefonia",
-    "precio": 551
+    "precio": 399
   },
   {
     "proveedor": "air",
     "producto": "CELULAR SAMSUNG GALAXY S20 FE 6GB-128GB CLOUD NAVY",
     "categoria": "Telefonia",
-    "precio": 758
+    "precio": 819
   },
   {
     "proveedor": "air",
     "producto": "CELULAR SAMSUNG GALAXY S21 FE 6GB-128GB GRAPHITE",
     "categoria": "Telefonia",
-    "precio": 960
-  },
-  {
-    "proveedor": "air",
-    "producto": "CELULAR SAMSUNG GALAXY S23 PLUS 8GB-256GB CREAM",
-    "categoria": "Telefonia",
-    "precio": 1516
+    "precio": 1011
   },
   {
     "proveedor": "air",
     "producto": "CELULAR SAMSUNG GALAXY Z FLIP4 8GB-128GB PINK GOLD",
     "categoria": "Telefonia",
-    "precio": 1128
+    "precio": 1187
   },
   {
     "proveedor": "air",
     "producto": "CELULAR SAMSUNG GALAXY Z FLIP4 8GB-256GB GRAPHITE",
     "categoria": "Telefonia",
-    "precio": 1247
+    "precio": 1313
+  },
+  {
+    "proveedor": "air",
+    "producto": "CELULAR SAMSUNG GALAXY Z FLIP5 8GB-256GB  MINT",
+    "categoria": "Telefonia",
+    "precio": 1750
+  },
+  {
+    "proveedor": "air",
+    "producto": "CELULAR SAMSUNG GALAXY Z FOLD5 12GB-256GB ICY BLUE",
+    "categoria": "Telefonia",
+    "precio": 2988
   },
   {
     "proveedor": "air",
     "producto": "CELULAR SAMSUNG M23 4GB+128BG GREEN",
     "categoria": "Telefonia",
-    "precio": 400
-  },
-  {
-    "proveedor": "air",
-    "producto": "CELULAR SAMSUNG SM-A135MZKKARO  A13 4GB+64BG BLACK",
-    "categoria": "Telefonia",
-    "precio": 378
+    "precio": 421
   },
   {
     "proveedor": "air",
     "producto": "CELULAR SAMSUNG SM-A346MZKB A34 5G 4+128GB GRAPHIT",
     "categoria": "Telefonia",
-    "precio": 615
+    "precio": 665
   },
   {
     "proveedor": "air",
     "producto": "CELULAR SAMSUNG SM-A346MZKB A34 5G 6+128GB SILVER",
     "categoria": "Telefonia",
-    "precio": 599
-  },
-  {
-    "proveedor": "air",
-    "producto": "CELULAR SAMSUNG SM-A546EZWE A54 5G 8+256GB WHITE",
-    "categoria": "Telefonia",
-    "precio": 749
+    "precio": 630
   },
   {
     "proveedor": "air",
     "producto": "CELULAR SAMSUNG SM-M135MLBGARO13 4GB+128BG BLUE",
     "categoria": "Telefonia",
-    "precio": 859
+    "precio": 904
   },
   {
     "proveedor": "air",
@@ -3889,6 +3901,12 @@
   },
   {
     "proveedor": "air",
+    "producto": "CELULAR XIAOMI POCO M3 4GB + 128GB POWER BLACK",
+    "categoria": "Telefonia",
+    "precio": 458
+  },
+  {
+    "proveedor": "air",
     "producto": "CELULAR XIAOMI POCO M4 PRO 5G  6GB + 128GB BLUE",
     "categoria": "Telefonia",
     "precio": 539
@@ -3907,7 +3925,25 @@
   },
   {
     "proveedor": "air",
+    "producto": "CELULAR XIAOMI POCO M4 PRO 5G 6GB+128 CAJA ROTA",
+    "categoria": "Telefonia",
+    "precio": 526
+  },
+  {
+    "proveedor": "air",
+    "producto": "CELULAR XIAOMI POCO X3 PRO 8GB + 256GB FROST BLUE",
+    "categoria": "Telefonia",
+    "precio": 787
+  },
+  {
+    "proveedor": "air",
     "producto": "CELULAR XIAOMI POCO X4 PRO 5G 6GB + 128GB L.BLACK",
+    "categoria": "Telefonia",
+    "precio": 705
+  },
+  {
+    "proveedor": "air",
+    "producto": "CELULAR XIAOMI POCO X4 PRO 5G 6GB + 128GB L.BLUE",
     "categoria": "Telefonia",
     "precio": 705
   },
@@ -3962,12 +3998,6 @@
   {
     "proveedor": "air",
     "producto": "CELULAR XIAOMI REDMI 10A 4GB + 128GB GRAPHITE GRAY",
-    "categoria": "Telefonia",
-    "precio": 383
-  },
-  {
-    "proveedor": "air",
-    "producto": "CELULAR XIAOMI REDMI 10C 4GB + 128GB GRAPHITE GRAY",
     "categoria": "Telefonia",
     "precio": 383
   },
@@ -4071,7 +4101,7 @@
     "proveedor": "air",
     "producto": "CELULAR XIAOMI REDMI NOTE 10S 6GB + 128GB O BLUE",
     "categoria": "Telefonia",
-    "precio": 581
+    "precio": 538
   },
   {
     "proveedor": "air",
@@ -4114,6 +4144,12 @@
     "producto": "CELULAR XIAOMI REDMI NOTE 11 PRO 5G 6GB+128G GRIS",
     "categoria": "Telefonia",
     "precio": 771
+  },
+  {
+    "proveedor": "air",
+    "producto": "CELULAR XIAOMI REDMI NOTE 11 PRO 5G 8GB+128G BLUE",
+    "categoria": "Telefonia",
+    "precio": 795
   },
   {
     "proveedor": "air",
@@ -4328,7 +4364,7 @@
   {
     "proveedor": "air",
     "producto": "CLARO SIM 64K HLR0",
-    "categoria": "No existe una categoría para este producto",
+    "categoria": "Varios",
     "precio": 0
   },
   {
@@ -4388,7 +4424,7 @@
   {
     "proveedor": "air",
     "producto": "CONNECTING CONVEYOR ACC-60Y 600MM W/SPEED CONT.",
-    "categoria": "No existe una categoría para este producto",
+    "categoria": "Varios",
     "precio": 6024
   },
   {
@@ -4575,7 +4611,7 @@
     "proveedor": "air",
     "producto": "CPU AMD APU A10 7860K 4.0GHZ 4MB 65W FM2+",
     "categoria": "Procesadores",
-    "precio": 236
+    "precio": 220
   },
   {
     "proveedor": "air",
@@ -4593,19 +4629,19 @@
     "proveedor": "air",
     "producto": "CPU AMD RYZEN 3 3200G AM4 65W 3.6GHZ",
     "categoria": "Procesadores",
-    "precio": 313
+    "precio": 254
   },
   {
     "proveedor": "air",
     "producto": "CPU AMD RYZEN 5 5600G AM4 65W WRAITH STEALTH",
     "categoria": "Procesadores",
-    "precio": 729
+    "precio": 519
   },
   {
     "proveedor": "air",
     "producto": "CPU AMD RYZEN 7 5700G AM4 65W WRAITH STEALTH",
     "categoria": "Procesadores",
-    "precio": 982
+    "precio": 699
   },
   {
     "proveedor": "air",
@@ -4749,13 +4785,13 @@
     "proveedor": "air",
     "producto": "CPU INTEL  G5905 CELERON COMETLAKE S1200 BOX",
     "categoria": "Procesadores",
-    "precio": 160
+    "precio": 151
   },
   {
     "proveedor": "air",
     "producto": "CPU INTEL  G5925 CELERON COMETLAKE S1200 BOX",
     "categoria": "Procesadores",
-    "precio": 195
+    "precio": 183
   },
   {
     "proveedor": "air",
@@ -4767,7 +4803,7 @@
     "proveedor": "air",
     "producto": "CPU INTEL  PENT G6405 COMETLAKE S1200 BOX",
     "categoria": "Procesadores",
-    "precio": 240
+    "precio": 226
   },
   {
     "proveedor": "air",
@@ -4779,49 +4815,49 @@
     "proveedor": "air",
     "producto": "CPU INTEL CORE I3-10105 COMETLAKE S1200 BOX",
     "categoria": "Procesadores",
-    "precio": 355
+    "precio": 333
   },
   {
     "proveedor": "air",
     "producto": "CPU INTEL CORE I3-10105F COMETLAKE S1200 BOX",
     "categoria": "Procesadores",
-    "precio": 256
+    "precio": 240
   },
   {
     "proveedor": "air",
     "producto": "CPU INTEL CORE I3-12100 ALDERLAKE S1700 BOX",
     "categoria": "Procesadores",
-    "precio": 440
+    "precio": 414
   },
   {
     "proveedor": "air",
     "producto": "CPU INTEL CORE I3-12100F ALDERLAKE S1700 BOX",
     "categoria": "Procesadores",
-    "precio": 334
+    "precio": 315
   },
   {
     "proveedor": "air",
     "producto": "CPU INTEL CORE I5-10400 COMETLAKE S1200 BOX",
     "categoria": "Procesadores",
-    "precio": 514
+    "precio": 449
   },
   {
     "proveedor": "air",
     "producto": "CPU INTEL CORE I5-10400 COMETLAKE S1200 BOX (L)",
     "categoria": "Procesadores",
-    "precio": 738
+    "precio": 449
   },
   {
     "proveedor": "air",
     "producto": "CPU INTEL CORE I5-11600K ROCKETLAKE S1200 BOX",
     "categoria": "Procesadores",
-    "precio": 936
+    "precio": 883
   },
   {
     "proveedor": "air",
     "producto": "CPU INTEL CORE I5-12600K ALDERLAKE S1700 BOX",
     "categoria": "Procesadores",
-    "precio": 924
+    "precio": 871
   },
   {
     "proveedor": "air",
@@ -4839,37 +4875,37 @@
     "proveedor": "air",
     "producto": "CPU INTEL CORE I7-10700 COMETLAKE S1200 BOX",
     "categoria": "Procesadores",
-    "precio": 880
+    "precio": 823
   },
   {
     "proveedor": "air",
     "producto": "CPU INTEL CORE I7-10700 COMETLAKE S1200 BOX (L)",
     "categoria": "Procesadores",
-    "precio": 1289
+    "precio": 823
   },
   {
     "proveedor": "air",
     "producto": "CPU INTEL CORE I7-10700K COMETLAKE S1200 BOX",
     "categoria": "Procesadores",
-    "precio": 1085
+    "precio": 1016
   },
   {
     "proveedor": "air",
     "producto": "CPU INTEL CORE I7-10700KF COMETLAKE S1200 BOX",
     "categoria": "Procesadores",
-    "precio": 984
+    "precio": 921
   },
   {
     "proveedor": "air",
     "producto": "CPU INTEL CORE I7-11700K ROCKETLAKE S1200 BOX",
     "categoria": "Procesadores",
-    "precio": 1411
+    "precio": 1328
   },
   {
     "proveedor": "air",
     "producto": "CPU INTEL CORE I7-11700KF ROCKETLAKE S1200 BOX",
     "categoria": "Procesadores",
-    "precio": 1196
+    "precio": 1119
   },
   {
     "proveedor": "air",
@@ -4983,7 +5019,7 @@
     "proveedor": "air",
     "producto": "DDR 256MB 333",
     "categoria": "Memorias RAM",
-    "precio": 14
+    "precio": 4
   },
   {
     "proveedor": "air",
@@ -4995,7 +5031,7 @@
     "proveedor": "air",
     "producto": "DDR3 4GB ADATA 1600MHZ CL11 1.35V",
     "categoria": "Memorias RAM",
-    "precio": 39
+    "precio": 38
   },
   {
     "proveedor": "air",
@@ -5017,12 +5053,6 @@
   },
   {
     "proveedor": "air",
-    "producto": "DDR4 16GB ADATA 2666MHZ CL19 SINGLE TRAY",
-    "categoria": "Memorias RAM",
-    "precio": 112
-  },
-  {
-    "proveedor": "air",
     "producto": "DDR4 16GB ADATA 3200MHZ",
     "categoria": "Memorias RAM",
     "precio": 118
@@ -5031,13 +5061,13 @@
     "proveedor": "air",
     "producto": "DDR4 16GB HIKVISION 2666MHZ CL19 SINGLE TRAY",
     "categoria": "Memorias RAM",
-    "precio": 116
+    "precio": 109
   },
   {
     "proveedor": "air",
     "producto": "DDR4 16GB HIKVISION 3200MHZ U1 SINGLE TRAY",
     "categoria": "Memorias RAM",
-    "precio": 120
+    "precio": 110
   },
   {
     "proveedor": "air",
@@ -5047,9 +5077,15 @@
   },
   {
     "proveedor": "air",
+    "producto": "DDR4 16GB HIKVISION 3200MHZ U10 BLACK KIT 2X8GB",
+    "categoria": "Memorias RAM",
+    "precio": 103
+  },
+  {
+    "proveedor": "air",
     "producto": "DDR4 16GB HIKVISION 3200MHZ U100 RGB",
     "categoria": "Memorias RAM",
-    "precio": 158
+    "precio": 144
   },
   {
     "proveedor": "air",
@@ -5065,6 +5101,12 @@
   },
   {
     "proveedor": "air",
+    "producto": "DDR4 16GB HPE 2Rx8 PC4-2933Y-R Smart Kit",
+    "categoria": "Memorias RAM",
+    "precio": 870
+  },
+  {
+    "proveedor": "air",
     "producto": "DDR4 16GB KINGSTON 2666MHZ CL19 KVR 16GBITS",
     "categoria": "Memorias RAM",
     "precio": 128
@@ -5073,19 +5115,19 @@
     "proveedor": "air",
     "producto": "DDR4 16GB KINGSTON 3200MHZ CL16 FURY BEAST RGB",
     "categoria": "Memorias RAM",
-    "precio": 160
+    "precio": 146
   },
   {
     "proveedor": "air",
     "producto": "DDR4 16GB KINGSTON 3200MHZ CL22 KVR",
     "categoria": "Memorias RAM",
-    "precio": 140
+    "precio": 128
   },
   {
     "proveedor": "air",
     "producto": "DDR4 16GB KINGSTON 3600MHZ FURY BEAST RGB",
     "categoria": "Memorias RAM",
-    "precio": 179
+    "precio": 163
   },
   {
     "proveedor": "air",
@@ -5113,6 +5155,12 @@
   },
   {
     "proveedor": "air",
+    "producto": "DDR4 32GB HIKVISION 3200MHZ U10 BLACK KIT 2X16GB",
+    "categoria": "Memorias RAM",
+    "precio": 186
+  },
+  {
+    "proveedor": "air",
     "producto": "DDR4 32GB HPE 2Rx4 PC4-2933Y-R Smart Kit",
     "categoria": "Memorias RAM",
     "precio": 1617
@@ -5133,13 +5181,13 @@
     "proveedor": "air",
     "producto": "DDR4 32GB KINGSTON 3200MHZ CL16 FURY BEAST RGB",
     "categoria": "Memorias RAM",
-    "precio": 338
+    "precio": 252
   },
   {
     "proveedor": "air",
     "producto": "DDR4 32GB KINGSTON 3600MHZ FURY RENEGADE RGB",
     "categoria": "Memorias RAM",
-    "precio": 404
+    "precio": 302
   },
   {
     "proveedor": "air",
@@ -5175,19 +5223,19 @@
     "proveedor": "air",
     "producto": "DDR4 4GB HIKVISION 2666MHZ CL19 SINGLE TRAY",
     "categoria": "Memorias RAM",
-    "precio": 47
+    "precio": 45
   },
   {
     "proveedor": "air",
     "producto": "DDR4 4GB KINGSTON 2666MHZ CL19 KVR",
     "categoria": "Memorias RAM",
-    "precio": 57
+    "precio": 52
   },
   {
     "proveedor": "air",
     "producto": "DDR4 4GB KINGSTON 3200MHZ CL16 FURY BEAST BLACK",
     "categoria": "Memorias RAM",
-    "precio": 86
+    "precio": 81
   },
   {
     "proveedor": "air",
@@ -5223,13 +5271,13 @@
     "proveedor": "air",
     "producto": "DDR4 8GB HIKVISION 2666MHZ CL19 SINGLE TRAY",
     "categoria": "Memorias RAM",
-    "precio": 60
+    "precio": 55
   },
   {
     "proveedor": "air",
     "producto": "DDR4 8GB HIKVISION 3200MHZ U1 SINGLE TRAY",
     "categoria": "Memorias RAM",
-    "precio": 57
+    "precio": 54
   },
   {
     "proveedor": "air",
@@ -5241,7 +5289,7 @@
     "proveedor": "air",
     "producto": "DDR4 8GB HIKVISION 3200MHZ U100 RGB",
     "categoria": "Memorias RAM",
-    "precio": 82
+    "precio": 77
   },
   {
     "proveedor": "air",
@@ -5253,29 +5301,29 @@
     "proveedor": "air",
     "producto": "DDR4 8GB KINGSTON 3200MHZ CL16 FURY BEAST BLACK",
     "categoria": "Memorias RAM",
-    "precio": 78
+    "precio": 72
   },
   {
     "proveedor": "air",
     "producto": "DDR4 8GB KINGSTON 3200MHZ CL16 FURY BEAST RGB",
     "categoria": "Memorias RAM",
-    "precio": 94
+    "precio": 86
   },
   {
     "proveedor": "air",
     "producto": "DDR4 8GB KINGSTON 3200MHZ CL22 KVR",
     "categoria": "Memorias RAM",
-    "precio": 75
+    "precio": 67
   },
   {
     "proveedor": "air",
     "producto": "DDR4 8GB KINGSTON 3600MHZ CL17 FURY BEAST RGB",
     "categoria": "Memorias RAM",
-    "precio": 104
+    "precio": 95
   },
   {
     "proveedor": "air",
-    "producto": "DDR5 16GB ADATA 5600MHZ XPG HUNTER",
+    "producto": "DDR5 16GB ADATA 5600MHZ XPG LANCER",
     "categoria": "Memorias RAM",
     "precio": 186
   },
@@ -5283,7 +5331,7 @@
     "proveedor": "air",
     "producto": "DDR5 16GB HIKVISION 5600MHZ",
     "categoria": "Memorias RAM",
-    "precio": 194
+    "precio": 177
   },
   {
     "proveedor": "air",
@@ -5293,7 +5341,7 @@
   },
   {
     "proveedor": "air",
-    "producto": "DDR5 32GB ADATA 5600MHZ XPG HUNTER",
+    "producto": "DDR5 32GB ADATA 5600MHZ XPG LANCER",
     "categoria": "Memorias RAM",
     "precio": 369
   },
@@ -5301,7 +5349,7 @@
     "proveedor": "air",
     "producto": "DDR5 32GB HIKVISION 5600MHZ",
     "categoria": "Memorias RAM",
-    "precio": 367
+    "precio": 335
   },
   {
     "proveedor": "air",
@@ -5311,7 +5359,7 @@
   },
   {
     "proveedor": "air",
-    "producto": "DDR5 8GB ADATA 5200MHZ XPG HUNTER",
+    "producto": "DDR5 8GB ADATA 5200MHZ XPG LANCER",
     "categoria": "Memorias RAM",
     "precio": 104
   },
@@ -5319,19 +5367,19 @@
     "proveedor": "air",
     "producto": "DDR5 8GB HIKVISION 5600MHZ",
     "categoria": "Memorias RAM",
-    "precio": 107
+    "precio": 98
   },
   {
     "proveedor": "air",
     "producto": "DDR5 8GB KINGSTON 4800MHZ CL22 KVR",
     "categoria": "Memorias RAM",
-    "precio": 138
+    "precio": 116
   },
   {
     "proveedor": "air",
     "producto": "DDR5 8GB KINGSTON 4800MHZ CL38 FURY BEAST BLACK",
     "categoria": "Memorias RAM",
-    "precio": 149
+    "precio": 117
   },
   {
     "proveedor": "air",
@@ -5398,6 +5446,12 @@
     "producto": "DELL RISER PARA PLACA BOSS (R450)",
     "categoria": "Accesorios",
     "precio": 90
+  },
+  {
+    "proveedor": "air",
+    "producto": "DELL Standard Heatsink, CUS Kit - R550/R750",
+    "categoria": "Accesorios",
+    "precio": 96
   },
   {
     "proveedor": "air",
@@ -5485,12 +5539,6 @@
   },
   {
     "proveedor": "air",
-    "producto": "DRUM BROTHER DR-3460 50,000 PAG",
-    "categoria": "Impresoras e Insumos",
-    "precio": 178
-  },
-  {
-    "proveedor": "air",
     "producto": "DRUM BROTHER DR-420 12,000 PAG",
     "categoria": "Impresoras e Insumos",
     "precio": 180
@@ -5571,7 +5619,7 @@
     "proveedor": "air",
     "producto": "EPSON FISCAL TM-T900FA TERMICA NUEVA GENERACION",
     "categoria": "Impresoras e Insumos",
-    "precio": 746
+    "precio": 745
   },
   {
     "proveedor": "air",
@@ -5780,7 +5828,7 @@
   {
     "proveedor": "air",
     "producto": "ETIQUETAS OPP BLANCO DE 100 X 150 MM",
-    "categoria": "No existe una categoría para este producto",
+    "categoria": "Varios",
     "precio": 2
   },
   {
@@ -5824,6 +5872,12 @@
     "producto": "EXPRIMIDOR ELECTRICO PEABODY PE-EC402 ACERO ROJO",
     "categoria": "Electro",
     "precio": 75
+  },
+  {
+    "proveedor": "air",
+    "producto": "EXTENSOR DE RANGO TP-LINK RE200 AC750 **CAJA ROTA*",
+    "categoria": "Conectividad",
+    "precio": 59
   },
   {
     "proveedor": "air",
@@ -6026,7 +6080,7 @@
   {
     "proveedor": "air",
     "producto": "FILM PARA CELULARES SAM S3600 ESPEJADO",
-    "categoria": "No existe una categoría para este producto",
+    "categoria": "Varios",
     "precio": 0
   },
   {
@@ -6068,7 +6122,7 @@
   {
     "proveedor": "air",
     "producto": "FLETE TERRESTRE INTERNACIONAL",
-    "categoria": "No existe una categoría para este producto",
+    "categoria": "Varios",
     "precio": 37
   },
   {
@@ -6200,7 +6254,7 @@
   {
     "proveedor": "air",
     "producto": "FUENTE  PERFORMANCE CARGA RAPIDA QC3.0 USB BCO",
-    "categoria": "No existe una categoría para este producto",
+    "categoria": "Varios",
     "precio": 10
   },
   {
@@ -6337,6 +6391,12 @@
   },
   {
     "proveedor": "air",
+    "producto": "FUENTE DELL P/NOTEBOOK  45W -  HA45NM140",
+    "categoria": "Fuentes",
+    "precio": 119
+  },
+  {
+    "proveedor": "air",
     "producto": "FUENTE GRALF 12V 4.3A BORNERA CON FUNCION UPS",
     "categoria": "Fuentes",
     "precio": 67
@@ -6447,37 +6507,37 @@
     "proveedor": "air",
     "producto": "FUNDA P/GPS/CAMARAS BAGS DESIGN VESPAS",
     "categoria": "Accesorios",
-    "precio": 11
+    "precio": 9
   },
   {
     "proveedor": "air",
     "producto": "FUNDA P/HD EXTERNO 2.5 BAGS BUSINESS NEGRO",
     "categoria": "Accesorios",
-    "precio": 9
+    "precio": 8
   },
   {
     "proveedor": "air",
     "producto": "FUNDA P/HD EXTERNO BAGS NEOP 3MM FRENCH BULLDOG",
     "categoria": "Accesorios",
-    "precio": 11
+    "precio": 9
   },
   {
     "proveedor": "air",
     "producto": "FUNDA P/HD EXTERNO BAGS NEOP 3MM SQUARE",
     "categoria": "Accesorios",
-    "precio": 11
+    "precio": 9
   },
   {
     "proveedor": "air",
     "producto": "FUNDA P/NB 14/15 BAGS BUSINESS SIMIL NEOP AZUL",
     "categoria": "Accesorios",
-    "precio": 28
+    "precio": 21
   },
   {
     "proveedor": "air",
     "producto": "FUNDA P/NB 14/15 BAGS BUSINESS SIMIL NEOP NEGRO",
     "categoria": "Accesorios",
-    "precio": 28
+    "precio": 21
   },
   {
     "proveedor": "air",
@@ -6489,7 +6549,7 @@
     "proveedor": "air",
     "producto": "FUNDA P/NOTEBOOK 14/15 BAGS NEOPRENE 4MM NEGRO",
     "categoria": "Accesorios",
-    "precio": 30
+    "precio": 23
   },
   {
     "proveedor": "air",
@@ -6501,31 +6561,31 @@
     "proveedor": "air",
     "producto": "FUNDA P/TABLET 10 BAGS SIMIL NEOP NEGRO",
     "categoria": "Accesorios",
-    "precio": 16
+    "precio": 12
   },
   {
     "proveedor": "air",
     "producto": "FUNDA P/TABLET 7 BAGS DESIGN FRENCH BULLDOG",
     "categoria": "Accesorios",
-    "precio": 19
+    "precio": 14
   },
   {
     "proveedor": "air",
     "producto": "FUNDA P/TABLET 7 BAGS DESIGN VESPA S 1986",
     "categoria": "Accesorios",
-    "precio": 19
+    "precio": 14
   },
   {
     "proveedor": "air",
     "producto": "FUNDA P/TABLET 7 BAGS DESING CLASSY",
     "categoria": "Accesorios",
-    "precio": 19
+    "precio": 14
   },
   {
     "proveedor": "air",
     "producto": "FUNDA P/TABLET 7 BAGS HARD BUSINESS NEGRO",
     "categoria": "Accesorios",
-    "precio": 14
+    "precio": 11
   },
   {
     "proveedor": "air",
@@ -6567,25 +6627,31 @@
     "proveedor": "air",
     "producto": "GAB  CX SLIM 5835 BLACK ALUM 600W USB 3.0 S/CR",
     "categoria": "Gabinetes",
-    "precio": 132
+    "precio": 119
   },
   {
     "proveedor": "air",
     "producto": "GAB  PERF KITX3 2801 TEC+MOU+ATX PS3 500W",
     "categoria": "Gabinetes",
-    "precio": 101
+    "precio": 96
   },
   {
     "proveedor": "air",
     "producto": "GAB  PERF KITX3 6801 TEC+MOU+600W",
     "categoria": "Gabinetes",
-    "precio": 112
+    "precio": 107
   },
   {
     "proveedor": "air",
     "producto": "GAB  PERF KITX3 6813 TEC+MOU+CARD READER 600W",
     "categoria": "Gabinetes",
     "precio": 133
+  },
+  {
+    "proveedor": "air",
+    "producto": "GAB  PERF KITX4 6826 TEC+PAR+MOU+600W",
+    "categoria": "Gabinetes",
+    "precio": 104
   },
   {
     "proveedor": "air",
@@ -6628,18 +6694,6 @@
     "producto": "GAB GAMEMAX G561 BLACK ATX FAN AZUL X3",
     "categoria": "Gabinetes",
     "precio": 128
-  },
-  {
-    "proveedor": "air",
-    "producto": "GAB GAMEMAX H601 BR (BLACK/ RED) 1* FAN BLUE M-ATX",
-    "categoria": "Gabinetes",
-    "precio": 114
-  },
-  {
-    "proveedor": "air",
-    "producto": "GAB GAMEMAX M61 BLACK 1* FAN M-ATX",
-    "categoria": "Gabinetes",
-    "precio": 137
   },
   {
     "proveedor": "air",
@@ -6703,12 +6757,6 @@
   },
   {
     "proveedor": "air",
-    "producto": "GAB MSI MAG FORGE 111R V TEMPLADO FAN S/F EXPO",
-    "categoria": "Gabinetes",
-    "precio": 159
-  },
-  {
-    "proveedor": "air",
     "producto": "GAB MSI MAG FORGE 111R V TEMPLADO FAN SIN FUENTE",
     "categoria": "Gabinetes",
     "precio": 181
@@ -6723,19 +6771,13 @@
     "proveedor": "air",
     "producto": "GAB MSI MAG FORGE M100A FAN RGB SIN FUENTE (L)",
     "categoria": "Gabinetes",
-    "precio": 147
+    "precio": 146
   },
   {
     "proveedor": "air",
     "producto": "GAB SYX RAGER BLACK ATX  SIN FAN **DAÑADO**",
     "categoria": "Gabinetes",
     "precio": 101
-  },
-  {
-    "proveedor": "air",
-    "producto": "GAB THERMALTAKE CORE P3 WHITE SE",
-    "categoria": "Gabinetes",
-    "precio": 241
   },
   {
     "proveedor": "air",
@@ -6778,12 +6820,6 @@
     "producto": "GIFT JUEGO PC LOST PLANET",
     "categoria": "Gamer",
     "precio": 17
-  },
-  {
-    "proveedor": "air",
-    "producto": "GOOGLE CHROMECAST 3 SMART TV (SIN TRAFO USB BLANCO",
-    "categoria": "Electro",
-    "precio": 100
   },
   {
     "proveedor": "air",
@@ -6909,7 +6945,7 @@
     "proveedor": "air",
     "producto": "HD 16TB SEAGATE SATA 6GB/S 256MB NAS IRONWOLF PRO",
     "categoria": "Discos",
-    "precio": 1630
+    "precio": 1055
   },
   {
     "proveedor": "air",
@@ -6925,12 +6961,6 @@
   },
   {
     "proveedor": "air",
-    "producto": "HD 1TB P/NOTEBOOK TOSHIBA S-ATA (OEM)",
-    "categoria": "Discos",
-    "precio": 83
-  },
-  {
-    "proveedor": "air",
     "producto": "HD 1TB P/NOTEBOOK WD S-AT II 5400 8MB CAVIAR(OEM)",
     "categoria": "Discos",
     "precio": 99
@@ -6939,7 +6969,7 @@
     "proveedor": "air",
     "producto": "HD 1TB SEAGATE BARRACUDA S-ATA III 7200 64MB",
     "categoria": "Discos",
-    "precio": 149
+    "precio": 133
   },
   {
     "proveedor": "air",
@@ -6987,7 +7017,7 @@
     "proveedor": "air",
     "producto": "HD 320 GB P/NOTEBOOK SAMSUNG S-ATAII 8MB (R)",
     "categoria": "Discos",
-    "precio": 75
+    "precio": 65
   },
   {
     "proveedor": "air",
@@ -6999,13 +7029,13 @@
     "proveedor": "air",
     "producto": "HD 320 GB P/NOTEBOOK WD S-ATA 5400 8M 7MM",
     "categoria": "Discos",
-    "precio": 86
+    "precio": 64
   },
   {
     "proveedor": "air",
     "producto": "HD 320 GB P/NOTEBOOK WD S-ATA II 8MB (R)",
     "categoria": "Discos",
-    "precio": 74
+    "precio": 60
   },
   {
     "proveedor": "air",
@@ -7029,7 +7059,7 @@
     "proveedor": "air",
     "producto": "HD 500 GB P/NB TOSHIBA 2.5 SATA 8MB 5400RPM",
     "categoria": "Discos",
-    "precio": 65
+    "precio": 73
   },
   {
     "proveedor": "air",
@@ -7106,7 +7136,13 @@
   {
     "proveedor": "air",
     "producto": "HD SAS HPE 4TB 7.2K LFF LP DS HDD",
-    "categoria": "No existe una categoría para este producto",
+    "categoria": "Discos",
+    "precio": 596
+  },
+  {
+    "proveedor": "air",
+    "producto": "HD SAS HPE 4TB 7.2K LFF LP DS HDD",
+    "categoria": "Varios",
     "precio": 667
   },
   {
@@ -7183,27 +7219,27 @@
   },
   {
     "proveedor": "air",
-    "producto": "HELADERA BAMBI 2F 1200PA 239LTS  GRIS",
-    "categoria": "Electro",
-    "precio": 802
-  },
-  {
-    "proveedor": "air",
     "producto": "HELADERA BAMBI 2F 1600BA 329LTS BLANCA",
     "categoria": "Electro",
-    "precio": 911
+    "precio": 660
   },
   {
     "proveedor": "air",
     "producto": "HELADERA BAMBI 2F 1600PDA 329LTS GRIS C/ DISPENSER",
     "categoria": "Electro",
-    "precio": 958
+    "precio": 694
   },
   {
     "proveedor": "air",
     "producto": "HELADERA SAMSUNG  RT44A6640B1 BLACK",
     "categoria": "Electro",
     "precio": 2204
+  },
+  {
+    "proveedor": "air",
+    "producto": "HELADERA SAMSUNG RT32K5070  321LTS  SILVER",
+    "categoria": "Electro",
+    "precio": 1116
   },
   {
     "proveedor": "air",
@@ -7995,7 +8031,7 @@
     "proveedor": "air",
     "producto": "HPE ML350 GEN10 SLIMLINE ODD BAY KIT",
     "categoria": "Accesorios",
-    "precio": 74
+    "precio": 77
   },
   {
     "proveedor": "air",
@@ -8594,7 +8630,7 @@
   {
     "proveedor": "air",
     "producto": "INSUMOS VARIOS REPARACIONES EN GARANTIA",
-    "categoria": "No existe una categoría para este producto",
+    "categoria": "Varios",
     "precio": 18
   },
   {
@@ -8666,7 +8702,7 @@
   {
     "proveedor": "air",
     "producto": "INTEL PLACA DE RAID X (ADRPCIXRIS)",
-    "categoria": "No existe una categoría para este producto",
+    "categoria": "Varios",
     "precio": 63
   },
   {
@@ -9140,7 +9176,7 @@
   {
     "proveedor": "air",
     "producto": "LAMPARA HSI-T 250W E40",
-    "categoria": "No existe una categoría para este producto",
+    "categoria": "Varios",
     "precio": 1
   },
   {
@@ -9160,6 +9196,12 @@
     "producto": "LATIN SP KB    - 71GUL8482-10 -",
     "categoria": "Accesorios",
     "precio": 34
+  },
+  {
+    "proveedor": "air",
+    "producto": "LAVARROPA SAMSUNG WA70A4000EE  7.0 KG WHITE INVERT",
+    "categoria": "Electro",
+    "precio": 746
   },
   {
     "proveedor": "air",
@@ -9235,15 +9277,15 @@
   },
   {
     "proveedor": "air",
-    "producto": "LECTOR UNITECH MS838 CMOS 1D/2D BLUETOOTH",
-    "categoria": "Electro",
-    "precio": 274
-  },
-  {
-    "proveedor": "air",
     "producto": "LECTOR UNITECH MS838 USB CMOS 1D-2D C/SOPORTE",
     "categoria": "Electro",
     "precio": 110
+  },
+  {
+    "proveedor": "air",
+    "producto": "LECTOR UNITECH MS838B CMOS 1D/2D BLUETOOTH",
+    "categoria": "Electro",
+    "precio": 274
   },
   {
     "proveedor": "air",
@@ -9477,31 +9519,37 @@
     "proveedor": "air",
     "producto": "LN BROTHER HL-1200 21PPM",
     "categoria": "Impresoras e Insumos",
-    "precio": 319
+    "precio": 299
+  },
+  {
+    "proveedor": "air",
+    "producto": "LN BROTHER HL-1200 21PPM (CAJA DAÑADA)",
+    "categoria": "Impresoras e Insumos",
+    "precio": 297
   },
   {
     "proveedor": "air",
     "producto": "LN BROTHER HL-1200 21PPM (I)",
     "categoria": "Impresoras e Insumos",
-    "precio": 319
+    "precio": 299
   },
   {
     "proveedor": "air",
     "producto": "LN BROTHER HL-1200 21PPM + TONER TN-1060",
     "categoria": "Impresoras e Insumos",
-    "precio": 379
+    "precio": 359
   },
   {
     "proveedor": "air",
     "producto": "LN BROTHER HL-1212W 21PPM WIFI (I)",
     "categoria": "Impresoras e Insumos",
-    "precio": 399
+    "precio": 374
   },
   {
     "proveedor": "air",
     "producto": "LN BROTHER HL-1212W 21PPM WIFI (I) + TONER TN-1060",
     "categoria": "Impresoras e Insumos",
-    "precio": 459
+    "precio": 434
   },
   {
     "proveedor": "air",
@@ -9553,12 +9601,6 @@
   },
   {
     "proveedor": "air",
-    "producto": "LTO-6 HPE Ultrium 6.25TB MP RW Data Tape",
-    "categoria": "Accesorios",
-    "precio": 63
-  },
-  {
-    "proveedor": "air",
     "producto": "LTO-9 HPE 45TB RW Data Cartridge",
     "categoria": "Accesorios",
     "precio": 281
@@ -9567,7 +9609,7 @@
     "proveedor": "air",
     "producto": "MALETIN P/ NB 15 BAGS CORDURA NEGRO",
     "categoria": "Accesorios",
-    "precio": 66
+    "precio": 46
   },
   {
     "proveedor": "air",
@@ -9819,7 +9861,13 @@
     "proveedor": "air",
     "producto": "MB BIOSTAR AM4 A520MH BOX M-ATX",
     "categoria": "Motherboards",
-    "precio": 243
+    "precio": 185
+  },
+  {
+    "proveedor": "air",
+    "producto": "MB ECS AM4 A520AM4-M3D BOX M-ATX",
+    "categoria": "Motherboards",
+    "precio": 196
   },
   {
     "proveedor": "air",
@@ -9909,7 +9957,7 @@
     "proveedor": "air",
     "producto": "MB GIGABYTE S1200 H510M H V2 BOX M-ATX",
     "categoria": "Motherboards",
-    "precio": 243
+    "precio": 231
   },
   {
     "proveedor": "air",
@@ -10101,13 +10149,13 @@
     "proveedor": "air",
     "producto": "MB MSI S1200 H510M PRO-E BOX M-ATX",
     "categoria": "Motherboards",
-    "precio": 206
+    "precio": 219
   },
   {
     "proveedor": "air",
     "producto": "MB MSI S1700 PRO H610M-G DDR4 BOX M-ATX",
     "categoria": "Motherboards",
-    "precio": 230
+    "precio": 215
   },
   {
     "proveedor": "air",
@@ -10219,12 +10267,6 @@
   },
   {
     "proveedor": "air",
-    "producto": "MF EPSON MULTIFUNCION L3250 SIST CONTINUO WIFI",
-    "categoria": "Impresoras e Insumos",
-    "precio": 832
-  },
-  {
-    "proveedor": "air",
     "producto": "MF EPSON MULTIFUNCION L8160 SIST CONT WIFI PHOTO",
     "categoria": "Impresoras e Insumos",
     "precio": 1704
@@ -10233,13 +10275,13 @@
     "proveedor": "air",
     "producto": "MFL BROTHER DCP-1617NW 21PPM WIFI",
     "categoria": "Impresoras e Insumos",
-    "precio": 817
+    "precio": 759
   },
   {
     "proveedor": "air",
     "producto": "MFL BROTHER DCP-1617NW 21PPM WIFI (I)",
     "categoria": "Impresoras e Insumos",
-    "precio": 817
+    "precio": 759
   },
   {
     "proveedor": "air",
@@ -10287,7 +10329,7 @@
     "proveedor": "air",
     "producto": "MICRO SD 128GB HIKVISION CLASE 10 C1",
     "categoria": "Almacenamiento Portatil",
-    "precio": 36
+    "precio": 33
   },
   {
     "proveedor": "air",
@@ -10299,7 +10341,7 @@
     "proveedor": "air",
     "producto": "MICRO SD 32GB HIKVISION CLASE 10 C1",
     "categoria": "Almacenamiento Portatil",
-    "precio": 14
+    "precio": 12
   },
   {
     "proveedor": "air",
@@ -10311,7 +10353,7 @@
     "proveedor": "air",
     "producto": "MICRO SD 64GB HIKVISION CLASE 10 C1",
     "categoria": "Almacenamiento Portatil",
-    "precio": 16
+    "precio": 14
   },
   {
     "proveedor": "air",
@@ -10551,7 +10593,7 @@
     "proveedor": "air",
     "producto": "MONITOR 19 PHILIPS VGA HDMI VESA",
     "categoria": "Monitores",
-    "precio": 179
+    "precio": 150
   },
   {
     "proveedor": "air",
@@ -10569,7 +10611,7 @@
     "proveedor": "air",
     "producto": "MONITOR 22 ASUS VP228HE BLACK AUDIO VGA/HDMI",
     "categoria": "Monitores",
-    "precio": 455
+    "precio": 429
   },
   {
     "proveedor": "air",
@@ -10599,7 +10641,7 @@
     "proveedor": "air",
     "producto": "MONITOR 22 HP P22VA HDMI FHD (CAJA DAÑADA)",
     "categoria": "Monitores",
-    "precio": 439
+    "precio": 417
   },
   {
     "proveedor": "air",
@@ -10623,25 +10665,25 @@
     "proveedor": "air",
     "producto": "MONITOR 22 NOBLEX HDMI/VGA MK22X7100",
     "categoria": "Monitores",
-    "precio": 214
+    "precio": 195
   },
   {
     "proveedor": "air",
     "producto": "MONITOR 22 NOBLEX HDMI/VGA MK22X7100 CAJA DAÑADA",
     "categoria": "Monitores",
-    "precio": 203
+    "precio": 185
   },
   {
     "proveedor": "air",
     "producto": "MONITOR 22 PHILIPS HDMI /VGA 221V8/77",
     "categoria": "Monitores",
-    "precio": 199
+    "precio": 165
   },
   {
     "proveedor": "air",
     "producto": "MONITOR 22 SAMSUNG T350 FLAT IPS",
     "categoria": "Monitores",
-    "precio": 281
+    "precio": 251
   },
   {
     "proveedor": "air",
@@ -10713,25 +10755,31 @@
     "proveedor": "air",
     "producto": "MONITOR 24 NOBLEX HDMI/VGA MK24X7100",
     "categoria": "Monitores",
-    "precio": 225
+    "precio": 218
   },
   {
     "proveedor": "air",
     "producto": "MONITOR 24 PHILIPS HDMI /VGA 241V8L/77",
     "categoria": "Monitores",
-    "precio": 222
+    "precio": 204
+  },
+  {
+    "proveedor": "air",
+    "producto": "MONITOR 24 PHILIPS HDMI /VGA 241V8L/77 CAJA DAÑADA",
+    "categoria": "Monitores",
+    "precio": 194
   },
   {
     "proveedor": "air",
     "producto": "MONITOR 24 SAMSUNG T350 FLAT IPS",
     "categoria": "Monitores",
-    "precio": 309
+    "precio": 276
   },
   {
     "proveedor": "air",
     "producto": "MONITOR 25 GIGABYTE AORUS FI25F GAMING IPS 240HZ",
     "categoria": "Monitores",
-    "precio": 1764
+    "precio": 1724
   },
   {
     "proveedor": "air",
@@ -10791,19 +10839,19 @@
     "proveedor": "air",
     "producto": "MONITOR 27 NOBLEX HDMI/VGA MK27X7100",
     "categoria": "Monitores",
-    "precio": 326
+    "precio": 289
   },
   {
     "proveedor": "air",
     "producto": "MONITOR 27 PHILIPS 271E1SCA CURVO  FULL HD",
     "categoria": "Monitores",
-    "precio": 498
+    "precio": 433
   },
   {
     "proveedor": "air",
     "producto": "MONITOR 27 PHILIPS HDMI /VGA 272V8LA/55",
     "categoria": "Monitores",
-    "precio": 380
+    "precio": 327
   },
   {
     "proveedor": "air",
@@ -10821,7 +10869,7 @@
     "proveedor": "air",
     "producto": "MONITOR 32 SAMSUNG SMART COLOR FHD",
     "categoria": "Monitores",
-    "precio": 655
+    "precio": 612
   },
   {
     "proveedor": "air",
@@ -10900,12 +10948,6 @@
     "producto": "MOUSE EVGA GAMER X17 GAMING MOUSE BLACK",
     "categoria": "Mouses",
     "precio": 88
-  },
-  {
-    "proveedor": "air",
-    "producto": "MOUSE GENIUS DX-110 USB RED 1200 DPI",
-    "categoria": "Mouses",
-    "precio": 10
   },
   {
     "proveedor": "air",
@@ -11133,7 +11175,7 @@
     "proveedor": "air",
     "producto": "NB ASUS 14 i5-1135G7 8G SSD512GB  W11H",
     "categoria": "Notebooks",
-    "precio": 2341
+    "precio": 2315
   },
   {
     "proveedor": "air",
@@ -11175,25 +11217,25 @@
     "proveedor": "air",
     "producto": "NB ASUS 15.6 I3-1115G4 12GB 256GB PCIE W11 (L)",
     "categoria": "Notebooks",
-    "precio": 1434
+    "precio": 1138
   },
   {
     "proveedor": "air",
     "producto": "NB ASUS 15.6 I3-1115G4 4GB 256GB PCIE W11 (L)",
     "categoria": "Notebooks",
-    "precio": 1354
+    "precio": 1138
   },
   {
     "proveedor": "air",
     "producto": "NB ASUS 15.6 I3-1115G4 4GB 256GB PCIE W11 (L)",
     "categoria": "Notebooks",
-    "precio": 1355
+    "precio": 1140
   },
   {
     "proveedor": "air",
     "producto": "NB ASUS 15.6 I3-1115G4 8GB 256GB PCIE W11 (L)",
     "categoria": "Notebooks",
-    "precio": 1412
+    "precio": 1116
   },
   {
     "proveedor": "air",
@@ -11235,7 +11277,7 @@
     "proveedor": "air",
     "producto": "NB ASUS 15.6 R3-3250U 12GB 500GB",
     "categoria": "Notebooks",
-    "precio": 1357
+    "precio": 1323
   },
   {
     "proveedor": "air",
@@ -11247,7 +11289,7 @@
     "proveedor": "air",
     "producto": "NB ASUS 15.6 R3-3250U 8GB 256GB W11H",
     "categoria": "Notebooks",
-    "precio": 1443
+    "precio": 1340
   },
   {
     "proveedor": "air",
@@ -11259,7 +11301,7 @@
     "proveedor": "air",
     "producto": "NB ASUS 15.6 R3-3250U 8GB 512GB W11H",
     "categoria": "Notebooks",
-    "precio": 1465
+    "precio": 1368
   },
   {
     "proveedor": "air",
@@ -11299,12 +11341,6 @@
   },
   {
     "proveedor": "air",
-    "producto": "NB ASUS 16 i7-12700H 16GB 512GB RTX3050TI W11H",
-    "categoria": "Notebooks",
-    "precio": 5075
-  },
-  {
-    "proveedor": "air",
     "producto": "NB CX 11.6 INTEL N3350+4GB+64GB+SSD256+W10PRO",
     "categoria": "Notebooks",
     "precio": 451
@@ -11319,7 +11355,7 @@
     "proveedor": "air",
     "producto": "NB CX 14 ULTRASLIM LUMINA B847+SSD240+4G (EXPO)",
     "categoria": "Notebooks",
-    "precio": 583
+    "precio": 571
   },
   {
     "proveedor": "air",
@@ -11361,7 +11397,7 @@
     "proveedor": "air",
     "producto": "NB CX 15.6 INTEL I5+SSD240+8G+DVDRW (PIXEL)",
     "categoria": "Notebooks",
-    "precio": 1158
+    "precio": 1153
   },
   {
     "proveedor": "air",
@@ -11380,12 +11416,6 @@
     "producto": "NB CX 15.6 INTEL I7+SSD240G+8G+DVDRW+VGA (PIXEL)",
     "categoria": "Notebooks",
     "precio": 1536
-  },
-  {
-    "proveedor": "air",
-    "producto": "NB CX 15.6 INTEL N3350+4GB+64GB+W10PRO",
-    "categoria": "Notebooks",
-    "precio": 375
   },
   {
     "proveedor": "air",
@@ -11469,7 +11499,7 @@
     "proveedor": "air",
     "producto": "NB HP 14  X360 CONVERTIBLE PENT 4G 256G W10HOME",
     "categoria": "Notebooks",
-    "precio": 1261
+    "precio": 1222
   },
   {
     "proveedor": "air",
@@ -11482,12 +11512,6 @@
     "producto": "NB HP 14 245 AMD RYZEN3-5300U SSD240G 8G",
     "categoria": "Notebooks",
     "precio": 1116
-  },
-  {
-    "proveedor": "air",
-    "producto": "NB HP 14 245 AMD RYZEN5-5500U SSD240G 8GB",
-    "categoria": "Notebooks",
-    "precio": 1562
   },
   {
     "proveedor": "air",
@@ -11517,7 +11541,13 @@
     "proveedor": "air",
     "producto": "NB HP 14 840 I7-1165G7 16GB SSD512GB W10PRO",
     "categoria": "Notebooks",
-    "precio": 4312
+    "precio": 4227
+  },
+  {
+    "proveedor": "air",
+    "producto": "NB HP 15.6 250 I5-1135G7 8GB SSD256GB",
+    "categoria": "Notebooks",
+    "precio": 1746
   },
   {
     "proveedor": "air",
@@ -11607,7 +11637,7 @@
     "proveedor": "air",
     "producto": "NB LENOVO 15.6 V15 I5-1135G7 16GB SSD512 GTIA1OS",
     "categoria": "Notebooks",
-    "precio": 2421
+    "precio": 2006
   },
   {
     "proveedor": "air",
@@ -11643,13 +11673,13 @@
     "proveedor": "air",
     "producto": "NB NOBLEX 14 CELERON N4020C 4GB 128GB W11 (L)",
     "categoria": "Notebooks",
-    "precio": 644
+    "precio": 472
   },
   {
     "proveedor": "air",
     "producto": "NB NOBLEX 14 I3-1115G4 8GB 256GB PCIE W11 (L)",
     "categoria": "Notebooks",
-    "precio": 1167
+    "precio": 857
   },
   {
     "proveedor": "air",
@@ -11696,7 +11726,7 @@
   {
     "proveedor": "air",
     "producto": "NORTON SYSTEMWORKS 2006 BOX",
-    "categoria": "No existe una categoría para este producto",
+    "categoria": "Varios",
     "precio": 123
   },
   {
@@ -11787,7 +11817,7 @@
     "proveedor": "air",
     "producto": "PACK X3 DISCOS SEAGATE ACCION OCTUBRE 2021",
     "categoria": "Discos",
-    "precio": 4219
+    "precio": 3644
   },
   {
     "proveedor": "air",
@@ -11824,12 +11854,6 @@
     "producto": "PANTALLA P/ PROYECTOR PARED 100` INTELAID",
     "categoria": "Proyectores",
     "precio": 593
-  },
-  {
-    "proveedor": "air",
-    "producto": "PANTALLA P/ PROYECTOR PARED 120 ELECTR INTELAID\"",
-    "categoria": "Proyectores",
-    "precio": 941
   },
   {
     "proveedor": "air",
@@ -12031,12 +12055,6 @@
   },
   {
     "proveedor": "air",
-    "producto": "PARLANTE PORTATIL NEO KARAOKE BLUETOOTH/FM/USB/SD/",
-    "categoria": "Parlantes",
-    "precio": 57
-  },
-  {
-    "proveedor": "air",
     "producto": "PARLANTE SMARTLIFE PARTYBOX  1 VIA 8V SL-PB10808",
     "categoria": "Electro",
     "precio": 72
@@ -12235,6 +12253,12 @@
   },
   {
     "proveedor": "air",
+    "producto": "PATCHPANEL FURUKAWA 24P CAT.5E MULTILAN NEGRO",
+    "categoria": "Cables y Adaptadores",
+    "precio": 253
+  },
+  {
+    "proveedor": "air",
     "producto": "PATCHPANEL GLC 24P  CAT 5E P/ KRONE/110",
     "categoria": "Cables y Adaptadores",
     "precio": 60
@@ -12279,277 +12303,277 @@
     "proveedor": "air",
     "producto": "PC AIR AMD RYZEN 3 3200G",
     "categoria": "Computadoras",
-    "precio": 714
+    "precio": 652
   },
   {
     "proveedor": "air",
     "producto": "PC AIR AMD RYZEN 5 5600G",
     "categoria": "Computadoras",
-    "precio": 1174
+    "precio": 912
   },
   {
     "proveedor": "air",
     "producto": "PC AIR AMD RYZEN 7 5700G",
     "categoria": "Computadoras",
-    "precio": 1421
+    "precio": 1089
   },
   {
     "proveedor": "air",
     "producto": "PC AIR INTEL  CELERON G5905 COMETLAKE",
     "categoria": "Computadoras",
-    "precio": 593
+    "precio": 567
   },
   {
     "proveedor": "air",
     "producto": "PC AIR INTEL  CELERON G5925 COMETLAKE",
     "categoria": "Computadoras",
-    "precio": 632
+    "precio": 604
   },
   {
     "proveedor": "air",
     "producto": "PC AIR INTEL  CELERON G6900 ALDERLAKE",
     "categoria": "Computadoras",
-    "precio": 653
+    "precio": 648
   },
   {
     "proveedor": "air",
     "producto": "PC AIR INTEL  PENTIUM G6405 COMETLAKE",
     "categoria": "Computadoras",
-    "precio": 677
+    "precio": 646
   },
   {
     "proveedor": "air",
     "producto": "PC AIR INTEL  PENTIUM G7400 ALDERLAKE",
     "categoria": "Computadoras",
-    "precio": 742
+    "precio": 737
   },
   {
     "proveedor": "air",
     "producto": "PC AIR INTEL CORE I3 10105 COMETLAKE",
     "categoria": "Computadoras",
-    "precio": 789
+    "precio": 751
   },
   {
     "proveedor": "air",
     "producto": "PC AIR INTEL CORE I3 10105F COMETLAKE",
     "categoria": "Computadoras",
-    "precio": 1000
+    "precio": 968
   },
   {
     "proveedor": "air",
     "producto": "PC AIR INTEL CORE I3 12100  ALDERLAKE",
     "categoria": "Computadoras",
-    "precio": 879
+    "precio": 848
   },
   {
     "proveedor": "air",
     "producto": "PC AIR INTEL CORE I3 12100F  ALDERLAKE",
     "categoria": "Computadoras",
-    "precio": 1084
+    "precio": 1060
   },
   {
     "proveedor": "air",
     "producto": "PC AIR INTEL CORE I5 10400 COMETLAKE",
     "categoria": "Computadoras",
-    "precio": 943
+    "precio": 864
   },
   {
     "proveedor": "air",
     "producto": "PC AIR INTEL CORE I5 12600K  ALDERLAKE",
     "categoria": "Computadoras",
-    "precio": 2077
+    "precio": 2021
   },
   {
     "proveedor": "air",
     "producto": "PC AIR INTEL CORE I7 10700 COMETLAKE",
     "categoria": "Computadoras",
-    "precio": 1700
+    "precio": 1228
   },
   {
     "proveedor": "air",
     "producto": "PC AIR INTEL CORE I7 10700K COMETLAKE",
     "categoria": "Computadoras",
-    "precio": 2342
+    "precio": 1913
   },
   {
     "proveedor": "air",
     "producto": "PC AIR INTEL CORE I7 10700KF COMETLAKE",
     "categoria": "Computadoras",
-    "precio": 2507
+    "precio": 2084
   },
   {
     "proveedor": "air",
     "producto": "PC AIR INTEL CORE I7 11700K  ROCKETLAKE",
     "categoria": "Computadoras",
-    "precio": 2921
+    "precio": 2492
   },
   {
     "proveedor": "air",
     "producto": "PC AIR INTEL CORE I7 11700KF  ROCKETLAKE",
     "categoria": "Computadoras",
-    "precio": 2711
+    "precio": 2273
   },
   {
     "proveedor": "air",
     "producto": "PC CX AMD RYZEN 5 5600G+8G+SSD240G (ECS)",
     "categoria": "Computadoras",
-    "precio": 1305
+    "precio": 1150
   },
   {
     "proveedor": "air",
     "producto": "PC CX AMD RYZEN 5 5600G+8G+SSD480 (ECS)",
     "categoria": "Computadoras",
-    "precio": 1337
+    "precio": 1182
   },
   {
     "proveedor": "air",
     "producto": "PC CX AMD RYZEN 7 5700G+8G+SSD480G (ECS)",
     "categoria": "Computadoras",
-    "precio": 1574
+    "precio": 1366
   },
   {
     "proveedor": "air",
     "producto": "PC CX INTEL G5905+4G+SSD240G (ASUS)",
     "categoria": "Computadoras",
-    "precio": 799
+    "precio": 727
   },
   {
     "proveedor": "air",
     "producto": "PC CX INTEL G5905+4G+SSD240G (MSI)",
     "categoria": "Computadoras",
-    "precio": 689
+    "precio": 678
   },
   {
     "proveedor": "air",
     "producto": "PC CX INTEL G5925+8G+SSD240 (ASUS)",
     "categoria": "Computadoras",
-    "precio": 867
+    "precio": 793
   },
   {
     "proveedor": "air",
     "producto": "PC CX INTEL G5925+8G+SSD240 (MSI)",
     "categoria": "Computadoras",
-    "precio": 727
+    "precio": 714
   },
   {
     "proveedor": "air",
     "producto": "PC CX INTEL G6405+4G+SSD240G (ASUS)  ",
     "categoria": "Computadoras",
-    "precio": 889
+    "precio": 813
   },
   {
     "proveedor": "air",
     "producto": "PC CX INTEL G6405+4G+SSD240G (MSI)  ",
     "categoria": "Computadoras",
-    "precio": 807
+    "precio": 791
   },
   {
     "proveedor": "air",
     "producto": "PC CX INTEL G6405+4G+SSD240G  (MSI)  ",
     "categoria": "Computadoras",
-    "precio": 913
+    "precio": 814
+  },
+  {
+    "proveedor": "air",
+    "producto": "PC CX INTEL G6405+8G+SSD240G (ASUS)  ",
+    "categoria": "Computadoras",
+    "precio": 841
   },
   {
     "proveedor": "air",
     "producto": "PC CX INTEL G6405+8G+SSD240G (MSI)  ",
     "categoria": "Computadoras",
-    "precio": 779
+    "precio": 763
   },
   {
     "proveedor": "air",
     "producto": "PC CX INTEL I3 10105+4G+SSD240G (ASUS)",
     "categoria": "Computadoras",
-    "precio": 1050
+    "precio": 933
   },
   {
     "proveedor": "air",
     "producto": "PC CX INTEL I3 10105+4G+SSD240G (MSI)",
     "categoria": "Computadoras",
-    "precio": 1059
+    "precio": 913
   },
   {
     "proveedor": "air",
     "producto": "PC CX INTEL I3 10105+4G+SSD240G (MSI)",
     "categoria": "Computadoras",
-    "precio": 952
+    "precio": 893
   },
   {
     "proveedor": "air",
     "producto": "PC CX INTEL I3 10105+8G+SSD240G (ASUS)",
     "categoria": "Computadoras",
-    "precio": 1079
+    "precio": 962
   },
   {
     "proveedor": "air",
     "producto": "PC CX INTEL I3 10105+8G+SSD240G (MSI)",
     "categoria": "Computadoras",
-    "precio": 972
+    "precio": 913
   },
   {
     "proveedor": "air",
     "producto": "PC CX INTEL I3 10105+8G+SSD240G (MSI)",
     "categoria": "Computadoras",
-    "precio": 939
+    "precio": 884
   },
   {
     "proveedor": "air",
     "producto": "PC CX INTEL I3 10105+8G+SSD480 (ASUS)",
     "categoria": "Computadoras",
-    "precio": 1098
+    "precio": 988
   },
   {
     "proveedor": "air",
     "producto": "PC CX INTEL I3 10105+8G+SSD480 (MSI)",
     "categoria": "Computadoras",
-    "precio": 971
+    "precio": 915
   },
   {
     "proveedor": "air",
     "producto": "PC CX INTEL I5 10400+8G+SSD240 (ASUS)",
     "categoria": "Computadoras",
-    "precio": 1213
+    "precio": 1079
   },
   {
     "proveedor": "air",
     "producto": "PC CX INTEL I5 10400+8G+SSD240 (MSI)",
     "categoria": "Computadoras",
-    "precio": 1088
+    "precio": 1051
   },
   {
     "proveedor": "air",
     "producto": "PC CX INTEL I5 10400+8G+SSD480  (MSI)",
     "categoria": "Computadoras",
-    "precio": 1119
+    "precio": 1083
   },
   {
     "proveedor": "air",
     "producto": "PC CX INTEL I7 10700+8G+SSD240 (MSI)",
     "categoria": "Computadoras",
-    "precio": 1501
+    "precio": 1437
   },
   {
     "proveedor": "air",
     "producto": "PC CX INTEL I7 10700+8G+SSD480 (ASUS)",
     "categoria": "Computadoras",
-    "precio": 1674
+    "precio": 1555
   },
   {
     "proveedor": "air",
     "producto": "PC CX INTEL I7 10700+8G+SSD480 (MSI)",
     "categoria": "Computadoras",
-    "precio": 1533
+    "precio": 1468
   },
   {
     "proveedor": "air",
     "producto": "PC CX INTEL I7 10700+8G+SSD480 (MSI)",
     "categoria": "Computadoras",
-    "precio": 1674
-  },
-  {
-    "proveedor": "air",
-    "producto": "PC CX MINI VENUS INTEL I3+500G+4G",
-    "categoria": "Computadoras",
-    "precio": 901
+    "precio": 1526
   },
   {
     "proveedor": "air",
@@ -12573,55 +12597,55 @@
     "proveedor": "air",
     "producto": "PC GAMEMAX AMD 4700S+16G+SSD480G+VGA 2GB",
     "categoria": "Computadoras",
-    "precio": 1640
+    "precio": 1421
   },
   {
     "proveedor": "air",
     "producto": "PC GAMEMAX AMD RYZEN 5 5600G + TEC -MOUSE REGALO",
     "categoria": "Computadoras",
-    "precio": 1577
+    "precio": 1336
   },
   {
     "proveedor": "air",
     "producto": "PC GAMEMAX AMD RYZEN 5 5600G +TEC-MOUSE REGALO",
     "categoria": "Computadoras",
-    "precio": 1573
+    "precio": 1375
   },
   {
     "proveedor": "air",
     "producto": "PC GAMEMAX AMD RYZEN 5 5600G+16G+SD500+600W (GIGA)",
     "categoria": "Computadoras",
-    "precio": 1573
+    "precio": 1375
   },
   {
     "proveedor": "air",
     "producto": "PC GAMEMAX AMD RYZEN 5 5600G+16G+SSD500+600W",
     "categoria": "Computadoras",
-    "precio": 1577
+    "precio": 1336
   },
   {
     "proveedor": "air",
     "producto": "PC GAMEMAX AMD RYZEN 7 5700G + TEC-MOUSE REGALO",
     "categoria": "Computadoras",
-    "precio": 1830
+    "precio": 1516
   },
   {
     "proveedor": "air",
     "producto": "PC GAMEMAX AMD RYZEN 7 5700G+16G+SSD500+600W",
     "categoria": "Computadoras",
-    "precio": 1830
+    "precio": 1516
   },
   {
     "proveedor": "air",
     "producto": "PC GAMER PERFORMANCE AMD  4700S+16G+SSD480+VGA4G",
     "categoria": "Computadoras",
-    "precio": 2421
+    "precio": 1967
   },
   {
     "proveedor": "air",
     "producto": "PC GAMER PERFORMANCE AMD R7 5700G+16G+SSD512+600W",
     "categoria": "Computadoras",
-    "precio": 1686
+    "precio": 1415
   },
   {
     "proveedor": "air",
@@ -12645,19 +12669,19 @@
     "proveedor": "air",
     "producto": "PC MINI CX MOON INTEL I5 10400+8G+SSD240 WIFI (MSI",
     "categoria": "Computadoras",
-    "precio": 1504
+    "precio": 1348
   },
   {
     "proveedor": "air",
     "producto": "PC MINI CX MOON INTEL I7 10700+8G+SSD240 WIFI (MSI",
     "categoria": "Computadoras",
-    "precio": 1931
+    "precio": 1784
   },
   {
     "proveedor": "air",
     "producto": "PC MINI CX MOON INTEL I7 11700+16G+SSD500 WIF W11P",
     "categoria": "Computadoras",
-    "precio": 2950
+    "precio": 2828
   },
   {
     "proveedor": "air",
@@ -12669,19 +12693,19 @@
     "proveedor": "air",
     "producto": "PC PERFORMANCE AMD RYZEN 3 3200G+8G+SSD240G (GIGA)",
     "categoria": "Computadoras",
-    "precio": 815
+    "precio": 762
   },
   {
     "proveedor": "air",
     "producto": "PC PERFORMANCE AMD RYZEN 5 3600+8G+1T+WF+WC+VGA1G",
     "categoria": "Computadoras",
-    "precio": 1319
+    "precio": 1304
   },
   {
     "proveedor": "air",
     "producto": "PC PERFORMANCE AMD RYZEN 5 5600G+8G+SSD240G (MSI)",
     "categoria": "Computadoras",
-    "precio": 1196
+    "precio": 992
   },
   {
     "proveedor": "air",
@@ -12693,73 +12717,73 @@
     "proveedor": "air",
     "producto": "PC PERFORMANCE AMD RYZEN 7 3700X+8G+SSD240+VGA2G",
     "categoria": "Computadoras",
-    "precio": 2030
+    "precio": 2026
   },
   {
     "proveedor": "air",
     "producto": "PC PERFORMANCE AMD RYZEN 7 4750G+8G+SSD480 (ECS)",
     "categoria": "Computadoras",
-    "precio": 1476
+    "precio": 1437
   },
   {
     "proveedor": "air",
     "producto": "PC PERFORMANCE AMD RYZEN 7 5700G+8G+SSD240G (MSI)",
     "categoria": "Computadoras",
-    "precio": 1449
+    "precio": 1173
   },
   {
     "proveedor": "air",
     "producto": "PC PERFORMANCE INTEL G6405+4G+SSD240 (MSI)",
     "categoria": "Computadoras",
-    "precio": 739
+    "precio": 723
   },
   {
     "proveedor": "air",
     "producto": "PC PERFORMANCE INTEL G6405+4G+SSD240G (MSI)",
     "categoria": "Computadoras",
-    "precio": 783
+    "precio": 775
   },
   {
     "proveedor": "air",
     "producto": "PC PERFORMANCE INTEL I3 10105+8G+SSD240 (MSI)",
     "categoria": "Computadoras",
-    "precio": 899
+    "precio": 849
   },
   {
     "proveedor": "air",
     "producto": "PC PERFORMANCE INTEL I5 10400+8G+SSD240 (MSI)",
     "categoria": "Computadoras",
-    "precio": 1107
+    "precio": 1041
   },
   {
     "proveedor": "air",
     "producto": "PC PERFORMANCE INTEL I5 10400+8G+SSD240 (MSI)",
     "categoria": "Computadoras",
-    "precio": 1063
+    "precio": 990
   },
   {
     "proveedor": "air",
     "producto": "PC PERFORMANCE INTEL I5 12400+16G+SSD480 (MSI)",
     "categoria": "Computadoras",
-    "precio": 1471
+    "precio": 1423
   },
   {
     "proveedor": "air",
     "producto": "PC PERFORMANCE INTEL I7 10700+8G+SSD240 (MSI)",
     "categoria": "Computadoras",
-    "precio": 1534
+    "precio": 1477
   },
   {
     "proveedor": "air",
     "producto": "PEN DRIVE 128GB HIKVISION 3.2 M210P",
     "categoria": "Almacenamiento Portatil",
-    "precio": 27
+    "precio": 25
   },
   {
     "proveedor": "air",
     "producto": "PEN DRIVE 32GB HIKVISION 3.2 M210P",
     "categoria": "Almacenamiento Portatil",
-    "precio": 11
+    "precio": 10
   },
   {
     "proveedor": "air",
@@ -12771,7 +12795,7 @@
     "proveedor": "air",
     "producto": "PEN DRIVE 64GB HIKVISION 3.2 M210P",
     "categoria": "Almacenamiento Portatil",
-    "precio": 13
+    "precio": 12
   },
   {
     "proveedor": "air",
@@ -12943,12 +12967,6 @@
   },
   {
     "proveedor": "air",
-    "producto": "PLOTTER EPSON SURECOLOR T3170 61CM WIFI ETHERNET",
-    "categoria": "Impresoras e Insumos",
-    "precio": 1551
-  },
-  {
-    "proveedor": "air",
     "producto": "PLOTTER EPSON SURECOLOR T3170M MULTIFUNCION 61CM",
     "categoria": "Impresoras e Insumos",
     "precio": 3297
@@ -13117,15 +13135,51 @@
   },
   {
     "proveedor": "air",
+    "producto": "RACK 19 GLC 30U-600 Desarmado\"",
+    "categoria": "Cables y Adaptadores",
+    "precio": 1211
+  },
+  {
+    "proveedor": "air",
     "producto": "RACK 19 GLC 30U-800 Desarmado\"",
     "categoria": "Cables y Adaptadores",
     "precio": 1354
   },
   {
     "proveedor": "air",
+    "producto": "RACK 19 GLC 40U-800 Desarmado\"",
+    "categoria": "Cables y Adaptadores",
+    "precio": 1674
+  },
+  {
+    "proveedor": "air",
+    "producto": "RACK 19 GLC 45U-1000 SERVER Desarmado\"",
+    "categoria": "Cables y Adaptadores",
+    "precio": 2194
+  },
+  {
+    "proveedor": "air",
     "producto": "RACK 19 GLC 45U-800 Desarmado\"",
     "categoria": "Cables y Adaptadores",
     "precio": 1798
+  },
+  {
+    "proveedor": "air",
+    "producto": "RACK 19` GLC 20U-600 Desarmado",
+    "categoria": "Cables y Adaptadores",
+    "precio": 957
+  },
+  {
+    "proveedor": "air",
+    "producto": "RACK 19` GLC 20U-800 Desarmado",
+    "categoria": "Cables y Adaptadores",
+    "precio": 1072
+  },
+  {
+    "proveedor": "air",
+    "producto": "RACK 19` GLC 40U-600 Desarmado",
+    "categoria": "Cables y Adaptadores",
+    "precio": 1436
   },
   {
     "proveedor": "air",
@@ -13317,7 +13371,7 @@
     "proveedor": "air",
     "producto": "ROTULADORA BROTHER PT-P750W (MAX 24MM) WIFI+2 CINT",
     "categoria": "Impresoras e Insumos",
-    "precio": 532
+    "precio": 520
   },
   {
     "proveedor": "air",
@@ -13329,13 +13383,13 @@
     "proveedor": "air",
     "producto": "ROTULADORA BROTHER PT-P900W (MAX 36MM) WIFI+2 CINT",
     "categoria": "Impresoras e Insumos",
-    "precio": 930
+    "precio": 918
   },
   {
     "proveedor": "air",
     "producto": "ROTULADORA BROTHER PT-P950NW (MAX36MM) W R + 2 CIN",
     "categoria": "Impresoras e Insumos",
-    "precio": 1307
+    "precio": 1295
   },
   {
     "proveedor": "air",
@@ -13515,7 +13569,7 @@
     "proveedor": "air",
     "producto": "SCANNER KODAK ALARIS E1040 40 PPM ADF 80 DUPLEX",
     "categoria": "Impresoras e Insumos",
-    "precio": 1801
+    "precio": 1784
   },
   {
     "proveedor": "air",
@@ -13862,7 +13916,7 @@
   {
     "proveedor": "air",
     "producto": "SIST DE CONTROL DE ACCESO GRANDING HUELLA+ID",
-    "categoria": "No existe una categoría para este producto",
+    "categoria": "Varios",
     "precio": 274
   },
   {
@@ -13898,12 +13952,6 @@
   {
     "proveedor": "air",
     "producto": "SMART WATCH KIESLECT KR CALLING NEGRO",
-    "categoria": "Smartwatch",
-    "precio": 107
-  },
-  {
-    "proveedor": "air",
-    "producto": "SMART WATCH KIESLECT KR CALLING ROSA PINK",
     "categoria": "Smartwatch",
     "precio": 107
   },
@@ -13957,12 +14005,6 @@
   },
   {
     "proveedor": "air",
-    "producto": "SMART WATCH KIESLECT LADY WATCH L11 ROSA",
-    "categoria": "Smartwatch",
-    "precio": 88
-  },
-  {
-    "proveedor": "air",
     "producto": "SMART WATCH PHONE IMOO Z6 4G DUAL CAM KIDS VERDE",
     "categoria": "Smartwatch",
     "precio": 381
@@ -13983,25 +14025,25 @@
     "proveedor": "air",
     "producto": "SMART WATCH SAMSUNG WATCH 4 46MM GRAPHITE",
     "categoria": "Smartwatch",
-    "precio": 720
+    "precio": 524
   },
   {
     "proveedor": "air",
     "producto": "SMART WATCH SAMSUNG WATCH 5 40MM GRAPHITE",
     "categoria": "Smartwatch",
-    "precio": 580
+    "precio": 447
   },
   {
     "proveedor": "air",
     "producto": "SMART WATCH SAMSUNG WATCH 5 44MM SAPPHIRE",
     "categoria": "Smartwatch",
-    "precio": 580
+    "precio": 447
   },
   {
     "proveedor": "air",
     "producto": "SMART WATCH SAMSUNG WATCH 5 45MM PRO BLACK",
     "categoria": "Smartwatch",
-    "precio": 933
+    "precio": 719
   },
   {
     "proveedor": "air",
@@ -14025,7 +14067,13 @@
     "proveedor": "air",
     "producto": "SMART WATCH XIAOMI AMAZFIT T-REX PRO BLACK",
     "categoria": "Smartwatch",
-    "precio": 407
+    "precio": 366
+  },
+  {
+    "proveedor": "air",
+    "producto": "SMART WATCH XIAOMI MI BAND 6 RELOJ  SPORT BLACK",
+    "categoria": "Smartwatch",
+    "precio": 109
   },
   {
     "proveedor": "air",
@@ -14097,13 +14145,13 @@
     "proveedor": "air",
     "producto": "SODIMM DDR4 16GB HIKVISION 3200MHZ SINGLE TRAY",
     "categoria": "Memorias RAM",
-    "precio": 104
+    "precio": 95
   },
   {
     "proveedor": "air",
     "producto": "SODIMM DDR4 16GB KINGSTON 3200 CL19 KCP",
     "categoria": "Memorias RAM",
-    "precio": 179
+    "precio": 164
   },
   {
     "proveedor": "air",
@@ -14127,7 +14175,7 @@
     "proveedor": "air",
     "producto": "SODIMM DDR4 4GB HIKVISION 2666MHZ SINGLE TRAY",
     "categoria": "Memorias RAM",
-    "precio": 47
+    "precio": 45
   },
   {
     "proveedor": "air",
@@ -14151,13 +14199,13 @@
     "proveedor": "air",
     "producto": "SODIMM DDR4 8GB HIKVISION 3200MHZ CL22 SINGLE TRAY",
     "categoria": "Memorias RAM",
-    "precio": 56
+    "precio": 51
   },
   {
     "proveedor": "air",
     "producto": "SODIMM DDR4 8GB KINGSTON 3200 CL19 KCP (16GBITS)",
     "categoria": "Memorias RAM",
-    "precio": 87
+    "precio": 80
   },
   {
     "proveedor": "air",
@@ -14169,7 +14217,7 @@
     "proveedor": "air",
     "producto": "SODIMM DDR5 16GB HIKVISION 5600MHZ",
     "categoria": "Memorias RAM",
-    "precio": 195
+    "precio": 178
   },
   {
     "proveedor": "air",
@@ -14181,19 +14229,19 @@
     "proveedor": "air",
     "producto": "SODIMM DDR5 32GB HIKVISION 5600MHZ",
     "categoria": "Memorias RAM",
-    "precio": 356
+    "precio": 326
   },
   {
     "proveedor": "air",
     "producto": "SODIMM DDR5 8GB ADATA 5600MHZ",
     "categoria": "Memorias RAM",
-    "precio": 113
+    "precio": 103
   },
   {
     "proveedor": "air",
     "producto": "SODIMM DDR5 8GB HIKVISION 5600MHZ",
     "categoria": "Memorias RAM",
-    "precio": 105
+    "precio": 96
   },
   {
     "proveedor": "air",
@@ -14295,13 +14343,13 @@
     "proveedor": "air",
     "producto": "SOPORTE TV/MON EXTENSIBLE PARED INTELAID 23-55\"\"",
     "categoria": "Accesorios",
-    "precio": 94
+    "precio": 73
   },
   {
     "proveedor": "air",
-    "producto": "SOPORTE TV/MON EXTENSIBLE PARED INTELAID 23-55\"\"",
+    "producto": "SOPORTE TV/MON EXTENSIBLE PARED INTELAID 23`-55`",
     "categoria": "Accesorios",
-    "precio": 73
+    "precio": 94
   },
   {
     "proveedor": "air",
@@ -14403,7 +14451,7 @@
     "proveedor": "air",
     "producto": "SSD 240GB HIKVISION C100 BLISTER",
     "categoria": "Discos",
-    "precio": 49
+    "precio": 44
   },
   {
     "proveedor": "air",
@@ -14415,7 +14463,7 @@
     "proveedor": "air",
     "producto": "SSD 240GB KINGSTON A400 SATAIII 2.5",
     "categoria": "Discos",
-    "precio": 77
+    "precio": 69
   },
   {
     "proveedor": "air",
@@ -14427,7 +14475,7 @@
     "proveedor": "air",
     "producto": "SSD 240GB WESTERN DIGITAL GREEN 2.5 SATA 545MB/S",
     "categoria": "Discos",
-    "precio": 68
+    "precio": 51
   },
   {
     "proveedor": "air",
@@ -14437,7 +14485,13 @@
   },
   {
     "proveedor": "air",
-    "producto": "SSD 480GB DELL SSD SATA MIX 12GBPS 512N 3.5 HPLUG",
+    "producto": "SSD 480GB DELL SATA  RI 6GBPS 512N 3.5 HOT PLU",
+    "categoria": "Discos",
+    "precio": 947
+  },
+  {
+    "proveedor": "air",
+    "producto": "SSD 480GB DELL SATA MIX 12GBPS 512N 3.5 HPLUG",
     "categoria": "Discos",
     "precio": 3313
   },
@@ -14451,7 +14505,7 @@
     "proveedor": "air",
     "producto": "SSD 480GB HIKVISION C100 BLISTER",
     "categoria": "Discos",
-    "precio": 80
+    "precio": 73
   },
   {
     "proveedor": "air",
@@ -14463,13 +14517,13 @@
     "proveedor": "air",
     "producto": "SSD 480GB KINGSTON A400 SATAIII 2.5",
     "categoria": "Discos",
-    "precio": 109
+    "precio": 100
   },
   {
     "proveedor": "air",
     "producto": "SSD 480GB WESTERN DIGITAL GREEN 2.5 545MB/S",
     "categoria": "Discos",
-    "precio": 114
+    "precio": 87
   },
   {
     "proveedor": "air",
@@ -14480,14 +14534,14 @@
   {
     "proveedor": "air",
     "producto": "SSD 960GB DELL SATA RI 6GBPS 512N 3.5 HPLUG",
-    "categoria": "No existe una categoría para este producto",
+    "categoria": "Varios",
     "precio": 1109
   },
   {
     "proveedor": "air",
     "producto": "SSD 960GB HIKVISION C100 BLISTER",
     "categoria": "Discos",
-    "precio": 139
+    "precio": 127
   },
   {
     "proveedor": "air",
@@ -14503,12 +14557,6 @@
   },
   {
     "proveedor": "air",
-    "producto": "SSD 960GB HPE SATA MU LFF LPC DS SSD CAJA ABIERTA",
-    "categoria": "Discos",
-    "precio": 1527
-  },
-  {
-    "proveedor": "air",
     "producto": "SSD 960GB HPE SATA MU SFF MV",
     "categoria": "Discos",
     "precio": 1493
@@ -14517,25 +14565,25 @@
     "proveedor": "air",
     "producto": "SSD 960GB KINGSTON A400 SATAIII 2.5",
     "categoria": "Discos",
-    "precio": 222
+    "precio": 203
   },
   {
     "proveedor": "air",
     "producto": "SSD M.2 240GB WESTERN DIGITAL GREEN 545MB/S",
     "categoria": "Discos",
-    "precio": 67
+    "precio": 54
   },
   {
     "proveedor": "air",
     "producto": "SSD M.2 NVME 128GB GIGABYTE BOX",
     "categoria": "Discos",
-    "precio": 59
+    "precio": 56
   },
   {
     "proveedor": "air",
     "producto": "SSD M.2 NVME 128GB GIGABYTE BOX (L)",
     "categoria": "Discos",
-    "precio": 59
+    "precio": 56
   },
   {
     "proveedor": "air",
@@ -14559,13 +14607,13 @@
     "proveedor": "air",
     "producto": "SSD M.2 NVME 1TB HIKVISION DESIRE P",
     "categoria": "Discos",
-    "precio": 155
+    "precio": 146
   },
   {
     "proveedor": "air",
     "producto": "SSD M.2 NVME 1TB HIKVISION E1000",
     "categoria": "Discos",
-    "precio": 151
+    "precio": 142
   },
   {
     "proveedor": "air",
@@ -14577,55 +14625,55 @@
     "proveedor": "air",
     "producto": "SSD M.2 NVME 1TB WESTERN DIGITAL BLACK SN 770",
     "categoria": "Discos",
-    "precio": 301
+    "precio": 226
   },
   {
     "proveedor": "air",
     "producto": "SSD M.2 NVME 1TB WESTERN DIGITAL BLUE SN 570",
     "categoria": "Discos",
-    "precio": 254
+    "precio": 186
   },
   {
     "proveedor": "air",
     "producto": "SSD M.2 NVME 240GB WESTERN DIGITAL GREEN SN350",
     "categoria": "Discos",
-    "precio": 82
+    "precio": 65
   },
   {
     "proveedor": "air",
     "producto": "SSD M.2 NVME 480GB KINGSTON DC1000B",
     "categoria": "Discos",
-    "precio": 412
+    "precio": 359
   },
   {
     "proveedor": "air",
     "producto": "SSD M.2 NVME 480GB WESTERN DIGITAL GREEN SN350",
     "categoria": "Discos",
-    "precio": 117
+    "precio": 89
   },
   {
     "proveedor": "air",
     "producto": "SSD M.2 NVME 500GB WESTERN DIGITAL BLACK SN 770",
     "categoria": "Discos",
-    "precio": 190
+    "precio": 143
   },
   {
     "proveedor": "air",
     "producto": "SSD M.2 NVME 500GB WESTERN DIGITAL BLACK SN750SE",
     "categoria": "Discos",
-    "precio": 193
+    "precio": 156
   },
   {
     "proveedor": "air",
     "producto": "SSD M.2 NVME 500GB WESTERN DIGITAL BLACK SN850",
     "categoria": "Discos",
-    "precio": 314
+    "precio": 253
   },
   {
     "proveedor": "air",
     "producto": "SSD M.2 NVME 500GB WESTERN DIGITAL BLUE SN 570",
     "categoria": "Discos",
-    "precio": 147
+    "precio": 104
   },
   {
     "proveedor": "air",
@@ -14637,13 +14685,13 @@
     "proveedor": "air",
     "producto": "SSD M.2 NVME 512GB HIKVISION DESIRE P",
     "categoria": "Discos",
-    "precio": 90
+    "precio": 85
   },
   {
     "proveedor": "air",
     "producto": "SSD M.2 NVME 960GB KINGSTON DC1000B",
     "categoria": "Discos",
-    "precio": 751
+    "precio": 652
   },
   {
     "proveedor": "air",
@@ -14690,7 +14738,7 @@
   {
     "proveedor": "air",
     "producto": "STRETCH FILM CRISTAL",
-    "categoria": "No existe una categoría para este producto",
+    "categoria": "Varios",
     "precio": 1
   },
   {
@@ -14908,12 +14956,6 @@
     "producto": "TEC+MOUSE  LOGITECH MK200  INGLES BLACK ( I )",
     "categoria": "Mouses",
     "precio": 77
-  },
-  {
-    "proveedor": "air",
-    "producto": "TEC+MOUSE LOGITECH MK345 ING BLACK ( I )",
-    "categoria": "Mouses",
-    "precio": 110
   },
   {
     "proveedor": "air",
@@ -15517,12 +15559,6 @@
   },
   {
     "proveedor": "air",
-    "producto": "TRANSCEIVER HPE X130 SFP+ LC SR (L)",
-    "categoria": "Accesorios",
-    "precio": 1019
-  },
-  {
-    "proveedor": "air",
     "producto": "TRANSCEIVER IBM SFP SW 8GB",
     "categoria": "Conectividad",
     "precio": 101
@@ -15595,12 +15631,6 @@
   },
   {
     "proveedor": "air",
-    "producto": "TV 40 SMART TCL ANDROID TV-ME L40S66E",
-    "categoria": "Electro",
-    "precio": 375
-  },
-  {
-    "proveedor": "air",
     "producto": "TV 40 SMART TCL ANDROID TV-RV L40S66E",
     "categoria": "Electro",
     "precio": 376
@@ -15651,7 +15681,7 @@
     "proveedor": "air",
     "producto": "TV 50 SMART SAMSUNG 4K UHD UN50AU7000G",
     "categoria": "Electro",
-    "precio": 771
+    "precio": 714
   },
   {
     "proveedor": "air",
@@ -15670,12 +15700,6 @@
     "producto": "TV 55 QLED SMART SAMSUNG 4K QN55Q60A",
     "categoria": "Electro",
     "precio": 1155
-  },
-  {
-    "proveedor": "air",
-    "producto": "TV 55 SMART MOTOROLA 4K UHD ANDROID G22",
-    "categoria": "Electro",
-    "precio": 682
   },
   {
     "proveedor": "air",
@@ -15717,7 +15741,7 @@
     "proveedor": "air",
     "producto": "TV 65 SMART RCA  4K GOOGLE TV G65P8UHD",
     "categoria": "Electro",
-    "precio": 1021
+    "precio": 945
   },
   {
     "proveedor": "air",
@@ -15963,7 +15987,7 @@
     "proveedor": "air",
     "producto": "UPS APC ONLINE EASY SRV 6000VA/230V R-EXP (4CAJAS)",
     "categoria": "Electro",
-    "precio": 5170
+    "precio": 6729
   },
   {
     "proveedor": "air",
@@ -16058,25 +16082,25 @@
   {
     "proveedor": "air",
     "producto": "UVC DARPAS GERMICIDA ULTRAVIOLETA",
-    "categoria": "No existe una categoría para este producto",
+    "categoria": "Varios",
     "precio": 5325
   },
   {
     "proveedor": "air",
     "producto": "UVC DUAL  FILTRO DE AIRE+UV GERMICIDA ULTRAVIOLETA",
-    "categoria": "No existe una categoría para este producto",
+    "categoria": "Varios",
     "precio": 493
   },
   {
     "proveedor": "air",
     "producto": "UVC FLOW  FILTRO DE AIRE GERMICIDA ULTRAVIOLETA IN",
-    "categoria": "No existe una categoría para este producto",
+    "categoria": "Varios",
     "precio": 692
   },
   {
     "proveedor": "air",
     "producto": "UVC FLOW  FILTRO DE AIRE GERMICIDA ULTRAVIOLETA WH",
-    "categoria": "No existe una categoría para este producto",
+    "categoria": "Varios",
     "precio": 792
   },
   {
@@ -16132,12 +16156,6 @@
     "producto": "VERTICALEFACTOR INFRARROJO LILIANA 1200W",
     "categoria": "Electro",
     "precio": 46
-  },
-  {
-    "proveedor": "air",
-    "producto": "VGA (R) 128MB PCI-E MSI RX300 TD128E",
-    "categoria": "Accesorios",
-    "precio": 82
   },
   {
     "proveedor": "air",
@@ -16311,7 +16329,7 @@
     "proveedor": "air",
     "producto": "VGA 8GB RTX 3060 ZOTAC TWIN EDGE",
     "categoria": "Placas de video",
-    "precio": 1227
+    "precio": 1087
   },
   {
     "proveedor": "air",
@@ -16323,13 +16341,13 @@
     "proveedor": "air",
     "producto": "VGA 8GB RTX 3070 TI ASUS ROG STRIX O8G",
     "categoria": "Placas de video",
-    "precio": 2465
+    "precio": 2527
   },
   {
     "proveedor": "air",
     "producto": "VGA 8GB RTX 3070 TI GAINWARD PHOENIX 8GB",
     "categoria": "Placas de video",
-    "precio": 2663
+    "precio": 2422
   },
   {
     "proveedor": "air",
@@ -16347,13 +16365,13 @@
     "proveedor": "air",
     "producto": "VGA 8GB RTX 3070 TI IGAME ULTRA WHITE OC 8G",
     "categoria": "Placas de video",
-    "precio": 2885
+    "precio": 2381
   },
   {
     "proveedor": "air",
     "producto": "VGA 8GB RTX 3070 TI ZOTAC TRINITY (I)",
     "categoria": "Placas de video",
-    "precio": 3076
+    "precio": 2551
   },
   {
     "proveedor": "air",
@@ -16467,7 +16485,7 @@
     "proveedor": "air",
     "producto": "WIN 11 PRO 64B COEM 1PK SPANISH FISICO (S/DVD)",
     "categoria": "Accesorios",
-    "precio": 617
+    "precio": 602
   },
   {
     "proveedor": "air",

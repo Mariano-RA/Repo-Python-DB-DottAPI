@@ -1,6 +1,18 @@
 [
   {
     "proveedor": "eikon",
+    "producto": "BATERIA INTERNA P/UPS 12V - 7AH LYONN",
+    "categoria": "Accesorios",
+    "precio": 36
+  },
+  {
+    "proveedor": "eikon",
+    "producto": "BATERIA INTERNA P/UPS 12V - 9AH LYONN",
+    "categoria": "Accesorios",
+    "precio": 45
+  },
+  {
+    "proveedor": "eikon",
     "producto": "CABLE CONECTOR PUERTO PARALELO /  LPT",
     "categoria": "Cables y Adaptadores",
     "precio": 3
@@ -451,6 +463,12 @@
   },
   {
     "proveedor": "eikon",
+    "producto": "COOLER MASTER HYDRA 8800",
+    "categoria": "Accesorios",
+    "precio": 102
+  },
+  {
+    "proveedor": "eikon",
     "producto": "CPU AMD RYZEN 3 3200G  SOCKET AM4 (BOX) ",
     "categoria": "Procesadores",
     "precio": 233
@@ -523,12 +541,6 @@
   },
   {
     "proveedor": "eikon",
-    "producto": "CPU INTEL CORE I9-12900 S1700",
-    "categoria": "Procesadores",
-    "precio": 1186
-  },
-  {
-    "proveedor": "eikon",
     "producto": "CPU INTEL PENTIUM DC G4400 3.3 GHZ S1151 (TRAY+COOLER)",
     "categoria": "Procesadores",
     "precio": 88
@@ -543,7 +555,7 @@
     "proveedor": "eikon",
     "producto": "CPU INTEL PENTIUM GOLD G7400 S1700",
     "categoria": "Procesadores",
-    "precio": 181
+    "precio": 188
   },
   {
     "proveedor": "eikon",
@@ -739,21 +751,9 @@
   },
   {
     "proveedor": "eikon",
-    "producto": "DISCO RIGIDO 1 TB SATA III PURPLE WD",
-    "categoria": "Discos",
-    "precio": 111
-  },
-  {
-    "proveedor": "eikon",
     "producto": "DISCO RIGIDO 1 TB SATA III WESTERN DIGITAL BLUE",
     "categoria": "Discos",
     "precio": 85
-  },
-  {
-    "proveedor": "eikon",
-    "producto": "DISCO RIGIDO 2 TB SATA III 256MB BARRACUDA SEAGATE",
-    "categoria": "Discos",
-    "precio": 103
   },
   {
     "proveedor": "eikon",
@@ -784,12 +784,6 @@
     "producto": "DISCO SSD 120GB SATA III 2.5\" ADATA SU650",
     "categoria": "Discos",
     "precio": 29
-  },
-  {
-    "proveedor": "eikon",
-    "producto": "DISCO SSD 1TB M.2 NVME PNY CS1031",
-    "categoria": "Discos",
-    "precio": 109
   },
   {
     "proveedor": "eikon",
@@ -1214,7 +1208,7 @@
   {
     "proveedor": "eikon",
     "producto": "LECTOR CODIGO DE BARRAS USB 1D NETMAK NM-LC401",
-    "categoria": "No existe una categor�a para este producto",
+    "categoria": "Varios",
     "precio": 49
   },
   {
@@ -1228,12 +1222,6 @@
     "producto": "LENOVO GAMING I5-11300H/8GB/512GB SSD/15.6\" FHD/GTX 1650 4GB/W11 BLACK",
     "categoria": "Notebooks",
     "precio": 2066
-  },
-  {
-    "proveedor": "eikon",
-    "producto": "LENOVO V15 G2 I5-1135G7/8GB/512GB SSD/15.6\" FHD/ W11/ ESPAÑOL",
-    "categoria": "Notebooks",
-    "precio": 1337
   },
   {
     "proveedor": "eikon",
@@ -1264,12 +1252,6 @@
     "producto": "LENOVO V15 G2 RYZEN 7 5825U/16GB/512GB SSD/15.6\" FHD/FREEDOS/ESPAÑOL",
     "categoria": "Notebooks",
     "precio": 1563
-  },
-  {
-    "proveedor": "eikon",
-    "producto": "LENOVO V15 I3-1115G4/4GB/256GB SSD /15.6\" FHD/FREEDOS (MALETIN)",
-    "categoria": "Notebooks",
-    "precio": 960
   },
   {
     "proveedor": "eikon",
@@ -1311,19 +1293,19 @@
     "proveedor": "eikon",
     "producto": "MERCUSYS WI-FI ROUTER 300 MW305R /3 ANTENAS",
     "categoria": "Conectividad",
-    "precio": 38
+    "precio": 43
   },
   {
     "proveedor": "eikon",
     "producto": "MERCUSYS WI-FI ROUTER 300 MW325R /4 ANTENAS",
     "categoria": "Conectividad",
-    "precio": 42
+    "precio": 49
   },
   {
     "proveedor": "eikon",
     "producto": "MERCUSYS WI-FI ROUTER MULTI-MODE 300 MW302R /2 ANTENAS",
     "categoria": "Conectividad",
-    "precio": 33
+    "precio": 37
   },
   {
     "proveedor": "eikon",
@@ -1336,6 +1318,12 @@
     "producto": "MONITOR CRT 15\" OLIVETTI MOD:556CA OUTLET",
     "categoria": "Monitores",
     "precio": 47
+  },
+  {
+    "proveedor": "eikon",
+    "producto": "MONITOR LED 19 E-VIEW 1851AXA VGA/HDMI (1366X768)",
+    "categoria": "Monitores",
+    "precio": 159
   },
   {
     "proveedor": "eikon",
@@ -1354,12 +1342,6 @@
     "producto": "MONITOR LED 27 E-VIEW 271AXA VGA/HDMI (1920x1080)",
     "categoria": "Monitores",
     "precio": 273
-  },
-  {
-    "proveedor": "eikon",
-    "producto": "MOTHER ASROCK B560M-HDV R3.0 1200 H/D/V ",
-    "categoria": "Motherboards",
-    "precio": 184
   },
   {
     "proveedor": "eikon",
@@ -1525,12 +1507,6 @@
   },
   {
     "proveedor": "eikon",
-    "producto": "NETMAK CABLE HDMI M/M V1.4 5M NM-C47 5",
-    "categoria": "Cables y Adaptadores",
-    "precio": 10
-  },
-  {
-    "proveedor": "eikon",
     "producto": "NETMAK CABLE USB A MICRO USB 1.5M NM-C70",
     "categoria": "Cables y Adaptadores",
     "precio": 3
@@ -1681,12 +1657,6 @@
   },
   {
     "proveedor": "eikon",
-    "producto": "NETMAK ENCLOSURE 2.5\" SATA USB 2.0 NM-CARRY2",
-    "categoria": "Accesorios",
-    "precio": 15
-  },
-  {
-    "proveedor": "eikon",
     "producto": "NETMAK ENCLOSURE SSD M.2 SATA USB 3.1 NM-CARRY5",
     "categoria": "Accesorios",
     "precio": 35
@@ -1702,12 +1672,6 @@
     "producto": "NETMAK FUENTE NOTEBOOK AUTOMATICA 90W NM-1287",
     "categoria": "Accesorios",
     "precio": 53
-  },
-  {
-    "proveedor": "eikon",
-    "producto": "NETMAK FUNDA NOTEBOOK NEOPRENNE 15.6\" NEGRO C/CIERRE  NM-FN15",
-    "categoria": "Soportes",
-    "precio": 21
   },
   {
     "proveedor": "eikon",
@@ -2029,12 +1993,6 @@
   },
   {
     "proveedor": "eikon",
-    "producto": "PLACA MSI GEFORCE GT730 2GB DDR3  ",
-    "categoria": "Placas de video",
-    "precio": 166
-  },
-  {
-    "proveedor": "eikon",
     "producto": "PLACA MSI GEFORCE GTX 1630 AERO ITX 4GB OC",
     "categoria": "Placas de video",
     "precio": 459
@@ -2152,6 +2110,18 @@
     "producto": "SBNT CABLE FIREWIRE 6 FEET SBT-CF64",
     "categoria": "Cables y Adaptadores",
     "precio": 0
+  },
+  {
+    "proveedor": "eikon",
+    "producto": "SIS LEN V15 G2 I5-1135G7/8GB/512GB SSD/15.6\" FHD/ W11/ ESPAÑOL",
+    "categoria": "Notebooks",
+    "precio": 1337
+  },
+  {
+    "proveedor": "eikon",
+    "producto": "SIS LEN V15 I3-1115G4/4GB/256GB SSD /15.6\" FHD/FREEDOS (MALETIN)",
+    "categoria": "Notebooks",
+    "precio": 960
   },
   {
     "proveedor": "eikon",
@@ -2347,7 +2317,7 @@
   },
   {
     "proveedor": "eikon",
-    "producto": "TP-LINK ADAPTADOR DE RED USB 3.0 A ETHERNET RJ45 UE306",
+    "producto": "TP-LINK ADAPTADOR DE RED USB 3.0 A ETHERNET RJ45 GIGABIT UE306",
     "categoria": "Conectividad",
     "precio": 42
   },
@@ -2367,7 +2337,7 @@
     "proveedor": "eikon",
     "producto": "TP-LINK PLACA RED GIGA PCIE TG-3468",
     "categoria": "Conectividad",
-    "precio": 37
+    "precio": 39
   },
   {
     "proveedor": "eikon",
@@ -2391,7 +2361,7 @@
     "proveedor": "eikon",
     "producto": "TP-LINK SWITCH 5P GIGABIT DESK TL-SG1005D",
     "categoria": "Conectividad",
-    "precio": 54
+    "precio": 80
   },
   {
     "proveedor": "eikon",
@@ -2431,12 +2401,6 @@
   },
   {
     "proveedor": "eikon",
-    "producto": "TP-LINK WIFI PCIE 300 N TL-WN881ND",
-    "categoria": "Conectividad",
-    "precio": 49
-  },
-  {
-    "proveedor": "eikon",
     "producto": "TP-LINK WIFI ROUTER 300 N TL-WR820N",
     "categoria": "Conectividad",
     "precio": 53
@@ -2463,7 +2427,7 @@
     "proveedor": "eikon",
     "producto": "TP-LINK WIFI USB 300 N 2-ANT TL-WN822N",
     "categoria": "Conectividad",
-    "precio": 40
+    "precio": 41
   },
   {
     "proveedor": "eikon",
@@ -2488,12 +2452,6 @@
     "producto": "UPS LYONN CTB-1200AP (DISPLAY)",
     "categoria": "Estabilizadores y UPS",
     "precio": 182
-  },
-  {
-    "proveedor": "eikon",
-    "producto": "UPS LYONN CTB-800AP (LED)",
-    "categoria": "Estabilizadores y UPS",
-    "precio": 85
   },
   {
     "proveedor": "eikon",

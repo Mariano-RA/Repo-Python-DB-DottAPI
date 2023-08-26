@@ -19,6 +19,12 @@
   },
   {
     "proveedor": "elit",
+    "producto": "Teclado c/Cable LOGITECH K120 Negro",
+    "categoria": "Teclados",
+    "precio": 25
+  },
+  {
+    "proveedor": "elit",
     "producto": "Parlante Z120 Stereo",
     "categoria": "Parlantes",
     "precio": 58
@@ -27,7 +33,7 @@
     "proveedor": "elit",
     "producto": "Disco Externo HDD WESTERN DIGITAL Elements 1TB USB 3.0 Tipo A Negro",
     "categoria": "Almacenamiento Portatil",
-    "precio": 154
+    "precio": 158
   },
   {
     "proveedor": "elit",
@@ -79,39 +85,21 @@
   },
   {
     "proveedor": "elit",
-    "producto": "Mouse Inalámbrico LOGITECH M170 Plateado",
-    "categoria": "Mouses",
-    "precio": 23
-  },
-  {
-    "proveedor": "elit",
-    "producto": "Mouse Inalámbrico LOGITECH M170 Azul",
-    "categoria": "Mouses",
-    "precio": 23
-  },
-  {
-    "proveedor": "elit",
-    "producto": "Mouse Inalámbrico LOGITECH M170 Rojo",
-    "categoria": "Mouses",
-    "precio": 23
-  },
-  {
-    "proveedor": "elit",
-    "producto": "Teclado Inalámbrico LOGITECH MK235 Negro",
-    "categoria": "Teclados",
-    "precio": 56
-  },
-  {
-    "proveedor": "elit",
     "producto": "Parlantes S150 Black",
     "categoria": "Parlantes",
     "precio": 55
   },
   {
     "proveedor": "elit",
-    "producto": "Mouse Inalámbrico M280 Negro",
-    "categoria": "Mouses",
-    "precio": 36
+    "producto": "Auricular LOGITECH H111 Negro",
+    "categoria": "Auriculares",
+    "precio": 35
+  },
+  {
+    "proveedor": "elit",
+    "producto": "Auricular LOGITECH H151 Negro",
+    "categoria": "Auriculares",
+    "precio": 60
   },
   {
     "proveedor": "elit",
@@ -159,7 +147,7 @@
     "proveedor": "elit",
     "producto": "Fuente CROMAX KC-DDA-600 600W Standart ATX Fijo",
     "categoria": "Fuentes",
-    "precio": 65
+    "precio": 60
   },
   {
     "proveedor": "elit",
@@ -226,6 +214,12 @@
     "producto": "Cartucho de Tinta EPSON 206 Cian",
     "categoria": "Impresoras e Insumos",
     "precio": 21
+  },
+  {
+    "proveedor": "elit",
+    "producto": "Gabinete COOLER MASTER Cosmos C700M Negro Full Tower ARGB S/Fuente",
+    "categoria": "Gabinetes",
+    "precio": 904
   },
   {
     "proveedor": "elit",
@@ -505,6 +499,12 @@
   },
   {
     "proveedor": "elit",
+    "producto": "Memoria Ram SODIMM KINGSTON KVR 8GB DDR4 2666MHz CL19 1.20V Single Negro",
+    "categoria": "Memorias RAM",
+    "precio": 53
+  },
+  {
+    "proveedor": "elit",
     "producto": "Auricular XTECH Aktive Deportivo Negro",
     "categoria": "Auriculares",
     "precio": 22
@@ -513,13 +513,13 @@
     "proveedor": "elit",
     "producto": "Procesador AMD Ryzen 5 5600X 3.80GHz AM4 DDR4",
     "categoria": "Procesadores",
-    "precio": 731
+    "precio": 767
   },
   {
     "proveedor": "elit",
     "producto": "Memoria Ram UDIMM KINGSTON KVR 8GB DDR4 2666MHz CL19 1.20V Single Negro",
     "categoria": "Memorias RAM",
-    "precio": 56
+    "precio": 48
   },
   {
     "proveedor": "elit",
@@ -586,24 +586,6 @@
     "producto": "Mouse c/cable GENIUS Scorpion M8-610 Blanco",
     "categoria": "Mouses",
     "precio": 41
-  },
-  {
-    "proveedor": "elit",
-    "producto": "Fuente GIGABYTE AORUS 750W 80 Plus Gold ATX Modular",
-    "categoria": "Fuentes",
-    "precio": 259
-  },
-  {
-    "proveedor": "elit",
-    "producto": "Fuente Gigabyte AP850GM AORUS 80 Gold modular",
-    "categoria": "Fuentes",
-    "precio": 285
-  },
-  {
-    "proveedor": "elit",
-    "producto": "Disco Interno SSD CRUCIAL BX500 1TB 2.5\" SATA 3.0  540MB/s",
-    "categoria": "Discos",
-    "precio": 136
   },
   {
     "proveedor": "elit",
@@ -693,7 +675,7 @@
     "proveedor": "elit",
     "producto": "Memoria Ram UDIMM KINGSTON Fury Beast 8GB DDR4 3200MHz CL16 1.35V Single Negro",
     "categoria": "Memorias RAM",
-    "precio": 63
+    "precio": 60
   },
   {
     "proveedor": "elit",
@@ -747,13 +729,13 @@
     "proveedor": "elit",
     "producto": "Memoria Ram UDIMM KINGSTON Fury Renegade 8GB DDR4 3200MHz CL16 1.35V Single Negro RGB",
     "categoria": "Memorias RAM",
-    "precio": 91
+    "precio": 69
   },
   {
     "proveedor": "elit",
     "producto": "Memoria Ram UDIMM KINGSTON KVR 16GB DDR4 2666MHz CL19 1.20V Single Negro",
     "categoria": "Memorias RAM",
-    "precio": 104
+    "precio": 86
   },
   {
     "proveedor": "elit",
@@ -795,7 +777,7 @@
     "proveedor": "elit",
     "producto": "Memoria Ram UDIMM KINGSTON Fury Beast 16GB DDR4 3200MHz CL16 1.35V Single Negro RGB",
     "categoria": "Memorias RAM",
-    "precio": 120
+    "precio": 109
   },
   {
     "proveedor": "elit",
@@ -817,12 +799,6 @@
   },
   {
     "proveedor": "elit",
-    "producto": "Impresora Smart Tank 750 Wireless",
-    "categoria": "Impresoras e Insumos",
-    "precio": 1245
-  },
-  {
-    "proveedor": "elit",
     "producto": "Fuente COOLER MASTER MWE V2 750W 80 Plus Gold ATX Modular",
     "categoria": "Fuentes",
     "precio": 194
@@ -831,7 +807,7 @@
     "proveedor": "elit",
     "producto": "Disco Interno HDD WESTERN DIGITAL Purple 2TB 3.5\" SATA 3.0 5400rpm",
     "categoria": "Discos",
-    "precio": 157
+    "precio": 162
   },
   {
     "proveedor": "elit",
@@ -850,12 +826,6 @@
     "producto": "Notebook LENOVO IdeaPad Flex 5 14\" AMD Ryzen 3 5300U 8GB DDR4-3200Mhz AMD Radeon Graphics 256GB SSD Windows 11 Home",
     "categoria": "Notebooks",
     "precio": 1520
-  },
-  {
-    "proveedor": "elit",
-    "producto": "Notebook LENOVO ThinkBook 15 G2 ITL 15\" Intel Core i5-1135G7 8GB DD4-3200Mhz Intel Iris Xe 256GB SSD -",
-    "categoria": "Notebooks",
-    "precio": 2125
   },
   {
     "proveedor": "elit",
@@ -979,12 +949,6 @@
   },
   {
     "proveedor": "elit",
-    "producto": "Memoria Ram SODIMM KINGSTON KVR 16GB DDR4 2666MHz CL19 1.20V Single Negro",
-    "categoria": "Memorias RAM",
-    "precio": 95
-  },
-  {
-    "proveedor": "elit",
     "producto": "Impresora HP Laser Neverstop 1200a",
     "categoria": "Impresoras e Insumos",
     "precio": 874
@@ -1006,12 +970,6 @@
     "producto": "Fuente COOLER MASTER Cable 24 Pines ATX p/Adaptador CM",
     "categoria": "Fuentes",
     "precio": 3
-  },
-  {
-    "proveedor": "elit",
-    "producto": "Notebook LENOVO ThinkBook 15 G2 ITL 15\" Intel Core i7-1165G7 8GB DD4-3200Mhz Intel Iris Xe 256GB SSD -",
-    "categoria": "Notebooks",
-    "precio": 2560
   },
   {
     "proveedor": "elit",
@@ -1129,21 +1087,9 @@
   },
   {
     "proveedor": "elit",
-    "producto": "Notebook GIGABYTE AERO 16 16\" Intel Core i7-12700H 16GB DDR5-4800Mhz GeForce RTX 3060P 1TB SSD Windows 10 Pro",
-    "categoria": "Notebooks",
-    "precio": 4406
-  },
-  {
-    "proveedor": "elit",
     "producto": "Funda p/Tablet BAGS FSN10TB-N Negro",
     "categoria": "Accesorios",
     "precio": 10
-  },
-  {
-    "proveedor": "elit",
-    "producto": "Monitor 19\" LCD HDMI",
-    "categoria": "Monitores",
-    "precio": 205
   },
   {
     "proveedor": "elit",
@@ -1161,7 +1107,7 @@
     "proveedor": "elit",
     "producto": "Memoria Ram UDIMM KINGSTON KVR 8GB DDR4 3200MHz CL22 1.20V Single Negro",
     "categoria": "Memorias RAM",
-    "precio": 59
+    "precio": 58
   },
   {
     "proveedor": "elit",
@@ -1195,21 +1141,15 @@
   },
   {
     "proveedor": "elit",
-    "producto": "Placa Radeon RX 6500 XT EAGLE 4G",
-    "categoria": "Placas de video",
-    "precio": 604
-  },
-  {
-    "proveedor": "elit",
     "producto": "Fuente THERMALTAKE TOUGHPOWER GF1 850W 80 Plus Gold ATX Modular",
     "categoria": "Fuentes",
-    "precio": 227
+    "precio": 238
   },
   {
     "proveedor": "elit",
     "producto": "Fuente THERMALTAKE TOUGHPOWER GF1 750W 80 Plus Gold ATX Modular",
     "categoria": "Fuentes",
-    "precio": 200
+    "precio": 203
   },
   {
     "proveedor": "elit",
@@ -1222,12 +1162,6 @@
     "producto": "Tóner PANTUM TL-411X Negro",
     "categoria": "Impresoras e Insumos",
     "precio": 138
-  },
-  {
-    "proveedor": "elit",
-    "producto": "PC LENOVO ThinkCentre Neo 50s Intel Core i7-12700 8GB DDR4-3200MHz 256GB SSD Free DOS",
-    "categoria": "Computadoras",
-    "precio": 1544
   },
   {
     "proveedor": "elit",
@@ -1309,12 +1243,6 @@
   },
   {
     "proveedor": "elit",
-    "producto": "Monitor Giga 34\" Edge UltraWide QHD G34WQC 144Hz 1",
-    "categoria": "Monitores",
-    "precio": 1254
-  },
-  {
-    "proveedor": "elit",
     "producto": "Gabinete The Tower 500 Negro  C/ Vidrio Templado",
     "categoria": "Gabinetes",
     "precio": 274
@@ -1363,12 +1291,6 @@
   },
   {
     "proveedor": "elit",
-    "producto": "Monitor Giga 27\" Edge FHD M27F KVM 144Hz 1ms",
-    "categoria": "Monitores",
-    "precio": 633
-  },
-  {
-    "proveedor": "elit",
     "producto": "Funda Bags Tablet 10\" Neoprene London",
     "categoria": "Accesorios",
     "precio": 13
@@ -1389,7 +1311,7 @@
     "proveedor": "elit",
     "producto": "Pen Drive Sandisk Ultra Shift 3.0 USB Black 32GB",
     "categoria": "Almacenamiento Portatil",
-    "precio": 11
+    "precio": 10
   },
   {
     "proveedor": "elit",
@@ -1407,13 +1329,7 @@
     "proveedor": "elit",
     "producto": "Procesador AMD Ryzen 7 7700 3.8GHz AM5 DDR5",
     "categoria": "Procesadores",
-    "precio": 1113
-  },
-  {
-    "proveedor": "elit",
-    "producto": "Mouse Inalámbrico Logitech M170 Blanco",
-    "categoria": "Mouses",
-    "precio": 22
+    "precio": 1193
   },
   {
     "proveedor": "elit",
@@ -1441,6 +1357,12 @@
   },
   {
     "proveedor": "elit",
+    "producto": "Disco duro portatil 2TB 3.0 Expansion Portable",
+    "categoria": "Almacenamiento Portatil",
+    "precio": 189
+  },
+  {
+    "proveedor": "elit",
     "producto": "Procesador Core i3-13100 QCore 3.40GHz 12MB 1700",
     "categoria": "Procesadores",
     "precio": 492
@@ -1449,7 +1371,7 @@
     "proveedor": "elit",
     "producto": "Disco duro interno WD 4TB 3.5\" Purple SATA 256MB",
     "categoria": "Discos",
-    "precio": 271
+    "precio": 253
   },
   {
     "proveedor": "elit",
@@ -1483,14 +1405,20 @@
   },
   {
     "proveedor": "elit",
-    "producto": "HP EB830G8 14\" i5-1145G7 13 32GB/512",
-    "categoria": "Notebooks",
-    "precio": 3354
-  },
-  {
-    "proveedor": "elit",
     "producto": "HP Elitebook 800G6 DM i5-10500 16GB 256SSD",
     "categoria": "Computadoras",
     "precio": 1570
+  },
+  {
+    "proveedor": "elit",
+    "producto": "Disco duro interno WD 1TB 3.5\" Purple SATA 64MB 6G",
+    "categoria": "Discos",
+    "precio": 133
+  },
+  {
+    "proveedor": "elit",
+    "producto": "Disco duro interno WD 2TB 3.5\" Purple SATA 64MB 6G",
+    "categoria": "Discos",
+    "precio": 165
   }
 ]

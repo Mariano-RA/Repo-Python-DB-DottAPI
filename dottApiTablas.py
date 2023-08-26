@@ -1,5 +1,6 @@
 from functools import wraps
 from flask import Flask, request, jsonify
+from unidecode import unidecode
 from openpyxl import load_workbook
 from openpyxl.formula.translate import Translator
 from openpyxl.utils import get_column_letter
@@ -15,7 +16,7 @@ app = Flask(__name__)
 
 # Direccion archivos
 listadosTemporales = "archivosPorCargar\\temporales\\"
-listadoCsv = "archivosPorCargar\\csv"
+listadoCsv = "archivosPorCargar\\csv\\"
 listadoJson = "archivosPorCargar\\archivosJson\\"
 diccionarios = "nuevosScripts\diccionarios\diccionarios.json"
 
@@ -26,7 +27,14 @@ def encontrar_valor(diccionario, clave):
     if clave in diccionario:
         return diccionario[clave]
     else:
-        return "No existe una categoría para este producto"
+        if (clave == "ESTABILIZADORES - UPS - Zapatillas Eléctricas"):
+            return diccionario["ESTABILIZADORES - UPS - Zapatillas Electricas"]
+        elif (clave == "GPS - De Exploración"):
+            return diccionario["GPS - De Exploracion"]
+        elif (clave == "TV - Iluminación"):
+            return diccionario["TV - Iluminacion"]
+        else:
+            return "Varios"
 
 # Función para obtener un diccionario
 
@@ -85,7 +93,9 @@ def procesar_archivo_air(token):
                     "precio": round((float(precio) * (1 + (float(iva) / 100)) * 1.1))
                 }
                 data.append(registro)
-    print(token)
+
+    with open(listadoJson+"air.json", 'w') as jf:
+        json.dump(data, jf, ensure_ascii=False, indent=2)
 
     headers = {
         "Authorization": f"{token}"
@@ -144,6 +154,9 @@ def procesar_archivo_eikon(token):
             # Agrega el diccionario a la lista de datos
             data.append(registro)
 
+    with open(listadoJson+"eik.json", 'w') as jf:
+        json.dump(data, jf, ensure_ascii=False, indent=2)
+
     headers = {
         "Authorization": f"{token}"
     }
@@ -196,6 +209,9 @@ def procesar_archivo_elit(token):
             # Agrega el diccionario a la lista de datos
             data.append(registro)
 
+    with open(listadoJson+"elit.json", 'w') as jf:
+        json.dump(data, jf, ensure_ascii=False, indent=2)
+
     headers = {
         "Authorization": f"{token}"
     }
@@ -246,9 +262,9 @@ def procesar_archivo_hdc(token):
             if row[7]:
                 descripcion = row[5]
                 if row[3]:
-                    categoria = row[3]
+                    categoria = unidecode(row[3])
                 else:
-                    categoria = row[2]
+                    categoria = unidecode(row[2])
                 precio = row[7]
                 iva = obtenerTipoIva(row[8])
 
@@ -262,6 +278,9 @@ def procesar_archivo_hdc(token):
 
                 # Agrega el diccionario a la lista de datos
                 data.append(registro)
+
+    with open(listadoJson+"hdc.json", 'w') as jf:
+        json.dump(data, jf, ensure_ascii=False, indent=2)
 
     headers = {
         "Authorization": f"{token}"
@@ -285,7 +304,6 @@ def procesar_archivo_invid(token):
         return jsonify({"error": "No se ha seleccionado un archivo"}), 400
 
     # Guardar el archivo .xls en el directorio
-    # archivo.save(listadosTemporales + "temp_invid.xlsx")
     df = pd.read_excel(archivo)
 
     # Se utilizan los índices 0, 1 y 2 para las primeras tres filas
@@ -298,35 +316,31 @@ def procesar_archivo_invid(token):
     sheet = book["Sheet1"]
 
     sheet["I3"] = "categoria"
-    # Obtén la letra de la columna "I"
-    column_letter = get_column_letter(9)
 
-    # Aplica la fórmula en las celdas de la columna "I" (desde la fila 5 en adelante)
-    for row_num in range(4, sheet.max_row + 1):
-        formula_row = f'=IF(LEN(H{row_num})<2,"",IF(AND(LEN(A{row_num-2})<2,LEN(C{row_num-2})<2),B{row_num-2},{column_letter}{row_num-1}))'
-        cell_reference = f"{column_letter}{row_num}"
-        sheet[cell_reference] = formula_row
+    def apply_custom_formula(value1, value2, value3, value4, value5):
+        result = ""
+        if (value1 is None or len(value1) <= 1):
+            result = ""
+        elif (value2 is None or len(value2) <= 1) and (value3 is None or len(value3) <= 1):
+            result = value4
+        else:
+            result = value5
+        return result
 
+    for row in range(4, sheet.max_row + 1):
+        value1 = sheet[f'H{row}'].value
+        value2 = sheet[f'A{row-2}'].value
+        value3 = sheet[f'C{row-2}'].value
+        value4 = sheet[f'B{row-2}'].value
+        value5 = sheet[f'I{row-1}'].value
+        result = apply_custom_formula(
+            value1, value2, value3, value4, value5)
+
+        cell = sheet.cell(row=row, column=9)
+        cell.value = unidecode(result)
+
+    # Save the changes to the file
     book.save(listadosTemporales + "temp_invid.xlsx")
-    book.close()
-
-    app = xw.App(visible=False)  # Abre Excel en segundo plano
-    libro = app.books.open(listadosTemporales + "temp_invid.xlsx")
-    hoja = libro.sheets["Sheet1"]
-
-    # Encuentra el último número de fila en la columna "I"
-    ultima_fila = hoja.range("I" + str(hoja.cells.last_cell.row)).end("up").row
-
-    # Empieza en la fila 2 para omitir encabezados
-    for fila_numero in range(2, ultima_fila + 1):
-        celda_formula = hoja.range("I" + str(fila_numero))
-        resultado = celda_formula.value
-        celda_formula.value = resultado
-
-    # Cierra el archivo Excel
-    libro.save()
-    libro.close()
-    app.quit()
 
     # Guardar como CSV
     df = pd.read_excel(listadosTemporales+"temp_invid.xlsx")
@@ -345,7 +359,7 @@ def procesar_archivo_invid(token):
         for row in csv_reader:
             if (row[3] != "" and row[3] != "Nro. de Parte"):
                 descripcion = row[1]
-                categoria = row[8]
+                categoria = unidecode(row[8])
                 precio = float(row[5])
                 iva = (1 + (float(row[6])/100)) * (1 + (float(row[7])/100))
 
@@ -360,6 +374,9 @@ def procesar_archivo_invid(token):
                 # Agrega el diccionario a la lista de datos
 
                 data.append(registro)
+
+    with open(listadoJson+"invid.json", 'w') as jf:
+        json.dump(data, jf, ensure_ascii=False, indent=2)
 
     headers = {
         "Authorization": f"{token}"
@@ -412,6 +429,9 @@ def procesar_archivo_nb(token):
             # Agrega el diccionario a la lista de datos
             data.append(registro)
 
+    with open(listadoJson+"nb.json", 'w') as jf:
+        json.dump(data, jf, ensure_ascii=False, indent=2)
+
     headers = {
         "Authorization": f"{token}"
     }
@@ -434,7 +454,7 @@ def procesar_archivo_mega(token):
         return jsonify({"error": "No se ha seleccionado un archivo"}), 400
 
     # Guardar el archivo .xls en el directorio
-    # archivo.save(listadosTemporales + "temp_megaTest.xlsx")
+
     df = pd.read_excel(archivo)
 
     # Se utilizan los índices 0, 1 y 2 para las primeras tres filas
@@ -446,40 +466,38 @@ def procesar_archivo_mega(token):
     book = load_workbook(listadosTemporales + "tempMega.xlsx")
     sheet = book["Sheet1"]
 
-    # Define the base formula
-    formula_base = '=IF(AND(ISBLANK(B{}), ISBLANK(B{})), CONCATENATE(A{}, " - \
-        ", A{}), IF(ISBLANK(E{}), "", IF(LEN(B{}) < 2, CONCATENATE(LEFT(G{}, FIND(" - \
-        ", G{}) - 1), " - ", A{}), G{})))'
+    def apply_custom_formula(value1, value2, value3, value4, value5, value6, value7):
+        result = ""
+        if (value1 is None or len(value1) <= 1) and (value2 is None or len(value2) <= 1):
+            result = f"{value3} - {value4}"
+        elif (value5 is None or len(value5) <= 1):
+            result = ""
+        elif (value2 is None or len(value2) <= 1):
+            if (value6 is not None):
+                posicion = value6.find(" - ")
+                if posicion != -1:
+                    parte_izquierda = value6[:posicion]
+                    result = f"{parte_izquierda} - {value4}"
+        else:
+            result = f"{value7}"
+        return result
 
-    # Apply the formula to cells in column G, starting from G4
-    for row in range(4, sheet.max_row + 1):
-        row_references = row  # Adjust row references in the formula
-        current_formula = formula_base.format(row_references-2, row_references-1, row_references-2, row_references-1,
-                                              row_references, row_references-1, row_references-2, row_references-2, row_references-1, row_references-1)
+    for row in range(3, sheet.max_row + 1):
+        value1 = sheet[f'B{row-2}'].value
+        value2 = sheet[f'B{row-1}'].value
+        value3 = sheet[f'A{row-2}'].value
+        value4 = sheet[f'A{row-1}'].value
+        value5 = sheet[f'E{row}'].value
+        value6 = sheet[f'G{row-2}'].value
+        value7 = sheet[f'G{row-1}'].value
+        result = apply_custom_formula(
+            value1, value2, value3, value4, value5, value6, value7)
 
-        cell = sheet.cell(row=row, column=7)  # Column G
-        cell.value = current_formula
+        cell = sheet.cell(row=row, column=7)  # Columna G
+        cell.value = unidecode(result)
 
     # Save the changes to the file
     book.save(listadosTemporales + "tempMega.xlsx")
-
-    app = xw.App(visible=False)  # Abre Excel en segundo plano
-    libro = app.books.open(listadosTemporales + "tempMega.xlsx")
-    hoja = libro.sheets["Sheet1"]
-
-    # Encuentra el último número de fila en la columna "I"
-    ultima_fila = hoja.range("G" + str(hoja.cells.last_cell.row)).end("up").row
-
-    # Empieza en la fila 2 para omitir encabezados
-    for fila_numero in range(4, ultima_fila + 1):
-        celda_formula = hoja.range("G" + str(fila_numero))
-        resultado = celda_formula.value
-        celda_formula.value = resultado
-
-    # # Cierra el archivo Excel
-    libro.save()
-    libro.close()
-    app.quit()
 
     # Guardar como CSV
     df = pd.read_excel(listadosTemporales+"tempMega.xlsx")
@@ -514,6 +532,9 @@ def procesar_archivo_mega(token):
                 # Agrega el diccionario a la lista de datos
 
                 data.append(registro)
+
+    with open(listadoJson+"mega.json", 'w') as jf:
+        json.dump(data, jf, ensure_ascii=False, indent=2)
 
     headers = {
         "Authorization": f"{token}"

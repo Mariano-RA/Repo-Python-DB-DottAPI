@@ -517,12 +517,6 @@
   },
   {
     "proveedor": "hdc",
-    "producto": "MEMORIA DDR5 32GB 4800 MHZ CORSAIR VENGEANCE (2X16GB) C40",
-    "categoria": "Memorias RAM",
-    "precio": 314
-  },
-  {
-    "proveedor": "hdc",
     "producto": "MEMORIA DDR4 8GB 3000 MHZ CORSAIR VENGEANCE LPX DRAM (1X8GB) C16",
     "categoria": "Memorias RAM",
     "precio": 65
@@ -693,7 +687,7 @@
     "proveedor": "hdc",
     "producto": "MEMORIA DDR4 8GB 2666 MHZ CRUCIAL BASICS",
     "categoria": "Memorias RAM",
-    "precio": 78
+    "precio": 51
   },
   {
     "proveedor": "hdc",
@@ -895,45 +889,69 @@
   },
   {
     "proveedor": "hdc",
+    "producto": "CPU INTEL CORE I5-10400F 2.9GHZ  12M (1200) (S/VIDEO)",
+    "categoria": "Procesadores",
+    "precio": 323
+  },
+  {
+    "proveedor": "hdc",
     "producto": "CPU INTEL CORE I5-10400 4.30GHZ 12M (1200)",
     "categoria": "Procesadores",
-    "precio": 441
+    "precio": 433
+  },
+  {
+    "proveedor": "hdc",
+    "producto": "CPU INTEL CELERON G5925 3.6GHZ 4MB  (1200)",
+    "categoria": "Procesadores",
+    "precio": 158
   },
   {
     "proveedor": "hdc",
     "producto": "CPU INTEL CELERON G5905 3.50 GHZ 3M (1200)",
     "categoria": "Procesadores",
-    "precio": 146
+    "precio": 145
   },
   {
     "proveedor": "hdc",
     "producto": "CPU INTEL CORE I7-11700KF 5.0 GHZ (S/COOLER) (S/VIDEO)  (1200)",
     "categoria": "Procesadores",
-    "precio": 1119
+    "precio": 707
   },
   {
     "proveedor": "hdc",
     "producto": "CPU INTEL CORE I5-12400 18MB (1700)",
     "categoria": "Procesadores",
-    "precio": 552
+    "precio": 543
+  },
+  {
+    "proveedor": "hdc",
+    "producto": "CPU INTEL CORE I7-13700K 5.40GHZ 30MB (LGA1700)",
+    "categoria": "Procesadores",
+    "precio": 1294
   },
   {
     "proveedor": "hdc",
     "producto": "CPU INTEL CORE  I3-13100  4.5GHZ 12M (LGA1700)",
     "categoria": "Procesadores",
-    "precio": 493
+    "precio": 463
   },
   {
     "proveedor": "hdc",
     "producto": "CPU INTEL CORE I3-13100F 4.5GHZ 12MB (S/VIDEO) (LGA1700)",
     "categoria": "Procesadores",
-    "precio": 396
+    "precio": 384
   },
   {
     "proveedor": "hdc",
     "producto": "CPU INTEL CORE I5-13400F 4.6GHZ 20M (S/VIDEO) (LGA1700)",
     "categoria": "Procesadores",
-    "precio": 705
+    "precio": 711
+  },
+  {
+    "proveedor": "hdc",
+    "producto": "CPU INTEL CORE I7-13700 5.20GHZ 30MB (LGA1700)",
+    "categoria": "Procesadores",
+    "precio": 1260
   },
   {
     "proveedor": "hdc",
@@ -1046,7 +1064,7 @@
   {
     "proveedor": "hdc",
     "producto": "BATERÍA KAISE 12V 5AMP",
-    "categoria": "No existe una categoría para este producto",
+    "categoria": "Accesorios",
     "precio": 25
   },
   {
@@ -1156,6 +1174,18 @@
     "producto": "CARGADOR NB AMS LENOVO 45W 20V 2.25A 3.0*1.0mm",
     "categoria": "Cables y Adaptadores",
     "precio": 40
+  },
+  {
+    "proveedor": "hdc",
+    "producto": "SSD LEXAR NQ100 240GB 2.5\" SATA3",
+    "categoria": "Discos",
+    "precio": 45
+  },
+  {
+    "proveedor": "hdc",
+    "producto": "SSD LEXAR NQ100 480GB 2.5\" SATA3",
+    "categoria": "Discos",
+    "precio": 69
   },
   {
     "proveedor": "hdc",
@@ -1454,49 +1484,49 @@
   {
     "proveedor": "hdc",
     "producto": "PARLANTE BT MATRIX MINIBASS SILVER",
-    "categoria": "No existe una categoría para este producto",
+    "categoria": "Parlantes",
     "precio": 81
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE BT MATRIX MINI BOOM NEGRO POWER BANK SD AUX",
-    "categoria": "No existe una categoría para este producto",
+    "categoria": "Parlantes",
     "precio": 112
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE BT MATRIX MINI BOOM ROJO POWER BANK SD AUX",
-    "categoria": "No existe una categoría para este producto",
+    "categoria": "Parlantes",
     "precio": 112
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE BT MATRIX BLAST AZUL",
-    "categoria": "No existe una categoría para este producto",
+    "categoria": "Parlantes",
     "precio": 171
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE BT MATRIX BLAST GRIS",
-    "categoria": "No existe una categoría para este producto",
+    "categoria": "Parlantes",
     "precio": 171
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE BT MATRIX BLAST ROJO",
-    "categoria": "No existe una categoría para este producto",
+    "categoria": "Parlantes",
     "precio": 171
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE BT MATRIX SOUND BASS NEGRO",
-    "categoria": "No existe una categoría para este producto",
+    "categoria": "Parlantes",
     "precio": 136
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE BT MATRIX SOUND BASS ROJO",
-    "categoria": "No existe una categoría para este producto",
+    "categoria": "Parlantes",
     "precio": 136
   },
   {
@@ -1634,20 +1664,32 @@
   {
     "proveedor": "hdc",
     "producto": "PARLANTE PORTÁTIL NEGRO MOONKI SOUND MO-L2077BT-V2",
-    "categoria": "No existe una categoría para este producto",
+    "categoria": "Parlantes",
     "precio": 77
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE PORTÁTIL NEGRO MOONKI SOUND IPX6 MO-L208BT",
-    "categoria": "No existe una categoría para este producto",
+    "categoria": "Parlantes",
     "precio": 78
   },
   {
     "proveedor": "hdc",
     "producto": "PARLANTE PORTÁTIL NEGRO MOONKI SOUND MO-R88BT",
-    "categoria": "No existe una categoría para este producto",
+    "categoria": "Parlantes",
     "precio": 51
+  },
+  {
+    "proveedor": "hdc",
+    "producto": "PARLANTE PROFESIONAL MOONKI SOUND MS-112DSP - 12\" - 4500W/350W - ECUAL. DSP",
+    "categoria": "Varios",
+    "precio": 620
+  },
+  {
+    "proveedor": "hdc",
+    "producto": "PARLANTE PROFESIONAL MOONKI SOUND MS-P15BW - 15\" - 4000W/300W - INC. MIC IN. X 2",
+    "categoria": "Varios",
+    "precio": 570
   },
   {
     "proveedor": "hdc",
