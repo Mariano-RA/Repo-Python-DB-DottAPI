@@ -6,13 +6,16 @@ from openpyxl.formula.translate import Translator
 from openpyxl.utils import get_column_letter
 from openpyxl.utils import FORMULAE
 import requests
-import xlwings as xw
 import pandas as pd
 import csv
 import json
 import os
 
 app = Flask(__name__)
+
+
+url = os.environ.get('APP_URL')
+
 
 # Direccion archivos
 listadosTemporales = "archivosPorCargar\\temporales\\"
@@ -44,9 +47,6 @@ def obtenerDiccionario(nombreDiccionario):
         diccionariosJson = json.load(diccionariosOpen)
     diccionarioBuscado = diccionariosJson[nombreDiccionario]
     return diccionarioBuscado
-
-
-url = "http://localhost:3000/api/productos/"
 
 
 # Decorador personalizado para verificar el token
